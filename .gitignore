@@ -70,6 +70,8 @@ dumpitem.py
 /tools/ntrWavTool.py
 /tools/ENCODE_IMG*
 
+.venv/
+
 *.o
 *.d
 *.DS_STORE
