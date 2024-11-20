@@ -807,10 +807,13 @@ specialareas SPECIES_WEEDLE, DEX_NIGHT
 
 
 routesandcities SPECIES_WEEDLE, DEX_MORNING
+    .word DEX_ROUTE_30
     dexendareadata
 
 
 routesandcities SPECIES_WEEDLE, DEX_DAY
+    .word DEX_ROUTE_30
+    .word DEX_ROUTE_31
     dexendareadata
 
 
@@ -839,10 +842,14 @@ specialareas SPECIES_KAKUNA, DEX_NIGHT
 
 
 routesandcities SPECIES_KAKUNA, DEX_MORNING
+    .word DEX_ROUTE_30
+    .word DEX_ROUTE_31
     dexendareadata
 
 
 routesandcities SPECIES_KAKUNA, DEX_DAY
+    .word DEX_ROUTE_30
+    .word DEX_ROUTE_31
     dexendareadata
 
 
@@ -1324,14 +1331,17 @@ specialareas SPECIES_EKANS, DEX_NIGHT
 
 
 routesandcities SPECIES_EKANS, DEX_MORNING
+    .word DEX_ROUTE_32
     dexendareadata
 
 
 routesandcities SPECIES_EKANS, DEX_DAY
+    .word DEX_ROUTE_32
     dexendareadata
 
 
 routesandcities SPECIES_EKANS, DEX_NIGHT
+    .word DEX_ROUTE_32
     dexendareadata
 
 
@@ -7162,6 +7172,8 @@ routesandcities SPECIES_LEDYBA, DEX_DAY
 
 
 routesandcities SPECIES_LEDYBA, DEX_NIGHT
+    .word DEX_ROUTE_30
+    .word DEX_ROUTE_31
     dexendareadata
 
 
