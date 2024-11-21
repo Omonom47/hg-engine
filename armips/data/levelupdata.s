@@ -4861,7 +4861,7 @@ levelup SPECIES_SCIZOR
     terminatelearnset
 
 
-levelup SPECIES_SHUCKLE
+levelup SPECIES_SHUCKLE //give infestation once it's fixed
     learnset MOVE_WITHDRAW, 1
     learnset MOVE_WRAP, 1
     learnset MOVE_STICKY_WEB, 1

@@ -4488,7 +4488,7 @@ mondata SPECIES_SCIZOR, "Scizor"
 
 
 mondata SPECIES_SHUCKLE, "Shuckle"
-    basestats 20, 10, 230, 5, 10, 230
+    basestats 60, 10, 210, 5, 10, 210
     types TYPE_BUG, TYPE_ROCK
     catchrate 190
     baseexp 0 // defined in baseexp.s
@@ -4499,7 +4499,7 @@ mondata SPECIES_SHUCKLE, "Shuckle"
     basefriendship 50
     growthrate GROWTH_MEDIUM_SLOW
     egggroups EGG_GROUP_BUG, EGG_GROUP_BUG
-    abilities ABILITY_STURDY, ABILITY_GLUTTONY
+    abilities ABILITY_STURDY, ABILITY_FILTER
     runchance 0
     colorflip BODY_COLOR_YELLOW, 0
     mondexentry SPECIES_SHUCKLE, "The berries it stores in its\nvase-like shell decompose and\nbecome a gooey liquid."
