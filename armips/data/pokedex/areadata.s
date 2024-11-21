@@ -2004,7 +2004,6 @@ specialareas SPECIES_ZUBAT, DEX_NIGHT
 
 
 routesandcities SPECIES_ZUBAT, DEX_MORNING
-    .word DEX_ROUTE_32
     .word DEX_ROUTE_33
     dexendareadata
 
@@ -2014,7 +2013,6 @@ routesandcities SPECIES_ZUBAT, DEX_DAY
 
 
 routesandcities SPECIES_ZUBAT, DEX_NIGHT
-    .word DEX_ROUTE_32
     .word DEX_ROUTE_33
     .word DEX_ROUTE_42
     .word DEX_ROUTE_3
