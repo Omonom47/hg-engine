@@ -3839,7 +3839,7 @@ levelup SPECIES_ARIADOS
     learnset MOVE_SPIDER_WEB, 32
     learnset MOVE_AGILITY, 37
     learnset MOVE_PIN_MISSILE, 41
-    learnset MOVE_PSYCHIC, 46
+    learnset MOVE_NIGHT_SLASH, 46
     learnset MOVE_POISON_JAB, 50
     learnset MOVE_CROSS_POISON, 55
     learnset MOVE_STICKY_WEB, 58

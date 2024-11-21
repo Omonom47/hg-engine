@@ -947,7 +947,7 @@ pokemon SPECIES_QWILFISH
 
 
 encounterdata   9   // Ruins of Alph (Outside)
-
+//TODO change encounters
 walkrate 10
 surfrate 10
 rocksmashrate 20
@@ -1051,7 +1051,7 @@ pokemon SPECIES_MAGIKARP
 
 
 encounterdata  10   // Ruins of Alph (Inside, Main Room)
-
+//TODO change encounters
 walkrate 15
 surfrate 0
 rocksmashrate 0
@@ -1155,7 +1155,7 @@ pokemon SPECIES_NONE
 
 
 encounterdata  11   // Ruins of Alph (Inside, Main Room - Not sure when used?)
-
+//TODO change encounters
 walkrate 15
 surfrate 0
 rocksmashrate 0
