@@ -5138,7 +5138,24 @@ levelup SPECIES_OCTILLERY
 
 levelup SPECIES_DELIBIRD
     learnset MOVE_PRESENT, 1
+    learnset MOVE_GROWL, 1
+    learnset MOVE_SCRATCH, 4
+    learnset MOVE_GUST, 8
+    learnset MOVE_POWDER_SNOW, 11
+    learnset MOVE_MIST, 15
+    learnset MOVE_HAZE, 15
+    learnset MOVE_AIR_CUTTER, 18
+    learnset MOVE_FAKE_OUT, 21
     learnset MOVE_DRILL_PECK, 25
+    learnset MOVE_FLING, 27
+    learnset MOVE_AIR_SLASH, 29
+    learnset MOVE_ICE_BEAM, 32
+    learnset MOVE_HELPING_HAND, 36
+    learnset MOVE_ROOST, 40
+    learnset MOVE_TRICK, 43
+    learnset MOVE_WISH, 47
+    learnset MOVE_DAZZLING_GLEAM, 51
+    learnset MOVE_BLIZZARD, 55
     terminatelearnset
 
 
