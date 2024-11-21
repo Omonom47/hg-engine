@@ -3770,8 +3770,9 @@ levelup SPECIES_LEDYBA
     learnset MOVE_COMET_PUNCH, 22
     learnset MOVE_BATON_PASS, 26
     learnset MOVE_AGILITY, 29
-    learnset MOVE_BUG_BUZZ, 33
-    learnset MOVE_AIR_SLASH, 36
+    learnset MOVE_X_SCISSOR, 33
+    learnset MOVE_THUNDER_PUNCH, 36
+    learnset MOVE_AIR_SLASH, 38
     learnset MOVE_DOUBLE_EDGE, 40
     terminatelearnset
 
@@ -3790,8 +3791,9 @@ levelup SPECIES_LEDIAN
     learnset MOVE_COMET_PUNCH, 24
     learnset MOVE_BATON_PASS, 29
     learnset MOVE_AGILITY, 33
-    learnset MOVE_BUG_BUZZ, 38
-    learnset MOVE_AIR_SLASH, 42
+    learnset MOVE_X_SCISSOR, 38
+    learnset MOVE_THUNDER_PUNCH, 41
+    learnset MOVE_AIR_SLASH, 44
     learnset MOVE_DOUBLE_EDGE, 47
     terminatelearnset
 
