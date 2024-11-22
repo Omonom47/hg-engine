@@ -3249,7 +3249,7 @@ mondata SPECIES_BAYLEEF, "Bayleef"
 
 
 mondata SPECIES_MEGANIUM, "Meganium"
-    basestats 80, 82, 100, 80, 83, 100
+    basestats 100, 54, 100, 80, 95, 100
     types TYPE_GRASS, (FAIRY_TYPE_IMPLEMENTED) ? TYPE_FAIRY : TYPE_GRASS
     catchrate 45
     baseexp 0 // defined in baseexp.s
@@ -3313,7 +3313,7 @@ mondata SPECIES_QUILAVA, "Quilava"
 
 mondata SPECIES_TYPHLOSION, "Typhlosion"
     basestats 78, 84, 78, 100, 109, 85
-    types TYPE_FIRE, TYPE_FIRE
+    types TYPE_FIRE, TYPE_GROUND
     catchrate 45
     baseexp 0 // defined in baseexp.s
     evyields 0, 0, 0, 0, 3, 0
@@ -3375,8 +3375,8 @@ mondata SPECIES_CROCONAW, "Croconaw"
 
 
 mondata SPECIES_FERALIGATR, "Feraligatr"
-    basestats 85, 105, 100, 78, 79, 83
-    types TYPE_WATER, TYPE_WATER
+    basestats 85, 109, 100, 78, 79, 83
+    types TYPE_WATER, TYPE_DRAGON
     catchrate 45
     baseexp 0 // defined in baseexp.s
     evyields 0, 2, 1, 0, 0, 0

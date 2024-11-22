@@ -13112,7 +13112,7 @@ movedata MOVE_SCORCHING_SANDS, "Scorching Sands"
     appeal 0x00
     contesttype CONTEST_COOL
     terminatedata
-    movedescription MOVE_SCORCHING_SANDS, "---"
+    movedescription MOVE_SCORCHING_SANDS, "Scorching sand is\nthrown at the foe. \nIt may also cause\na burn."
 
 movedata MOVE_JUNGLE_HEALING, "Jungle Healing"
     battleeffect MOVE_EFFECT_HIT
