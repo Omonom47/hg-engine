@@ -783,7 +783,7 @@ trainerdata 25, "Russel"
         // mon 0
         ivs 0
         abilityslot 32
-        level 4
+        level 8
         pokemon SPECIES_GEODUDE
         ballseal 0
 
@@ -10907,14 +10907,14 @@ trainerdata 319, "Bill"
         // mon 0
         ivs 0
         abilityslot 0
-        level 6
+        level 9
         pokemon SPECIES_KOFFING
         ballseal 0
 
         // mon 1
         ivs 0
         abilityslot 0
-        level 6
+        level 8
         pokemon SPECIES_KOFFING
         ballseal 0
     endparty
@@ -13101,7 +13101,7 @@ trainerdata 390, "Ray"
         // mon 0
         ivs 0
         abilityslot 0
-        level 9
+        level 10
         pokemon SPECIES_VULPIX
         ballseal 0
     endparty
