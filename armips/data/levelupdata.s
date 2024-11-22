@@ -3495,8 +3495,8 @@ levelup SPECIES_MEW
 
 
 levelup SPECIES_CHIKORITA
-    learnset MOVE_GROWL, 1
     learnset MOVE_TACKLE, 1
+    learnset MOVE_GROWL, 1
     learnset MOVE_RAZOR_LEAF, 6
     learnset MOVE_POISON_POWDER, 9
     learnset MOVE_SYNTHESIS, 12
@@ -3558,8 +3558,8 @@ levelup SPECIES_MEGANIUM
 
 
 levelup SPECIES_CYNDAQUIL
-    learnset MOVE_LEER, 1
     learnset MOVE_TACKLE, 1
+    learnset MOVE_LEER, 1
     learnset MOVE_EMBER, 6
     learnset MOVE_SMOKESCREEN, 10
     learnset MOVE_QUICK_ATTACK, 13
