@@ -1474,7 +1474,7 @@ rocksmashrate 0
 oldrodrate 40
 goodrodrate 65
 superrodrate 90
-walklevels 6, 6, 6, 6, 5, 5, 4, 4, 7, 6, 7, 6
+walklevels 6, 6, 7, 7, 6, 6, 6, 6, 7, 8, 9, 9
 
 // morning encounter slots
 pokemon SPECIES_GEODUDE
@@ -1786,7 +1786,7 @@ rocksmashrate 0
 oldrodrate 0
 goodrodrate 0
 superrodrate 0
-walklevels 6, 7, 6, 7, 6, 6, 6, 6, 8, 4, 8, 4
+walklevels 8, 8, 9, 10, 9, 9, 9, 9, 11, 7, 11, 7
 
 // morning encounter slots
 pokemon SPECIES_HOPPIP
@@ -1890,7 +1890,7 @@ rocksmashrate 0
 oldrodrate 40
 goodrodrate 65
 superrodrate 90
-walklevels 5, 6, 5, 6, 7, 7, 6, 6, 8, 8, 8, 8
+walklevels 8, 9, 8, 9, 10, 10, 9, 9, 11, 11, 11, 11
 
 // morning encounter slots
 pokemon SPECIES_ZUBAT
@@ -2098,15 +2098,15 @@ rocksmashrate 0
 oldrodrate 40
 goodrodrate 65
 superrodrate 90
-walklevels 5, 6, 5, 6, 6, 6, 5, 5, 5, 6, 5, 6
+walklevels 9, 9, 9, 9, 10, 10, 11, 11, 11, 12, 11, 12
 
 // morning encounter slots
 pokemon SPECIES_CATERPIE
+pokemon SPECIES_WEEDLE
+pokemon SPECIES_CATERPIE
+pokemon SPECIES_WEEDLE
 pokemon SPECIES_METAPOD
-pokemon SPECIES_CATERPIE
-pokemon SPECIES_METAPOD
-pokemon SPECIES_CATERPIE
-pokemon SPECIES_CATERPIE
+pokemon SPECIES_KAKUNA
 pokemon SPECIES_PARAS
 pokemon SPECIES_PARAS
 pokemon SPECIES_ZUBAT
@@ -2116,13 +2116,13 @@ pokemon SPECIES_PARAS
 
 // day encounter slots
 pokemon SPECIES_CATERPIE
+pokemon SPECIES_WEEDLE
 pokemon SPECIES_CATERPIE
-pokemon SPECIES_CATERPIE
-pokemon SPECIES_CATERPIE
-pokemon SPECIES_METAPOD
-pokemon SPECIES_METAPOD
-pokemon SPECIES_METAPOD
-pokemon SPECIES_METAPOD
+pokemon SPECIES_WEEDLE
+pokemon SPECIES_PARAS
+pokemon SPECIES_PARAS
+pokemon SPECIES_PARAS
+pokemon SPECIES_PARAS
 pokemon SPECIES_ZUBAT
 pokemon SPECIES_PARAS
 pokemon SPECIES_ZUBAT
