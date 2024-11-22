@@ -663,6 +663,31 @@ trainerdata 21, "Bugsy"
 
     party 21
         // mon 0
+
+        ivs 80
+        abilityslot 0
+        level 15
+        pokemon SPECIES_SPINARAK
+        item ITEM_NONE
+        move MOVE_POISON_STING
+        move MOVE_STRING_SHOT
+        move MOVE_ABSORB
+        move MOVE_NIGHT_SHADE
+        ballseal 0
+
+        // mon 1
+        ivs 80
+        abilityslot 0
+        level 15
+        pokemon SPECIES_LEDYBA
+        item ITEM_NONE
+        move MOVE_SWIFT
+        move MOVE_MACH_PUNCH
+        move MOVE_REFLECT
+        move MOVE_LIGHT_SCREEN
+        ballseal 0
+
+        // mon 2
         ivs 80
         abilityslot 32
         level 17
@@ -672,30 +697,6 @@ trainerdata 21, "Bugsy"
         move MOVE_LEER
         move MOVE_U_TURN
         move MOVE_FOCUS_ENERGY
-        ballseal 0
-
-        // mon 1
-        ivs 80
-        abilityslot 0
-        level 15
-        pokemon SPECIES_KAKUNA
-        item ITEM_NONE
-        move MOVE_POISON_STING
-        move MOVE_NONE
-        move MOVE_NONE
-        move MOVE_NONE
-        ballseal 0
-
-        // mon 2
-        ivs 80
-        abilityslot 0
-        level 15
-        pokemon SPECIES_METAPOD
-        item ITEM_NONE
-        move MOVE_TACKLE
-        move MOVE_NONE
-        move MOVE_NONE
-        move MOVE_NONE
         ballseal 0
     endparty
 
