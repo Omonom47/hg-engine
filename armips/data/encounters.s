@@ -1890,7 +1890,7 @@ rocksmashrate 0
 oldrodrate 40
 goodrodrate 65
 superrodrate 90
-walklevels 8, 9, 8, 9, 10, 10, 9, 9, 11, 11, 11, 11
+walklevels 8, 9, 8, 9, 10, 10, 9, 9, 10, 10, 10, 10
 
 // morning encounter slots
 pokemon SPECIES_ZUBAT
