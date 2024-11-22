@@ -352,7 +352,7 @@ trainerdata 11, "Mickey"
         ballseal 0
     endparty
 
-trainerdata 12, "Grunt"
+trainerdata 12, "Grunt" //slowpoke well grunt
     trainermontype TRAINER_DATA_TYPE_NOTHING
     trainerclass CLASS_TEAM_ROCKET
     nummons 3
@@ -368,7 +368,7 @@ trainerdata 12, "Grunt"
         // mon 0
         ivs 30
         abilityslot 32
-        level 7
+        level 9
         pokemon SPECIES_RATTATA
         ballseal 0
 
@@ -387,7 +387,7 @@ trainerdata 12, "Grunt"
         ballseal 0
     endparty
 
-trainerdata 13, "Grunt"
+trainerdata 13, "Grunt" //slowpoke well grunt
     trainermontype TRAINER_DATA_TYPE_NOTHING
     trainerclass CLASS_TEAM_ROCKET_1
     nummons 2
@@ -3137,7 +3137,7 @@ trainerdata 100, "Anthony"
         ballseal 0
     endparty
 
-trainerdata 101, "Grunt"
+trainerdata 101, "Grunt" //slowpoke well grunt
     trainermontype TRAINER_DATA_TYPE_NOTHING
     trainerclass CLASS_TEAM_ROCKET
     nummons 2
@@ -3153,14 +3153,14 @@ trainerdata 101, "Grunt"
         // mon 0
         ivs 30
         abilityslot 32
-        level 9
+        level 10
         pokemon SPECIES_RATTATA
         ballseal 0
 
         // mon 1
         ivs 30
         abilityslot 32
-        level 9
+        level 10
         pokemon SPECIES_RATTATA
         ballseal 0
     endparty
@@ -16211,14 +16211,14 @@ trainerdata 486, "Proton"
         // mon 0
         ivs 100
         abilityslot 0
-        level 8
+        level 10
         pokemon SPECIES_ZUBAT
         ballseal 0
 
         // mon 1
         ivs 100
         abilityslot 0
-        level 12
+        level 13
         pokemon SPECIES_KOFFING
         ballseal 0
     endparty
