@@ -4815,7 +4815,7 @@ levelup SPECIES_QWILFISH
     learnset MOVE_BUBBLE, 13
     learnset MOVE_ROLLOUT, 17
     learnset MOVE_SPIKES, 20
-    learnset MOVE_BRINE, 28
+    learnset MOVE_RAPID_SPIN, 28
     learnset MOVE_REVENGE, 28
     learnset MOVE_TOXIC_SPIKES, 29
     learnset MOVE_FELL_STINGER, 34
