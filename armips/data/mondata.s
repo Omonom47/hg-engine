@@ -4887,7 +4887,7 @@ mondata SPECIES_PHANPY, "Phanpy"
 
 
 mondata SPECIES_DONPHAN, "Donphan"
-    basestats 90, 120, 120, 50, 60, 60
+    basestats 120, 120, 120, 40, 50, 60
     types TYPE_GROUND, TYPE_GROUND
     catchrate 60
     baseexp 0 // defined in baseexp.s
@@ -4898,7 +4898,7 @@ mondata SPECIES_DONPHAN, "Donphan"
     basefriendship 70
     growthrate GROWTH_MEDIUM_FAST
     egggroups EGG_GROUP_FIELD, EGG_GROUP_FIELD
-    abilities ABILITY_STURDY, ABILITY_NONE
+    abilities ABILITY_STURDY, ABILITY_SAND_FORCE
     runchance 0
     colorflip BODY_COLOR_GRAY, 0
     mondexentry SPECIES_DONPHAN, "It has sharp, hard tusks and a\nrugged hide. Its tackle is strong\nenough to knock down a house."
