@@ -5083,7 +5083,7 @@ levelup SPECIES_CORSOLA
     learnset MOVE_IRON_DEFENSE, 29
     learnset MOVE_RECOVER, 30
     learnset MOVE_ROCK_BLAST, 31
-    learnset MOVE_LIFE_DEW, 35
+    learnset MOVE_TRICK_ROOM, 35
     learnset MOVE_FLAIL, 39
     learnset MOVE_POWER_GEM, 40
     learnset MOVE_EARTH_POWER, 45
