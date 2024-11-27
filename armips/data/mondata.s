@@ -3585,7 +3585,7 @@ mondata SPECIES_CROBAT, "Crobat"
 
 
 mondata SPECIES_CHINCHOU, "Chinchou"
-    basestats 75, 38, 38, 67, 56, 56
+    basestats 95, 20, 38, 62, 69, 56
     types TYPE_WATER, TYPE_ELECTRIC
     catchrate 190
     baseexp 0 // defined in baseexp.s
@@ -3606,7 +3606,7 @@ mondata SPECIES_CHINCHOU, "Chinchou"
 
 
 mondata SPECIES_LANTURN, "Lanturn"
-    basestats 125, 58, 58, 67, 76, 76
+    basestats 170, 30, 58, 62, 94, 76
     types TYPE_WATER, TYPE_ELECTRIC
     catchrate 75
     baseexp 0 // defined in baseexp.s
