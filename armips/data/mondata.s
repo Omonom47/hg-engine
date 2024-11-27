@@ -4278,8 +4278,8 @@ mondata SPECIES_WOBBUFFET, "Wobbuffet"
 
 
 mondata SPECIES_GIRAFARIG, "Girafarig"
-    basestats 70, 80, 65, 85, 90, 65
-    types TYPE_NORMAL, TYPE_PSYCHIC
+    basestats 65, 90, 65, 90, 100, 65
+    types TYPE_DARK, TYPE_PSYCHIC
     catchrate 60
     baseexp 0 // defined in baseexp.s
     evyields 0, 0, 0, 0, 2, 0
