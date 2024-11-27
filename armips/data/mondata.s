@@ -4446,7 +4446,7 @@ mondata SPECIES_GRANBULL, "Granbull"
 
 
 mondata SPECIES_QWILFISH, "Qwilfish"
-    basestats 95, 85, 80, 85, 35, 80
+    basestats 95, 95, 100, 90, 30, 60
     types TYPE_WATER, TYPE_POISON
     catchrate 45
     baseexp 0 // defined in baseexp.s
