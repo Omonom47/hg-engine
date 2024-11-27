@@ -4929,8 +4929,8 @@ mondata SPECIES_PORYGON2, "Porygon2"
 
 
 mondata SPECIES_STANTLER, "Stantler"
-    basestats 73, 95, 62, 85, 85, 65
-    types TYPE_NORMAL, TYPE_NORMAL
+    basestats 90, 100, 60, 85, 80, 65
+    types TYPE_NORMAL, TYPE_PSYCHIC
     catchrate 45
     baseexp 0 // defined in baseexp.s
     evyields 0, 1, 0, 0, 0, 0
@@ -4940,7 +4940,7 @@ mondata SPECIES_STANTLER, "Stantler"
     basefriendship 70
     growthrate GROWTH_SLOW
     egggroups EGG_GROUP_FIELD, EGG_GROUP_FIELD
-    abilities ABILITY_INTIMIDATE, ABILITY_FRISK
+    abilities ABILITY_INTIMIDATE, ABILITY_RECKLESS
     runchance 0
     colorflip BODY_COLOR_BROWN, 0
     mondexentry SPECIES_STANTLER, "The curved antlers subtly change\nthe flow of air to create a strange\nspace where reality is distorted."
