@@ -4289,7 +4289,7 @@ mondata SPECIES_GIRAFARIG, "Girafarig"
     basefriendship 70
     growthrate GROWTH_MEDIUM_FAST
     egggroups EGG_GROUP_FIELD, EGG_GROUP_FIELD
-    abilities ABILITY_INNER_FOCUS, ABILITY_EARLY_BIRD
+    abilities ABILITY_INNER_FOCUS, ABILITY_SHEER_FORCE
     runchance 0
     colorflip BODY_COLOR_YELLOW, 0
     mondexentry SPECIES_GIRAFARIG, "Its tail has a small brain of its\nown. Beware! If you get close, it\nmay react to your scent by biting."
