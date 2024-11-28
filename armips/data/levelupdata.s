@@ -5181,7 +5181,7 @@ levelup SPECIES_MANTINE
     learnset MOVE_HEADBUTT, 22
     learnset MOVE_AGILITY, 25
     learnset MOVE_AIR_SLASH, 33
-    learnset MOVE_TAKE_DOWN, 36
+    learnset MOVE_DEFOG, 36
     learnset MOVE_AQUA_RING, 37
     learnset MOVE_BOUNCE, 42
     learnset MOVE_HYDRO_PUMP, 48
