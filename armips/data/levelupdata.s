@@ -4347,7 +4347,7 @@ levelup SPECIES_JUMPLUFF
     learnset MOVE_RAGE_POWDER, 39
     learnset MOVE_COTTON_SPORE, 44
     learnset MOVE_U_TURN, 49
-    learnset MOVE_WORRY_SEED, 54
+    learnset MOVE_TAILWIND, 54
     learnset MOVE_GIGA_DRAIN, 59
     learnset MOVE_BOUNCE, 64
     learnset MOVE_MEMENTO, 69
