@@ -4047,7 +4047,7 @@ mondata SPECIES_SUNKERN, "Sunkern"
 
 
 mondata SPECIES_SUNFLORA, "Sunflora"
-    basestats 80, 60, 75, 45, 110, 85
+    basestats 80, 60, 75, 45, 105, 85
     types TYPE_GRASS, TYPE_FIRE
     catchrate 120
     baseexp 0 // defined in baseexp.s
