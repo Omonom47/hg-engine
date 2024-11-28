@@ -4404,7 +4404,7 @@ levelup SPECIES_SUNFLORA
     learnset MOVE_RAZOR_LEAF, 16
     learnset MOVE_WORRY_SEED, 19
     learnset MOVE_GIGA_DRAIN, 22
-    learnset MOVE_BULLET_SEED, 25
+    learnset MOVE_INCINERATE, 25
     learnset MOVE_PETAL_DANCE, 28
     learnset MOVE_NATURAL_GIFT, 31
     learnset MOVE_SOLAR_BEAM, 34
@@ -4412,6 +4412,7 @@ levelup SPECIES_SUNFLORA
     learnset MOVE_SUNNY_DAY, 40
     learnset MOVE_LEAF_STORM, 43
     learnset MOVE_PETAL_BLIZZARD, 50
+    learnset MOVE_FIERY_DANCE, 55
     terminatelearnset
 
 
