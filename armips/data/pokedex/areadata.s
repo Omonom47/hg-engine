@@ -9514,14 +9514,17 @@ specialareas SPECIES_HOUNDOUR, DEX_NIGHT
 
 
 routesandcities SPECIES_HOUNDOUR, DEX_MORNING
+    .word DEX_ROUTE_34
     dexendareadata
 
 
 routesandcities SPECIES_HOUNDOUR, DEX_DAY
+    .word DEX_ROUTE_34
     dexendareadata
 
 
 routesandcities SPECIES_HOUNDOUR, DEX_NIGHT
+    .word DEX_ROUTE_34
     .word DEX_ROUTE_7
     dexendareadata
 
