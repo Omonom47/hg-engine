@@ -922,17 +922,29 @@ trainerdata 29, "Rod"
 trainerdata 30, "Whitney"
     trainermontype TRAINER_DATA_TYPE_ITEMS | TRAINER_DATA_TYPE_MOVES
     trainerclass CLASS_LEADER
-    nummons 2
+    nummons 3
     item ITEM_SUPER_POTION
     item ITEM_SUPER_POTION
     item ITEM_NONE
     item ITEM_NONE
-    aiflags F_PRIORITIZE_SUPER_EFFECTIVE | F_EVALUATE_ATTACKS | F_EXPERT_ATTACKS | 0
+    aiflags F_PRIORITIZE_SUPER_EFFECTIVE | F_EVALUATE_ATTACKS | F_EXPERT_ATTACKS | 0 
     battletype SINGLE_BATTLE
     endentry
 
     party 30
         // mon 0
+        ivs 100
+        abilityslot 0
+        level 17
+        pokemon SPECIES_JIGGLYPUFF
+        item ITEM_NONE
+        move MOVE_DOUBLE_SLAP
+        move MOVE_SING
+        move MOVE_DISABLE
+        move MOVE_DISARMING_VOICE
+        ballseal 0
+
+        // mon 1
         ivs 100
         abilityslot 0
         level 17
@@ -944,10 +956,10 @@ trainerdata 30, "Whitney"
         move MOVE_METRONOME
         ballseal 0
 
-        // mon 1
+        // mon 2
         ivs 100
         abilityslot 32
-        level 19
+        level 20
         pokemon SPECIES_MILTANK
         item ITEM_LUM_BERRY
         move MOVE_ROLLOUT
