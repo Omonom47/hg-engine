@@ -937,7 +937,6 @@ routesandcities SPECIES_PIDGEY, DEX_DAY
     .word DEX_ROUTE_29
     .word DEX_ROUTE_30
     .word DEX_ROUTE_31
-    .word DEX_ROUTE_36
     .word DEX_ROUTE_37
     .word DEX_ROUTE_1
     .word DEX_ROUTE_2
