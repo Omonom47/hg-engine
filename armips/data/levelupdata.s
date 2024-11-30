@@ -3750,13 +3750,14 @@ levelup SPECIES_NOCTOWL
     learnset MOVE_CONFUSION, 9
     learnset MOVE_REFLECT, 12
     learnset MOVE_AIR_SLASH, 18
-    learnset MOVE_EXTRASENSORY, 23
-    learnset MOVE_TAKE_DOWN, 28
+    learnset MOVE_HEX, 23
+    learnset MOVE_EXTRASENSORY, 28
     learnset MOVE_UPROAR, 33
     learnset MOVE_ROOST, 38
-    learnset MOVE_MOONBLAST, 43
-    learnset MOVE_HYPNOSIS, 48
-    learnset MOVE_DREAM_EATER, 53
+    learnset MOVE_SHADOW_BALL, 43
+    learnset MOVE_MOONBLAST, 48
+    learnset MOVE_HYPNOSIS, 53
+    learnset MOVE_DREAM_EATER, 58
     terminatelearnset
 
 
