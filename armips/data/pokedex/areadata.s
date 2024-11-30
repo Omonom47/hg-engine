@@ -917,7 +917,6 @@ routesandcities SPECIES_PIDGEY, DEX_MORNING
     .word DEX_ROUTE_29
     .word DEX_ROUTE_30
     .word DEX_ROUTE_31
-    .word DEX_ROUTE_35
     .word DEX_ROUTE_36
     .word DEX_ROUTE_37
     .word DEX_ROUTE_1
@@ -933,7 +932,6 @@ routesandcities SPECIES_PIDGEY, DEX_DAY
     .word DEX_ROUTE_29
     .word DEX_ROUTE_30
     .word DEX_ROUTE_31
-    .word DEX_ROUTE_35
     .word DEX_ROUTE_36
     .word DEX_ROUTE_37
     .word DEX_ROUTE_1
@@ -6019,21 +6017,18 @@ specialareas SPECIES_DITTO, DEX_NIGHT
 
 routesandcities SPECIES_DITTO, DEX_MORNING
     .word DEX_ROUTE_34
-    .word DEX_ROUTE_35
     .word DEX_ROUTE_47
     dexendareadata
 
 
 routesandcities SPECIES_DITTO, DEX_DAY
     .word DEX_ROUTE_34
-    .word DEX_ROUTE_35
     .word DEX_ROUTE_47
     dexendareadata
 
 
 routesandcities SPECIES_DITTO, DEX_NIGHT
     .word DEX_ROUTE_34
-    .word DEX_ROUTE_35
     .word DEX_ROUTE_47
     dexendareadata
 

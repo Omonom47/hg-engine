@@ -2306,7 +2306,7 @@ rocksmashrate 0
 oldrodrate 40
 goodrodrate 65
 superrodrate 90
-walklevels 12, 12, 12, 12, 14, 14, 10, 10, 14, 10, 14, 12
+walklevels 12, 12, 13, 13, 14, 14, 12, 12, 14, 13, 14, 13
 
 // morning encounter slots
 pokemon SPECIES_NIDORAN_M
@@ -2317,9 +2317,9 @@ pokemon SPECIES_DROWZEE
 pokemon SPECIES_DROWZEE
 pokemon SPECIES_ABRA
 pokemon SPECIES_ABRA
-pokemon SPECIES_PIDGEY
-pokemon SPECIES_DITTO
-pokemon SPECIES_PIDGEY
+pokemon SPECIES_YANMA
+pokemon SPECIES_YANMA
+pokemon SPECIES_YANMA
 pokemon SPECIES_YANMA
 
 // day encounter slots
@@ -2331,9 +2331,9 @@ pokemon SPECIES_DROWZEE
 pokemon SPECIES_DROWZEE
 pokemon SPECIES_ABRA
 pokemon SPECIES_ABRA
-pokemon SPECIES_PIDGEY
-pokemon SPECIES_DITTO
-pokemon SPECIES_PIDGEY
+pokemon SPECIES_YANMA
+pokemon SPECIES_YANMA
+pokemon SPECIES_YANMA
 pokemon SPECIES_YANMA
 
 // night encounter slots
@@ -2345,9 +2345,9 @@ pokemon SPECIES_DROWZEE
 pokemon SPECIES_DROWZEE
 pokemon SPECIES_ABRA
 pokemon SPECIES_ABRA
-pokemon SPECIES_HOOTHOOT
-pokemon SPECIES_DITTO
-pokemon SPECIES_HOOTHOOT
+pokemon SPECIES_YANMA
+pokemon SPECIES_YANMA
+pokemon SPECIES_YANMA
 pokemon SPECIES_YANMA
 
 // hoenn encounter slots
