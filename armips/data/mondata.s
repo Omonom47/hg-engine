@@ -3900,7 +3900,7 @@ mondata SPECIES_AZUMARILL, "Azumarill"
 
 
 mondata SPECIES_SUDOWOODO, "Sudowoodo"
-    basestats 70, 100, 115, 30, 30, 65
+    basestats 77, 100, 125, 30, 30, 73
     types TYPE_ROCK, TYPE_ROCK
     catchrate 65
     baseexp 0 // defined in baseexp.s
