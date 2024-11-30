@@ -2722,29 +2722,29 @@ rocksmashrate 0
 oldrodrate 0
 goodrodrate 0
 superrodrate 0
-walklevels 13, 15, 13, 15, 15, 15, 14, 14, 15, 15, 15, 15
+walklevels 15, 15, 16, 14, 15, 15, 14, 14, 15, 15, 15, 15
 
 // morning encounter slots
 pokemon SPECIES_PIDGEY
 pokemon SPECIES_STANTLER
-pokemon SPECIES_PIDGEY
 pokemon SPECIES_STANTLER
-pokemon SPECIES_PIDGEY
-pokemon SPECIES_PIDGEY
+pokemon SPECIES_VULPIX
+pokemon SPECIES_VULPIX
 pokemon SPECIES_GROWLITHE
 pokemon SPECIES_GROWLITHE
-pokemon SPECIES_PIDGEY
-pokemon SPECIES_PIDGEY
-pokemon SPECIES_PIDGEY
-pokemon SPECIES_PIDGEY
+pokemon SPECIES_GROWLITHE
+pokemon SPECIES_EEVEE
+pokemon SPECIES_EEVEE
+pokemon SPECIES_EEVEE
+pokemon SPECIES_EEVEE
 
 // day encounter slots
 pokemon SPECIES_PIDGEY
 pokemon SPECIES_STANTLER
-pokemon SPECIES_PIDGEY
 pokemon SPECIES_STANTLER
-pokemon SPECIES_PIDGEY
-pokemon SPECIES_PIDGEY
+pokemon SPECIES_VULPIX
+pokemon SPECIES_EEVEE
+pokemon SPECIES_EEVEE
 pokemon SPECIES_GROWLITHE
 pokemon SPECIES_GROWLITHE
 pokemon SPECIES_PIDGEOTTO
@@ -2755,9 +2755,9 @@ pokemon SPECIES_GROWLITHE
 // night encounter slots
 pokemon SPECIES_SPINARAK
 pokemon SPECIES_STANTLER
-pokemon SPECIES_SPINARAK
 pokemon SPECIES_STANTLER
-pokemon SPECIES_HOOTHOOT
+pokemon SPECIES_VULPIX
+pokemon SPECIES_EEVEE
 pokemon SPECIES_HOOTHOOT
 pokemon SPECIES_GROWLITHE
 pokemon SPECIES_GROWLITHE

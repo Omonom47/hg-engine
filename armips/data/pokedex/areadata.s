@@ -1836,16 +1836,19 @@ specialareas SPECIES_VULPIX, DEX_NIGHT
 
 routesandcities SPECIES_VULPIX, DEX_MORNING
     .word DEX_ROUTE_36
+    .word DEX_ROUTE_37
     dexendareadata
 
 
 routesandcities SPECIES_VULPIX, DEX_DAY
     .word DEX_ROUTE_36
+    .word DEX_ROUTE_37
     dexendareadata
 
 
 routesandcities SPECIES_VULPIX, DEX_NIGHT
     .word DEX_ROUTE_36
+    .word DEX_ROUTE_37
     dexendareadata
 
 
@@ -6061,16 +6064,19 @@ specialareas SPECIES_EEVEE, DEX_NIGHT
 
 
 routesandcities SPECIES_EEVEE, DEX_MORNING
+    .word DEX_ROUTE_37
     dexendareadata
 
 
 routesandcities SPECIES_EEVEE, DEX_DAY
     .word DEX_ROUTE_36
+    .word DEX_ROUTE_37
     dexendareadata
 
 
 routesandcities SPECIES_EEVEE, DEX_NIGHT
     .word DEX_ROUTE_36
+    .word DEX_ROUTE_37
     dexendareadata
 
 
