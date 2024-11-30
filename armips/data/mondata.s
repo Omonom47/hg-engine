@@ -4320,7 +4320,7 @@ mondata SPECIES_PINECO, "Pineco"
 
 
 mondata SPECIES_FORRETRESS, "Forretress"
-    basestats 75, 90, 140, 40, 60, 60
+    basestats 85, 90, 140, 40, 60, 60
     types TYPE_BUG, TYPE_STEEL
     catchrate 75
     baseexp 0 // defined in baseexp.s
@@ -4331,7 +4331,7 @@ mondata SPECIES_FORRETRESS, "Forretress"
     basefriendship 70
     growthrate GROWTH_MEDIUM_FAST
     egggroups EGG_GROUP_BUG, EGG_GROUP_BUG
-    abilities ABILITY_STURDY, ABILITY_NONE
+    abilities ABILITY_STURDY, ABILITY_FULL_METAL_BODY
     runchance 0
     colorflip BODY_COLOR_PURPLE, 0
     mondexentry SPECIES_FORRETRESS, "Its entire body is shielded by a\nsteel-hard shell. What lurks inside\nthis shell is a total mystery."
