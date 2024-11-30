@@ -9707,7 +9707,7 @@ mondata SPECIES_WEAVILE, "Weavile"
     basefriendship 35
     growthrate GROWTH_MEDIUM_SLOW
     egggroups EGG_GROUP_FIELD, EGG_GROUP_FIELD
-    abilities ABILITY_PRESSURE, ABILITY_NONE
+    abilities ABILITY_PRESSURE, ABILITY_TECHNICIAN
     runchance 0
     colorflip BODY_COLOR_BLACK, 0
     mondexentry SPECIES_WEAVILE, "It lives in snowy regions. It carves\npatterns in trees with its claws as\na signal to others."
