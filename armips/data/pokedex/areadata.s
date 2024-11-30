@@ -717,7 +717,6 @@ specialareas SPECIES_METAPOD, DEX_MORNING
 
 
 specialareas SPECIES_METAPOD, DEX_DAY
-    .word DEX_ILEX_FOREST
     .word DEX_NATIONAL_PARK
     .word DEX_VIRIDIAN_FOREST
     dexendareadata
@@ -795,10 +794,12 @@ routesandcities SPECIES_BUTTERFREE, DEX_SPECIAL
 
 
 specialareas SPECIES_WEEDLE, DEX_MORNING
+    .word DEX_ILEX_FOREST
     dexendareadata
 
 
 specialareas SPECIES_WEEDLE, DEX_DAY
+    .word DEX_ILEX_FOREST
     dexendareadata
 
 
@@ -822,6 +823,7 @@ routesandcities SPECIES_WEEDLE, DEX_NIGHT
 
 
 specialareas SPECIES_WEEDLE, DEX_SPECIAL
+    .word DEX_ILEX_FOREST
     dexendareadata
 
 
@@ -830,6 +832,7 @@ routesandcities SPECIES_WEEDLE, DEX_SPECIAL
 
 
 specialareas SPECIES_KAKUNA, DEX_MORNING
+    .word DEX_ILEX_FOREST
     dexendareadata
 
 
@@ -858,6 +861,7 @@ routesandcities SPECIES_KAKUNA, DEX_NIGHT
 
 
 specialareas SPECIES_KAKUNA, DEX_SPECIAL
+    .word DEX_ILEX_FOREST
     dexendareadata
 
 
@@ -890,6 +894,7 @@ routesandcities SPECIES_BEEDRILL, DEX_NIGHT
 
 
 specialareas SPECIES_BEEDRILL, DEX_SPECIAL
+    .word DEX_ILEX_FOREST
     dexendareadata
 
 
