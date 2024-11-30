@@ -5133,7 +5133,9 @@ levelup SPECIES_OCTILLERY
     learnset MOVE_SIGNAL_BEAM, 34
     learnset MOVE_BULLET_SEED, 37
     learnset MOVE_ICE_BEAM, 37
-    learnset MOVE_HYDRO_PUMP, 46
+    learnset MOVE_SNIPE_SHOT, 43
+    learnset MOVE_AQUA_CUTTER, 43
+    learnset MOVE_HYDRO_PUMP, 49
     learnset MOVE_SOAK, 55
     learnset MOVE_HYPER_BEAM, 55
     terminatelearnset
