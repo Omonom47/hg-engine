@@ -2306,7 +2306,7 @@ rocksmashrate 0
 oldrodrate 40
 goodrodrate 65
 superrodrate 90
-walklevels 12, 12, 13, 13, 14, 14, 12, 12, 14, 13, 14, 13
+walklevels 12, 12, 13, 13, 14, 15, 12, 13, 14, 13, 15, 13
 
 // morning encounter slots
 pokemon SPECIES_NIDORAN_M
@@ -2410,7 +2410,7 @@ rocksmashrate 0
 oldrodrate 0
 goodrodrate 0
 superrodrate 0
-walklevels 10, 10, 10, 10, 12, 12, 12, 12, 10, 14, 10, 14
+walklevels 12, 12, 12, 12, 12, 12, 12, 12, 12, 14, 12, 14
 
 // morning encounter slots
 pokemon SPECIES_CATERPIE
