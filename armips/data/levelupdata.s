@@ -1929,7 +1929,7 @@ levelup SPECIES_DEWGONG
     learnset MOVE_AURORA_BEAM, 27
     learnset MOVE_AQUA_JET, 31
     learnset MOVE_BRINE, 33
-    learnset MOVE_TAKE_DOWN, 39
+    learnset MOVE_AURORA_VEIL, 39
     learnset MOVE_DIVE, 45
     learnset MOVE_AQUA_TAIL, 49
     learnset MOVE_ICE_BEAM, 55
