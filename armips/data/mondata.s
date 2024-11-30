@@ -4593,7 +4593,7 @@ mondata SPECIES_URSARING, "Ursaring"
 
 
 mondata SPECIES_SLUGMA, "Slugma"
-    basestats 40, 40, 40, 20, 70, 40
+    basestats 55, 40, 65, 20, 70, 50
     types TYPE_FIRE, TYPE_FIRE
     catchrate 190
     baseexp 0 // defined in baseexp.s
@@ -4614,7 +4614,7 @@ mondata SPECIES_SLUGMA, "Slugma"
 
 
 mondata SPECIES_MAGCARGO, "Magcargo"
-    basestats 60, 50, 120, 30, 90, 80
+    basestats 107, 50, 120, 30, 97, 96
     types TYPE_FIRE, TYPE_ROCK
     catchrate 75
     baseexp 0 // defined in baseexp.s
@@ -4625,7 +4625,7 @@ mondata SPECIES_MAGCARGO, "Magcargo"
     basefriendship 70
     growthrate GROWTH_MEDIUM_FAST
     egggroups EGG_GROUP_AMORPHOUS, EGG_GROUP_AMORPHOUS
-    abilities ABILITY_MAGMA_ARMOR, ABILITY_FLAME_BODY
+    abilities ABILITY_SOLID_ROCK, ABILITY_FLAME_BODY
     runchance 0
     colorflip BODY_COLOR_RED, 0
     mondexentry SPECIES_MAGCARGO, "The shell on its back is just skin\nthat has cooled and hardened. It\nbreaks easily with a slight touch."
