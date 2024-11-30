@@ -3038,7 +3038,7 @@ walklevels 14, 14, 14, 14, 16, 16, 16, 16, 15, 14, 15, 14
 
 // morning encounter slots
 pokemon SPECIES_RATTATA
-pokemon SPECIES_KOFFING
+pokemon SPECIES_SLUGMA
 pokemon SPECIES_RATTATA
 pokemon SPECIES_KOFFING
 pokemon SPECIES_KOFFING
@@ -3052,7 +3052,7 @@ pokemon SPECIES_MAGMAR
 
 // day encounter slots
 pokemon SPECIES_RATTATA
-pokemon SPECIES_KOFFING
+pokemon SPECIES_SLUGMA
 pokemon SPECIES_RATTATA
 pokemon SPECIES_KOFFING
 pokemon SPECIES_KOFFING
@@ -3066,7 +3066,7 @@ pokemon SPECIES_RATTATA
 
 // night encounter slots
 pokemon SPECIES_RATTATA
-pokemon SPECIES_KOFFING
+pokemon SPECIES_SLUGMA
 pokemon SPECIES_RATTATA
 pokemon SPECIES_KOFFING
 pokemon SPECIES_KOFFING

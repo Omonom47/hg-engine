@@ -9149,14 +9149,17 @@ routesandcities SPECIES_URSARING, DEX_SPECIAL
 
 
 specialareas SPECIES_SLUGMA, DEX_MORNING
+    .word DEX_BURNED_TOWER
     dexendareadata
 
 
 specialareas SPECIES_SLUGMA, DEX_DAY
+    .word DEX_BURNED_TOWER
     dexendareadata
 
 
 specialareas SPECIES_SLUGMA, DEX_NIGHT
+    .word DEX_BURNED_TOWER
     dexendareadata
 
 
