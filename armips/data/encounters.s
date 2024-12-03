@@ -5490,34 +5490,34 @@ encounter SPECIES_NONE, 0, 0
 encounter SPECIES_NONE, 0, 0
 
 // old rod encounters
-encounter SPECIES_MAGIKARP, 10, 10
-encounter SPECIES_MAGIKARP, 10, 10
-encounter SPECIES_MAGIKARP, 10, 10
 encounter SPECIES_GOLDEEN, 10, 10
 encounter SPECIES_GOLDEEN, 10, 10
+encounter SPECIES_GOLDEEN, 10, 10
+encounter SPECIES_REMORAID, 10, 10
+encounter SPECIES_REMORAID, 10, 10
 
 // good rod encounters
-encounter SPECIES_MAGIKARP, 20, 20
 encounter SPECIES_GOLDEEN, 20, 20
-encounter SPECIES_GOLDEEN, 20, 20
-encounter SPECIES_GOLDEEN, 20, 20
-encounter SPECIES_GOLDEEN, 20, 20
+encounter SPECIES_REMORAID, 20, 20
+encounter SPECIES_REMORAID, 20, 20
+encounter SPECIES_REMORAID, 20, 20
+encounter SPECIES_REMORAID, 20, 20
 
 // super rod encounters
+encounter SPECIES_REMORAID, 40, 40
+encounter SPECIES_REMORAID, 40, 40
 encounter SPECIES_GOLDEEN, 40, 40
-encounter SPECIES_GOLDEEN, 40, 40
-encounter SPECIES_MAGIKARP, 40, 40
 encounter SPECIES_SEAKING, 40, 40
-encounter SPECIES_MAGIKARP, 40, 40
+encounter SPECIES_GOLDEEN, 40, 40
 
 // swarm grass
 pokemon SPECIES_MANKEY
 // swarm surf
 pokemon SPECIES_GOLDEEN
 // swarm good rod
-pokemon SPECIES_GOLDEEN
+pokemon SPECIES_REMORAID
 // swarm super rod
-pokemon SPECIES_MAGIKARP
+pokemon SPECIES_GOLDEEN
 
 .close
 

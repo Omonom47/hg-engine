@@ -5801,7 +5801,6 @@ routesandcities SPECIES_MAGIKARP, DEX_MORNING
     .word DEX_ROUTE_40
     .word DEX_ROUTE_41
     .word DEX_CIANWOOD_CITY
-    .word DEX_ROUTE_42
     .word DEX_ROUTE_43
     .word DEX_LAKE_OF_RAGE
     .word DEX_ROUTE_44
@@ -5847,7 +5846,6 @@ routesandcities SPECIES_MAGIKARP, DEX_DAY
     .word DEX_ROUTE_40
     .word DEX_ROUTE_41
     .word DEX_CIANWOOD_CITY
-    .word DEX_ROUTE_42
     .word DEX_ROUTE_43
     .word DEX_LAKE_OF_RAGE
     .word DEX_ROUTE_44
@@ -5893,7 +5891,6 @@ routesandcities SPECIES_MAGIKARP, DEX_NIGHT
     .word DEX_ROUTE_40
     .word DEX_ROUTE_41
     .word DEX_CIANWOOD_CITY
-    .word DEX_ROUTE_42
     .word DEX_ROUTE_43
     .word DEX_LAKE_OF_RAGE
     .word DEX_ROUTE_44
@@ -9365,16 +9362,19 @@ specialareas SPECIES_REMORAID, DEX_NIGHT
 
 
 routesandcities SPECIES_REMORAID, DEX_MORNING
+    .word DEX_ROUTE_42
     .word DEX_ROUTE_44
     dexendareadata
 
 
 routesandcities SPECIES_REMORAID, DEX_DAY
+    .word DEX_ROUTE_42
     .word DEX_ROUTE_44
     dexendareadata
 
 
 routesandcities SPECIES_REMORAID, DEX_NIGHT
+    .word DEX_ROUTE_42
     .word DEX_ROUTE_44
     dexendareadata
 
