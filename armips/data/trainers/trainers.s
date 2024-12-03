@@ -5514,14 +5514,14 @@ trainerdata 178, "Jack"
         // mon 0
         ivs 0
         abilityslot 0
-        level 12
+        level 15
         pokemon SPECIES_ODDISH
         ballseal 0
 
         // mon 1
         ivs 0
         abilityslot 0
-        level 15
+        level 16
         pokemon SPECIES_VOLTORB
         ballseal 0
     endparty
@@ -5605,7 +5605,7 @@ trainerdata 181, "William"
         // mon 0
         ivs 0
         abilityslot 0
-        level 16
+        level 18
         pokemon SPECIES_RAICHU
         ballseal 0
     endparty
@@ -5626,7 +5626,7 @@ trainerdata 182, "Beverly"
         // mon 0
         ivs 0
         abilityslot 0
-        level 16
+        level 17
         pokemon SPECIES_SNUBBULL
         ballseal 0
     endparty
