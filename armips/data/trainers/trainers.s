@@ -986,10 +986,10 @@ trainerdata 31, "Morty"
         ivs 100
         abilityslot 0
         level 21
-        pokemon SPECIES_GASTLY
+        pokemon SPECIES_MISDREAVUS
         item ITEM_NONE
-        move MOVE_LICK
-        move MOVE_SPITE
+        move MOVE_WILL_O_WISP
+        move MOVE_OMINOUS_WIND
         move MOVE_MEAN_LOOK
         move MOVE_CURSE
         ballseal 0
@@ -998,12 +998,12 @@ trainerdata 31, "Morty"
         ivs 100
         abilityslot 0
         level 21
-        pokemon SPECIES_HAUNTER
+        pokemon SPECIES_NOCTOWL
         item ITEM_NONE
-        move MOVE_HYPNOSIS
-        move MOVE_DREAM_EATER
-        move MOVE_CURSE
-        move MOVE_NIGHTMARE
+        move MOVE_AIR_SLASH
+        move MOVE_REFLECT
+        move MOVE_SHADOW_BALL
+        move MOVE_ROOST
         ballseal 0
 
         // mon 2
