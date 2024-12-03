@@ -627,12 +627,12 @@ trainerdata 20, "Falkner"
         // mon 0
         ivs 50
         abilityslot 0
-        level 9
-        pokemon SPECIES_PIDGEY
+        level 10
+        pokemon SPECIES_SPEAROW
         item ITEM_NONE
-        move MOVE_TACKLE
-        move MOVE_SAND_ATTACK
-        move MOVE_NONE
+        move MOVE_PECK
+        move MOVE_PURSUIT
+        move MOVE_GROWL
         move MOVE_NONE
         ballseal 0
 
