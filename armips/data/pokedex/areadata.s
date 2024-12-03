@@ -1077,7 +1077,6 @@ routesandcities SPECIES_RATTATA, DEX_MORNING
     .word DEX_ROUTE_32
     .word DEX_ROUTE_33
     .word DEX_ROUTE_34
-    .word DEX_ROUTE_38
     .word DEX_ROUTE_39
     .word DEX_ROUTE_46
     .word DEX_ROUTE_1
@@ -1095,7 +1094,6 @@ routesandcities SPECIES_RATTATA, DEX_DAY
     .word DEX_ROUTE_32
     .word DEX_ROUTE_33
     .word DEX_ROUTE_34
-    .word DEX_ROUTE_38
     .word DEX_ROUTE_39
     .word DEX_ROUTE_46
     .word DEX_ROUTE_1
@@ -1115,7 +1113,6 @@ routesandcities SPECIES_RATTATA, DEX_NIGHT
     .word DEX_ROUTE_32
     .word DEX_ROUTE_33
     .word DEX_ROUTE_34
-    .word DEX_ROUTE_38
     .word DEX_ROUTE_39
     .word DEX_ROUTE_46
     .word DEX_ROUTE_1
@@ -2448,14 +2445,17 @@ specialareas SPECIES_MEOWTH, DEX_NIGHT
 
 
 routesandcities SPECIES_MEOWTH, DEX_MORNING
+    .word DEX_ROUTE_38
     dexendareadata
 
 
 routesandcities SPECIES_MEOWTH, DEX_DAY
+    .word DEX_ROUTE_38
     dexendareadata
 
 
 routesandcities SPECIES_MEOWTH, DEX_NIGHT
+    .word DEX_ROUTE_38
     dexendareadata
 
 
@@ -6197,14 +6197,17 @@ specialareas SPECIES_PORYGON, DEX_NIGHT
 
 
 routesandcities SPECIES_PORYGON, DEX_MORNING
+    .word DEX_ROUTE_38
     dexendareadata
 
 
 routesandcities SPECIES_PORYGON, DEX_DAY
+    .word DEX_ROUTE_38
     dexendareadata
 
 
 routesandcities SPECIES_PORYGON, DEX_NIGHT
+    .word DEX_ROUTE_38
     dexendareadata
 
 
