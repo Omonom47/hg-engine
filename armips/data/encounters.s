@@ -4074,12 +4074,12 @@ rocksmashrate 0
 oldrodrate 0
 goodrodrate 0
 superrodrate 0
-walklevels 16, 17, 16, 17, 16, 16, 16, 16, 15, 15, 15, 15
+walklevels 16, 17, 16, 18, 16, 17, 16, 16, 18, 18, 18, 18
 
 // morning encounter slots
-pokemon SPECIES_RATTATA
+pokemon SPECIES_PONYTA
 pokemon SPECIES_RATICATE
-pokemon SPECIES_RATTATA
+pokemon SPECIES_PONYTA
 pokemon SPECIES_RATICATE
 pokemon SPECIES_MAGNEMITE
 pokemon SPECIES_MAGNEMITE
@@ -4091,9 +4091,9 @@ pokemon SPECIES_MILTANK
 pokemon SPECIES_TAUROS
 
 // day encounter slots
-pokemon SPECIES_RATTATA
+pokemon SPECIES_PONYTA
 pokemon SPECIES_RATICATE
-pokemon SPECIES_RATTATA
+pokemon SPECIES_PONYTA
 pokemon SPECIES_RATICATE
 pokemon SPECIES_MAGNEMITE
 pokemon SPECIES_MAGNEMITE
@@ -4107,12 +4107,12 @@ pokemon SPECIES_TAUROS
 // night encounter slots
 pokemon SPECIES_RATTATA
 pokemon SPECIES_RATICATE
-pokemon SPECIES_RATTATA
+pokemon SPECIES_PONYTA
 pokemon SPECIES_RATICATE
 pokemon SPECIES_MAGNEMITE
 pokemon SPECIES_MAGNEMITE
-pokemon SPECIES_RATTATA
-pokemon SPECIES_RATTATA
+pokemon SPECIES_PONYTA
+pokemon SPECIES_PONYTA
 pokemon SPECIES_MILTANK
 pokemon SPECIES_TAUROS
 pokemon SPECIES_MILTANK

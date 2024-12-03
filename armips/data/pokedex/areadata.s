@@ -1078,7 +1078,6 @@ routesandcities SPECIES_RATTATA, DEX_MORNING
     .word DEX_ROUTE_32
     .word DEX_ROUTE_33
     .word DEX_ROUTE_34
-    .word DEX_ROUTE_39
     .word DEX_ROUTE_46
     .word DEX_ROUTE_1
     .word DEX_ROUTE_3
@@ -1095,7 +1094,6 @@ routesandcities SPECIES_RATTATA, DEX_DAY
     .word DEX_ROUTE_32
     .word DEX_ROUTE_33
     .word DEX_ROUTE_34
-    .word DEX_ROUTE_39
     .word DEX_ROUTE_46
     .word DEX_ROUTE_1
     .word DEX_ROUTE_3
@@ -3657,6 +3655,7 @@ routesandcities SPECIES_PONYTA, DEX_MORNING
     .word DEX_ROUTE_27
     .word DEX_ROUTE_28
     .word DEX_ROUTE_22
+    .word DEX_ROUTE_39
     dexendareadata
 
 
@@ -3666,6 +3665,7 @@ routesandcities SPECIES_PONYTA, DEX_DAY
     .word DEX_ROUTE_27
     .word DEX_ROUTE_28
     .word DEX_ROUTE_22
+    .word DEX_ROUTE_39
     dexendareadata
 
 
@@ -3675,6 +3675,7 @@ routesandcities SPECIES_PONYTA, DEX_NIGHT
     .word DEX_ROUTE_27
     .word DEX_ROUTE_28
     .word DEX_ROUTE_22
+    .word DEX_ROUTE_39
     dexendareadata
 
 
