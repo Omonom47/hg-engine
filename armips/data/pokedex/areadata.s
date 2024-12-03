@@ -804,6 +804,7 @@ specialareas SPECIES_WEEDLE, DEX_DAY
 
 
 specialareas SPECIES_WEEDLE, DEX_NIGHT
+    .word DEX_NATIONAL_PARK
     dexendareadata
 
 
