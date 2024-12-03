@@ -1937,7 +1937,7 @@ mondata SPECIES_CLOYSTER, "Cloyster"
     basefriendship 50
     growthrate GROWTH_SLOW
     egggroups EGG_GROUP_WATER_3, EGG_GROUP_WATER_3
-    abilities ABILITY_SHELL_ARMOR, ABILITY_SKILL_LINK
+    abilities ABILITY_WATER_ABSORB, ABILITY_SKILL_LINK
     runchance 0
     colorflip BODY_COLOR_PURPLE, 0
     mondexentry SPECIES_CLOYSTER, "Once it slams its shell shut,\nit is impossible to open, even by\nthose with superior strength."
