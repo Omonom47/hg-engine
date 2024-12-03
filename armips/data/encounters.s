@@ -5426,7 +5426,7 @@ rocksmashrate 0
 oldrodrate 40
 goodrodrate 65
 superrodrate 90
-walklevels 15, 13, 15, 13, 14, 14, 16, 16, 15, 17, 15, 17
+walklevels 16, 16, 17, 17, 16, 16, 16, 16, 17, 18, 17, 18
 
 // morning encounter slots
 pokemon SPECIES_MANKEY
