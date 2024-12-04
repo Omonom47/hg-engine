@@ -1098,7 +1098,7 @@ trainerdata 33, "Jasmine"
         ivs 150
         abilityslot 0
         level 30
-        pokemon SPECIES_MAGNEMITE
+        pokemon SPECIES_MAGNETON
         item ITEM_NONE
         move MOVE_THUNDERBOLT
         move MOVE_SUPERSONIC
@@ -1109,13 +1109,13 @@ trainerdata 33, "Jasmine"
         // mon 1
         ivs 150
         abilityslot 32
-        level 30
-        pokemon SPECIES_MAGNEMITE
+        level 31
+        pokemon SPECIES_FORRETRESS
         item ITEM_NONE
-        move MOVE_THUNDERBOLT
-        move MOVE_SUPERSONIC
-        move MOVE_SONIC_BOOM
-        move MOVE_THUNDER_WAVE
+        move MOVE_HEAVY_SLAM
+        move MOVE_BUG_BITE
+        move MOVE_PROTECT
+        move MOVE_ROCK_TOMB
         ballseal 0
 
         // mon 2
@@ -1126,7 +1126,7 @@ trainerdata 33, "Jasmine"
         item ITEM_SITRUS_BERRY
         move MOVE_SCREECH
         move MOVE_SANDSTORM
-        move MOVE_ROCK_THROW
+        move MOVE_ROCK_SLIDE
         move MOVE_IRON_TAIL
         ballseal 0
     endparty
