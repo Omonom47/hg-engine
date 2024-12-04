@@ -9093,7 +9093,7 @@ trainerdata 271, "Silver"
         // mon 0
         ivs 120
         abilityslot 0
-        level 30
+        level 32
         pokemon SPECIES_GOLBAT
         move MOVE_ASTONISH
         move MOVE_BITE
@@ -9104,7 +9104,7 @@ trainerdata 271, "Silver"
         // mon 1
         ivs 120
         abilityslot 0
-        level 28
+        level 30
         pokemon SPECIES_MAGNEMITE
         move MOVE_SUPERSONIC
         move MOVE_SPARK
@@ -9115,7 +9115,7 @@ trainerdata 271, "Silver"
         // mon 2
         ivs 120
         abilityslot 0
-        level 30
+        level 32
         pokemon SPECIES_HAUNTER
         move MOVE_CONFUSE_RAY
         move MOVE_MEAN_LOOK
@@ -9126,7 +9126,7 @@ trainerdata 271, "Silver"
         // mon 3
         ivs 120
         abilityslot 0
-        level 32
+        level 34
         pokemon SPECIES_SNEASEL
         move MOVE_ICY_WIND
         move MOVE_QUICK_ATTACK
@@ -9137,7 +9137,7 @@ trainerdata 271, "Silver"
         // mon 4
         ivs 120
         abilityslot 0
-        level 32
+        level 34
         pokemon SPECIES_FERALIGATR
         move MOVE_ICE_FANG
         move MOVE_WATER_GUN
