@@ -1199,9 +1199,9 @@ trainerdata 35, "Clair"
         level 38
         pokemon SPECIES_GYARADOS
         item ITEM_NONE
-        move MOVE_TWISTER
+        move MOVE_WATERFALL
         move MOVE_DRAGON_RAGE
-        move MOVE_BITE
+        move MOVE_CRUNCH
         move MOVE_DRAGON_PULSE
         ballseal 0
 
