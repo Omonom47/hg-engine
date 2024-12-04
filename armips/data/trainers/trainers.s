@@ -1147,11 +1147,11 @@ trainerdata 34, "Chuck"
         // mon 0
         ivs 150
         abilityslot 0
-        level 29
+        level 28
         pokemon SPECIES_PRIMEAPE
         item ITEM_NONE
-        move MOVE_LEER
-        move MOVE_DOUBLE_TEAM
+        move MOVE_ASSURANCE
+        move MOVE_BULK_UP
         move MOVE_FOCUS_PUNCH
         move MOVE_ROCK_SLIDE
         ballseal 0
@@ -1159,11 +1159,22 @@ trainerdata 34, "Chuck"
         // mon 1
         ivs 150
         abilityslot 0
+        level 28
+        pokemon SPECIES_HITMONTOP
+        item ITEM_NONE
+        move MOVE_SUCKER_PUNCH
+        move MOVE_GYRO_BALL
+        move MOVE_BRICK_BREAK
+        move MOVE_ROCK_SLIDE
+        ballseal 0
+
+        ivs 150
+        abilityslot 0
         level 31
         pokemon SPECIES_POLIWRATH
         item ITEM_SITRUS_BERRY
         move MOVE_HYPNOSIS
-        move MOVE_SURF
+        move MOVE_WATERFALL
         move MOVE_FOCUS_PUNCH
         move MOVE_BODY_SLAM
         ballseal 0
