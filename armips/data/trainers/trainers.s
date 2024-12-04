@@ -1046,14 +1046,14 @@ trainerdata 32, "Pryce"
     party 32
         // mon 0
         ivs 150
-        abilityslot 0
-        level 30
-        pokemon SPECIES_SEEL
+        abilityslot 1
+        level 31
+        pokemon SPECIES_DELIBIRD
         item ITEM_NONE
-        move MOVE_SNORE
+        move MOVE_AIR_SLASH
         move MOVE_HAIL
         move MOVE_ICY_WIND
-        move MOVE_REST
+        move MOVE_WATER_PULSE
         ballseal 0
 
         // mon 1
@@ -1071,7 +1071,7 @@ trainerdata 32, "Pryce"
         // mon 2
         ivs 150
         abilityslot 32
-        level 34
+        level 35
         pokemon SPECIES_PILOSWINE
         item ITEM_SITRUS_BERRY
         move MOVE_HAIL
