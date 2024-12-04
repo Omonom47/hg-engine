@@ -7785,12 +7785,12 @@ trainerdata 247, "Koga"
         ivs 250
         abilityslot 0
         level 44
-        pokemon SPECIES_VENOMOTH
+        pokemon SPECIES_NIDOKING
         item ITEM_NONE
-        move MOVE_SUPERSONIC
-        move MOVE_GUST
-        move MOVE_PSYCHIC
-        move MOVE_TOXIC
+        move MOVE_POISON_JAB
+        move MOVE_EARTHQUAKE
+        move MOVE_ICE_BEAM
+        move MOVE_THUNDERBOLT
         ballseal 0
 
         // mon 2
