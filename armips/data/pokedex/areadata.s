@@ -5079,6 +5079,7 @@ routesandcities SPECIES_CHANSEY, DEX_MORNING
     .word DEX_ROUTE_13
     .word DEX_ROUTE_14
     .word DEX_ROUTE_15
+    .word DEX_ROUTE_48
     dexendareadata
 
 
@@ -5086,6 +5087,7 @@ routesandcities SPECIES_CHANSEY, DEX_DAY
     .word DEX_ROUTE_13
     .word DEX_ROUTE_14
     .word DEX_ROUTE_15
+    .word DEX_ROUTE_48
     dexendareadata
 
 
@@ -5093,6 +5095,7 @@ routesandcities SPECIES_CHANSEY, DEX_NIGHT
     .word DEX_ROUTE_13
     .word DEX_ROUTE_14
     .word DEX_ROUTE_15
+    .word DEX_ROUTE_48
     dexendareadata
 
 
@@ -8010,7 +8013,6 @@ specialareas SPECIES_HOPPIP, DEX_NIGHT
 routesandcities SPECIES_HOPPIP, DEX_MORNING
     .word DEX_ROUTE_32
     .word DEX_ROUTE_33
-    .word DEX_ROUTE_48
     .word DEX_ROUTE_13
     .word DEX_ROUTE_14
     .word DEX_ROUTE_15
@@ -8020,7 +8022,6 @@ routesandcities SPECIES_HOPPIP, DEX_MORNING
 routesandcities SPECIES_HOPPIP, DEX_DAY
     .word DEX_ROUTE_32
     .word DEX_ROUTE_33
-    .word DEX_ROUTE_48
     .word DEX_ROUTE_13
     .word DEX_ROUTE_14
     .word DEX_ROUTE_15
@@ -8028,7 +8029,6 @@ routesandcities SPECIES_HOPPIP, DEX_DAY
 
 
 routesandcities SPECIES_HOPPIP, DEX_NIGHT
-    .word DEX_ROUTE_48
     dexendareadata
 
 
