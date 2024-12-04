@@ -3754,6 +3754,7 @@ levelup SPECIES_NOCTOWL
     learnset MOVE_EXTRASENSORY, 28
     learnset MOVE_UPROAR, 33
     learnset MOVE_ROOST, 38
+    learnset MOVE_TRICK_ROOM, 38
     learnset MOVE_SHADOW_BALL, 43
     learnset MOVE_MOONBLAST, 48
     learnset MOVE_HYPNOSIS, 53
