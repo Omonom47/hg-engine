@@ -5209,14 +5209,20 @@ specialareas SPECIES_HORSEA, DEX_NIGHT
 
 
 routesandcities SPECIES_HORSEA, DEX_MORNING
+    .word DEX_ROUTE_40
+    .word DEX_ROUTE_41
     dexendareadata
 
 
 routesandcities SPECIES_HORSEA, DEX_DAY
+    .word DEX_ROUTE_40
+    .word DEX_ROUTE_41
     dexendareadata
 
 
 routesandcities SPECIES_HORSEA, DEX_NIGHT
+    .word DEX_ROUTE_40
+    .word DEX_ROUTE_41
     dexendareadata
 
 
@@ -5799,7 +5805,6 @@ routesandcities SPECIES_MAGIKARP, DEX_MORNING
     .word DEX_ECRUTEAK_CITY
     .word DEX_OLIVINE_CITY
     .word DEX_ROUTE_40
-    .word DEX_ROUTE_41
     .word DEX_CIANWOOD_CITY
     .word DEX_ROUTE_43
     .word DEX_LAKE_OF_RAGE
@@ -5844,7 +5849,6 @@ routesandcities SPECIES_MAGIKARP, DEX_DAY
     .word DEX_ECRUTEAK_CITY
     .word DEX_OLIVINE_CITY
     .word DEX_ROUTE_40
-    .word DEX_ROUTE_41
     .word DEX_CIANWOOD_CITY
     .word DEX_ROUTE_43
     .word DEX_LAKE_OF_RAGE
@@ -5889,7 +5893,6 @@ routesandcities SPECIES_MAGIKARP, DEX_NIGHT
     .word DEX_ECRUTEAK_CITY
     .word DEX_OLIVINE_CITY
     .word DEX_ROUTE_40
-    .word DEX_ROUTE_41
     .word DEX_CIANWOOD_CITY
     .word DEX_ROUTE_43
     .word DEX_LAKE_OF_RAGE
