@@ -3970,7 +3970,7 @@ rocksmashrate 0
 oldrodrate 0
 goodrodrate 0
 superrodrate 0
-walklevels 16, 17, 16, 18, 16, 17, 16, 16, 18, 18, 18, 18
+walklevels 18, 19, 18, 20, 18, 19, 18, 18, 20, 20, 20, 20
 
 // morning encounter slots
 pokemon SPECIES_MAGNEMITE
@@ -4074,7 +4074,7 @@ rocksmashrate 0
 oldrodrate 0
 goodrodrate 0
 superrodrate 0
-walklevels 16, 17, 16, 18, 16, 17, 16, 16, 18, 18, 18, 18
+walklevels 18, 19, 18, 20, 18, 19, 18, 18, 20, 20, 20, 20
 
 // morning encounter slots
 pokemon SPECIES_PONYTA
