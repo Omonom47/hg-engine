@@ -9064,16 +9064,19 @@ routesandcities SPECIES_HERACROSS, DEX_SPECIAL
 
 specialareas SPECIES_SNEASEL, DEX_MORNING
     .word DEX_MT_SILVER_CAVE
+    .word DEX_MT_MORTAR
     dexendareadata
 
 
 specialareas SPECIES_SNEASEL, DEX_DAY
     .word DEX_MT_SILVER_CAVE
+    .word DEX_MT_MORTAR
     dexendareadata
 
 
 specialareas SPECIES_SNEASEL, DEX_NIGHT
     .word DEX_MT_SILVER_CAVE
+    .word DEX_MT_MORTAR
     dexendareadata
 
 

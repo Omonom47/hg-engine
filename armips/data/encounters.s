@@ -5522,7 +5522,7 @@ pokemon SPECIES_GOLDEEN
 .close
 
 
-encounterdata  53   // Mt. Mortar (Waterfall room)
+encounterdata  53   // Mt. Mortar (Waterfall room/entrance)
 
 walkrate 10
 surfrate 10
@@ -5530,11 +5530,11 @@ rocksmashrate 0
 oldrodrate 40
 goodrodrate 65
 superrodrate 90
-walklevels 13, 15, 13, 15, 14, 14, 14, 14, 14, 16, 14, 15
+walklevels 17, 19, 17, 19, 18, 18, 18, 18, 18, 20, 18, 19
 
 // morning encounter slots
 pokemon SPECIES_ZUBAT
-pokemon SPECIES_ZUBAT
+pokemon SPECIES_SNEASEL
 pokemon SPECIES_ZUBAT
 pokemon SPECIES_ZUBAT
 pokemon SPECIES_MACHOP
@@ -5548,7 +5548,7 @@ pokemon SPECIES_MARILL
 
 // day encounter slots
 pokemon SPECIES_ZUBAT
-pokemon SPECIES_ZUBAT
+pokemon SPECIES_SNEASEL
 pokemon SPECIES_ZUBAT
 pokemon SPECIES_ZUBAT
 pokemon SPECIES_MACHOP
@@ -5562,7 +5562,7 @@ pokemon SPECIES_MARILL
 
 // night encounter slots
 pokemon SPECIES_ZUBAT
-pokemon SPECIES_ZUBAT
+pokemon SPECIES_SNEASEL
 pokemon SPECIES_ZUBAT
 pokemon SPECIES_ZUBAT
 pokemon SPECIES_MACHOP
@@ -5626,7 +5626,7 @@ pokemon SPECIES_MAGIKARP
 .close
 
 
-encounterdata  54   // Mt. Mortar (Central room)
+encounterdata  54   // Mt. Mortar (Central room/1f back)
 
 walkrate 10
 surfrate 0
@@ -5634,15 +5634,15 @@ rocksmashrate 0
 oldrodrate 0
 goodrodrate 0
 superrodrate 0
-walklevels 13, 13, 13, 13, 15, 15, 14, 14, 15, 14, 15, 14
+walklevels 17, 17, 17, 17, 19, 20, 18, 18, 19, 18, 19, 18
 
 // morning encounter slots
 pokemon SPECIES_GEODUDE
 pokemon SPECIES_MACHOP
 pokemon SPECIES_GEODUDE
 pokemon SPECIES_MACHOP
-pokemon SPECIES_GEODUDE
-pokemon SPECIES_GEODUDE
+pokemon SPECIES_SNEASEL
+pokemon SPECIES_SNEASEL
 pokemon SPECIES_RATTATA
 pokemon SPECIES_RATTATA
 pokemon SPECIES_MACHOP
@@ -5655,8 +5655,8 @@ pokemon SPECIES_GEODUDE
 pokemon SPECIES_MACHOP
 pokemon SPECIES_GEODUDE
 pokemon SPECIES_MACHOP
-pokemon SPECIES_GEODUDE
-pokemon SPECIES_GEODUDE
+pokemon SPECIES_SNEASEL
+pokemon SPECIES_SNEASEL
 pokemon SPECIES_RATTATA
 pokemon SPECIES_RATTATA
 pokemon SPECIES_MACHOP
@@ -5669,8 +5669,8 @@ pokemon SPECIES_GEODUDE
 pokemon SPECIES_MACHOP
 pokemon SPECIES_GEODUDE
 pokemon SPECIES_MACHOP
-pokemon SPECIES_GEODUDE
-pokemon SPECIES_GEODUDE
+pokemon SPECIES_SNEASEL
+pokemon SPECIES_SNEASEL
 pokemon SPECIES_RATTATA
 pokemon SPECIES_RATTATA
 pokemon SPECIES_MACHOP
@@ -5730,7 +5730,7 @@ pokemon SPECIES_NONE
 .close
 
 
-encounterdata  55   // Mt. Mortar (Room above waterfall)
+encounterdata  55   // Mt. Mortar (Room above waterfall/2f)
 
 walkrate 10
 surfrate 10
@@ -5842,12 +5842,12 @@ rocksmashrate 0
 oldrodrate 40
 goodrodrate 65
 superrodrate 90
-walklevels 15, 17, 15, 17, 16, 16, 16, 16, 16, 16, 16, 16
+walklevels 19, 21, 19, 21, 20, 20, 20, 20, 20, 20, 20, 20
 
 // morning encounter slots
 pokemon SPECIES_ZUBAT
-pokemon SPECIES_ZUBAT
-pokemon SPECIES_ZUBAT
+pokemon SPECIES_SNEASEL
+pokemon SPECIES_SNEASEL
 pokemon SPECIES_ZUBAT
 pokemon SPECIES_RATTATA
 pokemon SPECIES_RATTATA
@@ -5860,8 +5860,8 @@ pokemon SPECIES_RATICATE
 
 // day encounter slots
 pokemon SPECIES_ZUBAT
-pokemon SPECIES_ZUBAT
-pokemon SPECIES_ZUBAT
+pokemon SPECIES_SNEASEL
+pokemon SPECIES_SNEASEL
 pokemon SPECIES_ZUBAT
 pokemon SPECIES_RATTATA
 pokemon SPECIES_RATTATA
@@ -5874,8 +5874,8 @@ pokemon SPECIES_RATICATE
 
 // night encounter slots
 pokemon SPECIES_ZUBAT
-pokemon SPECIES_ZUBAT
-pokemon SPECIES_ZUBAT
+pokemon SPECIES_SNEASEL
+pokemon SPECIES_SNEASEL
 pokemon SPECIES_ZUBAT
 pokemon SPECIES_RATTATA
 pokemon SPECIES_RATTATA
