@@ -149,6 +149,8 @@ const u16 *_0210FA3C[] = {
 /* const u16 _020FBAC0[] = {ITEM_AIR_MAIL, ITEM_NEST_BALL, ITEM_DUSK_BALL, ITEM_QUICK_BALL, 0xFFFF}; */
 /* const u16 _020FBACA[] = {ITEM_HEAL_POWDER, ITEM_ENERGYPOWDER, ITEM_ENERGY_ROOT, ITEM_REVIVAL_HERB, 0xFFFF}; */
 /* const u16 _020FBAD4[] = {ITEM_POTION, ITEM_SUPER_POTION, ITEM_HYPER_POTION, ITEM_FULL_HEAL, ITEM_REVIVE, 0xFFFF}; */
+
+
 /* const u16 _020FBAFA[] = {ITEM_PROTEIN, ITEM_IRON, ITEM_CALCIUM, ITEM_ZINC, ITEM_CARBOS, ITEM_HP_UP, 0xFFFF}; */
 
 /* const u16 _020FBB08[] = {ITEM_PROTEIN, ITEM_IRON, ITEM_CALCIUM, ITEM_ZINC, ITEM_CARBOS, ITEM_HP_UP, 0xFFFF}; */
@@ -172,24 +174,24 @@ const u16 *_0210FA3C[] = {
 .org 0x020FBBB4
 /* This spills over into _020FBBC6 */
 /* Goldenrod Dept Store 3F & Celadon Dept Store 5F -> Chansey Supply 1 */ 
-.halfword ITEM_HP_UP
-.halfword ITEM_PROTEIN
-.halfword ITEM_IRON
-.halfword ITEM_CALCIUM
-.halfword ITEM_ZINC
-.halfword ITEM_CARBOS
-.halfword ITEM_POWER_WEIGHT
-.halfword ITEM_POWER_BRACER
-.halfword ITEM_POWER_BELT
+.halfword ITEM_LUCKY_EGG
+.halfword ITEM_MAGMARIZER
+.halfword ITEM_ELECTIRIZER
+.halfword ITEM_PROTECTOR
+.halfword ITEM_KINGS_ROCK
+.halfword ITEM_RAZOR_CLAW
+.halfword ITEM_RAZOR_FANG
+.halfword ITEM_PRISM_SCALE
+.halfword ITEM_DRAGON_SCALE
 
-.halfword ITEM_POWER_LENS
-.halfword ITEM_POWER_BAND
-.halfword ITEM_POWER_ANKLET
-.halfword ITEM_EXP_SHARE
-.halfword ITEM_MACHO_BRACE
-.halfword 0xFFFF
-.halfword 0xFFFF
-.halfword 0xFFFF
+.halfword ITEM_OVAL_STONE
+.halfword ITEM_UP_GRADE
+.halfword ITEM_DUBIOUS_DISC
+.halfword ITEM_METAL_COAT
+.halfword ITEM_REAPER_CLOTH
+.halfword ITEM_SILVER_POWDER
+.halfword ITEM_HEART_SCALE
+.halfword ITEM_PIXIE_PLATE
 .halfword 0xFFFF
 
 /* const u16 _020FBBD8[] = {ITEM_GREAT_BALL, ITEM_SUPER_POTION, ITEM_HYPER_POTION, ITEM_ANTIDOTE, ITEM_PARLYZ_HEAL, ITEM_SUPER_REPEL, ITEM_REVIVE, ITEM_AIR_MAIL, 0xFFFF}; */
@@ -240,10 +242,26 @@ const u16 *_0210FA3C[] = {
 
 /* const u16 _020FBC1A[] = {ITEM_POKE_BALL, ITEM_GREAT_BALL, ITEM_ULTRA_BALL, ITEM_ESCAPE_ROPE, ITEM_POKE_DOLL, ITEM_REPEL, ITEM_SUPER_REPEL, ITEM_MAX_REPEL, ITEM_GRASS_MAIL, ITEM_FLAME_MAIL, ITEM_BUBBLE_MAIL, ITEM_SPACE_MAIL, 0xFFFF}; */
 
+/*Goldenrod Dept Store 2F top clerk */
 /* const u16 _020FBC34[] = {ITEM_TM70, ITEM_TM17, ITEM_TM54, ITEM_TM83, ITEM_TM16, ITEM_TM33, ITEM_TM22, ITEM_TM52, ITEM_TM38, ITEM_TM25, ITEM_TM14, ITEM_TM15, 0xFFFF}; */
+.org 0x020FBC1A
+.halfword ITEM_TM70 
+.halfword ITEM_TM17
+.halfword ITEM_TM54
+.halfword ITEM_TM83
+.halfword ITEM_TM16
+.halfword ITEM_TM33
+.halfword ITEM_TM22
+.halfword ITEM_TM52
+.halfword ITEM_TM38
+.halfword ITEM_TM25
+.halfword ITEM_TM14
+.halfword ITEM_TM15
+.halfword 0xFFFF
 
-.org 0x020FBC34
+
 /* Goldenrod Dept Store 5F -> Goldenrod Dept Store 5F still (also Celadon 3F) */
+.org 0x020FBC34
 .halfword ITEM_SUN_STONE
 .halfword ITEM_MOON_STONE
 .halfword ITEM_FIRE_STONE
@@ -251,11 +269,11 @@ const u16 *_0210FA3C[] = {
 .halfword ITEM_WATER_STONE
 .halfword ITEM_LEAF_STONE
 .halfword ITEM_ICE_STONE
+.halfword ITEM_LINKING_CORD
+.halfword ITEM_DUSK_STONE
+.halfword ITEM_SHINY_STONE
+.halfword ITEM_DAWN_STONE
 .halfword ITEM_EVERSTONE
-.halfword 0xFFFF
-.halfword 0xFFFF
-.halfword 0xFFFF
-.halfword 0xFFFF
 .halfword 0xFFFF
 
 /* const u16 _020FBC4E[] = {ITEM_POKE_BALL, ITEM_GREAT_BALL, ITEM_ULTRA_BALL, ITEM_ESCAPE_ROPE, ITEM_POKE_DOLL, ITEM_REPEL, ITEM_SUPER_REPEL, ITEM_MAX_REPEL, ITEM_GRASS_MAIL, ITEM_FLAME_MAIL, ITEM_BUBBLE_MAIL, ITEM_SPACE_MAIL, 0xFFFF}; */
@@ -276,22 +294,21 @@ const u16 *_0210FA3C[] = {
 .halfword 0xFFFF
 .halfword 0xFFFF
 
-/* const u16 _020FBC68[] = {ITEM_TM21, ITEM_TM27, ITEM_TM87, ITEM_TM78, ITEM_TM12, ITEM_TM41, ITEM_TM20, ITEM_TM28, ITEM_TM76, ITEM_TM55, ITEM_TM72, ITEM_TM79, 0xFFFF}; */
+/* const u16 _020FBC68[] = {, , , , , , , , , , , , 0xFFFF}; */
 
 .org 0x020FBC68
-/* Celadon Dept Store 3F -> Safari Zone Gate */
-.halfword ITEM_SHINY_STONE
-.halfword ITEM_DUSK_STONE
-.halfword ITEM_DAWN_STONE
-.halfword ITEM_OVAL_STONE
-.halfword ITEM_KINGS_ROCK
-.halfword ITEM_LINKING_CORD
-.halfword ITEM_RAZOR_CLAW
-.halfword ITEM_RAZOR_FANG
-.halfword ITEM_PRISM_SCALE
-.halfword ITEM_SACHET
-.halfword ITEM_UP_GRADE
-.halfword ITEM_WHIPPED_DREAM
+.halfword ITEM_TM21
+.halfword ITEM_TM27
+.halfword ITEM_TM87
+.halfword ITEM_TM78
+.halfword ITEM_TM12
+.halfword ITEM_TM41
+.halfword ITEM_TM20
+.halfword ITEM_TM28
+.halfword ITEM_TM76
+.halfword ITEM_TM55
+.halfword ITEM_TM72
+.halfword ITEM_TM79
 .halfword 0xFFFF
 
 .close
