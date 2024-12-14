@@ -1768,7 +1768,7 @@ const ITEMDATA __data[] =
 
 [ITEM_FULL_HEAL] =
 {
-    .price = 600,
+    .price = 475,
     .holdEffect = 0,
     .holdEffectParam = 0,
     .pluckEffect = 0,
