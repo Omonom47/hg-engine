@@ -863,7 +863,12 @@
 #define ITEM_HEARTHFLAME_MASK   (ITEM_PIXIE_PLATE + 214)
 #define ITEM_METAL_ALLOY        (ITEM_PIXIE_PLATE + 215)
 
+//New custom items
+#define ITEM_TM93               (ITEM_PIXIE_PLATE + 216)
+
 #define NUM_MEGA_STONES 48 // includes the pixie plate
+
+#define NUM_NEW_TMS 13
 
 #define IS_ITEM_TERRAIN_SEED(item) (item >= ITEM_ELECTRIC_SEED && item <= ITEM_PSYCHIC_SEED)
 
