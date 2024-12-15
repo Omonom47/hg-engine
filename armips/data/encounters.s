@@ -5583,11 +5583,11 @@ pokemon SPECIES_BRONZOR
 pokemon SPECIES_CHINGLING
 
 // surf encounters
-encounter SPECIES_GOLDEEN, 15, 25
-encounter SPECIES_GOLDEEN, 10, 20
-encounter SPECIES_SEAKING, 15, 25
-encounter SPECIES_SEAKING, 15, 25
-encounter SPECIES_SEAKING, 15, 25
+encounter SPECIES_GOLDEEN, 20, 25
+encounter SPECIES_GOLDEEN, 20, 25
+encounter SPECIES_SEAKING, 20, 25
+encounter SPECIES_SEAKING, 20, 25
+encounter SPECIES_SEAKING, 20, 25
 
 // rock smash encounters
 encounter SPECIES_NONE, 0, 0
@@ -5791,11 +5791,11 @@ pokemon SPECIES_BRONZOR
 pokemon SPECIES_CHINGLING
 
 // surf encounters
-encounter SPECIES_GOLDEEN, 15, 25
-encounter SPECIES_GOLDEEN, 20, 30
-encounter SPECIES_SEAKING, 20, 30
-encounter SPECIES_SEAKING, 20, 30
-encounter SPECIES_SEAKING, 20, 30
+encounter SPECIES_GOLDEEN, 25, 30
+encounter SPECIES_GOLDEEN, 25, 30
+encounter SPECIES_SEAKING, 25, 30
+encounter SPECIES_SEAKING, 25, 30
+encounter SPECIES_SEAKING, 25, 30
 
 // rock smash encounters
 encounter SPECIES_NONE, 0, 0
@@ -5895,11 +5895,11 @@ pokemon SPECIES_BRONZOR
 pokemon SPECIES_CHINGLING
 
 // surf encounters
-encounter SPECIES_GOLDEEN, 15, 25
-encounter SPECIES_GOLDEEN, 10, 20
-encounter SPECIES_SEAKING, 15, 25
-encounter SPECIES_SEAKING, 15, 25
-encounter SPECIES_SEAKING, 15, 25
+encounter SPECIES_GOLDEEN, 20, 25
+encounter SPECIES_GOLDEEN, 20, 25
+encounter SPECIES_SEAKING, 20, 25
+encounter SPECIES_SEAKING, 20, 25
+encounter SPECIES_SEAKING, 20, 25
 
 // rock smash encounters
 encounter SPECIES_NONE, 0, 0
