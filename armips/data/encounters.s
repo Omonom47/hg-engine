@@ -7455,11 +7455,11 @@ pokemon SPECIES_BUIZEL
 pokemon SPECIES_BIDOOF
 
 // surf encounters
-encounter SPECIES_TENTACOOL, 15, 25
-encounter SPECIES_SEEL, 10, 20
-encounter SPECIES_STARYU, 15, 25
-encounter SPECIES_STARYU, 15, 25
-encounter SPECIES_STARYU, 15, 25
+encounter SPECIES_TENTACOOL, 20, 25
+encounter SPECIES_SEEL, 20, 25
+encounter SPECIES_STARYU, 20, 25
+encounter SPECIES_STARYU, 20, 25
+encounter SPECIES_STARYU, 20, 25
 
 // rock smash encounters
 encounter SPECIES_NONE, 0, 0
