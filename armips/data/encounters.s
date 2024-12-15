@@ -6000,9 +6000,9 @@ pokemon SPECIES_BIDOOF
 
 // surf encounters
 encounter SPECIES_MAGIKARP, 15, 25
-encounter SPECIES_MAGIKARP, 10, 20
-encounter SPECIES_MAGIKARP, 5, 15
-encounter SPECIES_MAGIKARP, 5, 15
+encounter SPECIES_REMORAID, 20, 25
+encounter SPECIES_MAGIKARP, 15, 25
+encounter SPECIES_MAGIKARP, 15, 25
 encounter SPECIES_MAGIKARP, 50, 50
 
 // rock smash encounters
