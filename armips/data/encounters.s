@@ -10626,7 +10626,7 @@ rocksmashrate 0
 oldrodrate 0
 goodrodrate 0
 superrodrate 0
-walklevels 25, 20, 20, 21, 22, 24, 21, 20, 20, 22, 22, 24
+walklevels 28, 24, 24, 25, 26, 27, 25, 24, 24, 26, 26, 27
 
 // morning encounter slots
 pokemon SPECIES_FARFETCHD
