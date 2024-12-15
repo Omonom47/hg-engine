@@ -4335,11 +4335,11 @@ pokemon SPECIES_NONE
 pokemon SPECIES_NONE
 
 // surf encounters
-encounter SPECIES_TENTACOOL, 15, 25
-encounter SPECIES_TENTACOOL, 15, 25
-encounter SPECIES_TENTACRUEL, 15, 25
-encounter SPECIES_TENTACRUEL, 15, 25
-encounter SPECIES_TENTACRUEL, 15, 25
+encounter SPECIES_TENTACOOL, 20, 23
+encounter SPECIES_TENTACOOL, 20, 23
+encounter SPECIES_TENTACRUEL, 22, 25
+encounter SPECIES_TENTACRUEL, 22, 25
+encounter SPECIES_TENTACRUEL, 22, 25
 
 // rock smash encounters
 encounter SPECIES_NONE, 0, 0
@@ -4439,11 +4439,11 @@ pokemon SPECIES_NONE
 pokemon SPECIES_NONE
 
 // surf encounters
-encounter SPECIES_TENTACOOL, 15, 25
-encounter SPECIES_TENTACRUEL, 15, 25
-encounter SPECIES_MANTINE, 15, 25
-encounter SPECIES_MANTINE, 15, 25
-encounter SPECIES_MANTINE, 15, 25
+encounter SPECIES_TENTACOOL, 20, 23
+encounter SPECIES_TENTACRUEL, 22, 25
+encounter SPECIES_MANTINE, 22, 25
+encounter SPECIES_MANTINE, 22, 25
+encounter SPECIES_MANTINE, 22, 25
 
 // rock smash encounters
 encounter SPECIES_NONE, 0, 0
