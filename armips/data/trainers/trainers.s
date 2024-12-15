@@ -18306,14 +18306,14 @@ trainerdata 537, "Harrison"
         // mon 0
         ivs 0
         abilityslot 32
-        level 17
+        level 21
         pokemon SPECIES_NIDOKING
         ballseal 0
 
         // mon 1
         ivs 0
         abilityslot 0
-        level 17
+        level 21
         pokemon SPECIES_NIDOQUEEN
         ballseal 0
     endparty
@@ -18359,11 +18359,11 @@ trainerdata 539, "Markus"
         // mon 0
         ivs 0
         abilityslot 32
-        level 19
+        level 23
         pokemon SPECIES_SLOWPOKE
         move MOVE_CURSE
-        move MOVE_WATER_GUN
-        move MOVE_GROWL
+        move MOVE_WATER_PULSE
+        move MOVE_CONFUSION
         move MOVE_STRENGTH
         ballseal 0
     endparty
