@@ -5946,7 +5946,7 @@ rocksmashrate 0
 oldrodrate 40
 goodrodrate 65
 superrodrate 90
-walklevels 15, 15, 15, 15, 17, 17, 15, 15, 16, 17, 16, 17
+walklevels 19, 19, 19, 19, 21, 21, 19, 19, 20, 21, 20, 21
 
 // morning encounter slots
 pokemon SPECIES_FLAAFFY
