@@ -2561,14 +2561,14 @@ trainerdata 82, "Toby"
         // mon 0
         ivs 50
         abilityslot 32
-        level 16
+        level 19
         pokemon SPECIES_DODUO
         ballseal 0
 
         // mon 1
         ivs 50
         abilityslot 32
-        level 17
+        level 19
         pokemon SPECIES_DODUO
         ballseal 0
 
@@ -13369,7 +13369,7 @@ trainerdata 397, "Chad"
         // mon 0
         ivs 0
         abilityslot 0
-        level 20
+        level 22
         pokemon SPECIES_MR_MIME
         ballseal 0
     endparty
@@ -13390,10 +13390,10 @@ trainerdata 398, "Valerie"
         // mon 0
         ivs 0
         abilityslot 0
-        level 18
+        level 20
         pokemon SPECIES_HOPPIP
-        move MOVE_MEGA_DRAIN
-        move MOVE_TAIL_WHIP
+        move MOVE_BULLET_SEED
+        move MOVE_FAIRY_WIND
         move MOVE_TACKLE
         move MOVE_POISON_POWDER
         ballseal 0
@@ -13401,12 +13401,12 @@ trainerdata 398, "Valerie"
         // mon 1
         ivs 0
         abilityslot 32
-        level 18
+        level 20
         pokemon SPECIES_SKIPLOOM
-        move MOVE_MEGA_DRAIN
-        move MOVE_TAIL_WHIP
+        move MOVE_BULLET_SEED
+        move MOVE_FAIRY_WIND
         move MOVE_TACKLE
-        move MOVE_STUN_SPORE
+        move MOVE_SLEEP_POWDER
         ballseal 0
     endparty
 
@@ -13461,7 +13461,7 @@ trainerdata 400, "Dana"
         // mon 0
         ivs 0
         abilityslot 0
-        level 19
+        level 20
         pokemon SPECIES_FLAAFFY
         move MOVE_TACKLE
         move MOVE_GROWL
@@ -13472,7 +13472,7 @@ trainerdata 400, "Dana"
         // mon 1
         ivs 0
         abilityslot 0
-        level 19
+        level 20
         pokemon SPECIES_PSYDUCK
         move MOVE_WATER_GUN
         move MOVE_TAIL_WHIP
@@ -13771,8 +13771,8 @@ trainerdata 410, "Harry"
         // mon 0
         ivs 0
         abilityslot 32
-        level 20
-        pokemon SPECIES_WOOPER
+        level 22
+        pokemon SPECIES_QUAGSIRE
         move MOVE_WATER_GUN
         move MOVE_MUD_BOMB
         move MOVE_SLAM
