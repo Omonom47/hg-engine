@@ -3877,7 +3877,7 @@ trainerdata 122, "Marvin"
         // mon 0
         ivs 0
         abilityslot 0
-        level 10
+        level 19
         pokemon SPECIES_MAGIKARP
         move MOVE_SPLASH
         move MOVE_TACKLE
@@ -3888,18 +3888,18 @@ trainerdata 122, "Marvin"
         // mon 1
         ivs 0
         abilityslot 0
-        level 20
+        level 23
         pokemon SPECIES_GYARADOS
         move MOVE_THRASH
-        move MOVE_SURF
-        move MOVE_NONE
+        move MOVE_WATERFALL
+        move MOVE_BITE
         move MOVE_NONE
         ballseal 0
 
         // mon 2
         ivs 0
         abilityslot 0
-        level 15
+        level 19
         pokemon SPECIES_MAGIKARP
         move MOVE_SPLASH
         move MOVE_TACKLE
@@ -4149,7 +4149,7 @@ trainerdata 130, "Beckett"
         // mon 0
         ivs 0
         abilityslot 0
-        level 20
+        level 25
         pokemon SPECIES_SLOWBRO
         ballseal 0
     endparty
@@ -4170,7 +4170,7 @@ trainerdata 131, "Brent"
         // mon 0
         ivs 0
         abilityslot 0
-        level 20
+        level 21
         pokemon SPECIES_NIDORINA
         ballseal 0
 
@@ -4198,7 +4198,7 @@ trainerdata 132, "Ron"
         // mon 0
         ivs 0
         abilityslot 32
-        level 20
+        level 25
         pokemon SPECIES_NIDOKING
         ballseal 0
     endparty
@@ -13518,7 +13518,7 @@ trainerdata 402, "Tiffany"
         // mon 0
         ivs 0
         abilityslot 0
-        level 21
+        level 25
         pokemon SPECIES_CLEFAIRY
         move MOVE_ENCORE
         move MOVE_SING
@@ -13543,21 +13543,21 @@ trainerdata 403, "Spencer"
         // mon 0
         ivs 0
         abilityslot 0
-        level 18
+        level 21
         pokemon SPECIES_SANDSHREW
         ballseal 0
 
         // mon 1
         ivs 0
         abilityslot 0
-        level 18
+        level 22
         pokemon SPECIES_SANDSLASH
         ballseal 0
 
         // mon 2
         ivs 0
         abilityslot 0
-        level 20
+        level 21
         pokemon SPECIES_ZUBAT
         ballseal 0
     endparty
