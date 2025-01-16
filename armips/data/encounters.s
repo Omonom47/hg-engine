@@ -6832,10 +6832,10 @@ pokemon SPECIES_NONE
 
 // surf encounters
 encounter SPECIES_MAGIKARP, 10, 20
-encounter SPECIES_MAGIKARP, 5, 15
-encounter SPECIES_MAGIKARP, 2, 10
-encounter SPECIES_MAGIKARP, 2, 10
-encounter SPECIES_MAGIKARP, 2, 10
+encounter SPECIES_MAGIKARP, 15, 25
+encounter SPECIES_REMORAID, 15, 25
+encounter SPECIES_REMORAID, 15, 25
+encounter SPECIES_REMORAID, 15, 25
 
 // rock smash encounters
 encounter SPECIES_NONE, 0, 0
