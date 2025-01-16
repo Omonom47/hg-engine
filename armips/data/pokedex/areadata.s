@@ -3187,7 +3187,6 @@ specialareas SPECIES_BELLSPROUT, DEX_NIGHT
 routesandcities SPECIES_BELLSPROUT, DEX_MORNING
     .word DEX_ROUTE_31
     .word DEX_ROUTE_32
-    .word DEX_ROUTE_44
     .word DEX_ROUTE_5
     .word DEX_ROUTE_6
     .word DEX_ROUTE_24
@@ -3198,7 +3197,6 @@ routesandcities SPECIES_BELLSPROUT, DEX_MORNING
 routesandcities SPECIES_BELLSPROUT, DEX_DAY
     .word DEX_ROUTE_31
     .word DEX_ROUTE_32
-    .word DEX_ROUTE_44
     .word DEX_ROUTE_5
     .word DEX_ROUTE_6
     .word DEX_ROUTE_24
@@ -3209,7 +3207,6 @@ routesandcities SPECIES_BELLSPROUT, DEX_DAY
 routesandcities SPECIES_BELLSPROUT, DEX_NIGHT
     .word DEX_ROUTE_31
     .word DEX_ROUTE_32
-    .word DEX_ROUTE_44
     .word DEX_ROUTE_5
     .word DEX_ROUTE_6
     .word DEX_ROUTE_24
@@ -9115,14 +9112,17 @@ specialareas SPECIES_TEDDIURSA, DEX_NIGHT
 
 
 routesandcities SPECIES_TEDDIURSA, DEX_MORNING
+    .word DEX_ROUTE_44
     dexendareadata
 
 
 routesandcities SPECIES_TEDDIURSA, DEX_DAY
+    .word DEX_ROUTE_44
     dexendareadata
 
 
 routesandcities SPECIES_TEDDIURSA, DEX_NIGHT
+    .word DEX_ROUTE_44
     dexendareadata
 
 
