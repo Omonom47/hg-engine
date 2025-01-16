@@ -3952,14 +3952,14 @@ trainerdata 124, "Wilton"
         // mon 1
         ivs 0
         abilityslot 0
-        level 26
+        level 27
         pokemon SPECIES_GOLDEEN
         ballseal 0
 
         // mon 2
         ivs 0
         abilityslot 0
-        level 28
+        level 29
         pokemon SPECIES_SEAKING
         ballseal 0
     endparty
@@ -3980,7 +3980,7 @@ trainerdata 125, "Edgar"
         // mon 0
         ivs 0
         abilityslot 0
-        level 28
+        level 29
         pokemon SPECIES_REMORAID
         move MOVE_LOCK_ON
         move MOVE_PSYBEAM
@@ -3991,8 +3991,8 @@ trainerdata 125, "Edgar"
         // mon 1
         ivs 0
         abilityslot 32
-        level 28
-        pokemon SPECIES_REMORAID
+        level 29
+        pokemon SPECIES_OCTILLERY
         move MOVE_LOCK_ON
         move MOVE_PSYBEAM
         move MOVE_AURORA_BEAM
@@ -4364,14 +4364,14 @@ trainerdata 137, "Vance"
         // mon 0
         ivs 50
         abilityslot 0
-        level 28
+        level 29
         pokemon SPECIES_HOOTHOOT
         ballseal 0
 
         // mon 1
         ivs 50
         abilityslot 0
-        level 28
+        level 29
         pokemon SPECIES_PIDGEOTTO
         ballseal 0
     endparty
@@ -13614,9 +13614,9 @@ trainerdata 405, "Phil"
         // mon 0
         ivs 0
         abilityslot 0
-        level 27
+        level 28
         pokemon SPECIES_NATU
-        move MOVE_LEER
+        move MOVE_PECK
         move MOVE_NIGHT_SHADE
         move MOVE_ME_FIRST
         move MOVE_CONFUSE_RAY
@@ -13625,10 +13625,10 @@ trainerdata 405, "Phil"
         // mon 1
         ivs 0
         abilityslot 0
-        level 29
+        level 30
         pokemon SPECIES_KADABRA
         move MOVE_DISABLE
-        move MOVE_PSYBEAM
+        move MOVE_PSYSHOCK
         move MOVE_REFLECT
         move MOVE_CHARGE_BEAM
         ballseal 0
@@ -13671,7 +13671,7 @@ trainerdata 407, "Allen"
         // mon 0
         ivs 50
         abilityslot 0
-        level 29
+        level 30
         pokemon SPECIES_CHARMELEON
         move MOVE_EMBER
         move MOVE_SMOKESCREEN
@@ -13682,12 +13682,12 @@ trainerdata 407, "Allen"
         // mon 1
         ivs 50
         abilityslot 0
-        level 29
-        pokemon SPECIES_MAGNEMITE
+        level 30
+        pokemon SPECIES_MAGNETON
         move MOVE_SPARK
         move MOVE_THUNDER_WAVE
         move MOVE_SUPERSONIC
-        move MOVE_METAL_SOUND
+        move MOVE_MIRROR_SHOT
         ballseal 0
     endparty
 
@@ -13707,8 +13707,8 @@ trainerdata 408, "Cybil"
         // mon 0
         ivs 50
         abilityslot 0
-        level 29
-        pokemon SPECIES_MAREEP
+        level 30
+        pokemon SPECIES_FLAAFFY
         move MOVE_DISCHARGE
         move MOVE_COTTON_SPORE
         move MOVE_CHARGE
@@ -13718,7 +13718,7 @@ trainerdata 408, "Cybil"
         // mon 1
         ivs 50
         abilityslot 0
-        level 29
+        level 30
         pokemon SPECIES_BELLOSSOM
         move MOVE_MEGA_DRAIN
         move MOVE_STUN_SPORE
