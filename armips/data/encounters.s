@@ -6104,10 +6104,10 @@ pokemon SPECIES_NONE
 
 // surf encounters
 encounter SPECIES_MAGIKARP, 10, 20
-encounter SPECIES_MAGIKARP, 5, 15
-encounter SPECIES_GYARADOS, 10, 20
-encounter SPECIES_GYARADOS, 10, 20
-encounter SPECIES_GYARADOS, 10, 20
+encounter SPECIES_MAGIKARP, 10, 20
+encounter SPECIES_GYARADOS, 15, 25
+encounter SPECIES_GYARADOS, 15, 25
+encounter SPECIES_GYARADOS, 20, 26
 
 // rock smash encounters
 encounter SPECIES_NONE, 0, 0
