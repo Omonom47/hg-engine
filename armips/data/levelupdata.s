@@ -4403,7 +4403,7 @@ levelup SPECIES_SUNFLORA
     learnset MOVE_GRASS_WHISTLE, 7
     learnset MOVE_MEGA_DRAIN, 10
     learnset MOVE_LEECH_SEED, 13
-    learnset MOVE_RAZOR_LEAF, 16
+    learnset MOVE_EMBER, 16
     learnset MOVE_WORRY_SEED, 19
     learnset MOVE_GIGA_DRAIN, 22
     learnset MOVE_INCINERATE, 25
