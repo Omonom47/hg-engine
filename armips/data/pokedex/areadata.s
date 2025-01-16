@@ -9514,14 +9514,17 @@ specialareas SPECIES_SKARMORY, DEX_NIGHT
 
 
 routesandcities SPECIES_SKARMORY, DEX_MORNING
+    .word DEX_ROUTE_45
     dexendareadata
 
 
 routesandcities SPECIES_SKARMORY, DEX_DAY
+    .word DEX_ROUTE_45
     dexendareadata
 
 
 routesandcities SPECIES_SKARMORY, DEX_NIGHT
+    .word DEX_ROUTE_45
     dexendareadata
 
 
