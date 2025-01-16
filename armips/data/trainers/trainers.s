@@ -529,7 +529,7 @@ trainerdata 17, "Kenji"
         // mon 0
         ivs 30
         abilityslot 0
-        level 28
+        level 30
         pokemon SPECIES_MACHOKE
         ballseal 0
     endparty
@@ -3428,7 +3428,7 @@ trainerdata 108, "Ryan"
         // mon 0
         ivs 50
         abilityslot 0
-        level 25
+        level 31
         pokemon SPECIES_PIDGEOT
         move MOVE_SAND_ATTACK
         move MOVE_QUICK_ATTACK
@@ -3439,12 +3439,12 @@ trainerdata 108, "Ryan"
         // mon 1
         ivs 50
         abilityslot 0
-        level 27
+        level 31
         pokemon SPECIES_ELECTABUZZ
         move MOVE_THUNDER_PUNCH
         move MOVE_LIGHT_SCREEN
         move MOVE_SWIFT
-        move MOVE_SCREECH
+        move MOVE_LOW_KICK
         ballseal 0
     endparty
 
@@ -3842,21 +3842,21 @@ trainerdata 121, "Kelly"
         // mon 0
         ivs 50
         abilityslot 0
-        level 27
-        pokemon SPECIES_MARILL
+        level 30
+        pokemon SPECIES_AZUMARILL
         ballseal 0
 
         // mon 1
         ivs 50
         abilityslot 0
-        level 24
+        level 29
         pokemon SPECIES_WARTORTLE
         ballseal 0
 
         // mon 2
         ivs 50
         abilityslot 0
-        level 24
+        level 29
         pokemon SPECIES_WARTORTLE
         ballseal 0
     endparty
@@ -4518,21 +4518,21 @@ trainerdata 143, "Erik"
         // mon 0
         ivs 0
         abilityslot 0
-        level 24
+        level 26
         pokemon SPECIES_MACHOP
         ballseal 0
 
         // mon 1
         ivs 0
         abilityslot 32
-        level 27
+        level 29
         pokemon SPECIES_GRAVELER
         ballseal 0
 
         // mon 2
         ivs 0
         abilityslot 0
-        level 27
+        level 29
         pokemon SPECIES_MACHOP
         ballseal 0
     endparty
@@ -4553,21 +4553,21 @@ trainerdata 144, "Michael"
         // mon 0
         ivs 0
         abilityslot 32
-        level 25
+        level 26
         pokemon SPECIES_GEODUDE
         ballseal 0
 
         // mon 1
         ivs 0
         abilityslot 32
-        level 25
+        level 26
         pokemon SPECIES_GRAVELER
         ballseal 0
 
         // mon 2
         ivs 0
         abilityslot 32
-        level 25
+        level 27
         pokemon SPECIES_GOLEM
         ballseal 0
     endparty
@@ -4609,7 +4609,7 @@ trainerdata 146, "Timothy"
         // mon 0
         ivs 0
         abilityslot 0
-        level 27
+        level 28
         pokemon SPECIES_DIGLETT
         move MOVE_EARTH_POWER
         move MOVE_DIG
@@ -4620,7 +4620,7 @@ trainerdata 146, "Timothy"
         // mon 1
         ivs 0
         abilityslot 0
-        level 27
+        level 28
         pokemon SPECIES_DUGTRIO
         move MOVE_EARTH_POWER
         move MOVE_DIG
