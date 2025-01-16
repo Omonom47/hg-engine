@@ -7194,7 +7194,7 @@ rocksmashrate 50
 oldrodrate 40
 goodrodrate 65
 superrodrate 90
-walklevels 3, 2, 3, 2, 2, 2, 4, 4, 3, 4, 3, 4
+walklevels 3, 2, 3, 3, 2, 2, 4, 4, 3, 4, 3, 4
 
 // morning encounter slots
 pokemon SPECIES_GEODUDE
@@ -7204,10 +7204,10 @@ pokemon SPECIES_ZUBAT
 pokemon SPECIES_GEODUDE
 pokemon SPECIES_GEODUDE
 pokemon SPECIES_GEODUDE
-pokemon SPECIES_GEODUDE
 pokemon SPECIES_ZUBAT
-pokemon SPECIES_ZUBAT
-pokemon SPECIES_ZUBAT
+pokemon SPECIES_DUNSPARCE
+pokemon SPECIES_DUNSPARCE
+pokemon SPECIES_DUNSPARCE
 pokemon SPECIES_DUNSPARCE
 
 // day encounter slots
@@ -7218,10 +7218,10 @@ pokemon SPECIES_ZUBAT
 pokemon SPECIES_GEODUDE
 pokemon SPECIES_GEODUDE
 pokemon SPECIES_GEODUDE
-pokemon SPECIES_GEODUDE
 pokemon SPECIES_ZUBAT
-pokemon SPECIES_ZUBAT
-pokemon SPECIES_ZUBAT
+pokemon SPECIES_DUNSPARCE
+pokemon SPECIES_DUNSPARCE
+pokemon SPECIES_DUNSPARCE
 pokemon SPECIES_DUNSPARCE
 
 // night encounter slots
@@ -7232,10 +7232,10 @@ pokemon SPECIES_ZUBAT
 pokemon SPECIES_GEODUDE
 pokemon SPECIES_GEODUDE
 pokemon SPECIES_GEODUDE
-pokemon SPECIES_GEODUDE
 pokemon SPECIES_ZUBAT
-pokemon SPECIES_ZUBAT
-pokemon SPECIES_ZUBAT
+pokemon SPECIES_DUNSPARCE
+pokemon SPECIES_DUNSPARCE
+pokemon SPECIES_DUNSPARCE
 pokemon SPECIES_DUNSPARCE
 
 // hoenn encounter slots
@@ -7298,13 +7298,13 @@ rocksmashrate 0
 oldrodrate 40
 goodrodrate 65
 superrodrate 90
-walklevels 23, 23, 23, 23, 25, 25, 20, 20, 25, 23, 25, 23
+walklevels 25, 25, 25, 25, 27, 27, 23, 23, 27, 26, 27, 26
 
 // morning encounter slots
 pokemon SPECIES_GEODUDE
 pokemon SPECIES_ZUBAT
 pokemon SPECIES_GEODUDE
-pokemon SPECIES_ZUBAT
+pokemon SPECIES_GOLBAT
 pokemon SPECIES_GRAVELER
 pokemon SPECIES_GRAVELER
 pokemon SPECIES_WOBBUFFET
@@ -7318,7 +7318,7 @@ pokemon SPECIES_GOLBAT
 pokemon SPECIES_GEODUDE
 pokemon SPECIES_ZUBAT
 pokemon SPECIES_GEODUDE
-pokemon SPECIES_ZUBAT
+pokemon SPECIES_GOLBAT
 pokemon SPECIES_GRAVELER
 pokemon SPECIES_GRAVELER
 pokemon SPECIES_WOBBUFFET
@@ -7332,7 +7332,7 @@ pokemon SPECIES_GOLBAT
 pokemon SPECIES_GEODUDE
 pokemon SPECIES_ZUBAT
 pokemon SPECIES_GEODUDE
-pokemon SPECIES_ZUBAT
+pokemon SPECIES_GOLBAT
 pokemon SPECIES_GRAVELER
 pokemon SPECIES_GRAVELER
 pokemon SPECIES_WOBBUFFET
