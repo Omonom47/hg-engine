@@ -1364,14 +1364,17 @@ specialareas SPECIES_ARBOK, DEX_NIGHT
 
 
 routesandcities SPECIES_ARBOK, DEX_MORNING
+    .word DEX_ROUTE_27
     dexendareadata
 
 
 routesandcities SPECIES_ARBOK, DEX_DAY
+    .word DEX_ROUTE_27
     dexendareadata
 
 
 routesandcities SPECIES_ARBOK, DEX_NIGHT
+    .word DEX_ROUTE_27
     dexendareadata
 
 
