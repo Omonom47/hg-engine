@@ -4162,14 +4162,17 @@ routesandcities SPECIES_MUK, DEX_SPECIAL
 
 
 specialareas SPECIES_SHELLDER, DEX_MORNING
+    .word DEX_TOHJO_FALLS
     dexendareadata
 
 
 specialareas SPECIES_SHELLDER, DEX_DAY
+    .word DEX_TOHJO_FALLS
     dexendareadata
 
 
 specialareas SPECIES_SHELLDER, DEX_NIGHT
+    .word DEX_TOHJO_FALLS
     dexendareadata
 
 

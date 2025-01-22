@@ -10887,11 +10887,11 @@ pokemon SPECIES_BUIZEL
 pokemon SPECIES_BIDOOF
 
 // surf encounters
-encounter SPECIES_TENTACOOL, 20, 20
-encounter SPECIES_TENTACOOL, 15, 15
-encounter SPECIES_TENTACRUEL, 20, 20
-encounter SPECIES_TENTACRUEL, 20, 20
-encounter SPECIES_TENTACRUEL, 20, 20
+encounter SPECIES_TENTACOOL, 20, 25
+encounter SPECIES_TENTACRUEL, 20, 30
+encounter SPECIES_TENTACRUEL, 20, 30
+encounter SPECIES_TENTACRUEL, 20, 30
+encounter SPECIES_TENTACRUEL, 20, 30
 
 // rock smash encounters
 encounter SPECIES_NONE, 0, 0
@@ -10900,16 +10900,16 @@ encounter SPECIES_NONE, 0, 0
 // old rod encounters
 encounter SPECIES_MAGIKARP, 10, 10
 encounter SPECIES_MAGIKARP, 10, 10
-encounter SPECIES_MAGIKARP, 10, 10
 encounter SPECIES_TENTACOOL, 10, 10
-encounter SPECIES_TENTACOOL, 10, 10
+encounter SPECIES_CHINCHOU, 10, 10
+encounter SPECIES_CHINCHOU, 10, 10
 
 // good rod encounters
-encounter SPECIES_MAGIKARP, 20, 20
 encounter SPECIES_TENTACOOL, 20, 20
 encounter SPECIES_CHINCHOU, 20, 20
+encounter SPECIES_MAGIKARP, 20, 20
 encounter SPECIES_SHELLDER, 20, 20
-encounter SPECIES_CHINCHOU, 20, 20
+encounter SPECIES_SHELLDER, 20, 20
 
 // super rod encounters
 encounter SPECIES_CHINCHOU, 40, 40
@@ -13810,25 +13810,25 @@ encounter SPECIES_NONE, 0, 0
 encounter SPECIES_NONE, 0, 0
 
 // old rod encounters
-encounter SPECIES_MAGIKARP, 10, 10
-encounter SPECIES_MAGIKARP, 10, 10
-encounter SPECIES_MAGIKARP, 10, 10
 encounter SPECIES_GOLDEEN, 10, 10
 encounter SPECIES_GOLDEEN, 10, 10
+encounter SPECIES_MAGIKARP, 10, 10
+encounter SPECIES_MAGIKARP, 10, 10
+encounter SPECIES_MAGIKARP, 10, 10
 
 // good rod encounters
+encounter SPECIES_GOLDEEN, 20, 20
 encounter SPECIES_MAGIKARP, 20, 20
-encounter SPECIES_GOLDEEN, 20, 20
-encounter SPECIES_GOLDEEN, 20, 20
-encounter SPECIES_GOLDEEN, 20, 20
-encounter SPECIES_GOLDEEN, 20, 20
+encounter SPECIES_SHELLDER, 20, 20
+encounter SPECIES_SHELLDER, 20, 20
+encounter SPECIES_SHELLDER, 20, 20
 
 // super rod encounters
 encounter SPECIES_GOLDEEN, 40, 40
-encounter SPECIES_GOLDEEN, 40, 40
+encounter SPECIES_SHELLDER, 40, 40
 encounter SPECIES_MAGIKARP, 40, 40
 encounter SPECIES_SEAKING, 40, 40
-encounter SPECIES_MAGIKARP, 40, 40
+encounter SPECIES_SEAKING, 40, 40
 
 // swarm grass
 pokemon SPECIES_ZUBAT
