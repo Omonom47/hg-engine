@@ -11458,7 +11458,7 @@ rocksmashrate 0
 oldrodrate 0
 goodrodrate 0
 superrodrate 0
-walklevels 32, 32, 32, 32, 33, 33, 34, 34, 36, 35, 36, 35
+walklevels 34, 34, 34, 34, 35, 35, 36, 36, 38, 37, 38, 37
 
 // morning encounter slots
 pokemon SPECIES_GRAVELER
@@ -11469,9 +11469,9 @@ pokemon SPECIES_DONPHAN
 pokemon SPECIES_DONPHAN
 pokemon SPECIES_ONIX
 pokemon SPECIES_ONIX
-pokemon SPECIES_ONIX
 pokemon SPECIES_RHYHORN
-pokemon SPECIES_ONIX
+pokemon SPECIES_RHYHORN
+pokemon SPECIES_RHYHORN
 pokemon SPECIES_RHYHORN
 
 // day encounter slots
@@ -11483,9 +11483,9 @@ pokemon SPECIES_DONPHAN
 pokemon SPECIES_DONPHAN
 pokemon SPECIES_ONIX
 pokemon SPECIES_ONIX
-pokemon SPECIES_ONIX
 pokemon SPECIES_RHYHORN
-pokemon SPECIES_ONIX
+pokemon SPECIES_RHYHORN
+pokemon SPECIES_RHYHORN
 pokemon SPECIES_RHYHORN
 
 // night encounter slots
@@ -11497,9 +11497,9 @@ pokemon SPECIES_DONPHAN
 pokemon SPECIES_DONPHAN
 pokemon SPECIES_ONIX
 pokemon SPECIES_ONIX
-pokemon SPECIES_ONIX
 pokemon SPECIES_RHYHORN
-pokemon SPECIES_ONIX
+pokemon SPECIES_RHYHORN
+pokemon SPECIES_RHYHORN
 pokemon SPECIES_RHYHORN
 
 // hoenn encounter slots
@@ -13954,7 +13954,7 @@ rocksmashrate 0
 oldrodrate 0
 goodrodrate 0
 superrodrate 0
-walklevels 32, 32, 32, 32, 33, 33, 34, 34, 36, 35, 36, 35
+walklevels 35, 35, 34, 34, 36, 36, 37, 37, 39, 38, 39, 38
 
 // morning encounter slots
 pokemon SPECIES_GRAVELER
@@ -13965,9 +13965,9 @@ pokemon SPECIES_DONPHAN
 pokemon SPECIES_DONPHAN
 pokemon SPECIES_ONIX
 pokemon SPECIES_ONIX
-pokemon SPECIES_ONIX
 pokemon SPECIES_RHYHORN
-pokemon SPECIES_ONIX
+pokemon SPECIES_RHYHORN
+pokemon SPECIES_RHYHORN
 pokemon SPECIES_RHYHORN
 
 // day encounter slots
@@ -13979,9 +13979,9 @@ pokemon SPECIES_DONPHAN
 pokemon SPECIES_DONPHAN
 pokemon SPECIES_ONIX
 pokemon SPECIES_ONIX
-pokemon SPECIES_ONIX
 pokemon SPECIES_RHYHORN
-pokemon SPECIES_ONIX
+pokemon SPECIES_RHYHORN
+pokemon SPECIES_RHYHORN
 pokemon SPECIES_RHYHORN
 
 // night encounter slots
@@ -13993,9 +13993,9 @@ pokemon SPECIES_DONPHAN
 pokemon SPECIES_DONPHAN
 pokemon SPECIES_ONIX
 pokemon SPECIES_ONIX
-pokemon SPECIES_ONIX
 pokemon SPECIES_RHYHORN
-pokemon SPECIES_ONIX
+pokemon SPECIES_RHYHORN
+pokemon SPECIES_RHYHORN
 pokemon SPECIES_RHYHORN
 
 // hoenn encounter slots
@@ -14058,7 +14058,7 @@ rocksmashrate 40
 oldrodrate 0
 goodrodrate 0
 superrodrate 0
-walklevels 32, 32, 32, 32, 33, 33, 34, 34, 36, 35, 36, 35
+walklevels 36, 36, 35, 35, 37, 38, 38, 38, 40, 39, 40, 39
 
 // morning encounter slots
 pokemon SPECIES_GRAVELER
@@ -14069,9 +14069,9 @@ pokemon SPECIES_DONPHAN
 pokemon SPECIES_DONPHAN
 pokemon SPECIES_ONIX
 pokemon SPECIES_ONIX
-pokemon SPECIES_ONIX
 pokemon SPECIES_RHYHORN
-pokemon SPECIES_ONIX
+pokemon SPECIES_RHYHORN
+pokemon SPECIES_RHYHORN
 pokemon SPECIES_RHYHORN
 
 // day encounter slots
@@ -14083,9 +14083,9 @@ pokemon SPECIES_DONPHAN
 pokemon SPECIES_DONPHAN
 pokemon SPECIES_ONIX
 pokemon SPECIES_ONIX
-pokemon SPECIES_ONIX
 pokemon SPECIES_RHYHORN
-pokemon SPECIES_ONIX
+pokemon SPECIES_RHYHORN
+pokemon SPECIES_RHYHORN
 pokemon SPECIES_RHYHORN
 
 // night encounter slots
@@ -14097,9 +14097,9 @@ pokemon SPECIES_DONPHAN
 pokemon SPECIES_DONPHAN
 pokemon SPECIES_ONIX
 pokemon SPECIES_ONIX
-pokemon SPECIES_ONIX
 pokemon SPECIES_RHYHORN
-pokemon SPECIES_ONIX
+pokemon SPECIES_RHYHORN
+pokemon SPECIES_RHYHORN
 pokemon SPECIES_RHYHORN
 
 // hoenn encounter slots
