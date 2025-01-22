@@ -9083,7 +9083,7 @@ movedata MOVE_ROTOTILLER, "Rototiller"
     movedescription MOVE_ROTOTILLER, "---"
 
 movedata MOVE_STICKY_WEB, "Sticky Web"
-    battleeffect MOVE_EFFECT_STICKY_WEB
+    battleeffect MOVE_EFFECT_HIT
     pss SPLIT_STATUS
     basepower 0
     type TYPE_BUG
@@ -9096,7 +9096,7 @@ movedata MOVE_STICKY_WEB, "Sticky Web"
     appeal 0x00
     contesttype CONTEST_COOL
     terminatedata
-    movedescription MOVE_STICKY_WEB, "The user weaves a web\naround the foe.\nIt lowers the foes\nSpeed upon switching\nin."
+    movedescription MOVE_STICKY_WEB, "---"
 
 movedata MOVE_FELL_STINGER, "Fell Stinger"
     battleeffect MOVE_EFFECT_HIT
