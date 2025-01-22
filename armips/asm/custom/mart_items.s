@@ -135,7 +135,7 @@ const u16 *_0210FA3C[] = {
 .org 0x020FBA78
 .halfword ITEM_ICY_ROCK
 .halfword ITEM_SMOOTH_ROCK
-.halfword ITEM_HEAL_BALL
+.halfword ITEM_NET_BALL
 .halfword 0xFFFF
 
 /* const u16 _020FBA80[] = {ITEM_AIR_MAIL, ITEM_NET_BALL, ITEM_DUSK_BALL, 0xFFFF}; */
