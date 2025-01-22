@@ -26,12 +26,8 @@
 
 .include "armips/asm/custom/mart_items.s"
 
-.if REUSABLE_TMS == 1
-
 .include "armips/asm/tm.s" // make tms infinite
 .include "armips/asm/forget_hm.s" // allows hm to be forgotten
-
-.endif
 
 .if FAIRY_TYPE_IMPLEMENTED == 1
 
