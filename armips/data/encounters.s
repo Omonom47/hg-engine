@@ -13746,48 +13746,48 @@ rocksmashrate 0
 oldrodrate 40
 goodrodrate 65
 superrodrate 90
-walklevels 22, 22, 22, 22, 22, 22, 21, 21, 20, 23, 20, 23
+walklevels 26, 26, 26, 26, 26, 26, 25, 25, 25, 27, 25, 27
 
 // morning encounter slots
 pokemon SPECIES_ZUBAT
 pokemon SPECIES_RATICATE
-pokemon SPECIES_ZUBAT
+pokemon SPECIES_TYROGUE
 pokemon SPECIES_RATICATE
 pokemon SPECIES_GOLBAT
 pokemon SPECIES_GOLBAT
 pokemon SPECIES_SLOWPOKE
 pokemon SPECIES_SLOWPOKE
-pokemon SPECIES_RATTATA
 pokemon SPECIES_SLOWPOKE
-pokemon SPECIES_RATTATA
+pokemon SPECIES_SLOWPOKE
+pokemon SPECIES_SLOWPOKE
 pokemon SPECIES_SLOWPOKE
 
 // day encounter slots
 pokemon SPECIES_ZUBAT
 pokemon SPECIES_RATICATE
-pokemon SPECIES_ZUBAT
+pokemon SPECIES_TYROGUE
 pokemon SPECIES_RATICATE
 pokemon SPECIES_GOLBAT
 pokemon SPECIES_GOLBAT
 pokemon SPECIES_SLOWPOKE
 pokemon SPECIES_SLOWPOKE
-pokemon SPECIES_RATTATA
 pokemon SPECIES_SLOWPOKE
-pokemon SPECIES_RATTATA
+pokemon SPECIES_SLOWPOKE
+pokemon SPECIES_SLOWPOKE
 pokemon SPECIES_SLOWPOKE
 
 // night encounter slots
 pokemon SPECIES_ZUBAT
 pokemon SPECIES_RATICATE
-pokemon SPECIES_ZUBAT
+pokemon SPECIES_TYROGUE
 pokemon SPECIES_RATICATE
 pokemon SPECIES_GOLBAT
 pokemon SPECIES_GOLBAT
 pokemon SPECIES_SLOWPOKE
 pokemon SPECIES_SLOWPOKE
-pokemon SPECIES_RATTATA
 pokemon SPECIES_SLOWPOKE
-pokemon SPECIES_RATTATA
+pokemon SPECIES_SLOWPOKE
+pokemon SPECIES_SLOWPOKE
 pokemon SPECIES_SLOWPOKE
 
 // hoenn encounter slots

@@ -1049,7 +1049,6 @@ specialareas SPECIES_RATTATA, DEX_MORNING
     .word DEX_BURNED_TOWER
     .word DEX_BELL_TOWER
     .word DEX_MT_MORTAR
-    .word DEX_TOHJO_FALLS
     dexendareadata
 
 
@@ -1059,7 +1058,6 @@ specialareas SPECIES_RATTATA, DEX_DAY
     .word DEX_BURNED_TOWER
     .word DEX_BELL_TOWER
     .word DEX_MT_MORTAR
-    .word DEX_TOHJO_FALLS
     dexendareadata
 
 
@@ -1069,7 +1067,6 @@ specialareas SPECIES_RATTATA, DEX_NIGHT
     .word DEX_BURNED_TOWER
     .word DEX_BELL_TOWER
     .word DEX_MT_MORTAR
-    .word DEX_TOHJO_FALLS
     dexendareadata
 
 
@@ -9827,14 +9824,17 @@ routesandcities SPECIES_SMEARGLE, DEX_SPECIAL
 
 
 specialareas SPECIES_TYROGUE, DEX_MORNING
+    .word DEX_TOHJO_FALLS
     dexendareadata
 
 
 specialareas SPECIES_TYROGUE, DEX_DAY
+    .word DEX_TOHJO_FALLS
     dexendareadata
 
 
 specialareas SPECIES_TYROGUE, DEX_NIGHT
+    .word DEX_TOHJO_FALLS
     dexendareadata
 
 
