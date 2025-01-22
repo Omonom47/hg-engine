@@ -133,9 +133,9 @@ const u16 *_0210FA3C[] = {
 /* const u16 _020FBA78[] = {ITEM_TUNNEL_MAIL, ITEM_HEAL_BALL, ITEM_NET_BALL, 0xFFFF}; */
 /* Violet City -> Goldenrod Flower Shop */
 .org 0x020FBA78
-.halfword ITEM_POWER_HERB
-.halfword ITEM_MENTAL_HERB
-.halfword ITEM_WHITE_HERB
+.halfword ITEM_TUNNEL_MAIL
+.halfword ITEM_HEAL_BALL
+.halfword ITEM_NET_BALL
 .halfword 0xFFFF
 
 /* const u16 _020FBA80[] = {ITEM_AIR_MAIL, ITEM_NET_BALL, ITEM_DUSK_BALL, 0xFFFF}; */
