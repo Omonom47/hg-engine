@@ -16913,7 +16913,7 @@ const ITEMDATA __data[] =
 
 [ITEM_ICY_ROCK - NUM_UNKNOWN_SLOTS] =
 {
-    .price = 200,
+    .price = 1500,
     .holdEffect = HOLD_EFFECT_EXTEND_HAIL,
     .holdEffectParam = 3,
     .pluckEffect = 0,
@@ -16978,7 +16978,7 @@ const ITEMDATA __data[] =
 
 [ITEM_SMOOTH_ROCK - NUM_UNKNOWN_SLOTS] =
 {
-    .price = 200,
+    .price = 1500,
     .holdEffect = HOLD_EFFECT_EXTEND_SANDSTORM,
     .holdEffectParam = 3,
     .pluckEffect = 0,
@@ -17043,7 +17043,7 @@ const ITEMDATA __data[] =
 
 [ITEM_HEAT_ROCK - NUM_UNKNOWN_SLOTS] =
 {
-    .price = 200,
+    .price = 1500,
     .holdEffect = HOLD_EFFECT_EXTEND_SUN,
     .holdEffectParam = 3,
     .pluckEffect = 0,
@@ -17108,7 +17108,7 @@ const ITEMDATA __data[] =
 
 [ITEM_DAMP_ROCK - NUM_UNKNOWN_SLOTS] =
 {
-    .price = 200,
+    .price = 1500,
     .holdEffect = HOLD_EFFECT_EXTEND_RAIN,
     .holdEffectParam = 3,
     .pluckEffect = 0,
