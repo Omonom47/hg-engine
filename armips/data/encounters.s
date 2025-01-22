@@ -10730,7 +10730,7 @@ rocksmashrate 0
 oldrodrate 40
 goodrodrate 65
 superrodrate 90
-walklevels 28, 28, 28, 28, 32, 32, 30, 30, 30, 30, 30, 30
+walklevels 30, 30, 30, 30, 34, 34, 32, 32, 32, 32, 32, 32
 
 // morning encounter slots
 pokemon SPECIES_DODUO
@@ -10785,9 +10785,9 @@ pokemon SPECIES_BIDOOF
 // surf encounters
 encounter SPECIES_TENTACOOL, 30, 30
 encounter SPECIES_TENTACOOL, 25, 25
-encounter SPECIES_TENTACRUEL, 30, 30
-encounter SPECIES_TENTACRUEL, 30, 30
-encounter SPECIES_TENTACRUEL, 30, 30
+encounter SPECIES_TENTACRUEL, 30, 35
+encounter SPECIES_TENTACRUEL, 30, 35
+encounter SPECIES_TENTACRUEL, 30, 35
 
 // rock smash encounters
 encounter SPECIES_NONE, 0, 0
