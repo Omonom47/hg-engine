@@ -4877,7 +4877,7 @@ mondata SPECIES_PHANPY, "Phanpy"
     basefriendship 70
     growthrate GROWTH_MEDIUM_FAST
     egggroups EGG_GROUP_FIELD, EGG_GROUP_FIELD
-    abilities ABILITY_PICKUP, ABILITY_NONE
+    abilities ABILITY_PICKUP, ABILITY_SAND_FORCE
     runchance 0
     colorflip BODY_COLOR_BLUE, 0
     mondexentry SPECIES_PHANPY, "It swings its long snout around\nplayfully, but because it is so\nstrong, that can be dangerous."
