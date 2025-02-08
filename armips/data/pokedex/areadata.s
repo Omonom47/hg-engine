@@ -8477,12 +8477,12 @@ routesandcities SPECIES_SLOWKING, DEX_SPECIAL
 
 
 specialareas SPECIES_MISDREAVUS, DEX_MORNING
-    word DEX_CLIFF_CAVE
+    .word DEX_CLIFF_CAVE
     dexendareadata
 
 
 specialareas SPECIES_MISDREAVUS, DEX_DAY
-    word DEX_CLIFF_CAVE
+    .word DEX_CLIFF_CAVE
     dexendareadata
 
 
