@@ -346,13 +346,13 @@ It enables the user to evade all\nattacks. Its chance of failing rises\nif it is
 The user summons a heavy rain that\nfalls for five turns, powering up\nWater-type moves.
 A nutrient-draining attack. The user’s\nHP is restored by half the damage\ntaken by the target.
 The user creates a protective field\nthat prevents status problems like\npoison, paralysis, burn, and sleep.
-A full-power attack that grows more\npowerful the less the user likes its\nTrainer.
+he user attacks by playing rough with\nthe target. This may also lower the\ntarget's Attack stat.
 A two-turn attack. The user gathers\nlight, then blasts a bundled beam on\nthe second turn.
 The foe is slammed with a sturdy\ntail of steel. It may also lower the\ntarget’s Defense stat if it hits.
 A strong electric blast is loosed at\nthe foe. It may also leave the foe\nparalyzed.
 A wicked thunderbolt is dropped on the\nfoe to inflict damage. It may also\nleave the target paralyzed.
 The user sets off an earthquake\nthat hits all the Pokémon in the\nbattle.
-A full-power attack that grows more\npowerful the more the user likes its\nTrainer.
+The user emits a powerful flash\nof light to inflict damage on the\ntarget.
 The user burrows, then attacks on the\nsecond turn. It can also be used to\nexit dungeons.
 The foe is hit by a strong telekinetic\nforce. It may also reduce the foe’s\nSp. Def stat.
 The user hurls a shadowy blob at the\nfoe. It may also lower the foe’s\nSp. Def stat.

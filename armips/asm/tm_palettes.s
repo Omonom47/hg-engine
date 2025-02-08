@@ -130,9 +130,9 @@ PALETTE_FAIRY equ 401
 .halfword PALETTE_NORMAL
 .skip 4
 
-// TM021 FRUSTRATION
+// TM021 PLAY_ROUGH
 .skip 2
-.halfword PALETTE_NORMAL
+.halfword PALETTE_FAIRY
 .skip 4
 
 // TM022 SOLARBEAM
@@ -160,9 +160,9 @@ PALETTE_FAIRY equ 401
 .halfword PALETTE_GROUND
 .skip 4
 
-// TM027 RETURN
+// TM027 DAZZLING_GLEAM
 .skip 2
-.halfword PALETTE_NORMAL
+.halfword PALETTE_FAIRY
 .skip 4
 
 // TM028 DIG
