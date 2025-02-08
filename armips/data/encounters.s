@@ -8651,18 +8651,18 @@ rocksmashrate 30
 oldrodrate 0
 goodrodrate 0
 superrodrate 0
-walklevels 22, 19, 20, 22, 19, 20, 18, 20, 20, 22, 23, 23
+walklevels 22, 19, 20, 22, 19, 20, 18, 20, 22, 22, 23, 23
 
 // morning encounter slots
 pokemon SPECIES_GOLBAT
 pokemon SPECIES_GEODUDE
-pokemon SPECIES_KRABBY
+pokemon SPECIES_MISDREAVUS
 pokemon SPECIES_KINGLER
 pokemon SPECIES_MACHOP
 pokemon SPECIES_ONIX
-pokemon SPECIES_WOOPER
-pokemon SPECIES_QUAGSIRE
 pokemon SPECIES_GRAVELER
+pokemon SPECIES_GRAVELER
+pokemon SPECIES_MACHOKE
 pokemon SPECIES_MACHOKE
 pokemon SPECIES_STEELIX
 pokemon SPECIES_STEELIX
@@ -8670,13 +8670,13 @@ pokemon SPECIES_STEELIX
 // day encounter slots
 pokemon SPECIES_GOLBAT
 pokemon SPECIES_GEODUDE
-pokemon SPECIES_KRABBY
+pokemon SPECIES_MISDREAVUS
 pokemon SPECIES_KINGLER
 pokemon SPECIES_MACHOP
 pokemon SPECIES_ONIX
-pokemon SPECIES_WOOPER
-pokemon SPECIES_QUAGSIRE
 pokemon SPECIES_GRAVELER
+pokemon SPECIES_GRAVELER
+pokemon SPECIES_MACHOKE
 pokemon SPECIES_MACHOKE
 pokemon SPECIES_STEELIX
 pokemon SPECIES_STEELIX
@@ -8684,13 +8684,13 @@ pokemon SPECIES_STEELIX
 // night encounter slots
 pokemon SPECIES_GOLBAT
 pokemon SPECIES_GEODUDE
-pokemon SPECIES_KRABBY
+pokemon SPECIES_MISDREAVUS
 pokemon SPECIES_KINGLER
 pokemon SPECIES_MACHOP
 pokemon SPECIES_ONIX
-pokemon SPECIES_ZUBAT
 pokemon SPECIES_MISDREAVUS
-pokemon SPECIES_GOLBAT
+pokemon SPECIES_MISDREAVUS
+pokemon SPECIES_MACHOKE
 pokemon SPECIES_MACHOKE
 pokemon SPECIES_STEELIX
 pokemon SPECIES_STEELIX

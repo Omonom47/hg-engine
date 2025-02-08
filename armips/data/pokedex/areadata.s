@@ -2000,7 +2000,6 @@ specialareas SPECIES_ZUBAT, DEX_NIGHT
     .word DEX_ICE_PATH
     .word DEX_DARK_CAVE
     .word DEX_SEAFOAM_ISLANDS
-    .word DEX_CLIFF_CAVE
     .word DEX_MT_MOON
     .word DEX_ROCK_TUNNEL
     .word DEX_TOHJO_FALLS
@@ -8251,7 +8250,6 @@ specialareas SPECIES_WOOPER, DEX_MORNING
     .word DEX_RUINS_OF_ALPH
     .word DEX_UNION_CAVE
     .word DEX_CLIFF_EDGE_GATE
-    .word DEX_CLIFF_CAVE
     dexendareadata
 
 
@@ -8259,7 +8257,6 @@ specialareas SPECIES_WOOPER, DEX_DAY
     .word DEX_RUINS_OF_ALPH
     .word DEX_UNION_CAVE
     .word DEX_CLIFF_EDGE_GATE
-    .word DEX_CLIFF_CAVE
     dexendareadata
 
 
@@ -8296,7 +8293,6 @@ specialareas SPECIES_QUAGSIRE, DEX_MORNING
     .word DEX_UNION_CAVE
     .word DEX_MT_SILVER_CAVE
     .word DEX_CLIFF_EDGE_GATE
-    .word DEX_CLIFF_CAVE
     dexendareadata
 
 
@@ -8305,7 +8301,6 @@ specialareas SPECIES_QUAGSIRE, DEX_DAY
     .word DEX_UNION_CAVE
     .word DEX_MT_SILVER_CAVE
     .word DEX_CLIFF_EDGE_GATE
-    .word DEX_CLIFF_CAVE
     dexendareadata
 
 
@@ -8482,10 +8477,12 @@ routesandcities SPECIES_SLOWKING, DEX_SPECIAL
 
 
 specialareas SPECIES_MISDREAVUS, DEX_MORNING
+    word DEX_CLIFF_CAVE
     dexendareadata
 
 
 specialareas SPECIES_MISDREAVUS, DEX_DAY
+    word DEX_CLIFF_CAVE
     dexendareadata
 
 
