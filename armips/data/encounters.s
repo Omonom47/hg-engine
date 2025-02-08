@@ -82,17 +82,17 @@ encounter SPECIES_NONE, 0, 0
 
 // old rod encounters
 encounter SPECIES_MAGIKARP, 10, 10
-encounter SPECIES_MAGIKARP, 10, 10
-encounter SPECIES_MAGIKARP, 10, 10
 encounter SPECIES_TENTACOOL, 10, 10
-encounter SPECIES_TENTACOOL, 10, 10
+encounter SPECIES_MAGIKARP, 10, 10
+encounter SPECIES_SHELLDER, 10, 10
+encounter SPECIES_SHELLDER, 10, 10
 
 // good rod encounters
-encounter SPECIES_MAGIKARP, 20, 20
 encounter SPECIES_TENTACOOL, 20, 20
 encounter SPECIES_CHINCHOU, 20, 20
 encounter SPECIES_SHELLDER, 20, 20
-encounter SPECIES_CHINCHOU, 20, 20
+encounter SPECIES_SHELLDER, 20, 20
+encounter SPECIES_SHELLDER, 20, 20
 
 // super rod encounters
 encounter SPECIES_CHINCHOU, 40, 40
