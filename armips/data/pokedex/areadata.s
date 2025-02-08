@@ -9640,16 +9640,19 @@ routesandcities SPECIES_KINGDRA, DEX_SPECIAL
 
 
 specialareas SPECIES_PHANPY, DEX_MORNING
+    .word DEX_UNION_CAVE
     .word DEX_MT_SILVER_CAVE
     dexendareadata
 
 
 specialareas SPECIES_PHANPY, DEX_DAY
+    .word DEX_UNION_CAVE
     .word DEX_MT_SILVER_CAVE
     dexendareadata
 
 
 specialareas SPECIES_PHANPY, DEX_NIGHT
+    .word DEX_UNION_CAVE
     .word DEX_MT_SILVER_CAVE
     dexendareadata
 
