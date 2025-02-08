@@ -7753,7 +7753,6 @@ routesandcities SPECIES_MAREEP, DEX_DAY
 routesandcities SPECIES_MAREEP, DEX_NIGHT
     .word DEX_ROUTE_32
     .word DEX_ROUTE_42
-    .word DEX_ROUTE_43
     dexendareadata
 
 
@@ -9125,6 +9124,7 @@ routesandcities SPECIES_TEDDIURSA, DEX_DAY
 
 
 routesandcities SPECIES_TEDDIURSA, DEX_NIGHT
+    .word DEX_ROUTE_43
     .word DEX_ROUTE_44
     dexendareadata
 
