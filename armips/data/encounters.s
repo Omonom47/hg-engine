@@ -5383,8 +5383,8 @@ encounter SPECIES_TENTACRUEL, 15, 25
 encounter SPECIES_TENTACRUEL, 15, 25
 
 // rock smash encounters
-encounter SPECIES_KRABBY, 15, 24
 encounter SPECIES_SHUCKLE, 23, 28
+encounter SPECIES_KRABBY, 15, 24
 
 // old rod encounters
 encounter SPECIES_MAGIKARP, 10, 10
