@@ -50,9 +50,9 @@ PALETTE_FAIRY equ 401
 .halfword PALETTE_PSYCHIC
 .skip 4
 
-// TM005 ROAR
+// TM005 DEFOG
 .skip 2
-.halfword PALETTE_NORMAL
+.halfword PALETTE_FLYING
 .skip 4
 
 // TM006 TOXIC
