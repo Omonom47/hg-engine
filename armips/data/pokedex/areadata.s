@@ -8423,6 +8423,7 @@ specialareas SPECIES_MURKROW, DEX_NIGHT
 
 
 routesandcities SPECIES_MURKROW, DEX_MORNING
+    .word DEX_ROUTE_42
     dexendareadata
 
 
@@ -8433,6 +8434,7 @@ routesandcities SPECIES_MURKROW, DEX_DAY
 routesandcities SPECIES_MURKROW, DEX_NIGHT
     .word DEX_ROUTE_7
     .word DEX_ROUTE_16
+    .word DEX_ROUTE_42
     dexendareadata
 
 
