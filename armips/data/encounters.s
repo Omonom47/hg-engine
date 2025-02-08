@@ -293,8 +293,8 @@ encounter SPECIES_NONE, 0, 0
 encounter SPECIES_MAGIKARP, 10, 10
 encounter SPECIES_MAGIKARP, 10, 10
 encounter SPECIES_KRABBY, 10, 10
-encounter SPECIES_KRABBY, 10, 10
-encounter SPECIES_KRABBY, 10, 10
+encounter SPECIES_QWILFISH, 10, 10
+encounter SPECIES_QWILFISH, 10, 10
 
 // good rod encounters
 encounter SPECIES_MAGIKARP, 20, 20
