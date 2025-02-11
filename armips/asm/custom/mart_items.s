@@ -245,7 +245,7 @@ const u16 *_0210FA3C[] = {
 /*Goldenrod Dept Store 2F top clerk */
 /* const u16 _020FBC34[] = {ITEM_TM70, ITEM_TM17, ITEM_TM54, ITEM_TM83, ITEM_TM16, ITEM_TM33, ITEM_TM22, ITEM_TM52, ITEM_TM38, ITEM_TM25, ITEM_TM14, ITEM_TM15, 0xFFFF}; */
 .org 0x020FBC1A
-.halfword ITEM_TM70 
+.halfword ITEM_TM92
 .halfword ITEM_TM17
 .halfword ITEM_TM54
 .halfword ITEM_TM83
