@@ -368,9 +368,9 @@ Large boulders are hurled at the foe\nto inflict damage. It lowers the foe’s\n
 The user confounds the foe with speed,\nthen strikes. The attack lands without\nfail.
 The user torments and enrages the\nfoe, making it incapable of using the\nsame move twice in a row.
 An attack move that doubles its power\nif the user is poisoned, paralyzed, or\nhas a burn.
-An attack move with effects that\nvary depending on the user’s\nenvironment.
+The user lets loose a horribly echoing\nshout with the power to inflict damage.
 The user goes to sleep for two\nturns. It fully restores the user’s HP\nand heals any status problem.
-If it is the opposite gender of the\nuser, the foe becomes infatuated\nand less likely to attack.
+The user vibrates to generate a damaging\nsound wave. This may also lower the\ntarget’s Sp. Def stat. 
 The user attacks and steals the foe’s\nheld item simultaneously. It can’t\nsteal if the user holds an item.
 The foe is hit with wings of steel.\nIt may also raise the user’s Defense\nstat.
 The user employs its psychic power to\nexchange abilities with the foe.\n

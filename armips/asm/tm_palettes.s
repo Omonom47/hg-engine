@@ -250,9 +250,9 @@ PALETTE_FAIRY equ 401
 .halfword PALETTE_PSYCHIC
 .skip 4
 
-// TM045 ATTRACT
+// TM045 MOVE_BUG_BUZZ
 .skip 2
-.halfword PALETTE_NORMAL
+.halfword PALETTE_BUG
 .skip 4
 
 // TM046 THIEF
