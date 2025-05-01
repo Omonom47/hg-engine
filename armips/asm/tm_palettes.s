@@ -270,9 +270,9 @@ PALETTE_FAIRY equ 401
 .halfword PALETTE_PSYCHIC
 .skip 4
 
-// TM049 SNATCH
+// TM049 POWER GEM
 .skip 2
-.halfword PALETTE_DARK
+.halfword PALETTE_ROCK
 .skip 4
 
 // TM050 OVERHEAT

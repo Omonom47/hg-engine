@@ -374,7 +374,7 @@ The user vibrates to generate a damaging\nsound wave. This may also lower the\nt
 The user attacks and steals the foe’s\nheld item simultaneously. It can’t\nsteal if the user holds an item.
 The foe is hit with wings of steel.\nIt may also raise the user’s Defense\nstat.
 The user employs its psychic power to\nexchange abilities with the foe.\n
-The user steals the effects of any\nhealing or status-changing move the\nfoe attempts to use.
+The user attacks with a ray of light\nthat sparkles as if it were made\nof gemstones.
 The user attacks the foe at full\npower using fiery energy. It also\nsharply reduces the user’s Sp. Atk.
 The user lands and rests its body.\nIt restores the user’s HP by up to\nhalf of its max HP.
 The user attacks at full power.\nIt may also lower the foe’s Sp. Def\nstat if it hits.
