@@ -326,6 +326,7 @@
 #define SIDE_STATUS_STEALTH_ROCK (0x80)
 #define SIDE_STATUS_TAILWIND (0x300) // no longer used, see sp->tailwindCount
 #define SIDE_STATUS_TOXIC_SPIKES (0x400)
+#define SIDE_STATUS_STICKY_WEB (0x800)
 #define SIDE_STATUS_LUCKY_CHANT (0x7000)
 
 /**
@@ -3286,6 +3287,16 @@ typedef enum Terrain {
 // This is a catch-all terrain that includes Pokemon League, Distortion World
 // and Battle Frontier.
 #define TERRAIN_OTHERS (TERRAIN_WILL)
+
+
+// Battler IDs
+#define BATTLER_NONE    0xFF
+#define BATTLER_PLAYER  0
+#define BATTLER_ENEMY   1
+#define BATTLER_PLAYER2 2
+#define BATTLER_ENEMY2  3
+#define BATTLER_MAX     4
+
 
 /**
  *  @brief load in different battle bg and terrain

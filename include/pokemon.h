@@ -4,6 +4,7 @@
 #include "config.h"
 //#include "save.h"
 #include "types.h"
+#include "../include/trainer_data.h"
 
 #define _PARTY_MENU_WINDOW_ID_MAX 40
 #define _PARTY_MENU_SPRITE_ID_MAX 29

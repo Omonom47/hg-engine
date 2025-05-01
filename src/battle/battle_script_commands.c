@@ -101,7 +101,8 @@ BOOL BtlCmd_SetMultiHit(struct BattleSystem *bsys, struct BattleStruct *ctx);
 BOOL BtlCmd_TrySubstitute(void *bw, struct BattleStruct *sp);
 BOOL BtlCmd_TrySwapItems(void *bw, struct BattleStruct *sp);
 BOOL BtlCmd_RapidSpin(void *bw, struct BattleStruct *sp);
-BOOL CanKnockOffApply(struct BattleStruct *sp);
+BOOL CanKnockOffApply(struct BattleSystem *bw, struct BattleStruct *sp);
+BOOL BtlCmd_GenerateEndOfBattleItem(struct BattleSystem *bw, struct BattleStruct *sp);
 u32 CalculateBallShakes(void *bw, struct BattleStruct *sp);
 u32 DealWithCriticalCaptureShakes(struct EXP_CALCULATOR *expcalc, u32 shakes);
 u32 LoadCaptureSuccessSPA(u32 id);
@@ -2015,7 +2016,7 @@ BOOL btl_scr_cmd_87_tryknockoff(void *bw UNUSED, struct BattleStruct *sp)
         sp->mp.msg_para[1] = sp->battlemon[sp->defence_client].ability;
         sp->mp.msg_para[2] = sp->current_move_index;
     }
-    else if (CanKnockOffApply(sp))
+    else if (CanKnockOffApply(bw, sp))
     {
         sp->mp.msg_id = BATTLE_MSG_MON_KNOCKED_OFF_ITEM;
         sp->mp.msg_tag = TAG_NICKNAME_NICKNAME_ITEM;
@@ -2466,7 +2467,7 @@ BOOL btl_scr_cmd_EA_ifcontactmove(void *bw UNUSED, struct BattleStruct *sp) {
     IncrementBattleScriptPtr(sp, 1);
     int address = read_battle_script_param(sp);
 
-    if (sp->moveTbl[sp->current_move_index].flag & FLAG_CONTACT) {
+    if (IsContactBeingMade(bw, sp)) {
         IncrementBattleScriptPtr(sp, address);
     }
     return FALSE;
@@ -2680,7 +2681,7 @@ BOOL btl_scr_cmd_F3_canapplyknockoffdamageboost(void *bw UNUSED, struct BattleSt
     IncrementBattleScriptPtr(sp, 1);
 
     int address = read_battle_script_param(sp);
-    if (!CanKnockOffApply(sp))
+    if (!CanKnockOffApply(bw, sp))
         IncrementBattleScriptPtr(sp, address);
 
     return FALSE;
@@ -3598,7 +3599,41 @@ BOOL BtlCmd_RapidSpin(void *bw, struct BattleStruct *sp)
         return FALSE;
     }
 
+    //Sticky Web
+    if (sp->side_condition[side] & SIDE_STATUS_STICKY_WEB) {
+        sp->side_condition[side] &= ~SIDE_STATUS_STICKY_WEB;
+        sp->waza_work = MOVE_STICKY_WEB;
+        SkillSequenceGosub(sp, ARC_BATTLE_SUB_SEQ, SUB_SEQ_BLOW_AWAY_HAZARDS_MESSAGE);
+        return FALSE;
+    }
+
     IncrementBattleScriptPtr(sp, 1);
+
+    return FALSE;
+}
+
+/**
+ * @brief Try to execute the Sticky Web effect.
+ * Stores the user and the users side in sp->scw
+ * Stores the existence of Sticky Web in sp->side_condition to the defenders side
+ * This command will fail if there is Sticky Web already laid on the defenders side.
+ *
+ * @param bw battle work structure
+ * @param sp global battle structure
+ * @return FALSE
+ */
+
+BOOL btl_scr_cmd_FC_trystickyweb(void *bw, struct BattleStruct *sp) {
+    IncrementBattleScriptPtr(sp, 1);
+    int adrs = read_battle_script_param(sp);
+    int side = IsClientEnemy(bw, sp->defence_client);
+
+    if (sp->side_condition[side] & SIDE_STATUS_STICKY_WEB) {
+        sp->oneSelfFlag[sp->attack_client].no_pressure_flag = 1;
+        IncrementBattleScriptPtr(sp, adrs);
+    } else {
+        sp->side_condition[side] |= SIDE_STATUS_STICKY_WEB;
+    }
 
     return FALSE;
 }
@@ -3643,7 +3678,7 @@ BOOL BtlCmd_CheckSubstitute(void *bsys, struct BattleStruct *ctx) {
  *  @param sp global battle structure
  *  @return TRUE if knock off can remove the mon's item; FALSE otherwise
  */
-BOOL CanKnockOffApply(struct BattleStruct *sp)
+BOOL CanKnockOffApply(struct BattleSystem *bw, struct BattleStruct *sp)
 {
     u32 attacker = sp->attack_client;
     u32 defender = sp->defence_client;

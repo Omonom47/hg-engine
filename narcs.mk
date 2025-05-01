@@ -417,7 +417,7 @@ ITEMGFX_PALS := $(patsubst $(ITEMGFX_DEPENDENCIES_DIR)/%.png,$(ITEMGFX_DIR)/9_%-
 ITEMGFX_PALS += $(patsubst $(ITEMGFX_CUSTOM_DIR)/%.png,$(ITEMGFX_DIR)/A_%-01.NCLR,$(ITEMGFX_CUSTOM_SRCS))
 
 $(ITEMGFX_DIR)/9_%-00.NCGR:$(ITEMGFX_DEPENDENCIES_DIR)/%.png
-	$(GFX) $< $@ -clobbersize -version101
+	$(GFX) $< $@ -clobbersize -version101 -bitdepth 4
 
 $(ITEMGFX_DIR)/9_%-01.NCLR:$(ITEMGFX_DEPENDENCIES_DIR)/%.png
 	$(GFX) $< $@ -ir -bitdepth 4
@@ -593,12 +593,6 @@ $(TEXTBOX_NARC): $(TEXTBOX_DEPENDENCIES)
 	$(NARCHIVE) create $@ $(TEXTBOX_DIR) -nf
 
 NARC_FILES += $(TEXTBOX_NARC)
-
-
-$(MSGDATA_NARC): $(MSGDATA_DEPENDENCIES) $(MSGDATA_COMPILETIME_DEPENDENCIES)
-	$(NARCHIVE) extract $(MSGDATA_TARGET) -o $(MSGDATA_DIR) -nf
-	for file in $^; do $(MSGENC) -e -c $(CHARMAP) $$file $(MSGDATA_DIR)/7_$$(basename $$file .txt); done
-	$(NARCHIVE) create $@ $(MSGDATA_DIR) -nf
 
 
 BALL_SPA_DIR := $(BUILD)/ball_spa

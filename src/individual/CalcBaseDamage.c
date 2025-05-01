@@ -77,53 +77,53 @@ static const u8 HeldItemPowerUpTable[][2]={
 extern const u16 PunchingMovesTable[24];
 
 static const u16 StrongJawMovesTable[] = {
-        MOVE_BITE,
-        MOVE_CRUNCH,
-        MOVE_FIRE_FANG,
-        MOVE_FISHIOUS_REND,
-        MOVE_HYPER_FANG,
-        MOVE_ICE_FANG,
-        MOVE_JAW_LOCK,
-        MOVE_POISON_FANG,
-        MOVE_PSYCHIC_FANGS,
-        MOVE_THUNDER_FANG,
+    MOVE_BITE,
+    MOVE_CRUNCH,
+    MOVE_FIRE_FANG,
+    MOVE_FISHIOUS_REND,
+    MOVE_HYPER_FANG,
+    MOVE_ICE_FANG,
+    MOVE_JAW_LOCK,
+    MOVE_POISON_FANG,
+    MOVE_PSYCHIC_FANGS,
+    MOVE_THUNDER_FANG,
 };
 
 static const u16 MegaLauncherMovesTable[] = {
-        MOVE_AURA_SPHERE,
-        MOVE_DARK_PULSE,
-        MOVE_DRAGON_PULSE,
-        MOVE_HEAL_PULSE,
-        MOVE_ORIGIN_PULSE,
-        MOVE_TERRAIN_PULSE,
-        MOVE_WATER_PULSE,
+    MOVE_AURA_SPHERE,
+    MOVE_DARK_PULSE,
+    MOVE_DRAGON_PULSE,
+    MOVE_HEAL_PULSE,
+    MOVE_ORIGIN_PULSE,
+    MOVE_TERRAIN_PULSE,
+    MOVE_WATER_PULSE,
 };
 
 static const u16 SharpnessMovesTable[] = {
-        MOVE_AERIAL_ACE,
-        MOVE_AIR_CUTTER,
-        MOVE_AIR_SLASH,
-        MOVE_AQUA_CUTTER,
-        MOVE_BEHEMOTH_BLADE,
-        MOVE_BITTER_BLADE,
-        MOVE_CEASELESS_EDGE,
-        MOVE_CROSS_POISON,
-        MOVE_CUT,
-        MOVE_FURY_CUTTER,
-        MOVE_KOWTOW_CLEAVE,
-        MOVE_LEAF_BLADE,
-        MOVE_NIGHT_SLASH,
-        MOVE_POPULATION_BOMB,
-        MOVE_PSYBLADE,
-        MOVE_PSYCHO_CUT,
-        MOVE_RAZOR_SHELL,
-        MOVE_RAZOR_LEAF,
-        MOVE_SACRED_SWORD,
-        MOVE_SECRET_SWORD,
-        MOVE_SLASH,
-        MOVE_SOLAR_BLADE,
-        MOVE_STONE_AXE,
-        MOVE_X_SCISSOR,
+    MOVE_AERIAL_ACE,
+    MOVE_AIR_CUTTER,
+    MOVE_AIR_SLASH,
+    MOVE_AQUA_CUTTER,
+    MOVE_BEHEMOTH_BLADE,
+    MOVE_BITTER_BLADE,
+    MOVE_CEASELESS_EDGE,
+    MOVE_CROSS_POISON,
+    MOVE_CUT,
+    MOVE_FURY_CUTTER,
+    MOVE_KOWTOW_CLEAVE,
+    MOVE_LEAF_BLADE,
+    MOVE_NIGHT_SLASH,
+    MOVE_POPULATION_BOMB,
+    MOVE_PSYBLADE,
+    MOVE_PSYCHO_CUT,
+    MOVE_RAZOR_SHELL,
+    MOVE_RAZOR_LEAF,
+    MOVE_SACRED_SWORD,
+    MOVE_SECRET_SWORD,
+    MOVE_SLASH,
+    MOVE_SOLAR_BLADE,
+    MOVE_STONE_AXE,
+    MOVE_X_SCISSOR,
 };
 
 
@@ -419,7 +419,7 @@ int CalcBaseDamage(void *bw, struct BattleStruct *sp, int moveno, u32 side_cond,
     }
 
     // handle punching glove
-    if ((AttackingMon.item_held_effect == HOLD_EFFECT_INCREASE_PUNCHING_MOVE_DMG) && IsElementInArray(IronFistMovesTable, (u16 *)&moveno, NELEMS(IronFistMovesTable), sizeof(IronFistMovesTable[0])))
+    if ((AttackingMon.item_held_effect == HOLD_EFFECT_INCREASE_PUNCHING_MOVE_DMG) && IsElementInArray(PunchingMovesTable, (u16 *)&moveno, NELEMS(PunchingMovesTable), sizeof(PunchingMovesTable[0])))
     {
         movepower = movepower * (100 + AttackingMon.item_power) / 100;
     }
@@ -476,14 +476,14 @@ int CalcBaseDamage(void *bw, struct BattleStruct *sp, int moveno, u32 side_cond,
     }
 
     // handle tough claws
-    if ((AttackingMon.ability == ABILITY_TOUGH_CLAWS) && (sp->moveTbl[sp->current_move_index].flag & FLAG_CONTACT))
+    if ((AttackingMon.ability == ABILITY_TOUGH_CLAWS) && (IsContactBeingMade(bw, sp)))
     {
         movepower = movepower * 130 / 100;
     }
 
     // handle fluffy
     if (DefendingMon.ability == ABILITY_FLUFFY) {
-        if (sp->moveTbl[sp->current_move_index].flag & FLAG_CONTACT) {
+        if (IsContactBeingMade(bw, sp)) {
             movepower = movepower * 50 / 100;
         }
 
@@ -748,7 +748,7 @@ int CalcBaseDamage(void *bw, struct BattleStruct *sp, int moveno, u32 side_cond,
     }
 
     // handle iron fist
-    if ((AttackingMon.ability == ABILITY_IRON_FIST) && IsElementInArray(IronFistMovesTable, (u16 *)&moveno, NELEMS(IronFistMovesTable), sizeof(IronFistMovesTable[0])))
+    if ((AttackingMon.ability == ABILITY_IRON_FIST) && IsElementInArray(PunchingMovesTable, (u16 *)&moveno, NELEMS(PunchingMovesTable), sizeof(PunchingMovesTable[0])))
     {
         movepower = movepower * 12 / 10;
     }

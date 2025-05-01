@@ -72,7 +72,7 @@ dumpitem.py
 /tools/ENCODE_IMG*
 
 .venv/
-
+.vscode/
 *.o
 *.d
 *.DS_STORE
