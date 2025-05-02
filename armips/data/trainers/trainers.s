@@ -5728,7 +5728,7 @@ trainerdata 184, "Krise"
         ballseal 0
     endparty
 
-trainerdata 185, "Grunt"
+trainerdata 185, "Grunt" //1f radio tower
     trainermontype TRAINER_DATA_TYPE_NOTHING
     trainerclass CLASS_TEAM_ROCKET
     nummons 2
@@ -5744,19 +5744,19 @@ trainerdata 185, "Grunt"
         // mon 0
         ivs 30
         abilityslot 32
-        level 24
+        level 28
         pokemon SPECIES_RATICATE
         ballseal 0
 
         // mon 1
         ivs 30
         abilityslot 32
-        level 24
+        level 28
         pokemon SPECIES_RATICATE
         ballseal 0
     endparty
 
-trainerdata 186, "Grunt"
+trainerdata 186, "Grunt" //2f radio tower
     trainermontype TRAINER_DATA_TYPE_NOTHING
     trainerclass CLASS_TEAM_ROCKET
     nummons 3
@@ -5772,26 +5772,26 @@ trainerdata 186, "Grunt"
         // mon 0
         ivs 30
         abilityslot 0
-        level 23
+        level 26
         pokemon SPECIES_GRIMER
         ballseal 0
 
         // mon 1
         ivs 30
         abilityslot 0
-        level 23
+        level 26
         pokemon SPECIES_GRIMER
         ballseal 0
 
         // mon 2
         ivs 30
         abilityslot 0
-        level 25
+        level 27
         pokemon SPECIES_MUK
         ballseal 0
     endparty
 
-trainerdata 187, "Grunt"
+trainerdata 187, "Grunt" //2f radio tower
     trainermontype TRAINER_DATA_TYPE_NOTHING
     trainerclass CLASS_TEAM_ROCKET
     nummons 5
@@ -5807,40 +5807,40 @@ trainerdata 187, "Grunt"
         // mon 0
         ivs 30
         abilityslot 32
-        level 21
-        pokemon SPECIES_RATTATA
+        level 24
+        pokemon SPECIES_RATICATE
         ballseal 0
 
         // mon 1
         ivs 30
         abilityslot 32
-        level 21
-        pokemon SPECIES_RATTATA
+        level 24
+        pokemon SPECIES_RATICATE
         ballseal 0
 
         // mon 2
         ivs 30
         abilityslot 32
-        level 23
-        pokemon SPECIES_RATTATA
+        level 25
+        pokemon SPECIES_RATICATE
         ballseal 0
 
         // mon 3
         ivs 30
         abilityslot 32
-        level 23
-        pokemon SPECIES_RATTATA
+        level 25
+        pokemon SPECIES_RATICATE
         ballseal 0
 
         // mon 4
         ivs 30
         abilityslot 32
-        level 23
-        pokemon SPECIES_RATTATA
+        level 25
+        pokemon SPECIES_RATICATE
         ballseal 0
     endparty
 
-trainerdata 188, "Grunt"
+trainerdata 188, "Grunt" //2f radio tower
     trainermontype TRAINER_DATA_TYPE_NOTHING
     trainerclass CLASS_TEAM_ROCKET
     nummons 2
@@ -5856,19 +5856,19 @@ trainerdata 188, "Grunt"
         // mon 0
         ivs 30
         abilityslot 0
-        level 26
-        pokemon SPECIES_ZUBAT
+        level 28
+        pokemon SPECIES_GOLBAT
         ballseal 0
 
         // mon 1
         ivs 30
         abilityslot 0
-        level 26
-        pokemon SPECIES_ZUBAT
+        level 268
+        pokemon SPECIES_GOLBAT
         ballseal 0
     endparty
 
-trainerdata 189, "Grunt"
+trainerdata 189, "Grunt" //3f radio tower
     trainermontype TRAINER_DATA_TYPE_NOTHING
     trainerclass CLASS_TEAM_ROCKET
     nummons 4
@@ -5884,33 +5884,33 @@ trainerdata 189, "Grunt"
         // mon 0
         ivs 30
         abilityslot 0
-        level 23
+        level 26
         pokemon SPECIES_KOFFING
         ballseal 0
 
         // mon 1
         ivs 30
         abilityslot 0
-        level 23
+        level 26
         pokemon SPECIES_GRIMER
         ballseal 0
 
         // mon 2
         ivs 30
         abilityslot 0
-        level 23
-        pokemon SPECIES_ZUBAT
+        level 26
+        pokemon SPECIES_GOLBAT
         ballseal 0
 
         // mon 3
         ivs 30
         abilityslot 32
-        level 23
-        pokemon SPECIES_RATTATA
+        level 26
+        pokemon SPECIES_RATICATE
         ballseal 0
     endparty
 
-trainerdata 190, "Grunt"
+trainerdata 190, "Grunt" //3f radio tower
     trainermontype TRAINER_DATA_TYPE_NOTHING
     trainerclass CLASS_TEAM_ROCKET
     nummons 1
@@ -5926,12 +5926,12 @@ trainerdata 190, "Grunt"
         // mon 0
         ivs 30
         abilityslot 0
-        level 26
+        level 30
         pokemon SPECIES_WEEZING
         ballseal 0
     endparty
 
-trainerdata 191, "Grunt"
+trainerdata 191, "Grunt" //3f radio tower, requires key card
     trainermontype TRAINER_DATA_TYPE_NOTHING
     trainerclass CLASS_TEAM_ROCKET
     nummons 2
@@ -5947,19 +5947,19 @@ trainerdata 191, "Grunt"
         // mon 0
         ivs 30
         abilityslot 32
-        level 24
+        level 28
         pokemon SPECIES_RATICATE
         ballseal 0
 
         // mon 1
         ivs 30
         abilityslot 0
-        level 26
+        level 28
         pokemon SPECIES_KOFFING
         ballseal 0
     endparty
 
-trainerdata 192, "Grunt"
+trainerdata 192, "Grunt" //4f radio tower
     trainermontype TRAINER_DATA_TYPE_NOTHING
     trainerclass CLASS_TEAM_ROCKET
     nummons 3
@@ -5975,26 +5975,26 @@ trainerdata 192, "Grunt"
         // mon 0
         ivs 30
         abilityslot 0
-        level 22
-        pokemon SPECIES_ZUBAT
+        level 27
+        pokemon SPECIES_GOLBAT
         ballseal 0
 
         // mon 1
         ivs 30
         abilityslot 0
-        level 24
+        level 27
         pokemon SPECIES_GOLBAT
         ballseal 0
 
         // mon 2
         ivs 30
         abilityslot 0
-        level 22
+        level 27
         pokemon SPECIES_GRIMER
         ballseal 0
     endparty
 
-trainerdata 193, "Grunt"
+trainerdata 193, "Grunt" //b2f goldenrod tunnel
     trainermontype TRAINER_DATA_TYPE_NOTHING
     trainerclass CLASS_TEAM_ROCKET
     nummons 3
@@ -6010,22 +6010,22 @@ trainerdata 193, "Grunt"
         // mon 0
         ivs 30
         abilityslot 0
-        level 23
+        level 27
         pokemon SPECIES_MUK
         ballseal 0
 
         // mon 1
         ivs 30
         abilityslot 0
-        level 23
+        level 27
         pokemon SPECIES_KOFFING
         ballseal 0
 
         // mon 2
         ivs 30
         abilityslot 32
-        level 25
-        pokemon SPECIES_RATTATA
+        level 27
+        pokemon SPECIES_RATICATE
         ballseal 0
     endparty
 
@@ -6050,7 +6050,7 @@ trainerdata 194, "Mickey"
         ballseal 0
     endparty
 
-trainerdata 195, "Grunt"
+trainerdata 195, "Grunt" //b2f goldenrod tunnel
     trainermontype TRAINER_DATA_TYPE_NOTHING
     trainerclass CLASS_TEAM_ROCKET
     nummons 1
@@ -6066,12 +6066,12 @@ trainerdata 195, "Grunt"
         // mon 0
         ivs 30
         abilityslot 32
-        level 27
-        pokemon SPECIES_RATTATA
+        level 30
+        pokemon SPECIES_RATICATE
         ballseal 0
     endparty
 
-trainerdata 196, "Grunt"
+trainerdata 196, "Grunt" //warehouse
     trainermontype TRAINER_DATA_TYPE_NOTHING
     trainerclass CLASS_TEAM_ROCKET
     nummons 2
@@ -6087,19 +6087,19 @@ trainerdata 196, "Grunt"
         // mon 0
         ivs 30
         abilityslot 32
-        level 24
+        level 28
         pokemon SPECIES_RATICATE
         ballseal 0
 
         // mon 1
         ivs 30
         abilityslot 0
-        level 24
+        level 28
         pokemon SPECIES_GOLBAT
         ballseal 0
     endparty
 
-trainerdata 197, "Grunt"
+trainerdata 197, "Grunt" //warehouse
     trainermontype TRAINER_DATA_TYPE_NOTHING
     trainerclass CLASS_TEAM_ROCKET
     nummons 2
@@ -6115,19 +6115,19 @@ trainerdata 197, "Grunt"
         // mon 0
         ivs 30
         abilityslot 0
-        level 26
+        level 28
         pokemon SPECIES_GRIMER
         ballseal 0
 
         // mon 1
         ivs 30
         abilityslot 0
-        level 23
+        level 28
         pokemon SPECIES_WEEZING
         ballseal 0
     endparty
 
-trainerdata 198, "Grunt"
+trainerdata 198, "Grunt" //2f goldenrod radio tower
     trainermontype TRAINER_DATA_TYPE_NOTHING
     trainerclass CLASS_TEAM_ROCKET_1
     nummons 1
@@ -6143,12 +6143,12 @@ trainerdata 198, "Grunt"
         // mon 0
         ivs 30
         abilityslot 0
-        level 26
+        level 30
         pokemon SPECIES_ARBOK
         ballseal 0
     endparty
 
-trainerdata 199, "Grunt"
+trainerdata 199, "Grunt" //b2f goldenrod tunnel
     trainermontype TRAINER_DATA_TYPE_NOTHING
     trainerclass CLASS_TEAM_ROCKET_1
     nummons 2
@@ -6164,19 +6164,19 @@ trainerdata 199, "Grunt"
         // mon 0
         ivs 30
         abilityslot 0
-        level 25
+        level 29
         pokemon SPECIES_GLOOM
         ballseal 0
 
         // mon 1
         ivs 30
         abilityslot 0
-        level 25
+        level 29
         pokemon SPECIES_GLOOM
         ballseal 0
     endparty
 
-trainerdata 200, "Grunt"
+trainerdata 200, "Grunt" //4f goldenrod raido tower
     trainermontype TRAINER_DATA_TYPE_NOTHING
     trainerclass CLASS_TEAM_ROCKET_1
     nummons 4
@@ -6192,28 +6192,28 @@ trainerdata 200, "Grunt"
         // mon 0
         ivs 30
         abilityslot 0
-        level 21
-        pokemon SPECIES_EKANS
+        level 27
+        pokemon SPECIES_ARBOK
         ballseal 0
 
         // mon 1
         ivs 30
         abilityslot 0
-        level 23
-        pokemon SPECIES_ODDISH
+        level 29
+        pokemon SPECIES_GLOOM
         ballseal 0
 
         // mon 2
         ivs 30
         abilityslot 32
-        level 21
+        level 27
         pokemon SPECIES_EKANS
         ballseal 0
 
         // mon 3
         ivs 30
         abilityslot 0
-        level 24
+        level 29
         pokemon SPECIES_GLOOM
         ballseal 0
     endparty
@@ -15952,7 +15952,7 @@ trainerdata 478, "Ariana"
         // mon 0
         ivs 100
         abilityslot 0
-        level 32
+        level 33
         pokemon SPECIES_ARBOK
         move MOVE_WRAP
         move MOVE_POISON_STING
@@ -15963,7 +15963,7 @@ trainerdata 478, "Ariana"
         // mon 1
         ivs 100
         abilityslot 0
-        level 32
+        level 33
         pokemon SPECIES_VILEPLUME
         move MOVE_MEGA_DRAIN
         move MOVE_SWEET_SCENT
@@ -15974,7 +15974,7 @@ trainerdata 478, "Ariana"
         // mon 2
         ivs 100
         abilityslot 32
-        level 32
+        level 33
         pokemon SPECIES_MURKROW
         move MOVE_WING_ATTACK
         move MOVE_PURSUIT
@@ -16210,9 +16210,9 @@ trainerdata 485, "Archer"
         ivs 200
         abilityslot 0
         level 35
-        pokemon SPECIES_KOFFING
-        move MOVE_TACKLE
-        move MOVE_SLUDGE
+        pokemon SPECIES_WEEZING
+        move MOVE_ASSURANCE
+        move MOVE_SLUDGE_BOMB
         move MOVE_SMOKESCREEN
         move MOVE_HAZE
         ballseal 0
@@ -24004,8 +24004,8 @@ trainerdata 706, "Proton"
         // mon 0
         ivs 100
         abilityslot 0
-        level 28
-        pokemon SPECIES_GOLBAT
+        level 33
+        pokemon SPECIES_CROBAT
         move MOVE_LEECH_LIFE
         move MOVE_BITE
         move MOVE_CONFUSE_RAY
