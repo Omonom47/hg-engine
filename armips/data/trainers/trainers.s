@@ -1121,7 +1121,7 @@ trainerdata 33, "Jasmine"
         // mon 2
         ivs 150
         abilityslot 32
-        level 35
+        level 33
         pokemon SPECIES_STEELIX
         item ITEM_SITRUS_BERRY
         move MOVE_SCREECH
@@ -1170,7 +1170,7 @@ trainerdata 34, "Chuck"
 
         ivs 150
         abilityslot 0
-        level 31
+        level 30
         pokemon SPECIES_POLIWRATH
         item ITEM_SITRUS_BERRY
         move MOVE_HYPNOSIS
@@ -6658,7 +6658,7 @@ trainerdata 215, "Connie"
         ballseal 0
     endparty
 
-trainerdata 216, "Grunt"
+trainerdata 216, "Grunt" //b1f rocket hq
     trainermontype TRAINER_DATA_TYPE_NOTHING
     trainerclass CLASS_TEAM_ROCKET
     nummons 4
@@ -6674,29 +6674,29 @@ trainerdata 216, "Grunt"
         // mon 0
         ivs 30
         abilityslot 32
-        level 16
-        pokemon SPECIES_RATTATA
+        level 21
+        pokemon SPECIES_RATICATE
         ballseal 0
 
         // mon 1
         ivs 30
         abilityslot 32
-        level 16
-        pokemon SPECIES_RATTATA
+        level 21
+        pokemon SPECIES_RATICATE
         ballseal 0
 
         // mon 2
         ivs 30
         abilityslot 32
-        level 16
-        pokemon SPECIES_RATTATA
+        level 21
+        pokemon SPECIES_RATICATE
         ballseal 0
 
         // mon 3
         ivs 30
         abilityslot 32
-        level 16
-        pokemon SPECIES_RATTATA
+        level 21
+        pokemon SPECIES_RATICATE
         ballseal 0
     endparty
 
@@ -6735,7 +6735,7 @@ trainerdata 217, "Denis"
         ballseal 0
     endparty
 
-trainerdata 218, "Grunt"
+trainerdata 218, "Grunt" //b2f rocket hq
     trainermontype TRAINER_DATA_TYPE_NOTHING
     trainerclass CLASS_TEAM_ROCKET
     nummons 1
@@ -6751,12 +6751,12 @@ trainerdata 218, "Grunt"
         // mon 0
         ivs 30
         abilityslot 0
-        level 18
+        level 25
         pokemon SPECIES_GOLBAT
         ballseal 0
     endparty
 
-trainerdata 219, "Grunt"
+trainerdata 219, "Grunt" //b2f rocket hq
     trainermontype TRAINER_DATA_TYPE_NOTHING
     trainerclass CLASS_TEAM_ROCKET
     nummons 3
@@ -6772,26 +6772,26 @@ trainerdata 219, "Grunt"
         // mon 0
         ivs 30
         abilityslot 32
-        level 17
-        pokemon SPECIES_RATTATA
+        level 23
+        pokemon SPECIES_RATICATE
         ballseal 0
 
         // mon 1
         ivs 30
         abilityslot 0
-        level 17
-        pokemon SPECIES_ZUBAT
+        level 23
+        pokemon SPECIES_GOLBAT
         ballseal 0
 
         // mon 2
         ivs 30
         abilityslot 32
-        level 17
-        pokemon SPECIES_RATTATA
+        level 23
+        pokemon SPECIES_RATICATE
         ballseal 0
     endparty
 
-trainerdata 220, "Grunt"
+trainerdata 220, "Grunt" //b2f rocket hq
     trainermontype TRAINER_DATA_TYPE_NOTHING
     trainerclass CLASS_TEAM_ROCKET
     nummons 2
@@ -6807,14 +6807,14 @@ trainerdata 220, "Grunt"
         // mon 0
         ivs 30
         abilityslot 0
-        level 18
+        level 24
         pokemon SPECIES_VENONAT
         ballseal 0
 
         // mon 1
         ivs 30
         abilityslot 32
-        level 18
+        level 24
         pokemon SPECIES_VENONAT
         ballseal 0
     endparty
@@ -6840,7 +6840,7 @@ trainerdata 221, "Mickey"
         ballseal 0
     endparty
 
-trainerdata 222, "Grunt"
+trainerdata 222, "Grunt" //b3f male grunt rocket hq
     trainermontype TRAINER_DATA_TYPE_NOTHING
     trainerclass CLASS_TEAM_ROCKET
     nummons 1
@@ -6856,12 +6856,12 @@ trainerdata 222, "Grunt"
         // mon 0
         ivs 30
         abilityslot 32
-        level 19
+        level 25
         pokemon SPECIES_RATICATE
         ballseal 0
     endparty
 
-trainerdata 223, "Grunt"
+trainerdata 223, "Grunt" //guard 1 rocket hq
     trainermontype TRAINER_DATA_TYPE_NOTHING
     trainerclass CLASS_TEAM_ROCKET
     nummons 2
@@ -6877,19 +6877,19 @@ trainerdata 223, "Grunt"
         // mon 0
         ivs 30
         abilityslot 0
-        level 17
+        level 23
         pokemon SPECIES_DROWZEE
         ballseal 0
 
         // mon 1
         ivs 30
         abilityslot 0
-        level 19
-        pokemon SPECIES_ZUBAT
+        level 25
+        pokemon SPECIES_GOLBAT
         ballseal 0
     endparty
 
-trainerdata 224, "Grunt"
+trainerdata 224, "Grunt" //guard 2 rocket hq
     trainermontype TRAINER_DATA_TYPE_NOTHING
     trainerclass CLASS_TEAM_ROCKET
     nummons 3
@@ -6905,22 +6905,22 @@ trainerdata 224, "Grunt"
         // mon 0
         ivs 30
         abilityslot 0
-        level 16
-        pokemon SPECIES_ZUBAT
+        level 22
+        pokemon SPECIES_GOLBAT
         ballseal 0
 
         // mon 1
         ivs 30
         abilityslot 0
-        level 17
+        level 23
         pokemon SPECIES_GRIMER
         ballseal 0
 
         // mon 2
         ivs 30
         abilityslot 32
-        level 18
-        pokemon SPECIES_RATTATA
+        level 24
+        pokemon SPECIES_RATICATE
         ballseal 0
     endparty
 
@@ -13573,7 +13573,7 @@ trainerdata 403, "Spencer"
         ballseal 0
     endparty
 
-trainerdata 404, "Grunt"
+trainerdata 404, "Grunt" //b3f female rocket hq
     trainermontype TRAINER_DATA_TYPE_MOVES
     trainerclass CLASS_TEAM_ROCKET_1
     nummons 2
@@ -13589,10 +13589,10 @@ trainerdata 404, "Grunt"
         // mon 0
         ivs 30
         abilityslot 0
-        level 18
-        pokemon SPECIES_EKANS
+        level 24
+        pokemon SPECIES_ARBOK
         move MOVE_WRAP
-        move MOVE_LEER
+        move MOVE_GLARE
         move MOVE_POISON_STING
         move MOVE_BITE
         ballseal 0
@@ -13600,7 +13600,7 @@ trainerdata 404, "Grunt"
         // mon 1
         ivs 30
         abilityslot 0
-        level 18
+        level 24
         pokemon SPECIES_GLOOM
         move MOVE_ABSORB
         move MOVE_SWEET_SCENT
@@ -15664,14 +15664,14 @@ trainerdata 468, "Ross"
         // mon 0
         ivs 0
         abilityslot 0
-        level 22
+        level 25
         pokemon SPECIES_KOFFING
         ballseal 0
 
         // mon 1
         ivs 0
         abilityslot 0
-        level 22
+        level 25
         pokemon SPECIES_KOFFING
         ballseal 0
     endparty
@@ -15691,8 +15691,8 @@ trainerdata 469, "Mitch"
     party 469
         // mon 0
         ivs 0
-        abilityslot 0
-        level 24
+        abilityslot 2
+        level 25
         pokemon SPECIES_DITTO
         ballseal 0
     endparty
@@ -15713,21 +15713,21 @@ trainerdata 470, "Gregg"
         // mon 0
         ivs 0
         abilityslot 0
-        level 20
+        level 24
         pokemon SPECIES_MAGNEMITE
         ballseal 0
 
         // mon 1
         ivs 0
         abilityslot 32
-        level 20
+        level 24
         pokemon SPECIES_MAGNEMITE
         ballseal 0
 
         // mon 2
         ivs 0
         abilityslot 0
-        level 20
+        level 24
         pokemon SPECIES_MAGNEMITE
         ballseal 0
     endparty
@@ -15999,7 +15999,7 @@ trainerdata 479, "Ariana"
         // mon 0
         ivs 100
         abilityslot 0
-        level 25
+        level 28
         pokemon SPECIES_ARBOK
         move MOVE_WRAP
         move MOVE_POISON_STING
@@ -16010,9 +16010,9 @@ trainerdata 479, "Ariana"
         // mon 1
         ivs 100
         abilityslot 0
-        level 25
+        level 28
         pokemon SPECIES_GLOOM
-        move MOVE_MEGA_DRAIN
+        move MOVE_GIGA_DRAIN
         move MOVE_SWEET_SCENT
         move MOVE_SLEEP_POWDER
         move MOVE_ACID
@@ -16021,7 +16021,7 @@ trainerdata 479, "Ariana"
         // mon 2
         ivs 100
         abilityslot 32
-        level 27
+        level 30
         pokemon SPECIES_MURKROW
         move MOVE_WING_ATTACK
         move MOVE_PURSUIT
@@ -16353,21 +16353,21 @@ trainerdata 488, "Petrel"
         // mon 0
         ivs 100
         abilityslot 0
-        level 22
-        pokemon SPECIES_ZUBAT
+        level 27
+        pokemon SPECIES_GOLBAT
         ballseal 0
 
         // mon 1
         ivs 100
         abilityslot 32
-        level 24
+        level 28
         pokemon SPECIES_RATICATE
         ballseal 0
 
         // mon 2
         ivs 100
         abilityslot 0
-        level 22
+        level 27
         pokemon SPECIES_KOFFING
         ballseal 0
     endparty
@@ -16833,7 +16833,7 @@ trainerdata 498, "Eusine"
         ballseal 0
     endparty
 
-trainerdata 499, "Grunt"
+trainerdata 499, "Grunt" //Ariana's partner in rocket hq
     trainermontype TRAINER_DATA_TYPE_MOVES
     trainerclass CLASS_TEAM_ROCKET
     nummons 2
@@ -16849,7 +16849,7 @@ trainerdata 499, "Grunt"
         // mon 0
         ivs 30
         abilityslot 0
-        level 18
+        level 24
         pokemon SPECIES_DROWZEE
         move MOVE_HYPNOSIS
         move MOVE_DISABLE
@@ -16860,12 +16860,12 @@ trainerdata 499, "Grunt"
         // mon 1
         ivs 30
         abilityslot 0
-        level 20
+        level 26
         pokemon SPECIES_GRIMER
         move MOVE_SLUDGE
         move MOVE_DISABLE
-        move MOVE_MUD_SLAP
-        move MOVE_MINIMIZE
+        move MOVE_MUD_BOMB
+        move MOVE_POISON_GAS
         ballseal 0
     endparty
 
