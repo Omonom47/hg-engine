@@ -4,7 +4,7 @@
 #include "config.h"
 //#include "save.h"
 #include "types.h"
-#include "../include/trainer_data.h"
+#include "trainer_data.h"
 
 #define _PARTY_MENU_WINDOW_ID_MAX 40
 #define _PARTY_MENU_SPRITE_ID_MAX 29
@@ -1237,7 +1237,7 @@ void LONG_CALL TT_TrainerPokeDataGet(int tr_id, void *tpd);
  *  @param trtype trainer class
  *  @return trainer sex; 1 if female, 0 if male
  */
-u8 LONG_CALL TT_TrainerTypeSexGet(int trtype);
+TrainerGender LONG_CALL TT_TrainerTypeSexGet(int trtype);
 
 /**
  *  @brief set ball seal on a trainer PartyPokemon

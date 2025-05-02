@@ -92,3 +92,4 @@ tools/swav2swar.exe
 *.gbapal
 *.4bpp
 changelog
+tools/change_baseexp.py
