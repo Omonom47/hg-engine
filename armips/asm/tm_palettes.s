@@ -125,9 +125,9 @@ PALETTE_FAIRY equ 401
 .halfword PALETTE_GRASS
 .skip 4
 
-// TM020 SAFEGUARD
+// TM020 FIRE FANG
 .skip 2
-.halfword PALETTE_NORMAL
+.halfword PALETTE_FIRE
 .skip 4
 
 // TM021 PLAY_ROUGH
