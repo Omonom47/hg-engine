@@ -1065,7 +1065,6 @@ specialareas SPECIES_RATTATA, DEX_NIGHT
     .word DEX_SPROUT_TOWER
     .word DEX_UNION_CAVE
     .word DEX_BURNED_TOWER
-    .word DEX_BELL_TOWER
     .word DEX_MT_MORTAR
     dexendareadata
 
@@ -1134,6 +1133,7 @@ specialareas SPECIES_RATICATE, DEX_MORNING
     .word DEX_BURNED_TOWER
     .word DEX_MT_MORTAR
     .word DEX_TOHJO_FALLS
+    .word DEX_BELL_TOWER
     dexendareadata
 
 
@@ -1142,6 +1142,7 @@ specialareas SPECIES_RATICATE, DEX_DAY
     .word DEX_BURNED_TOWER
     .word DEX_MT_MORTAR
     .word DEX_TOHJO_FALLS
+    .word DEX_BELL_TOWER
     dexendareadata
 
 
@@ -1150,6 +1151,7 @@ specialareas SPECIES_RATICATE, DEX_NIGHT
     .word DEX_BURNED_TOWER
     .word DEX_MT_MORTAR
     .word DEX_TOHJO_FALLS
+    .word DEX_BELL_TOWER
     dexendareadata
 
 
@@ -4300,6 +4302,7 @@ specialareas SPECIES_HAUNTER, DEX_DAY
 
 
 specialareas SPECIES_HAUNTER, DEX_NIGHT
+    .word DEX_BELL_TOWER
     dexendareadata
 
 
@@ -7002,10 +7005,12 @@ routesandcities SPECIES_SENTRET, DEX_SPECIAL
 
 
 specialareas SPECIES_FURRET, DEX_MORNING
+    .word DEX_BELL_TOWER
     dexendareadata
 
 
 specialareas SPECIES_FURRET, DEX_DAY
+    .word DEX_BELL_TOWER
     dexendareadata
 
 
@@ -8480,6 +8485,7 @@ routesandcities SPECIES_SLOWKING, DEX_SPECIAL
 
 specialareas SPECIES_MISDREAVUS, DEX_MORNING
     .word DEX_CLIFF_CAVE
+    .word DEX_BELL_TOWER
     dexendareadata
 
 
@@ -8491,6 +8497,7 @@ specialareas SPECIES_MISDREAVUS, DEX_DAY
 specialareas SPECIES_MISDREAVUS, DEX_NIGHT
     .word DEX_MT_SILVER_CAVE
     .word DEX_CLIFF_CAVE
+    .word DEX_BELL_TOWER
     dexendareadata
 
 
