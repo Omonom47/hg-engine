@@ -357,7 +357,7 @@ The user burrows, then attacks on the\nsecond turn. It can also be used to\nexit
 The foe is hit by a strong telekinetic\nforce. It may also reduce the foe’s\nSp. Def stat.
 The user hurls a shadowy blob at the\nfoe. It may also lower the foe’s\nSp. Def stat.
 The user attacks with tough fists,\netc. It can also break any barrier\nsuch as Light Screen and Reflect.
-The user begins moving so quickly\nthat it creates illusory copies to\nraise its evasiveness.
+The user captures opposing Pokémon\nin an electric net to inflict damage.\nThis also lowers their Speed stats.
 A wondrous wall of light is put up to\nsuppress damage from physical attacks\nfor five turns.
 The user strikes the foe with a quick\njolt of electricity. This attack cannot\nbe evaded.
 The foe is scorched with an intense\nblast of fire. The target may also be\nleft with a burn.
