@@ -412,7 +412,7 @@ The user draws power from the Berry\nit is holding to attack. The Berry\ndetermi
 The foe is stabbed with a tentacle or\narm steeped with poison. It may also\npoison the foe.
 An attack that works only on a\nsleeping foe. It absorbs half the\ndamage caused to heal the user’s HP.
 The user snares the foe with grass\nand trips it. The heavier the foe, the\ngreater the damage.
-The user enrages the foe into\nconfusion. However, it also sharply\nraises the foe’s Attack stat.
+The user shrouds itself in electricity\nand smashes into its target. This also\ndamages the user a little
 The user pecks the foe. If the foe is\nholding a Berry, the user plucks it and\ngains its effect.
 After making its attack, the user\nrushes back to switch places with a\nparty Pokémon in waiting.
 The user makes a copy of itself using\nsome of its HP. The copy serves as\nthe user’s decoy.

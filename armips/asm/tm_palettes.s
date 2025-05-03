@@ -460,9 +460,9 @@ PALETTE_FAIRY equ 401
 .halfword PALETTE_GRASS
 .skip 4
 
-// TM087 SWAGGER
+// TM087 WILD_CHARGE
 .skip 2
-.halfword PALETTE_NORMAL
+.halfword PALETTE_ELECTRIC
 .skip 4
 
 // TM088 PLUCK
