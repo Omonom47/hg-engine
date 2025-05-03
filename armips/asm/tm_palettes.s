@@ -340,9 +340,9 @@ PALETTE_FAIRY equ 401
 .halfword PALETTE_BUG
 .skip 4
 
-// TM063 EMBARGO
+// TM063 CURSE
 .skip 2
-.halfword PALETTE_DARK
+.halfword PALETTE_GHOST
 .skip 4
 
 // TM064 EXPLOSION
