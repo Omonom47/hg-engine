@@ -4491,13 +4491,13 @@ rocksmashrate 0
 oldrodrate 40
 goodrodrate 65
 superrodrate 90
-walklevels 22, 23, 22, 23, 24, 24, 22, 22, 23, 24, 23, 24
+walklevels 29, 30, 29, 30, 31, 31, 29, 29, 30, 31, 30, 31
 
 // morning encounter slots
 pokemon SPECIES_KRABBY
 pokemon SPECIES_ZUBAT
 pokemon SPECIES_KRABBY
-pokemon SPECIES_ZUBAT
+pokemon SPECIES_GOLBAT
 pokemon SPECIES_KRABBY
 pokemon SPECIES_KRABBY
 pokemon SPECIES_SEEL
@@ -4511,7 +4511,7 @@ pokemon SPECIES_SEEL
 pokemon SPECIES_KRABBY
 pokemon SPECIES_ZUBAT
 pokemon SPECIES_KRABBY
-pokemon SPECIES_ZUBAT
+pokemon SPECIES_GOLBAT
 pokemon SPECIES_KRABBY
 pokemon SPECIES_KRABBY
 pokemon SPECIES_SEEL
@@ -4525,7 +4525,7 @@ pokemon SPECIES_SEEL
 pokemon SPECIES_KRABBY
 pokemon SPECIES_ZUBAT
 pokemon SPECIES_KRABBY
-pokemon SPECIES_ZUBAT
+pokemon SPECIES_GOLBAT
 pokemon SPECIES_KRABBY
 pokemon SPECIES_KRABBY
 pokemon SPECIES_SEEL
@@ -4544,11 +4544,11 @@ pokemon SPECIES_BRONZOR
 pokemon SPECIES_CHINGLING
 
 // surf encounters
-encounter SPECIES_TENTACOOL, 15, 25
-encounter SPECIES_HORSEA, 10, 20
-encounter SPECIES_TENTACRUEL, 15, 25
-encounter SPECIES_TENTACRUEL, 15, 25
-encounter SPECIES_TENTACRUEL, 15, 25
+encounter SPECIES_TENTACOOL, 23, 30
+encounter SPECIES_HORSEA, 20, 27
+encounter SPECIES_TENTACRUEL, 25, 32
+encounter SPECIES_TENTACRUEL, 25, 32
+encounter SPECIES_TENTACRUEL, 25, 32
 
 // rock smash encounters
 encounter SPECIES_NONE, 0, 0
@@ -4595,13 +4595,13 @@ rocksmashrate 0
 oldrodrate 0
 goodrodrate 0
 superrodrate 0
-walklevels 22, 23, 22, 23, 24, 24, 22, 22, 23, 24, 23, 24
+walklevels 29, 30, 29, 30, 31, 31, 29, 29, 30, 31, 30, 31
 
 // morning encounter slots
 pokemon SPECIES_KRABBY
 pokemon SPECIES_ZUBAT
 pokemon SPECIES_KRABBY
-pokemon SPECIES_ZUBAT
+pokemon SPECIES_GOLBAT
 pokemon SPECIES_KRABBY
 pokemon SPECIES_KRABBY
 pokemon SPECIES_SEEL
@@ -4615,7 +4615,7 @@ pokemon SPECIES_SEEL
 pokemon SPECIES_KRABBY
 pokemon SPECIES_ZUBAT
 pokemon SPECIES_KRABBY
-pokemon SPECIES_ZUBAT
+pokemon SPECIES_GOLBAT
 pokemon SPECIES_KRABBY
 pokemon SPECIES_KRABBY
 pokemon SPECIES_SEEL
@@ -4629,7 +4629,7 @@ pokemon SPECIES_SEEL
 pokemon SPECIES_KRABBY
 pokemon SPECIES_ZUBAT
 pokemon SPECIES_KRABBY
-pokemon SPECIES_ZUBAT
+pokemon SPECIES_GOLBAT
 pokemon SPECIES_KRABBY
 pokemon SPECIES_KRABBY
 pokemon SPECIES_SEEL
@@ -4803,13 +4803,13 @@ rocksmashrate 0
 oldrodrate 40
 goodrodrate 65
 superrodrate 90
-walklevels 22, 23, 22, 23, 24, 24, 22, 22, 23, 24, 23, 24
+walklevels 29, 30, 29, 30, 31, 31, 29, 29, 30, 31, 30, 31
 
 // morning encounter slots
 pokemon SPECIES_KRABBY
-pokemon SPECIES_ZUBAT
+pokemon SPECIES_GOLBAT
 pokemon SPECIES_KRABBY
-pokemon SPECIES_ZUBAT
+pokemon SPECIES_GOLBAT
 pokemon SPECIES_KRABBY
 pokemon SPECIES_KRABBY
 pokemon SPECIES_SEEL
@@ -4821,9 +4821,9 @@ pokemon SPECIES_SEEL
 
 // day encounter slots
 pokemon SPECIES_KRABBY
-pokemon SPECIES_ZUBAT
+pokemon SPECIES_GOLBAT
 pokemon SPECIES_KRABBY
-pokemon SPECIES_ZUBAT
+pokemon SPECIES_GOLBAT
 pokemon SPECIES_KRABBY
 pokemon SPECIES_KRABBY
 pokemon SPECIES_SEEL
@@ -4835,9 +4835,9 @@ pokemon SPECIES_SEEL
 
 // night encounter slots
 pokemon SPECIES_KRABBY
-pokemon SPECIES_ZUBAT
+pokemon SPECIES_GOLBAT
 pokemon SPECIES_KRABBY
-pokemon SPECIES_ZUBAT
+pokemon SPECIES_GOLBAT
 pokemon SPECIES_KRABBY
 pokemon SPECIES_KRABBY
 pokemon SPECIES_SEEL
@@ -4856,11 +4856,11 @@ pokemon SPECIES_BRONZOR
 pokemon SPECIES_CHINGLING
 
 // surf encounters
-encounter SPECIES_HORSEA, 15, 25
-encounter SPECIES_TENTACRUEL, 15, 25
-encounter SPECIES_SEADRA, 15, 25
-encounter SPECIES_SEADRA, 15, 25
-encounter SPECIES_SEADRA, 30, 30
+encounter SPECIES_HORSEA, 20, 27
+encounter SPECIES_TENTACRUEL, 29, 32
+encounter SPECIES_SEADRA, 30, 32
+encounter SPECIES_SEADRA, 30, 32
+encounter SPECIES_SEADRA, 30, 32
 
 // rock smash encounters
 encounter SPECIES_NONE, 0, 0
@@ -5011,15 +5011,15 @@ rocksmashrate 0
 oldrodrate 0
 goodrodrate 0
 superrodrate 0
-walklevels 23, 24, 23, 24, 25, 25, 23, 23, 24, 25, 24, 25
+walklevels 30, 31, 30, 31, 32, 32, 30, 30, 31, 32, 31, 32
 
 // morning encounter slots
 pokemon SPECIES_KRABBY
-pokemon SPECIES_ZUBAT
+pokemon SPECIES_GOLBAT
 pokemon SPECIES_KRABBY
-pokemon SPECIES_ZUBAT
-pokemon SPECIES_KRABBY
-pokemon SPECIES_KRABBY
+pokemon SPECIES_GOLBAT
+pokemon SPECIES_KINGLER
+pokemon SPECIES_KINGLER
 pokemon SPECIES_SEEL
 pokemon SPECIES_SEEL
 pokemon SPECIES_GOLBAT
@@ -5032,8 +5032,8 @@ pokemon SPECIES_KRABBY
 pokemon SPECIES_ZUBAT
 pokemon SPECIES_KRABBY
 pokemon SPECIES_ZUBAT
-pokemon SPECIES_KRABBY
-pokemon SPECIES_KRABBY
+pokemon SPECIES_KINGLER
+pokemon SPECIES_KINGLER
 pokemon SPECIES_SEEL
 pokemon SPECIES_SEEL
 pokemon SPECIES_GOLBAT
@@ -5046,8 +5046,8 @@ pokemon SPECIES_KRABBY
 pokemon SPECIES_ZUBAT
 pokemon SPECIES_KRABBY
 pokemon SPECIES_ZUBAT
-pokemon SPECIES_KRABBY
-pokemon SPECIES_KRABBY
+pokemon SPECIES_KINGLER
+pokemon SPECIES_KINGLER
 pokemon SPECIES_SEEL
 pokemon SPECIES_SEEL
 pokemon SPECIES_GOLBAT
