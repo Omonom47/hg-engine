@@ -403,7 +403,7 @@ The user tackles the foe from a\nhigh-speed spin. The slower the user,\nthe grea
 A frenetic dance to uplift the fighting\nspirit. It sharply raises the user’s\nAttack stat.
 The user lays a trap of levitating\nstones around the foe. The trap hurts\nfoes that switch into battle.
 The user hypnotizes itself into\ncopying any stat change made\nby the foe.
-If it is the opposite gender of the\nuser, the foe is charmed into sharply\nlowering its Sp. Atk stat.
+The user bites with electrified fangs.\nThis may also make the target flinch or\nleave it with paralysis.
 The user releases a horrible aura\nimbued with dark thoughts. It may also\nmake the target flinch.
 Large boulders are hurled at the foe\nto inflict damage. It may also make the\ntarget flinch.
 The user slashes at the foe by\ncrossing its scythes or claws as if\nthey were a pair of scissors.
