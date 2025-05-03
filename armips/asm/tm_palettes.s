@@ -315,9 +315,9 @@ PALETTE_FAIRY equ 401
 .halfword PALETTE_ELECTRIC
 .skip 4
 
-// TM058 ENDURE
+// TM058 ICE FANG
 .skip 2
-.halfword PALETTE_NORMAL
+.halfword PALETTE_ICE
 .skip 4
 
 // TM059 DRAGON_PULSE
