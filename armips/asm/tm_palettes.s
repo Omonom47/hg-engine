@@ -410,9 +410,9 @@ PALETTE_FAIRY equ 401
 .halfword PALETTE_ROCK
 .skip 4
 
-// TM077 PSYCH_UP
+// TM077 BRUTAL_SWING
 .skip 2
-.halfword PALETTE_NORMAL
+.halfword PALETTE_DARK
 .skip 4
 
 // TM078 THUNDER_FANG

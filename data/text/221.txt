@@ -402,7 +402,7 @@ A weak electric charge is launched\nat the foe. It causes paralysis if it\nhits.
 The user tackles the foe from a\nhigh-speed spin. The slower the user,\nthe greater the damage.
 A frenetic dance to uplift the fighting\nspirit. It sharply raises the user’s\nAttack stat.
 The user lays a trap of levitating\nstones around the foe. The trap hurts\nfoes that switch into battle.
-The user hypnotizes itself into\ncopying any stat change made\nby the foe.
+The user swings its body around\nviolently to inflict damage on\neverything in its vicinity. 
 The user bites with electrified fangs.\nThis may also make the target flinch or\nleave it with paralysis.
 The user releases a horrible aura\nimbued with dark thoughts. It may also\nmake the target flinch.
 Large boulders are hurled at the foe\nto inflict damage. It may also make the\ntarget flinch.

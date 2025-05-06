@@ -11150,7 +11150,7 @@ movedata MOVE_DRAGON_HAMMER, "Dragon Hammer"
 movedata MOVE_BRUTAL_SWING, "Brutal Swing"
     battleeffect MOVE_EFFECT_HIT
     pss SPLIT_PHYSICAL
-    basepower 60
+    basepower 90
     type TYPE_DARK
     accuracy 100
     pp 20
