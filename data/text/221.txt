@@ -408,7 +408,7 @@ The user releases a horrible aura\nimbued with dark thoughts. It may also\nmake 
 Large boulders are hurled at the foe\nto inflict damage. It may also make the\ntarget flinch.
 The user slashes at the foe by\ncrossing its scythes or claws as if\nthey were a pair of scissors.
 While it is asleep, the user\nrandomly uses one of the moves\nit knows.
-The user draws power from the Berry\nit is holding to attack. The Berry\ndetermines its type and power.
+The user whips up a turbulent whirlwind\nthat boosts the Speed stats of itself\nand its allies for four turns.
 The foe is stabbed with a tentacle or\narm steeped with poison. It may also\npoison the foe.
 An attack that works only on a\nsleeping foe. It absorbs half the\ndamage caused to heal the user’s HP.
 The user snares the foe with grass\nand trips it. The heavier the foe, the\ngreater the damage.
