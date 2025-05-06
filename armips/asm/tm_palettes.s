@@ -240,7 +240,7 @@ PALETTE_FAIRY equ 401
 .halfword PALETTE_NORMAL
 .skip 4
 
-// TM043 SECRET_POWER
+// TM043 HYPER_VOICE
 .skip 2
 .halfword PALETTE_NORMAL
 .skip 4
