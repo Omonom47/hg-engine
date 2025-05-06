@@ -230,9 +230,9 @@ PALETTE_FAIRY equ 401
 .halfword PALETTE_FLYING
 .skip 4
 
-// TM041 TORMENT
+// TM041 HURRICANE
 .skip 2
-.halfword PALETTE_DARK
+.halfword PALETTE_FLYING
 .skip 4
 
 // TM042 FACADE

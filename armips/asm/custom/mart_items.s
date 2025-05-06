@@ -247,10 +247,10 @@ const u16 *_0210FA3C[] = {
 .org 0x020FBC1A
 .halfword ITEM_TM92
 .halfword ITEM_TM17
-.halfword ITEM_TM54
-.halfword ITEM_TM83
 .halfword ITEM_TM16
 .halfword ITEM_TM33
+.halfword ITEM_TM83
+.halfword ITEM_TM41
 .halfword ITEM_TM22
 .halfword ITEM_TM52
 .halfword ITEM_TM38

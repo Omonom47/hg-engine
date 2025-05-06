@@ -22503,7 +22503,7 @@ const ITEMDATA __data[] =
 
 [ITEM_TM41 - NUM_UNKNOWN_SLOTS] =
 {
-    .price = 1500,
+    .price = 5500,
     .holdEffect = 0,
     .holdEffectParam = 0,
     .pluckEffect = 0,

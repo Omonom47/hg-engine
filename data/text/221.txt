@@ -366,7 +366,7 @@ A five-turn sandstorm is summoned\nto hurt all combatants except the\nRock, Grou
 The foe is attacked with an intense\nblast of all-consuming fire. It may\nalso leave the target with a burn.
 Large boulders are hurled at the foe\nto inflict damage. It lowers the foe’s\nSpeed.
 The user confounds the foe with speed,\nthen strikes. The attack lands without\nfail.
-The user torments and enrages the\nfoe, making it incapable of using the\nsame move twice in a row.
+The user attacks by wrapping its\nopponent in a fierce wind. This may\nalso confuse the target.
 An attack move that doubles its power\nif the user is poisoned, paralyzed, or\nhas a burn.
 The user lets loose a horribly echoing\nshout with the power to inflict damage.
 The user goes to sleep for two\nturns. It fully restores the user’s HP\nand heals any status problem.
