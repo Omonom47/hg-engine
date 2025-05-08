@@ -165,14 +165,14 @@ trainerdata 5, "Victoria"
         // mon 0
         ivs 10
         abilityslot 32
-        level 9
+        level 15
         pokemon SPECIES_SENTRET
         ballseal 0
 
         // mon 1
         ivs 10
         abilityslot 32
-        level 13
+        level 15
         pokemon SPECIES_SENTRET
         ballseal 0
 
