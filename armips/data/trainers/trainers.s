@@ -564,14 +564,14 @@ trainerdata 18, "Justin"
         // mon 0
         ivs 0
         abilityslot 0
-        level 5
+        level 6
         pokemon SPECIES_MAGIKARP
         ballseal 0
 
         // mon 1
         ivs 0
         abilityslot 0
-        level 5
+        level 6
         pokemon SPECIES_MAGIKARP
         ballseal 0
 
@@ -585,7 +585,7 @@ trainerdata 18, "Justin"
         // mon 3
         ivs 0
         abilityslot 0
-        level 5
+        level 6
         pokemon SPECIES_MAGIKARP
         ballseal 0
     endparty
@@ -846,7 +846,7 @@ trainerdata 26, "Roland"
         // mon 0
         ivs 0
         abilityslot 32
-        level 9
+        level 10
         pokemon SPECIES_NIDORAN_M
         ballseal 0
     endparty
@@ -867,7 +867,7 @@ trainerdata 27, "Liz"
         // mon 0
         ivs 0
         abilityslot 32
-        level 8
+        level 10
         pokemon SPECIES_NIDORAN_F
         ballseal 0
     endparty
@@ -1674,14 +1674,14 @@ trainerdata 49, "Albert"
         // mon 0
         ivs 0
         abilityslot 0
-        level 6
+        level 8
         pokemon SPECIES_RATTATA
         ballseal 0
 
         // mon 1
         ivs 0
         abilityslot 0
-        level 8
+        level 9
         pokemon SPECIES_ZUBAT
         ballseal 0
     endparty
@@ -1961,14 +1961,14 @@ trainerdata 60, "Henry"
         // mon 0
         ivs 0
         abilityslot 0
-        level 8
+        level 9
         pokemon SPECIES_POLIWAG
         ballseal 0
 
         // mon 1
         ivs 0
         abilityslot 32
-        level 8
+        level 9
         pokemon SPECIES_POLIWAG
         ballseal 0
     endparty
@@ -13050,14 +13050,14 @@ trainerdata 383, "Peter"
         // mon 0
         ivs 50
         abilityslot 0
-        level 6
+        level 7
         pokemon SPECIES_PIDGEY
         ballseal 0
 
         // mon 1
         ivs 50
         abilityslot 32
-        level 6
+        level 7
         pokemon SPECIES_PIDGEY
         ballseal 0
 
