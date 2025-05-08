@@ -1076,8 +1076,8 @@ trainerdata 32, "Pryce"
         item ITEM_SITRUS_BERRY
         move MOVE_HAIL
         move MOVE_ICE_FANG
-        move MOVE_MUD_BOMB
-        move MOVE_BLIZZARD
+        move MOVE_EARTHQUAKE
+        move MOVE_THUNDER_FANG
         ballseal 0
     endparty
 
@@ -1108,14 +1108,14 @@ trainerdata 33, "Jasmine"
 
         // mon 1
         ivs 150
-        abilityslot 32
+        abilityslot 0
         level 31
         pokemon SPECIES_FORRETRESS
         item ITEM_NONE
         move MOVE_HEAVY_SLAM
         move MOVE_BUG_BITE
         move MOVE_PROTECT
-        move MOVE_ROCK_TOMB
+        move MOVE_ELECTROWEB
         ballseal 0
 
         // mon 2
@@ -1124,9 +1124,9 @@ trainerdata 33, "Jasmine"
         level 33
         pokemon SPECIES_STEELIX
         item ITEM_SITRUS_BERRY
-        move MOVE_SCREECH
+        move MOVE_THUNDER_FANG
         move MOVE_SANDSTORM
-        move MOVE_ROCK_SLIDE
+        move MOVE_EARTHQUAKE
         move MOVE_IRON_TAIL
         ballseal 0
     endparty
@@ -1134,7 +1134,7 @@ trainerdata 33, "Jasmine"
 trainerdata 34, "Chuck"
     trainermontype TRAINER_DATA_TYPE_ITEMS | TRAINER_DATA_TYPE_MOVES
     trainerclass CLASS_LEADER_3
-    nummons 2
+    nummons 3
     item ITEM_HYPER_POTION
     item ITEM_HYPER_POTION
     item ITEM_NONE
