@@ -2201,14 +2201,14 @@ trainerdata 67, "Benny"
         // mon 0
         ivs 10
         abilityslot 0
-        level 7
+        level 12
         pokemon SPECIES_WEEDLE
         ballseal 0
 
         // mon 1
         ivs 10
         abilityslot 0
-        level 9
+        level 12
         pokemon SPECIES_KAKUNA
         ballseal 0
 
@@ -2236,14 +2236,14 @@ trainerdata 68, "Al"
         // mon 0
         ivs 10
         abilityslot 0
-        level 12
+        level 14
         pokemon SPECIES_CATERPIE
         ballseal 0
 
         // mon 1
         ivs 10
         abilityslot 0
-        level 12
+        level 14
         pokemon SPECIES_WEEDLE
         ballseal 0
     endparty
@@ -2264,7 +2264,7 @@ trainerdata 69, "Josh"
         // mon 0
         ivs 10
         abilityslot 0
-        level 13
+        level 15
         pokemon SPECIES_PARAS
         ballseal 0
     endparty
@@ -13159,14 +13159,14 @@ trainerdata 387, "Amy & Mimi"
         // mon 0
         ivs 10
         abilityslot 32
-        level 10
+        level 14
         pokemon SPECIES_LEDYBA
         ballseal 0
 
         // mon 1
         ivs 10
         abilityslot 32
-        level 10
+        level 14
         pokemon SPECIES_SPINARAK
         ballseal 0
     endparty
