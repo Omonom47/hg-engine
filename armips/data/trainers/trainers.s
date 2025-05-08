@@ -1074,13 +1074,13 @@ trainerdata 32, "Pryce"
     party 32
         // mon 0
         ivs 150
-        abilityslot 1
+        abilityslot 32
         level 33
         pokemon SPECIES_DELIBIRD
         item ITEM_NONE
         move MOVE_AIR_SLASH
         move MOVE_HAIL
-        move MOVE_ICE_BEAM
+        move MOVE_BLIZZARD
         move MOVE_WATER_PULSE
         ballseal 0
 
@@ -1092,15 +1092,15 @@ trainerdata 32, "Pryce"
         item ITEM_NONE
         move MOVE_SLEEP_TALK
         move MOVE_SURF
-        move MOVE_AURORA_BEAM
+        move MOVE_BLIZZARD
         move MOVE_REST
         ballseal 0
 
         // mon 2
         ivs 150
-        abilityslot 32
+        abilityslot 2
         level 35
-        pokemon SPECIES_PILOSWINE
+        pokemon SPECIES_MAMOSWINE
         item ITEM_SITRUS_BERRY
         move MOVE_HAIL
         move MOVE_ICE_FANG
@@ -2791,73 +2791,103 @@ trainerdata 86, "Randall"
         ballseal 0
     endparty
 
-trainerdata 87, "Mickey"
-    trainermontype TRAINER_DATA_TYPE_NOTHING
-    trainerclass CLASS_SAGE
-    nummons 1
+trainerdata 87, "Pryce"
+    trainermontype TRAINER_DATA_TYPE_ITEMS | TRAINER_DATA_TYPE_MOVES
+    trainerclass CLASS_LEADER_1
+    nummons 3
+    item ITEM_HYPER_POTION
+    item ITEM_FULL_RESTORE
     item ITEM_NONE
     item ITEM_NONE
-    item ITEM_NONE
-    item ITEM_NONE
-    aiflags F_PRIORITIZE_SUPER_EFFECTIVE | F_EXPERT_ATTACKS | 0
+    aiflags F_PRIORITIZE_SUPER_EFFECTIVE | F_EVALUATE_ATTACKS | F_EXPERT_ATTACKS | F_USE_WEATHER | 0
     battletype SINGLE_BATTLE
     endentry
 
     party 87
         // mon 0
-        ivs 0
+        ivs 150
+        abilityslot 32
+        level 28
+        pokemon SPECIES_DELIBIRD
+        item ITEM_NONE
+        move MOVE_AIR_CUTTER
+        move MOVE_HAIL
+        move MOVE_ICY_WIND
+        move MOVE_WATER_PULSE
+        ballseal 0
+
+        // mon 1
+        ivs 150
         abilityslot 0
-        level 22
-        pokemon SPECIES_HAUNTER
+        level 28
+        pokemon SPECIES_SEEL
+        item ITEM_NONE
+        move MOVE_SNORE
+        move MOVE_WATER_PULSE
+        move MOVE_AURORA_BEAM
+        move MOVE_REST
+        ballseal 0
+
+        // mon 2
+        ivs 150
+        abilityslot 32
+        level 30
+        pokemon SPECIES_PILOSWINE
+        item ITEM_SITRUS_BERRY
+        move MOVE_HAIL
+        move MOVE_ICE_FANG
+        move MOVE_EARTHQUAKE
+        move MOVE_THUNDER_FANG
         ballseal 0
     endparty
 
-trainerdata 88, "Mickey"
-    trainermontype TRAINER_DATA_TYPE_NOTHING
-    trainerclass CLASS_SAGE
-    nummons 5
+trainerdata 88, "Pryce"
+    trainermontype TRAINER_DATA_TYPE_ITEMS | TRAINER_DATA_TYPE_MOVES
+    trainerclass CLASS_LEADER_1
+    nummons 3
+    item ITEM_HYPER_POTION
+    item ITEM_FULL_RESTORE
     item ITEM_NONE
     item ITEM_NONE
-    item ITEM_NONE
-    item ITEM_NONE
-    aiflags F_PRIORITIZE_SUPER_EFFECTIVE | F_EXPERT_ATTACKS | 0
+    aiflags F_PRIORITIZE_SUPER_EFFECTIVE | F_EVALUATE_ATTACKS | F_EXPERT_ATTACKS | F_USE_WEATHER | 0
     battletype SINGLE_BATTLE
     endentry
 
     party 88
         // mon 0
-        ivs 0
-        abilityslot 0
-        level 16
-        pokemon SPECIES_GASTLY
+        ivs 150
+        abilityslot 32
+        level 30
+        pokemon SPECIES_DELIBIRD
+        item ITEM_NONE
+        move MOVE_AIR_SLASH
+        move MOVE_HAIL
+        move MOVE_ICY_WIND
+        move MOVE_WATER_PULSE
         ballseal 0
 
         // mon 1
-        ivs 0
+        ivs 150
         abilityslot 0
-        level 16
-        pokemon SPECIES_GASTLY
+        level 32
+        pokemon SPECIES_DEWGONG
+        item ITEM_NONE
+        move MOVE_SLEEP_TALK
+        move MOVE_SURF
+        move MOVE_AURORA_BEAM
+        move MOVE_REST
         ballseal 0
 
         // mon 2
-        ivs 0
-        abilityslot 0
-        level 16
-        pokemon SPECIES_GASTLY
-        ballseal 0
-
-        // mon 3
-        ivs 0
-        abilityslot 0
-        level 16
-        pokemon SPECIES_GASTLY
-        ballseal 0
-
-        // mon 4
-        ivs 0
-        abilityslot 0
-        level 16
-        pokemon SPECIES_GASTLY
+        ivs 150
+        abilityslot 32
+        level 33
+        pokemon SPECIES_PILOSWINE
+        item ITEM_SITRUS_BERRY
+        move MOVE_HAIL
+        move MOVE_ICE_FANG
+        move MOVE_EARTHQUAKE
+        move MOVE_THUNDER_FANG
         ballseal 0
     endparty
 
