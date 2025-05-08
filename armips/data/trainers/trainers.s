@@ -382,21 +382,21 @@ trainerdata 12, "Grunt" //slowpoke well grunt
         // mon 0
         ivs 30
         abilityslot 32
-        level 9
+        level 12
         pokemon SPECIES_RATTATA
         ballseal 0
 
         // mon 1
         ivs 30
         abilityslot 0
-        level 9
+        level 12
         pokemon SPECIES_ZUBAT
         ballseal 0
 
         // mon 2
         ivs 30
         abilityslot 0
-        level 9
+        level 12
         pokemon SPECIES_ZUBAT
         ballseal 0
     endparty
@@ -417,14 +417,14 @@ trainerdata 13, "Grunt" //slowpoke well grunt
         // mon 0
         ivs 30
         abilityslot 0
-        level 9
+        level 13
         pokemon SPECIES_ZUBAT
         ballseal 0
 
         // mon 1
         ivs 30
         abilityslot 0
-        level 11
+        level 13
         pokemon SPECIES_EKANS
         ballseal 0
     endparty
@@ -3292,14 +3292,14 @@ trainerdata 101, "Grunt" //slowpoke well grunt
         // mon 0
         ivs 30
         abilityslot 32
-        level 10
+        level 13
         pokemon SPECIES_RATTATA
         ballseal 0
 
         // mon 1
         ivs 30
         abilityslot 32
-        level 10
+        level 13
         pokemon SPECIES_RATTATA
         ballseal 0
     endparty
@@ -16361,14 +16361,14 @@ trainerdata 486, "Proton"
         // mon 0
         ivs 100
         abilityslot 0
-        level 10
+        level 12
         pokemon SPECIES_ZUBAT
         ballseal 0
 
         // mon 1
         ivs 100
         abilityslot 0
-        level 13
+        level 15
         pokemon SPECIES_KOFFING
         ballseal 0
     endparty
