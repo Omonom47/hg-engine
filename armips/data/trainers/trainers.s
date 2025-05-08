@@ -1130,7 +1130,7 @@ trainerdata 33, "Jasmine"
         item ITEM_NONE
         move MOVE_THUNDERBOLT
         move MOVE_SUPERSONIC
-        move MOVE_SONIC_BOOM
+        move MOVE_TRI_ATTACK
         move MOVE_THUNDER_WAVE
         ballseal 0
 
@@ -1140,7 +1140,7 @@ trainerdata 33, "Jasmine"
         level 31
         pokemon SPECIES_FORRETRESS
         item ITEM_NONE
-        move MOVE_HEAVY_SLAM
+        move MOVE_ROCK_TOMB
         move MOVE_BUG_BITE
         move MOVE_PROTECT
         move MOVE_ELECTROWEB
@@ -1390,24 +1390,53 @@ trainerdata 39, "Eugene"
         ballseal 0
     endparty
 
-trainerdata 40, "Mickey"
-    trainermontype TRAINER_DATA_TYPE_NOTHING
-    trainerclass CLASS_SUPER_NERD
-    nummons 1
+trainerdata 40, "Jasmine"
+    trainermontype TRAINER_DATA_TYPE_ITEMS | TRAINER_DATA_TYPE_MOVES
+    trainerclass CLASS_LEADER_2
+    nummons 3
+    item ITEM_HYPER_POTION
+    item ITEM_HYPER_POTION
     item ITEM_NONE
     item ITEM_NONE
-    item ITEM_NONE
-    item ITEM_NONE
-    aiflags F_PRIORITIZE_SUPER_EFFECTIVE | F_EXPERT_ATTACKS | 0
+    aiflags F_PRIORITIZE_SUPER_EFFECTIVE | F_EVALUATE_ATTACKS | F_EXPERT_ATTACKS | 0
     battletype SINGLE_BATTLE
     endentry
 
     party 40
         // mon 0
-        ivs 0
+        ivs 150
         abilityslot 0
-        level 20
-        pokemon SPECIES_GRIMER
+        level 28
+        pokemon SPECIES_MAGNEMITE
+        item ITEM_NONE
+        move MOVE_THUNDERBOLT
+        move MOVE_SUPERSONIC
+        move MOVE_SONIC_BOOM
+        move MOVE_THUNDER_WAVE
+        ballseal 0
+
+        // mon 1
+        ivs 150
+        abilityslot 0
+        level 28
+        pokemon SPECIES_FORRETRESS
+        item ITEM_NONE
+        move MOVE_ROCK_TOMB
+        move MOVE_BUG_BITE
+        move MOVE_PROTECT
+        move MOVE_ELECTROWEB
+        ballseal 0
+
+        // mon 2
+        ivs 150
+        abilityslot 32
+        level 30
+        pokemon SPECIES_STEELIX
+        item ITEM_SITRUS_BERRY
+        move MOVE_THUNDER_FANG
+        move MOVE_SANDSTORM
+        move MOVE_ROCK_SLIDE
+        move MOVE_IRON_TAIL
         ballseal 0
     endparty
 
@@ -2014,24 +2043,53 @@ trainerdata 62, "Samuel"
         ballseal 0
     endparty
 
-trainerdata 63, "Mickey"
-    trainermontype TRAINER_DATA_TYPE_NOTHING
-    trainerclass CLASS_TEAM_ROCKET
-    nummons 1
+trainerdata 63, "Jasmine"
+    trainermontype TRAINER_DATA_TYPE_ITEMS | TRAINER_DATA_TYPE_MOVES
+    trainerclass CLASS_LEADER_2
+    nummons 3
+    item ITEM_HYPER_POTION
+    item ITEM_HYPER_POTION
     item ITEM_NONE
     item ITEM_NONE
-    item ITEM_NONE
-    item ITEM_NONE
-    aiflags F_PRIORITIZE_SUPER_EFFECTIVE | 0
+    aiflags F_PRIORITIZE_SUPER_EFFECTIVE | F_EVALUATE_ATTACKS | F_EXPERT_ATTACKS | 0
     battletype SINGLE_BATTLE
     endentry
 
     party 63
         // mon 0
-        ivs 30
+        ivs 150
         abilityslot 0
-        level 14
-        pokemon SPECIES_KOFFING
+        level 33
+        pokemon SPECIES_MAGNETON
+        item ITEM_NONE
+        move MOVE_THUNDERBOLT
+        move MOVE_FLASH_CANNON
+        move MOVE_TRI_ATTACK
+        move MOVE_THUNDER_WAVE
+        ballseal 0
+
+        // mon 1
+        ivs 150
+        abilityslot 0
+        level 33
+        pokemon SPECIES_FORRETRESS
+        item ITEM_NONE
+        move MOVE_ROCK_SLIDE
+        move MOVE_BUG_BITE
+        move MOVE_PROTECT
+        move MOVE_ELECTROWEB
+        ballseal 0
+
+        // mon 2
+        ivs 150
+        abilityslot 32
+        level 35
+        pokemon SPECIES_STEELIX
+        item ITEM_SITRUS_BERRY
+        move MOVE_THUNDER_FANG
+        move MOVE_ICE_FANG
+        move MOVE_EARTHQUAKE
+        move MOVE_IRON_TAIL
         ballseal 0
     endparty
 
