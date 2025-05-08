@@ -2017,28 +2017,28 @@ trainerdata 62, "Samuel"
         // mon 0
         ivs 0
         abilityslot 32
-        level 10
+        level 12
         pokemon SPECIES_RATTATA
         ballseal 0
 
         // mon 1
         ivs 0
         abilityslot 0
-        level 11
+        level 13
         pokemon SPECIES_SANDSHREW
         ballseal 0
 
         // mon 2
         ivs 0
         abilityslot 0
-        level 10
+        level 13
         pokemon SPECIES_SPEAROW
         ballseal 0
 
         // mon 3
         ivs 0
         abilityslot 0
-        level 10
+        level 12
         pokemon SPECIES_SPEAROW
         ballseal 0
     endparty
@@ -2109,7 +2109,7 @@ trainerdata 64, "Ian"
         // mon 0
         ivs 0
         abilityslot 0
-        level 14
+        level 15
         pokemon SPECIES_MANKEY
         move MOVE_FOCUS_ENERGY
         move MOVE_SCRATCH
@@ -2145,21 +2145,21 @@ trainerdata 65, "Gina"
         // mon 0
         ivs 0
         abilityslot 0
-        level 11
+        level 13
         pokemon SPECIES_HOPPIP
         ballseal 0
 
         // mon 1
         ivs 0
         abilityslot 0
-        level 11
+        level 13
         pokemon SPECIES_HOPPIP
         ballseal 0
 
         // mon 2
         ivs 0
         abilityslot 0
-        level 13
+        level 14
         pokemon SPECIES_BULBASAUR
         ballseal 0
     endparty
@@ -2180,7 +2180,7 @@ trainerdata 66, "Todd"
         // mon 0
         ivs 0
         abilityslot 0
-        level 16
+        level 17
         pokemon SPECIES_PSYDUCK
         ballseal 0
     endparty
@@ -13877,7 +13877,7 @@ trainerdata 409, "Brandon"
         // mon 1
         ivs 0
         abilityslot 0
-        level 14
+        level 15
         pokemon SPECIES_MAREEP
         ballseal 0
     endparty
