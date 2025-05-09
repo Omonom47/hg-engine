@@ -3627,7 +3627,7 @@ trainerdata 110, "Paulo"
         ivs 60
         abilityslot 0
         level 35
-        pokemon SPECIES_DRATINI
+        pokemon SPECIES_DRAGONAIR
         ballseal 0
 
         // mon 1
@@ -3641,7 +3641,7 @@ trainerdata 110, "Paulo"
         ivs 60
         abilityslot 0
         level 35
-        pokemon SPECIES_DRATINI
+        pokemon SPECIES_DRAGONAIR
         ballseal 0
     endparty
 
@@ -3683,7 +3683,7 @@ trainerdata 112, "Cody"
         ivs 60
         abilityslot 0
         level 35
-        pokemon SPECIES_HORSEA
+        pokemon SPECIES_SEADRA
         ballseal 0
 
         // mon 1
@@ -3865,7 +3865,7 @@ trainerdata 117, "Lola"
         ivs 60
         abilityslot 0
         level 35
-        pokemon SPECIES_DRATINI
+        pokemon SPECIES_DRAGONAIR
         ballseal 0
 
         // mon 1
