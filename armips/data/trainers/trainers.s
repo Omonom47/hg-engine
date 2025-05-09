@@ -30,7 +30,7 @@ trainerdata 0, "-"
         ballseal 0
     endparty
 
-trainerdata 1, "Silver"
+trainerdata 1, "Silver" //azalea if Totodile chosen
     trainermontype TRAINER_DATA_TYPE_NOTHING
     trainerclass CLASS_RIVAL
     nummons 3
@@ -8779,7 +8779,7 @@ trainerdata 262, "Mickey"
         ballseal 0
     endparty
 
-trainerdata 263, "Silver"
+trainerdata 263, "Silver" //burned tower chose Totodile
     trainermontype TRAINER_DATA_TYPE_MOVES
     trainerclass CLASS_RIVAL
     nummons 4
@@ -8938,7 +8938,7 @@ trainerdata 265, "Silver"
         ballseal 0
     endparty
 
-trainerdata 266, "Silver"
+trainerdata 266, "Silver" //azalea if Chikorita chosen
     trainermontype TRAINER_DATA_TYPE_NOTHING
     trainerclass CLASS_RIVAL
     nummons 3
@@ -8973,7 +8973,7 @@ trainerdata 266, "Silver"
         ballseal 0
     endparty
 
-trainerdata 267, "Silver"
+trainerdata 267, "Silver" //Burned tower if Chikorita chosen
     trainermontype TRAINER_DATA_TYPE_MOVES
     trainerclass CLASS_RIVAL
     nummons 4
@@ -9111,7 +9111,7 @@ trainerdata 268, "Silver" //Victory road if Chikorita chosen
         ballseal 0
     endparty
 
-trainerdata 269, "Silver"
+trainerdata 269, "Silver" //azalea if Cyndaquil chosen
     trainermontype TRAINER_DATA_TYPE_NOTHING
     trainerclass CLASS_RIVAL
     nummons 3
@@ -9146,7 +9146,7 @@ trainerdata 269, "Silver"
         ballseal 0
     endparty
 
-trainerdata 270, "Silver"
+trainerdata 270, "Silver" //Burned tower if Cyndaquil chosen
     trainermontype TRAINER_DATA_TYPE_MOVES
     trainerclass CLASS_RIVAL
     nummons 4
@@ -9204,7 +9204,7 @@ trainerdata 270, "Silver"
         ballseal 0
     endparty
 
-trainerdata 271, "Silver"
+trainerdata 271, "Silver" //goldenrod tunnel if Cyndaquil chosen
     trainermontype TRAINER_DATA_TYPE_MOVES
     trainerclass CLASS_RIVAL
     nummons 5
@@ -9990,7 +9990,7 @@ trainerdata 287, "Silver"
         ballseal 0
     endparty
 
-trainerdata 288, "Silver"
+trainerdata 288, "Silver" //goldenrod tunnel if Totodile chosen
     trainermontype TRAINER_DATA_TYPE_MOVES
     trainerclass CLASS_RIVAL
     nummons 5
@@ -10059,7 +10059,7 @@ trainerdata 288, "Silver"
         ballseal 0
     endparty
 
-trainerdata 289, "Silver"
+trainerdata 289, "Silver" //goldenrod tunnel if Chikorita chosen
     trainermontype TRAINER_DATA_TYPE_MOVES
     trainerclass CLASS_RIVAL
     nummons 5
