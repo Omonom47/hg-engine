@@ -3591,21 +3591,21 @@ trainerdata 109, "Alton"
         // mon 0
         ivs 50
         abilityslot 0
-        level 24
+        level 28
         pokemon SPECIES_IVYSAUR
         ballseal 0
 
         // mon 1
         ivs 50
         abilityslot 0
-        level 24
+        level 28
         pokemon SPECIES_CHARMELEON
         ballseal 0
 
         // mon 2
         ivs 50
         abilityslot 0
-        level 24
+        level 28
         pokemon SPECIES_WARTORTLE
         ballseal 0
     endparty
@@ -3829,7 +3829,7 @@ trainerdata 116, "Lois"
         ivs 50
         abilityslot 0
         level 25
-        pokemon SPECIES_MAREEP
+        pokemon SPECIES_FLAAFFY
         move MOVE_THUNDER_SHOCK
         move MOVE_COTTON_SPORE
         move MOVE_THUNDER_WAVE
@@ -4172,7 +4172,7 @@ trainerdata 127, "Raymond"
         ivs 0
         abilityslot 0
         level 22
-        pokemon SPECIES_MAGIKARP
+        pokemon SPECIES_GYARADOS
         ballseal 0
 
         // mon 2
@@ -4186,7 +4186,7 @@ trainerdata 127, "Raymond"
         ivs 0
         abilityslot 0
         level 22
-        pokemon SPECIES_MAGIKARP
+        pokemon SPECIES_GYARADOS
         ballseal 0
     endparty
 
@@ -4297,7 +4297,7 @@ trainerdata 131, "Brent"
         // mon 0
         ivs 0
         abilityslot 0
-        level 21
+        level 20
         pokemon SPECIES_NIDORINA
         ballseal 0
 
@@ -13684,7 +13684,7 @@ trainerdata 403, "Spencer"
         // mon 2
         ivs 0
         abilityslot 0
-        level 21
+        level 22
         pokemon SPECIES_ZUBAT
         ballseal 0
     endparty
@@ -18433,14 +18433,14 @@ trainerdata 537, "Harrison"
         // mon 0
         ivs 0
         abilityslot 32
-        level 21
+        level 23
         pokemon SPECIES_NIDOKING
         ballseal 0
 
         // mon 1
         ivs 0
         abilityslot 0
-        level 21
+        level 23
         pokemon SPECIES_NIDOQUEEN
         ballseal 0
     endparty
@@ -18486,7 +18486,7 @@ trainerdata 539, "Markus"
         // mon 0
         ivs 0
         abilityslot 32
-        level 23
+        level 24
         pokemon SPECIES_SLOWPOKE
         move MOVE_CURSE
         move MOVE_WATER_PULSE
