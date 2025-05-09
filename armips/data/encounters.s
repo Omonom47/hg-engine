@@ -851,7 +851,7 @@ rocksmashrate 0
 oldrodrate 40
 goodrodrate 65
 superrodrate 90
-walklevels 6, 4, 6, 4, 6, 6, 6, 6, 6, 4, 6, 4
+walklevels 7, 6, 8, 8, 8, 8, 8, 8, 8, 6, 8, 6
 
 // morning encounter slots
 pokemon SPECIES_BELLSPROUT
@@ -1475,7 +1475,7 @@ rocksmashrate 0
 oldrodrate 40
 goodrodrate 65
 superrodrate 90
-walklevels 6, 6, 7, 7, 6, 6, 6, 6, 7, 8, 9, 9
+walklevels 7, 7, 8, 8, 7, 8, 7, 8, 8, 9, 10, 10
 
 // morning encounter slots
 pokemon SPECIES_GEODUDE
@@ -1787,7 +1787,7 @@ rocksmashrate 0
 oldrodrate 0
 goodrodrate 0
 superrodrate 0
-walklevels 8, 8, 9, 10, 9, 9, 9, 9, 11, 7, 11, 7
+walklevels 9, 9, 10, 10, 9, 10, 11, 11, 12, 9, 12, 9
 
 // morning encounter slots
 pokemon SPECIES_HOPPIP

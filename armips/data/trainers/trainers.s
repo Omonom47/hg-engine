@@ -2620,7 +2620,7 @@ trainerdata 81, "Tori & Til"
         ivs 0
         abilityslot 0
         level 19
-        pokemon SPECIES_MARILL
+        pokemon SPECIES_AZUMARILL
         ballseal 0
 
         // mon 1
@@ -5151,7 +5151,7 @@ trainerdata 160, "Naoko"
         // mon 0
         ivs 150
         abilityslot 0
-        level 38
+        level 43
         pokemon SPECIES_ESPEON
         item ITEM_NONE
         move MOVE_LAST_RESORT
@@ -5177,7 +5177,7 @@ trainerdata 161, "Sayo"
         // mon 0
         ivs 150
         abilityslot 0
-        level 38
+        level 43
         pokemon SPECIES_JOLTEON
         item ITEM_NONE
         move MOVE_LAST_RESORT
@@ -5203,7 +5203,7 @@ trainerdata 162, "Zuki"
         // mon 0
         ivs 150
         abilityslot 0
-        level 38
+        level 43
         pokemon SPECIES_UMBREON
         item ITEM_NONE
         move MOVE_LAST_RESORT
@@ -5229,7 +5229,7 @@ trainerdata 163, "Kuni"
         // mon 0
         ivs 150
         abilityslot 0
-        level 38
+        level 43
         pokemon SPECIES_VAPOREON
         item ITEM_NONE
         move MOVE_LAST_RESORT
@@ -5255,7 +5255,7 @@ trainerdata 164, "Miki"
         // mon 0
         ivs 150
         abilityslot 0
-        level 38
+        level 43
         pokemon SPECIES_FLAREON
         item ITEM_NONE
         move MOVE_LAST_RESORT
@@ -20198,7 +20198,7 @@ trainerdata 600, "Selina"
         ballseal 0
     endparty
 
-trainerdata 601, "Grunt"
+trainerdata 601, "Grunt" //dance theater
     trainermontype TRAINER_DATA_TYPE_NOTHING
     trainerclass CLASS_TEAM_ROCKET
     nummons 1
@@ -20214,7 +20214,7 @@ trainerdata 601, "Grunt"
         // mon 0
         ivs 30
         abilityslot 0
-        level 12
+        level 21
         pokemon SPECIES_KOFFING
         ballseal 0
     endparty
