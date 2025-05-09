@@ -242,7 +242,7 @@ trainerdata 7, "Irwin"
         // mon 3
         ivs 0
         abilityslot 32
-        level 15
+        level 16
         pokemon SPECIES_VOLTORB
         ballseal 0
     endparty
@@ -2356,7 +2356,7 @@ trainerdata 72, "Bryan"
         // mon 0
         ivs 50
         abilityslot 0
-        level 15
+        level 16
         pokemon SPECIES_PIDGEY
         ballseal 0
 
@@ -2433,14 +2433,14 @@ trainerdata 74, "Ivan"
         // mon 0
         ivs 0
         abilityslot 0
-        level 14
+        level 15
         pokemon SPECIES_DIGLETT
         ballseal 0
 
         // mon 1
         ivs 0
         abilityslot 0
-        level 14
+        level 15
         pokemon SPECIES_ZUBAT
         ballseal 0
 
@@ -2468,7 +2468,7 @@ trainerdata 75, "Elliot"
         // mon 0
         ivs 0
         abilityslot 0
-        level 15
+        level 16
         pokemon SPECIES_SANDSHREW
         ballseal 0
 
@@ -2496,7 +2496,7 @@ trainerdata 76, "Brooke"
         // mon 0
         ivs 0
         abilityslot 0
-        level 17
+        level 19
         pokemon SPECIES_PIKACHU
         move MOVE_THUNDER_SHOCK
         move MOVE_GROWL
@@ -2521,7 +2521,7 @@ trainerdata 77, "Kim"
         // mon 0
         ivs 0
         abilityslot 0
-        level 17
+        level 19
         pokemon SPECIES_VULPIX
         ballseal 0
     endparty
@@ -2542,7 +2542,7 @@ trainerdata 78, "Arnie"
         // mon 0
         ivs 0
         abilityslot 0
-        level 17
+        level 19
         pokemon SPECIES_VENONAT
         ballseal 0
     endparty
@@ -2598,7 +2598,7 @@ trainerdata 80, "Dirk"
         // mon 1
         ivs 0
         abilityslot 0
-        level 15
+        level 16
         pokemon SPECIES_GROWLITHE
         ballseal 0
     endparty
@@ -13187,7 +13187,7 @@ trainerdata 388, "Walt"
         // mon 0
         ivs 0
         abilityslot 0
-        level 14
+        level 16
         pokemon SPECIES_MAGMAR
         ballseal 0
 
