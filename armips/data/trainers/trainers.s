@@ -1371,14 +1371,14 @@ trainerdata 39, "Eugene"
         // mon 0
         ivs 0
         abilityslot 0
-        level 17
+        level 19
         pokemon SPECIES_POLIWHIRL
         ballseal 0
 
         // mon 1
         ivs 0
         abilityslot 32
-        level 17
+        level 20
         pokemon SPECIES_RATICATE
         ballseal 0
 
@@ -1533,7 +1533,7 @@ trainerdata 44, "Derek"
         // mon 0
         ivs 0
         abilityslot 0
-        level 18
+        level 23
         pokemon SPECIES_PIKACHU
         move MOVE_DOUBLE_TEAM
         move MOVE_QUICK_ATTACK
@@ -1558,7 +1558,7 @@ trainerdata 45, "Ruth"
         // mon 0
         ivs 0
         abilityslot 0
-        level 17
+        level 23
         pokemon SPECIES_PIKACHU
         move MOVE_DOUBLE_TEAM
         move MOVE_QUICK_ATTACK
@@ -13215,7 +13215,7 @@ trainerdata 389, "Nelson"
         // mon 0
         ivs 0
         abilityslot 0
-        level 20
+        level 21
         pokemon SPECIES_SLOWPOKE
         move MOVE_TACKLE
         move MOVE_GROWL
@@ -13226,7 +13226,7 @@ trainerdata 389, "Nelson"
         // mon 1
         ivs 0
         abilityslot 32
-        level 20
+        level 21
         pokemon SPECIES_SLOWPOKE
         move MOVE_CURSE
         move MOVE_HEADBUTT
