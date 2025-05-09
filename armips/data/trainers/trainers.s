@@ -1286,7 +1286,7 @@ trainerdata 36, "Joyce"
         // mon 0
         ivs 50
         abilityslot 0
-        level 40
+        level 39
         pokemon SPECIES_PIKACHU
         move MOVE_QUICK_ATTACK
         move MOVE_DOUBLE_TEAM
@@ -1297,7 +1297,7 @@ trainerdata 36, "Joyce"
         // mon 1
         ivs 50
         abilityslot 0
-        level 40
+        level 39
         pokemon SPECIES_BLASTOISE
         move MOVE_BITE
         move MOVE_AQUA_TAIL
@@ -3722,7 +3722,7 @@ trainerdata 113, "Jamie"
         ivs 50
         abilityslot 0
         level 37
-        pokemon SPECIES_FLAAFFY
+        pokemon SPECIES_AMPHAROS
         move MOVE_DISCHARGE
         move MOVE_COTTON_SPORE
         move MOVE_THUNDER_WAVE
