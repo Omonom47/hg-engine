@@ -3425,7 +3425,7 @@ trainerdata 104, "Brian"
         //mon 1
         ivs 50
         abilityslot 0
-        level 40
+        level 37
         pokemon SPECIES_AMPHAROS
         move MOVE_DISCHARGE
         move MOVE_SIGNAL_BEAM
@@ -3746,22 +3746,22 @@ trainerdata 114, "Reena"
         // mon 0
         ivs 50
         abilityslot 0
-        level 38
-        pokemon SPECIES_GROWLITHE
+        level 36
+        pokemon SPECIES_ARCANINE
         ballseal 0
 
         // mon 1
         ivs 50
         abilityslot 0
         level 35
-        pokemon SPECIES_NIDORINA
+        pokemon SPECIES_NIDOQUEEN
         ballseal 0
 
         // mon 2
         ivs 50
         abilityslot 0
-        level 38
-        pokemon SPECIES_STARYU
+        level 36
+        pokemon SPECIES_STARMIE
         ballseal 0
     endparty
 
@@ -3792,7 +3792,7 @@ trainerdata 115, "Megan"
         // mon 1
         ivs 50
         abilityslot 0
-        level 37
+        level 36
         pokemon SPECIES_IVYSAUR
         move MOVE_GIGA_DRAIN
         move MOVE_LEECH_SEED
