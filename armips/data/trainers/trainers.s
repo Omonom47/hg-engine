@@ -8806,7 +8806,7 @@ trainerdata 263, "Silver" //burned tower chose Totodile
         // mon 1
         ivs 80
         abilityslot 0
-        level 18
+        level 20
         pokemon SPECIES_MAGNEMITE
         move MOVE_THUNDER_WAVE
         move MOVE_THUNDER_SHOCK
@@ -8817,7 +8817,7 @@ trainerdata 263, "Silver" //burned tower chose Totodile
         // mon 2
         ivs 80
         abilityslot 0
-        level 20
+        level 21
         pokemon SPECIES_ZUBAT
         move MOVE_ASTONISH
         move MOVE_SUPERSONIC
@@ -9000,7 +9000,7 @@ trainerdata 267, "Silver" //Burned tower if Chikorita chosen
         // mon 1
         ivs 80
         abilityslot 0
-        level 18
+        level 20
         pokemon SPECIES_MAGNEMITE
         move MOVE_THUNDER_WAVE
         move MOVE_THUNDER_SHOCK
@@ -9011,7 +9011,7 @@ trainerdata 267, "Silver" //Burned tower if Chikorita chosen
         // mon 2
         ivs 80
         abilityslot 0
-        level 20
+        level 21
         pokemon SPECIES_ZUBAT
         move MOVE_ASTONISH
         move MOVE_SUPERSONIC
@@ -9173,7 +9173,7 @@ trainerdata 270, "Silver" //Burned tower if Cyndaquil chosen
         // mon 1
         ivs 80
         abilityslot 0
-        level 18
+        level 20
         pokemon SPECIES_MAGNEMITE
         move MOVE_THUNDER_WAVE
         move MOVE_THUNDER_SHOCK
@@ -9184,7 +9184,7 @@ trainerdata 270, "Silver" //Burned tower if Cyndaquil chosen
         // mon 2
         ivs 80
         abilityslot 0
-        level 20
+        level 21
         pokemon SPECIES_ZUBAT
         move MOVE_ASTONISH
         move MOVE_SUPERSONIC
@@ -9632,7 +9632,7 @@ trainerdata 281, "Richard"
         // mon 0
         ivs 0
         abilityslot 0
-        level 18
+        level 21
         pokemon SPECIES_CHARMELEON
         ballseal 0
     endparty
@@ -9653,21 +9653,21 @@ trainerdata 282, "Ned"
         // mon 0
         ivs 0
         abilityslot 0
-        level 16
+        level 18
         pokemon SPECIES_KOFFING
         ballseal 0
 
         // mon 1
         ivs 0
         abilityslot 0
-        level 17
+        level 18
         pokemon SPECIES_GROWLITHE
         ballseal 0
 
         // mon 2
         ivs 0
         abilityslot 0
-        level 16
+        level 17
         pokemon SPECIES_KOFFING
         ballseal 0
     endparty
