@@ -2099,7 +2099,7 @@ rocksmashrate 0
 oldrodrate 40
 goodrodrate 65
 superrodrate 90
-walklevels 9, 9, 9, 9, 10, 10, 11, 11, 11, 12, 11, 12
+walklevels 10, 10, 10, 10, 11, 11, 12, 12, 12, 13, 12, 13
 
 // morning encounter slots
 pokemon SPECIES_CATERPIE
