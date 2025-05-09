@@ -1040,7 +1040,7 @@ trainerdata 31, "Morty"
         level 25
         pokemon SPECIES_GENGAR
         item ITEM_SITRUS_BERRY
-        move MOVE_HYPNOSIS
+        move MOVE_FOCUS_BLAST
         move MOVE_SHADOW_BALL
         move MOVE_MEAN_LOOK
         move MOVE_SUCKER_PUNCH
@@ -1055,7 +1055,7 @@ trainerdata 31, "Morty"
         move MOVE_CURSE
         move MOVE_MEAN_LOOK
         move MOVE_SUCKER_PUNCH
-        move MOVE_NIGHT_SHADE
+        move MOVE_SHADOW_BALL
         ballseal 0
     endparty
 
