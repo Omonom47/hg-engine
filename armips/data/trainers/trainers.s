@@ -790,7 +790,7 @@ trainerdata 24, "Alan"
         // mon 0
         ivs 0
         abilityslot 0
-        level 17
+        level 20
         pokemon SPECIES_TANGELA
         ballseal 0
     endparty
@@ -13402,7 +13402,7 @@ trainerdata 395, "Mark"
         // mon 0
         ivs 0
         abilityslot 0
-        level 14
+        level 15
         pokemon SPECIES_ABRA
         move MOVE_TELEPORT
         move MOVE_FLASH
@@ -13413,7 +13413,7 @@ trainerdata 395, "Mark"
         // mon 1
         ivs 0
         abilityslot 0
-        level 14
+        level 15
         pokemon SPECIES_ABRA
         move MOVE_TELEPORT
         move MOVE_FLASH
@@ -13424,7 +13424,7 @@ trainerdata 395, "Mark"
         // mon 2
         ivs 0
         abilityslot 0
-        level 16
+        level 17
         pokemon SPECIES_KADABRA
         move MOVE_TELEPORT
         move MOVE_KINESIS
