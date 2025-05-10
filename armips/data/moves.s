@@ -11153,7 +11153,7 @@ movedata MOVE_BRUTAL_SWING, "Brutal Swing"
     basepower 90
     type TYPE_DARK
     accuracy 100
-    pp 20
+    pp 15
     effectchance 0
     target RANGE_ALL_ADJACENT
     priority 0
