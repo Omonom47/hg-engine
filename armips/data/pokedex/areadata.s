@@ -7744,14 +7744,12 @@ specialareas SPECIES_MAREEP, DEX_NIGHT
 routesandcities SPECIES_MAREEP, DEX_MORNING
     .word DEX_ROUTE_32
     .word DEX_ROUTE_42
-    .word DEX_ROUTE_43
     dexendareadata
 
 
 routesandcities SPECIES_MAREEP, DEX_DAY
     .word DEX_ROUTE_32
     .word DEX_ROUTE_42
-    .word DEX_ROUTE_43
     dexendareadata
 
 
@@ -9524,11 +9522,13 @@ specialareas SPECIES_SKARMORY, DEX_NIGHT
 
 
 routesandcities SPECIES_SKARMORY, DEX_MORNING
+    .word DEX_ROUTE_43
     .word DEX_ROUTE_45
     dexendareadata
 
 
 routesandcities SPECIES_SKARMORY, DEX_DAY
+    .word DEX_ROUTE_43
     .word DEX_ROUTE_45
     dexendareadata
 
