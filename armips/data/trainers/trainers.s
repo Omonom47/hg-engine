@@ -8674,7 +8674,7 @@ trainerdata 261, "Blue"
         // mon 0
         ivs 250
         abilityslot 0
-        level 55
+        level 65
         pokemon SPECIES_EXEGGUTOR
         item ITEM_NONE
         move MOVE_LEAF_STORM
@@ -8686,7 +8686,7 @@ trainerdata 261, "Blue"
         // mon 1
         ivs 250
         abilityslot 0
-        level 58
+        level 65
         pokemon SPECIES_ARCANINE
         item ITEM_NONE
         move MOVE_ROAR
@@ -8698,19 +8698,19 @@ trainerdata 261, "Blue"
         // mon 2
         ivs 250
         abilityslot 32
-        level 58
-        pokemon SPECIES_RHYDON
+        level 65
+        pokemon SPECIES_RHYPERIOR
         item ITEM_NONE
         move MOVE_MEGAHORN
         move MOVE_STONE_EDGE
-        move MOVE_THUNDER_FANG
+        move MOVE_WILD_CHARGE
         move MOVE_EARTHQUAKE
         ballseal 0
 
         // mon 3
         ivs 250
         abilityslot 0
-        level 52
+        level 63
         pokemon SPECIES_GYARADOS
         item ITEM_NONE
         move MOVE_ICE_FANG
@@ -8722,7 +8722,7 @@ trainerdata 261, "Blue"
         // mon 4
         ivs 250
         abilityslot 32
-        level 56
+        level 63
         pokemon SPECIES_MACHAMP
         item ITEM_NONE
         move MOVE_DYNAMIC_PUNCH
@@ -8734,7 +8734,7 @@ trainerdata 261, "Blue"
         // mon 5
         ivs 250
         abilityslot 0
-        level 60
+        level 68
         pokemon SPECIES_PIDGEOT
         item ITEM_SITRUS_BERRY
         move MOVE_RETURN
