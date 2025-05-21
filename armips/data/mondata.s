@@ -2977,7 +2977,7 @@ mondata SPECIES_KABUTO, "Kabuto"
 
 mondata SPECIES_KABUTOPS, "Kabutops"
     basestats 70, 115, 105, 90, 65, 70
-    types TYPE_WATER, TYPE_WATER
+    types TYPE_WATER, TYPE_DARK
     catchrate 45
     baseexp 0 // defined in baseexp.s
     evyields 0, 2, 0, 0, 0, 0
