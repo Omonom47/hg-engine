@@ -8142,8 +8142,8 @@ trainerdata 253, "Brock"
         // mon 0
         ivs 200
         abilityslot 32
-        level 51
-        pokemon SPECIES_GRAVELER
+        level 63
+        pokemon SPECIES_GOLEM
         item ITEM_NONE
         move MOVE_DEFENSE_CURL
         move MOVE_ROCK_SLIDE
@@ -8154,11 +8154,11 @@ trainerdata 253, "Brock"
         // mon 1
         ivs 200
         abilityslot 0
-        level 51
-        pokemon SPECIES_RHYHORN
+        level 63
+        pokemon SPECIES_RHYPERIOR
         item ITEM_NONE
         move MOVE_SANDSTORM
-        move MOVE_SCARY_FACE
+        move MOVE_WILD_CHARGE
         move MOVE_EARTHQUAKE
         move MOVE_HORN_DRILL
         ballseal 0
@@ -8166,7 +8166,7 @@ trainerdata 253, "Brock"
         // mon 2
         ivs 200
         abilityslot 32
-        level 53
+        level 61
         pokemon SPECIES_OMASTAR
         item ITEM_NONE
         move MOVE_ANCIENT_POWER
@@ -8178,7 +8178,7 @@ trainerdata 253, "Brock"
         // mon 3
         ivs 200
         abilityslot 0
-        level 54
+        level 61
         pokemon SPECIES_ONIX
         item ITEM_SITRUS_BERRY
         move MOVE_IRON_TAIL
@@ -8190,7 +8190,7 @@ trainerdata 253, "Brock"
         // mon 4
         ivs 200
         abilityslot 32
-        level 52
+        level 63
         pokemon SPECIES_KABUTOPS
         item ITEM_NONE
         move MOVE_ROCK_SLIDE
@@ -8538,34 +8538,34 @@ trainerdata 259, "Blaine"
         // mon 0
         ivs 200
         abilityslot 32
-        level 54
+        level 64
         pokemon SPECIES_MAGCARGO
         item ITEM_WHITE_HERB
         move MOVE_SUNNY_DAY
         move MOVE_SMOG
         move MOVE_OVERHEAT
-        move MOVE_ROCK_SLIDE
+        move MOVE_POWER_GEM
         ballseal 0
 
         // mon 1
         ivs 200
         abilityslot 0
-        level 54
-        pokemon SPECIES_MAGMAR
+        level 64
+        pokemon SPECIES_MAGMORTAR
         item ITEM_WHITE_HERB
-        move MOVE_THUNDER_PUNCH
+        move MOVE_THUNDERBOLT
         move MOVE_OVERHEAT
         move MOVE_SUNNY_DAY
-        move MOVE_CONFUSE_RAY
+        move MOVE_SOLAR_BEAM
         ballseal 0
 
         // mon 2
         ivs 200
         abilityslot 32
-        level 59
+        level 66
         pokemon SPECIES_RAPIDASH
         item ITEM_WHITE_HERB
-        move MOVE_QUICK_ATTACK
+        move MOVE_PLAY_ROUGH
         move MOVE_FLARE_BLITZ
         move MOVE_BOUNCE
         move MOVE_OVERHEAT
