@@ -24189,20 +24189,20 @@ trainerdata 705, "Karen"
     party 705
         // mon 0
         ivs 250
-        abilityslot 0
-        level 62
+        abilityslot 32
+        level 76
         pokemon SPECIES_WEAVILE
         item ITEM_NONE
         move MOVE_ICE_SHARD
-        move MOVE_NIGHT_SLASH
-        move MOVE_ICE_PUNCH
+        move MOVE_PAYBACK
+        move MOVE_AVALANCHE
         move MOVE_LOW_KICK
         ballseal 0
 
         // mon 1
         ivs 250
         abilityslot 0
-        level 62
+        level 74
         pokemon SPECIES_SPIRITOMB
         item ITEM_NONE
         move MOVE_CURSE
@@ -24214,7 +24214,7 @@ trainerdata 705, "Karen"
         // mon 2
         ivs 250
         abilityslot 32
-        level 62
+        level 75
         pokemon SPECIES_ABSOL
         item ITEM_NONE
         move MOVE_NIGHT_SLASH
@@ -24226,19 +24226,19 @@ trainerdata 705, "Karen"
         // mon 3
         ivs 250
         abilityslot 32
-        level 64
+        level 77
         pokemon SPECIES_HONCHKROW
         item ITEM_NONE
         move MOVE_DRILL_PECK
-        move MOVE_WHIRLWIND
-        move MOVE_SUCKER_PUNCH
+        move MOVE_STEEL_WING
+        move MOVE_NIGHT_SLASH
         move MOVE_THUNDER_WAVE
         ballseal 0
 
         // mon 4
         ivs 250
         abilityslot 0
-        level 63
+        level 75
         pokemon SPECIES_HOUNDOOM
         item ITEM_NONE
         move MOVE_NASTY_PLOT
@@ -24250,7 +24250,7 @@ trainerdata 705, "Karen"
         // mon 5
         ivs 250
         abilityslot 0
-        level 64
+        level 77
         pokemon SPECIES_UMBREON
         item ITEM_SITRUS_BERRY
         move MOVE_CURSE
