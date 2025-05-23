@@ -23932,19 +23932,19 @@ trainerdata 702, "Will"
         // mon 0
         ivs 250
         abilityslot 32
-        level 58
+        level 69
         pokemon SPECIES_BRONZONG
         item ITEM_NONE
         move MOVE_REFLECT
         move MOVE_PAYBACK
-        move MOVE_GRAVITY
+        move MOVE_GYRO_BALL
         move MOVE_PSYCHIC
         ballseal 0
 
         // mon 1
         ivs 250
         abilityslot 0
-        level 60
+        level 71
         pokemon SPECIES_JYNX
         item ITEM_NONE
         move MOVE_FAKE_TEARS
@@ -23956,7 +23956,7 @@ trainerdata 702, "Will"
         // mon 2
         ivs 250
         abilityslot 0
-        level 59
+        level 70
         pokemon SPECIES_GRUMPIG
         item ITEM_NONE
         move MOVE_CONFUSE_RAY
@@ -23968,23 +23968,23 @@ trainerdata 702, "Will"
         // mon 3
         ivs 250
         abilityslot 32
-        level 60
+        level 71
         pokemon SPECIES_SLOWBRO
         item ITEM_NONE
-        move MOVE_CURSE
-        move MOVE_AMNESIA
-        move MOVE_BODY_SLAM
+        move MOVE_CALM_MIND
+        move MOVE_FLAMETHROWER
+        move MOVE_SURF
         move MOVE_PSYCHIC
         ballseal 0
 
         // mon 4
         ivs 250
         abilityslot 0
-        level 61
+        level 72
         pokemon SPECIES_GARDEVOIR
         item ITEM_NONE
         move MOVE_FOCUS_BLAST
-        move MOVE_CHARGE_BEAM
+        move MOVE_MOONBLAST
         move MOVE_CALM_MIND
         move MOVE_PSYCHIC
         ballseal 0
@@ -23992,10 +23992,10 @@ trainerdata 702, "Will"
         // mon 5
         ivs 250
         abilityslot 32
-        level 62
+        level 73
         pokemon SPECIES_XATU
         item ITEM_SITRUS_BERRY
-        move MOVE_QUICK_ATTACK
+        move MOVE_AIR_SLASH
         move MOVE_SHADOW_BALL
         move MOVE_CONFUSE_RAY
         move MOVE_PSYCHIC
