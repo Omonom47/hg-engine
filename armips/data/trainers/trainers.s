@@ -23846,7 +23846,7 @@ trainerdata 701, "Lance"
         // mon 0
         ivs 250
         abilityslot 0
-        level 72
+        level 78
         pokemon SPECIES_SALAMENCE
         item ITEM_LUM_BERRY
         move MOVE_FLAMETHROWER
@@ -23858,10 +23858,10 @@ trainerdata 701, "Lance"
         // mon 1
         ivs 250
         abilityslot 0
-        level 68
+        level 76
         pokemon SPECIES_GYARADOS
         item ITEM_NONE
-        move MOVE_THUNDER_WAVE
+        move MOVE_CRUNCH
         move MOVE_ICE_FANG
         move MOVE_WATERFALL
         move MOVE_DRAGON_DANCE
@@ -23876,7 +23876,7 @@ trainerdata 701, "Lance"
         move MOVE_SWORDS_DANCE
         move MOVE_OUTRAGE
         move MOVE_EARTHQUAKE
-        move MOVE_ROAR
+        move MOVE_IRON_HEAD
         ballseal 0
 
         // mon 3
@@ -23886,15 +23886,15 @@ trainerdata 701, "Lance"
         pokemon SPECIES_ALTARIA
         item ITEM_NONE
         move MOVE_PERISH_SONG
-        move MOVE_DRAGON_BREATH
-        move MOVE_DOUBLE_TEAM
-        move MOVE_HYPER_BEAM
+        move MOVE_DRAGON_PULSE
+        move MOVE_FLAMETHROWER
+        move MOVE_HYPER_VOICE
         ballseal 0
 
         // mon 4
         ivs 250
         abilityslot 0
-        level 68
+        level 76
         pokemon SPECIES_CHARIZARD
         item ITEM_NONE
         move MOVE_FLAMETHROWER
@@ -23909,10 +23909,10 @@ trainerdata 701, "Lance"
         level 75
         pokemon SPECIES_DRAGONITE
         item ITEM_SITRUS_BERRY
-        move MOVE_FIRE_BLAST
-        move MOVE_SAFEGUARD
-        move MOVE_DRACO_METEOR
-        move MOVE_HYPER_BEAM
+        move MOVE_IRON_HEAD
+        move MOVE_DRAGON_DANCE
+        move MOVE_DRAGON_CLAW
+        move MOVE_EARTHQUAKE
         ballseal 0
     endparty
 
