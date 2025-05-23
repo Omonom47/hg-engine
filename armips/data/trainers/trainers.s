@@ -24018,31 +24018,31 @@ trainerdata 703, "Koga"
         // mon 0
         ivs 250
         abilityslot 32
-        level 61
+        level 72
         pokemon SPECIES_SKUNTANK
         item ITEM_NONE
         move MOVE_SUCKER_PUNCH
         move MOVE_DIG
         move MOVE_TOXIC
-        move MOVE_EXPLOSION
+        move MOVE_POISON_JAB
         ballseal 0
 
         // mon 1
         ivs 250
         abilityslot 0
-        level 63
+        level 74
         pokemon SPECIES_VENOMOTH
         item ITEM_NONE
-        move MOVE_DOUBLE_TEAM
+        move MOVE_ENERGY_BALL
         move MOVE_BATON_PASS
         move MOVE_PSYCHIC
-        move MOVE_SILVER_WIND
+        move MOVE_QUIVER_DANCE
         ballseal 0
 
         // mon 2
         ivs 250
         abilityslot 32
-        level 60
+        level 71
         pokemon SPECIES_TOXICROAK
         item ITEM_NONE
         move MOVE_CROSS_CHOP
@@ -24053,32 +24053,32 @@ trainerdata 703, "Koga"
 
         // mon 3
         ivs 250
-        abilityslot 32
-        level 62
+        abilityslot 2
+        level 73
         pokemon SPECIES_MUK
         item ITEM_BLACK_SLUDGE
-        move MOVE_MINIMIZE
-        move MOVE_SCREECH
-        move MOVE_SWAGGER
-        move MOVE_TOXIC
+        move MOVE_POISON_JAB
+        move MOVE_CURSE
+        move MOVE_DRAIN_PUNCH
+        move MOVE_BRUTAL_SWING
         ballseal 0
 
         // mon 4
         ivs 250
         abilityslot 0
-        level 64
+        level 75
         pokemon SPECIES_CROBAT
         item ITEM_NONE
         move MOVE_TOXIC
-        move MOVE_MEAN_LOOK
-        move MOVE_FLY
-        move MOVE_CROSS_POISON
+        move MOVE_ROOST
+        move MOVE_AIR_SLASH
+        move MOVE_SLUDGE_BOMB
         ballseal 0
 
         // mon 5
         ivs 250
         abilityslot 32
-        level 62
+        level 73
         pokemon SPECIES_SWALOT
         item ITEM_LEFTOVERS
         move MOVE_YAWN
