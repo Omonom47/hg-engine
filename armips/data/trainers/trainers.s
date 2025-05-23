@@ -10870,7 +10870,7 @@ trainerdata 308, "Jerry"
         // mon 0
         ivs 80
         abilityslot 32
-        level 50
+        level 62
         pokemon SPECIES_RHYDON
         move MOVE_ROCK_SLIDE
         move MOVE_AVALANCHE
@@ -23381,7 +23381,7 @@ trainerdata 685, "Edwin"
         // mon 0
         ivs 80
         abilityslot 0
-        level 50
+        level 62
         pokemon SPECIES_GOLEM
         move MOVE_DOUBLE_EDGE
         move MOVE_ROCK_SLIDE
