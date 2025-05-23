@@ -8142,7 +8142,7 @@ trainerdata 253, "Brock"
         // mon 0
         ivs 200
         abilityslot 32
-        level 55
+        level 64
         pokemon SPECIES_GOLEM
         item ITEM_NONE
         move MOVE_SANDSTORM
@@ -8154,7 +8154,7 @@ trainerdata 253, "Brock"
         // mon 1
         ivs 200
         abilityslot 32
-        level 54
+        level 65
         pokemon SPECIES_CRADILY
         item ITEM_NONE
         move MOVE_GIGA_DRAIN
@@ -8166,7 +8166,7 @@ trainerdata 253, "Brock"
         // mon 2
         ivs 200
         abilityslot 32
-        level 56
+        level 64
         pokemon SPECIES_OMASTAR
         item ITEM_NONE
         move MOVE_ANCIENT_POWER
@@ -8178,7 +8178,7 @@ trainerdata 253, "Brock"
         // mon 3
         ivs 200
         abilityslot 0
-        level 61
+        level 68
         pokemon SPECIES_ONIX
         item ITEM_SITRUS_BERRY
         move MOVE_STEALTH_ROCK
@@ -8190,7 +8190,7 @@ trainerdata 253, "Brock"
         // mon 4
         ivs 200
         abilityslot 32
-        level 55
+        level 65
         pokemon SPECIES_KABUTOPS
         item ITEM_NONE
         move MOVE_ROCK_SLIDE
@@ -8202,7 +8202,7 @@ trainerdata 253, "Brock"
         // mon 5
         ivs 200
         abilityslot 0
-        level 57
+        level 66
         pokemon SPECIES_RAMPARDOS
         item ITEM_NONE
         move MOVE_EARTHQUAKE
@@ -8228,7 +8228,7 @@ trainerdata 254, "Misty"
         // mon 0
         ivs 200
         abilityslot 32
-        level 60
+        level 62
         pokemon SPECIES_STARMIE
         item ITEM_COLBUR_BERRY
         move MOVE_THUNDERBOLT
@@ -8240,7 +8240,7 @@ trainerdata 254, "Misty"
         // mon 1
         ivs 200
         abilityslot 32
-        level 56
+        level 57
         pokemon SPECIES_QUAGSIRE
         item ITEM_NONE
         move MOVE_SCALD
@@ -8252,7 +8252,7 @@ trainerdata 254, "Misty"
         // mon 2
         ivs 200
         abilityslot 0
-        level 56
+        level 59
         pokemon SPECIES_LAPRAS
         item ITEM_NONE
         move MOVE_SURF
@@ -8264,7 +8264,7 @@ trainerdata 254, "Misty"
         // mon 3
         ivs 200
         abilityslot 0
-        level 54
+        level 58
         pokemon SPECIES_LANTURN
         item ITEM_NONE
         move MOVE_CONFUSE_RAY
@@ -8276,7 +8276,7 @@ trainerdata 254, "Misty"
         // mon 4
         ivs 200
         abilityslot 0
-        level 54
+        level 58
         pokemon SPECIES_FLOATZEL
         item ITEM_NONE
         move MOVE_AGILITY
@@ -8288,7 +8288,7 @@ trainerdata 254, "Misty"
         // mon 5
         ivs 200
         abilityslot 0
-        level 60
+        level 62
         pokemon SPECIES_MILOTIC
         item ITEM_NONE
         move MOVE_HYDRO_PUMP
@@ -8326,7 +8326,7 @@ trainerdata 255, "Lt. Surge"
         // mon 1
         ivs 200
         abilityslot 0
-        level 52
+        level 55
         pokemon SPECIES_MANECTRIC
         item ITEM_PINAP_BERRY
         move MOVE_THUNDER_WAVE
@@ -8338,7 +8338,7 @@ trainerdata 255, "Lt. Surge"
         // mon 2
         ivs 200
         abilityslot 0
-        level 52
+        level 58
         pokemon SPECIES_MAGNEZONE
         item ITEM_NONE
         move MOVE_THUNDERBOLT
@@ -8350,7 +8350,7 @@ trainerdata 255, "Lt. Surge"
         // mon 3
         ivs 200
         abilityslot 32
-        level 52
+        level 55
         pokemon SPECIES_ELECTRODE
         item ITEM_NONE
         move MOVE_THUNDER_WAVE
@@ -8374,7 +8374,7 @@ trainerdata 255, "Lt. Surge"
         // mon 5
         ivs 200
         abilityslot 0
-        level 56
+        level 58
         pokemon SPECIES_ELECTIVIRE
         item ITEM_SITRUS_BERRY
         move MOVE_WILD_CHARGE
@@ -8400,7 +8400,7 @@ trainerdata 256, "Erika"
         // mon 0
         ivs 200
         abilityslot 0
-        level 54
+        level 57
         pokemon SPECIES_SHIFTRY
         item ITEM_NONE
         move MOVE_LEAF_BLADE
@@ -8412,7 +8412,7 @@ trainerdata 256, "Erika"
         // mon 1
         ivs 200
         abilityslot 0
-        level 53
+        level 59
         pokemon SPECIES_JUMPLUFF
         item ITEM_NONE
         move MOVE_U_TURN
@@ -8424,7 +8424,7 @@ trainerdata 256, "Erika"
         // mon 2
         ivs 200
         abilityslot 0
-        level 56
+        level 60
         pokemon SPECIES_VICTREEBEL
         item ITEM_SITRUS_BERRY
         move MOVE_THUNDER_FANG
@@ -8436,7 +8436,7 @@ trainerdata 256, "Erika"
         // mon 3
         ivs 200
         abilityslot 0
-        level 56
+        level 60
         pokemon SPECIES_BELLOSSOM
         item ITEM_NONE
         move MOVE_SUNNY_DAY
@@ -8448,7 +8448,7 @@ trainerdata 256, "Erika"
         // mon 4
         ivs 200
         abilityslot 0
-        level 60
+        level 62
         pokemon SPECIES_TANGROWTH
         item ITEM_NONE
         move MOVE_SWORDS_DANCE
@@ -8460,7 +8460,7 @@ trainerdata 256, "Erika"
         // mon 5
         ivs 200
         abilityslot 0
-        level 55
+        level 58
         pokemon SPECIES_ROSERADE
         item ITEM_NONE
         move MOVE_WEATHER_BALL
@@ -8486,7 +8486,7 @@ trainerdata 257, "Janine"
         // mon 0
         ivs 200
         abilityslot 0
-        level 52
+        level 60
         pokemon SPECIES_CROBAT
         item ITEM_NONE
         move MOVE_HEAT_WAVE
@@ -8498,7 +8498,7 @@ trainerdata 257, "Janine"
         // mon 1
         ivs 200
         abilityslot 0
-        level 56
+        level 59
         pokemon SPECIES_WEEZING
         item ITEM_NONE
         move MOVE_THUNDERBOLT
@@ -8510,7 +8510,7 @@ trainerdata 257, "Janine"
         // mon 2
         ivs 200
         abilityslot 32
-        level 52
+        level 60
         pokemon SPECIES_TOXICROAK
         item ITEM_NONE
         move MOVE_BRICK_BREAK
@@ -8522,7 +8522,7 @@ trainerdata 257, "Janine"
         // mon 3
         ivs 200
         abilityslot 0
-        level 58
+        level 63
         pokemon SPECIES_ARIADOS
         item ITEM_NONE
         move MOVE_STICKY_WEB
@@ -8534,7 +8534,7 @@ trainerdata 257, "Janine"
         // mon 4
         ivs 200
         abilityslot 0
-        level 59
+        level 64
         pokemon SPECIES_VENOMOTH
         item ITEM_SITRUS_BERRY
         move MOVE_SLEEP_POWDER
@@ -8546,7 +8546,7 @@ trainerdata 257, "Janine"
         // mon 5
         ivs 200
         abilityslot 0
-        level 55
+        level 62
         pokemon SPECIES_DRAPION
         item ITEM_NONE
         move MOVE_CROSS_POISON
@@ -8572,7 +8572,7 @@ trainerdata 258, "Sabrina"
         // mon 0
         ivs 200
         abilityslot 0
-        level 60
+        level 66
         pokemon SPECIES_ALAKAZAM
         item ITEM_NONE
         move MOVE_SHADOW_BALL
@@ -8584,7 +8584,7 @@ trainerdata 258, "Sabrina"
         // mon 1
         ivs 200
         abilityslot 32
-        level 58
+        level 64
         pokemon SPECIES_ESPEON
         item ITEM_NONE
         move MOVE_CALM_MIND
@@ -8596,7 +8596,7 @@ trainerdata 258, "Sabrina"
         // mon 2
         ivs 200
         abilityslot 0
-        level 56
+        level 64
         pokemon SPECIES_MR_MIME
         item ITEM_NONE
         move MOVE_REFLECT
@@ -8608,7 +8608,7 @@ trainerdata 258, "Sabrina"
         // mon 3
         ivs 200
         abilityslot 0
-        level 54
+        level 61
         pokemon SPECIES_JYNX
         item ITEM_NONE
         move MOVE_BLIZZARD
@@ -8620,7 +8620,7 @@ trainerdata 258, "Sabrina"
         // mon 4
         ivs 200
         abilityslot 0
-        level 53
+        level 61
         pokemon SPECIES_WOBBUFFET
         item ITEM_NONE
         move MOVE_COUNTER
@@ -8632,7 +8632,7 @@ trainerdata 258, "Sabrina"
         // mon 5
         ivs 200
         abilityslot 0
-        level 53
+        level 64
         pokemon SPECIES_GALLADE
         item ITEM_SITRUS_BERRY
         move MOVE_CLOSE_COMBAT
@@ -8658,7 +8658,7 @@ trainerdata 259, "Blaine"
         // mon 0
         ivs 200
         abilityslot 32
-        level 54
+        level 67
         pokemon SPECIES_TORKOAL
         item ITEM_NONE
         move MOVE_EARTHQUAKE
@@ -8670,7 +8670,7 @@ trainerdata 259, "Blaine"
         // mon 1
         ivs 200
         abilityslot 32
-        level 57
+        level 67
         pokemon SPECIES_CAMERUPT
         item ITEM_NONE
         move MOVE_EARTHQUAKE
@@ -8682,7 +8682,7 @@ trainerdata 259, "Blaine"
         // mon 2
         ivs 200
         abilityslot 32
-        level 60
+        level 68
         pokemon SPECIES_RAPIDASH
         item ITEM_NONE
         move MOVE_MEGAHORN
@@ -8694,7 +8694,7 @@ trainerdata 259, "Blaine"
         // mon 3
         ivs 200
         abilityslot 0
-        level 58
+        level 65
         pokemon SPECIES_MAGCARGO
         item ITEM_NONE
         move MOVE_RECOVER
@@ -8706,7 +8706,7 @@ trainerdata 259, "Blaine"
         // mon 4
         ivs 200
         abilityslot 32
-        level 54
+        level 67
         pokemon SPECIES_HOUNDOOM
         item ITEM_NONE
         move MOVE_SHADOW_BALL
@@ -8718,7 +8718,7 @@ trainerdata 259, "Blaine"
         // mon 5
         ivs 200
         abilityslot 0
-        level 62
+        level 70
         pokemon SPECIES_MAGMORTAR
         item ITEM_NONE
         move MOVE_THUNDERBOLT
