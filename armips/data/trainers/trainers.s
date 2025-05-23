@@ -23233,7 +23233,7 @@ trainerdata 681, "Arabella"
         // mon 0
         ivs 60
         abilityslot 0
-        level 53
+        level 65
         pokemon SPECIES_STANTLER
         move MOVE_ZEN_HEADBUTT
         move MOVE_RETURN
@@ -23244,7 +23244,7 @@ trainerdata 681, "Arabella"
         // mon 1
         ivs 60
         abilityslot 0
-        level 52
+        level 64
         pokemon SPECIES_TAUROS
         move MOVE_TAKE_DOWN
         move MOVE_THUNDER
@@ -23269,7 +23269,7 @@ trainerdata 682, "Bonita"
         // mon 0
         ivs 60
         abilityslot 0
-        level 50
+        level 64
         pokemon SPECIES_SPINDA
         move MOVE_FLAIL
         move MOVE_FAKE_OUT
@@ -23280,7 +23280,7 @@ trainerdata 682, "Bonita"
         // mon 1
         ivs 60
         abilityslot 32
-        level 52
+        level 66
         pokemon SPECIES_SUDOWOODO
         move MOVE_WOOD_HAMMER
         move MOVE_HAMMER_ARM
@@ -23305,7 +23305,7 @@ trainerdata 683, "Salma"
         // mon 0
         ivs 60
         abilityslot 0
-        level 50
+        level 64
         pokemon SPECIES_SLOWKING
         item ITEM_ORAN_BERRY
         move MOVE_SURF
@@ -23317,7 +23317,7 @@ trainerdata 683, "Salma"
         // mon 1
         ivs 60
         abilityslot 0
-        level 53
+        level 66
         pokemon SPECIES_LICKILICKY
         item ITEM_NONE
         move MOVE_WRING_OUT
@@ -23343,9 +23343,9 @@ trainerdata 684, "Elan & Ida"
         // mon 0
         ivs 60
         abilityslot 32
-        level 52
+        level 65
         pokemon SPECIES_PORYGON2
-        item ITEM_NONE
+        item ITEM_EVIOLITE
         move MOVE_TRI_ATTACK
         move MOVE_CHARGE_BEAM
         move MOVE_PROTECT
@@ -23355,13 +23355,13 @@ trainerdata 684, "Elan & Ida"
         // mon 1
         ivs 60
         abilityslot 32
-        level 50
+        level 65
         pokemon SPECIES_AZUMARILL
         item ITEM_NONE
         move MOVE_WATERFALL
         move MOVE_AQUA_JET
         move MOVE_SUPERPOWER
-        move MOVE_ATTRACT
+        move MOVE_PLAY_ROUGH
         ballseal 0
     endparty
 
