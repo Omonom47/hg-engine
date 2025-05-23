@@ -11430,7 +11430,7 @@ trainerdata 326, "Jo & Zoe"
         // mon 0
         ivs 0
         abilityslot 0
-        level 47
+        level 57
         pokemon SPECIES_VICTREEBEL
         move MOVE_GIGA_DRAIN
         move MOVE_SLEEP_POWDER
@@ -11441,7 +11441,7 @@ trainerdata 326, "Jo & Zoe"
         // mon 1
         ivs 0
         abilityslot 0
-        level 47
+        level 57
         pokemon SPECIES_VILEPLUME
         move MOVE_GIGA_DRAIN
         move MOVE_STUN_SPORE
@@ -11743,7 +11743,7 @@ trainerdata 336, "Tanya"
         // mon 0
         ivs 0
         abilityslot 0
-        level 49
+        level 58
         pokemon SPECIES_EXEGGUTOR
         move MOVE_GIGA_DRAIN
         move MOVE_LIGHT_SCREEN
@@ -12000,8 +12000,8 @@ trainerdata 346, "Julia"
         // mon 0
         ivs 0
         abilityslot 0
-        level 44
-        pokemon SPECIES_PARAS
+        level 54
+        pokemon SPECIES_PARASECT
         move MOVE_GIGA_DRAIN
         move MOVE_SPORE
         move MOVE_SLASH
@@ -12011,7 +12011,7 @@ trainerdata 346, "Julia"
         // mon 1
         ivs 0
         abilityslot 0
-        level 44
+        level 54
         pokemon SPECIES_CARNIVINE
         move MOVE_GIGA_DRAIN
         move MOVE_WRING_OUT
@@ -12022,7 +12022,7 @@ trainerdata 346, "Julia"
         // mon 2
         ivs 0
         abilityslot 0
-        level 47
+        level 57
         pokemon SPECIES_PARASECT
         move MOVE_GIGA_DRAIN
         move MOVE_SPORE
@@ -12344,8 +12344,8 @@ trainerdata 356, "Michelle"
         // mon 0
         ivs 0
         abilityslot 0
-        level 44
-        pokemon SPECIES_SKIPLOOM
+        level 54
+        pokemon SPECIES_JUMPLUFF
         move MOVE_GIGA_DRAIN
         move MOVE_U_TURN
         move MOVE_LEECH_SEED
@@ -12355,18 +12355,18 @@ trainerdata 356, "Michelle"
         // mon 1
         ivs 0
         abilityslot 0
-        level 45
-        pokemon SPECIES_HOPPIP
+        level 55
+        pokemon SPECIES_SUNFLORA
         move MOVE_GIGA_DRAIN
-        move MOVE_U_TURN
-        move MOVE_STUN_SPORE
-        move MOVE_BOUNCE
+        move MOVE_FIERY_DANCE
+        move MOVE_WORRY_SEED
+        move MOVE_LEECH_SEED
         ballseal 0
 
         // mon 2
         ivs 0
         abilityslot 0
-        level 46
+        level 56
         pokemon SPECIES_JUMPLUFF
         move MOVE_GIGA_DRAIN
         move MOVE_U_TURN
