@@ -7239,7 +7239,7 @@ trainerdata 232, "Vincent"
         // mon 0
         ivs 0
         abilityslot 0
-        level 45
+        level 55
         pokemon SPECIES_JOLTEON
         move MOVE_SHOCK_WAVE
         move MOVE_QUICK_ATTACK
@@ -7250,8 +7250,8 @@ trainerdata 232, "Vincent"
         // mon 1
         ivs 0
         abilityslot 32
-        level 43
-        pokemon SPECIES_VOLTORB
+        level 53
+        pokemon SPECIES_ELECTRODE
         move MOVE_SHOCK_WAVE
         move MOVE_SWIFT
         move MOVE_GYRO_BALL
@@ -7261,8 +7261,8 @@ trainerdata 232, "Vincent"
         // mon 2
         ivs 0
         abilityslot 32
-        level 42
-        pokemon SPECIES_MAGNEMITE
+        level 52
+        pokemon SPECIES_MAGNEZONE
         move MOVE_SHOCK_WAVE
         move MOVE_SUPERSONIC
         move MOVE_THUNDER_WAVE
@@ -11753,7 +11753,7 @@ trainerdata 336, "Tanya"
     endparty
 
 trainerdata 337, "Gregory"
-    trainermontype TRAINER_DATA_TYPE_MOVES
+    trainermontype TRAINER_DATA_TYPE_MOVES | TRAINER_DATA_TYPE_ITEMS
     trainerclass CLASS_GENTLEMAN
     nummons 3
     item ITEM_FULL_RESTORE
@@ -11768,8 +11768,9 @@ trainerdata 337, "Gregory"
         // mon 0
         ivs 0
         abilityslot 0
-        level 46
+        level 56
         pokemon SPECIES_PIKACHU
+        item ITEM_LIGHT_BALL
         move MOVE_DISCHARGE
         move MOVE_LIGHT_SCREEN
         move MOVE_THUNDER_WAVE
@@ -11779,8 +11780,9 @@ trainerdata 337, "Gregory"
         // mon 1
         ivs 0
         abilityslot 0
-        level 43
-        pokemon SPECIES_FLAAFFY
+        level 53
+        pokemon SPECIES_AMPHAROS
+        item ITEM_NONE
         move MOVE_SHOCK_WAVE
         move MOVE_SIGNAL_BEAM
         move MOVE_CHARGE_BEAM
@@ -11790,8 +11792,9 @@ trainerdata 337, "Gregory"
         // mon 2
         ivs 0
         abilityslot 0
-        level 42
-        pokemon SPECIES_ELECTRIKE
+        level 52
+        pokemon SPECIES_MANECTRIC
+        item ITEM_NONE
         move MOVE_SHOCK_WAVE
         move MOVE_ROAR
         move MOVE_THUNDER_WAVE
@@ -13605,7 +13608,7 @@ trainerdata 396, "Horton"
         // mon 0
         ivs 0
         abilityslot 32
-        level 43
+        level 53
         pokemon SPECIES_ELECTRODE
         move MOVE_SWIFT
         move MOVE_SHOCK_WAVE
@@ -13616,7 +13619,7 @@ trainerdata 396, "Horton"
         // mon 1
         ivs 0
         abilityslot 0
-        level 43
+        level 53
         pokemon SPECIES_ELECTRODE
         move MOVE_SWIFT
         move MOVE_SHOCK_WAVE
@@ -13627,7 +13630,7 @@ trainerdata 396, "Horton"
         // mon 2
         ivs 0
         abilityslot 32
-        level 43
+        level 53
         pokemon SPECIES_ELECTRODE
         move MOVE_SWIFT
         move MOVE_SHOCK_WAVE
