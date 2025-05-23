@@ -10508,7 +10508,7 @@ trainerdata 297, "Diana"
         // mon 0
         ivs 0
         abilityslot 32
-        level 48
+        level 57
         pokemon SPECIES_GOLDUCK
         move MOVE_WATER_PULSE
         move MOVE_ZEN_HEADBUTT
@@ -10533,7 +10533,7 @@ trainerdata 298, "Briana"
         // mon 0
         ivs 0
         abilityslot 32
-        level 46
+        level 55
         pokemon SPECIES_SEAKING
         move MOVE_WATER_PULSE
         move MOVE_AQUA_RING
@@ -10544,7 +10544,7 @@ trainerdata 298, "Briana"
         // mon 1
         ivs 0
         abilityslot 32
-        level 46
+        level 55
         pokemon SPECIES_SEAKING
         move MOVE_WATER_PULSE
         move MOVE_AQUA_RING
@@ -13033,8 +13033,8 @@ trainerdata 377, "Parker"
         // mon 0
         ivs 0
         abilityslot 32
-        level 43
-        pokemon SPECIES_HORSEA
+        level 54
+        pokemon SPECIES_SEADRA
         move MOVE_WATER_PULSE
         move MOVE_FOCUS_ENERGY
         move MOVE_TWISTER
@@ -13044,8 +13044,8 @@ trainerdata 377, "Parker"
         // mon 1
         ivs 0
         abilityslot 32
-        level 43
-        pokemon SPECIES_SEADRA
+        level 55
+        pokemon SPECIES_KINGDRA
         move MOVE_WATER_PULSE
         move MOVE_FOCUS_ENERGY
         move MOVE_TWISTER
@@ -23111,7 +23111,7 @@ trainerdata 677, "Eddie"
         // mon 0
         ivs 0
         abilityslot 32
-        level 48
+        level 57
         pokemon SPECIES_AZUMARILL
         move MOVE_WATER_PULSE
         move MOVE_AQUA_RING
@@ -23136,7 +23136,7 @@ trainerdata 678, "Joy"
         // mon 0
         ivs 0
         abilityslot 32
-        level 48
+        level 57
         pokemon SPECIES_CLOYSTER
         move MOVE_WATER_PULSE
         move MOVE_SPIKE_CANNON
