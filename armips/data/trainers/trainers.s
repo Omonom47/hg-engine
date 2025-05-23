@@ -23483,7 +23483,7 @@ trainerdata 689, "Cary"
         // mon 0
         ivs 0
         abilityslot 0
-        level 53
+        level 64
         pokemon SPECIES_TORKOAL
         move MOVE_OVERHEAT
         move MOVE_IRON_TAIL
@@ -23508,8 +23508,8 @@ trainerdata 690, "Waldo"
         // mon 0
         ivs 0
         abilityslot 32
-        level 53
-        pokemon SPECIES_NUMEL
+        level 65
+        pokemon SPECIES_CAMERUPT
         move MOVE_OVERHEAT
         move MOVE_AMNESIA
         move MOVE_EARTH_POWER
@@ -23533,7 +23533,7 @@ trainerdata 691, "Merle"
         // mon 0
         ivs 0
         abilityslot 32
-        level 53
+        level 65
         pokemon SPECIES_MAGCARGO
         move MOVE_OVERHEAT
         move MOVE_ROCK_SLIDE
@@ -23558,7 +23558,7 @@ trainerdata 692, "Lowell"
         // mon 0
         ivs 0
         abilityslot 0
-        level 50
+        level 64
         pokemon SPECIES_ARCANINE
         move MOVE_OVERHEAT
         move MOVE_EXTREME_SPEED
@@ -23583,8 +23583,8 @@ trainerdata 693, "Linden"
         // mon 0
         ivs 0
         abilityslot 0
-        level 50
-        pokemon SPECIES_MAGMAR
+        level 64
+        pokemon SPECIES_MAGMORTAR
         move MOVE_OVERHEAT
         move MOVE_FIRE_PUNCH
         move MOVE_CONFUSE_RAY
@@ -23608,7 +23608,7 @@ trainerdata 694, "Daniel"
         // mon 0
         ivs 0
         abilityslot 0
-        level 50
+        level 64
         pokemon SPECIES_NINETALES
         move MOVE_OVERHEAT
         move MOVE_WILL_O_WISP
