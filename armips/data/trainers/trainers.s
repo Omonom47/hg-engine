@@ -24104,11 +24104,11 @@ trainerdata 704, "Bruno"
         // mon 0
         ivs 250
         abilityslot 32
-        level 62
+        level 74
         pokemon SPECIES_HITMONTOP
         item ITEM_NONE
         move MOVE_COUNTER
-        move MOVE_QUICK_ATTACK
+        move MOVE_BRUTAL_SWING
         move MOVE_CLOSE_COMBAT
         move MOVE_EARTHQUAKE
         ballseal 0
@@ -24116,19 +24116,19 @@ trainerdata 704, "Bruno"
         // mon 1
         ivs 250
         abilityslot 32
-        level 61
+        level 73
         pokemon SPECIES_HITMONLEE
         item ITEM_NONE
-        move MOVE_SWAGGER
+        move MOVE_ROCK_SLIDE
         move MOVE_CLOSE_COMBAT
-        move MOVE_REVERSAL
+        move MOVE_POISON_JAB
         move MOVE_BLAZE_KICK
         ballseal 0
 
         // mon 2
         ivs 250
         abilityslot 32
-        level 61
+        level 73
         pokemon SPECIES_HITMONCHAN
         item ITEM_NONE
         move MOVE_SUBSTITUTE
@@ -24140,23 +24140,23 @@ trainerdata 704, "Bruno"
         // mon 3
         ivs 250
         abilityslot 0
-        level 62
+        level 74
         pokemon SPECIES_HARIYAMA
         item ITEM_SITRUS_BERRY
-        move MOVE_LOW_KICK
-        move MOVE_PAYBACK
+        move MOVE_VACUUM_WAVE
+        move MOVE_FAKE_OUT
         move MOVE_BULLET_PUNCH
-        move MOVE_BULK_UP
+        move MOVE_BELLY_DRUM
         ballseal 0
 
         // mon 4
         ivs 250
         abilityslot 32
-        level 64
+        level 76
         pokemon SPECIES_MACHAMP
         item ITEM_NONE
         move MOVE_BULLET_PUNCH
-        move MOVE_FORESIGHT
+        move MOVE_BRUTAL_SWING
         move MOVE_STONE_EDGE
         move MOVE_DYNAMIC_PUNCH
         ballseal 0
@@ -24164,13 +24164,13 @@ trainerdata 704, "Bruno"
         // mon 5
         ivs 250
         abilityslot 32
-        level 64
+        level 76
         pokemon SPECIES_LUCARIO
         item ITEM_NONE
         move MOVE_EXTREME_SPEED
-        move MOVE_CLOSE_COMBAT
-        move MOVE_COUNTER
-        move MOVE_IRON_TAIL
+        move MOVE_AURA_SPHERE
+        move MOVE_EARTHQUAKE
+        move MOVE_FLASH_CANNON
         ballseal 0
     endparty
 
