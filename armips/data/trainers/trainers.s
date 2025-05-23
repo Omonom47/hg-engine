@@ -2682,7 +2682,7 @@ trainerdata 83, "Cindy"
         // mon 0
         ivs 0
         abilityslot 32
-        level 48
+        level 59
         pokemon SPECIES_NIDOQUEEN
         move MOVE_POISON_JAB
         move MOVE_EARTH_POWER
@@ -2707,7 +2707,7 @@ trainerdata 84, "Barry"
         // mon 0
         ivs 0
         abilityslot 32
-        level 48
+        level 59
         pokemon SPECIES_NIDOKING
         move MOVE_POISON_JAB
         move MOVE_FOCUS_ENERGY
@@ -4444,18 +4444,18 @@ trainerdata 136, "Linda"
         // mon 0
         ivs 0
         abilityslot 0
-        level 41
-        pokemon SPECIES_BULBASAUR
+        level 55
+        pokemon SPECIES_QWILFISH
         move MOVE_TOXIC
-        move MOVE_SLUDGE_BOMB
-        move MOVE_LEECH_SEED
-        move MOVE_DOUBLE_EDGE
+        move MOVE_POISON_JAB
+        move MOVE_AQUA_TAIL
+        move MOVE_PIN_MISSILE
         ballseal 0
 
         // mon 1
         ivs 0
         abilityslot 0
-        level 43
+        level 56
         pokemon SPECIES_IVYSAUR
         move MOVE_TOXIC
         move MOVE_SLUDGE_BOMB
@@ -4466,7 +4466,7 @@ trainerdata 136, "Linda"
         // mon 2
         ivs 0
         abilityslot 0
-        level 45
+        level 57
         pokemon SPECIES_VENUSAUR
         move MOVE_TOXIC
         move MOVE_SLUDGE_BOMB
@@ -5785,7 +5785,7 @@ trainerdata 183, "Alice"
         // mon 0
         ivs 0
         abilityslot 0
-        level 41
+        level 57
         pokemon SPECIES_GLOOM
         move MOVE_TOXIC
         move MOVE_SLUDGE_BOMB
@@ -5796,7 +5796,7 @@ trainerdata 183, "Alice"
         // mon 1
         ivs 0
         abilityslot 0
-        level 45
+        level 57
         pokemon SPECIES_ARBOK
         move MOVE_POISON_JAB
         move MOVE_SCREECH
@@ -5807,7 +5807,7 @@ trainerdata 183, "Alice"
         // mon 2
         ivs 0
         abilityslot 0
-        level 41
+        level 57
         pokemon SPECIES_VILEPLUME
         move MOVE_TOXIC
         move MOVE_SLUDGE_BOMB
