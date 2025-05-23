@@ -7182,8 +7182,8 @@ trainerdata 230, "Franklin"
         // mon 0
         ivs 0
         abilityslot 32
-        level 44
-        pokemon SPECIES_KADABRA
+        level 61
+        pokemon SPECIES_ALAKAZAM
         move MOVE_HEADBUTT
         move MOVE_SKILL_SWAP
         move MOVE_PSYCHIC
@@ -7193,7 +7193,7 @@ trainerdata 230, "Franklin"
         // mon 1
         ivs 0
         abilityslot 32
-        level 47
+        level 61
         pokemon SPECIES_GIRAFARIG
         move MOVE_CRUNCH
         move MOVE_SKILL_SWAP
@@ -12726,7 +12726,7 @@ trainerdata 368, "Rebecca"
         // mon 0
         ivs 0
         abilityslot 32
-        level 45
+        level 61
         pokemon SPECIES_BRONZOR
         move MOVE_FEINT_ATTACK
         move MOVE_SKILL_SWAP
@@ -12737,7 +12737,7 @@ trainerdata 368, "Rebecca"
         // mon 1
         ivs 0
         abilityslot 32
-        level 45
+        level 61
         pokemon SPECIES_HYPNO
         move MOVE_SWAGGER
         move MOVE_SKILL_SWAP
@@ -12762,8 +12762,8 @@ trainerdata 369, "Darcy"
         // mon 0
         ivs 0
         abilityslot 32
-        level 44
-        pokemon SPECIES_SLOWPOKE
+        level 61
+        pokemon SPECIES_SLOWKING
         move MOVE_SKILL_SWAP
         move MOVE_AMNESIA
         move MOVE_DISABLE
@@ -12773,7 +12773,7 @@ trainerdata 369, "Darcy"
         // mon 1
         ivs 0
         abilityslot 32
-        level 46
+        level 61
         pokemon SPECIES_SLOWBRO
         move MOVE_SKILL_SWAP
         move MOVE_SLACK_OFF
@@ -14203,7 +14203,7 @@ trainerdata 415, "Jared"
         // mon 0
         ivs 0
         abilityslot 32
-        level 42
+        level 60
         pokemon SPECIES_MR_MIME
         move MOVE_SKILL_SWAP
         move MOVE_PSYCHIC
@@ -14214,8 +14214,8 @@ trainerdata 415, "Jared"
         // mon 1
         ivs 0
         abilityslot 0
-        level 42
-        pokemon SPECIES_EXEGGCUTE
+        level 58
+        pokemon SPECIES_EXEGGUTOR
         move MOVE_SKILL_SWAP
         move MOVE_PSYCHIC
         move MOVE_SLEEP_POWDER
@@ -14225,8 +14225,8 @@ trainerdata 415, "Jared"
         // mon 2
         ivs 0
         abilityslot 0
-        level 45
-        pokemon SPECIES_EXEGGCUTE
+        level 61
+        pokemon SPECIES_EXEGGUTOR
         move MOVE_SKILL_SWAP
         move MOVE_PSYCHIC
         move MOVE_HYPNOSIS
