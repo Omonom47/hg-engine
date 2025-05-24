@@ -11021,7 +11021,7 @@ trainerdata 313, "Reese"
         // mon 0
         ivs 0
         abilityslot 0
-        level 45
+        level 53
         pokemon SPECIES_WEEZING
         ballseal 0
     endparty
@@ -11042,14 +11042,14 @@ trainerdata 314, "Joel"
         // mon 0
         ivs 0
         abilityslot 0
-        level 43
+        level 51
         pokemon SPECIES_MAGMAR
         ballseal 0
 
         // mon 1
         ivs 0
         abilityslot 0
-        level 43
+        level 51
         pokemon SPECIES_MAGMAR
         ballseal 0
     endparty
@@ -11070,21 +11070,21 @@ trainerdata 315, "Glenn"
         // mon 0
         ivs 0
         abilityslot 0
-        level 39
-        pokemon SPECIES_KOFFING
+        level 49
+        pokemon SPECIES_WEEZING
         ballseal 0
 
         // mon 1
         ivs 0
         abilityslot 0
-        level 41
+        level 49
         pokemon SPECIES_MAGMAR
         ballseal 0
 
         // mon 2
         ivs 0
         abilityslot 0
-        level 43
+        level 49
         pokemon SPECIES_WEEZING
         ballseal 0
     endparty
@@ -19599,8 +19599,8 @@ trainerdata 572, "Dale"
         // mon 0
         ivs 0
         abilityslot 32
-        level 47
-        pokemon SPECIES_GULPIN
+        level 53
+        pokemon SPECIES_SWALOT
         item ITEM_BLACK_SLUDGE
         ballseal 0
     endparty
@@ -19621,14 +19621,14 @@ trainerdata 573, "Jacob"
         // mon 0
         ivs 0
         abilityslot 0
-        level 43
+        level 51
         pokemon SPECIES_MAGMAR
         ballseal 0
 
         // mon 1
         ivs 0
         abilityslot 32
-        level 43
+        level 51
         pokemon SPECIES_TENTACRUEL
         ballseal 0
     endparty
@@ -19649,7 +19649,7 @@ trainerdata 574, "Aiden"
         // mon 0
         ivs 0
         abilityslot 32
-        level 45
+        level 53
         pokemon SPECIES_TENTACRUEL
         ballseal 0
     endparty
@@ -19670,21 +19670,21 @@ trainerdata 575, "Dan"
         // mon 0
         ivs 0
         abilityslot 0
-        level 39
-        pokemon SPECIES_GULPIN
+        level 49
+        pokemon SPECIES_SWALOT
         ballseal 0
 
         // mon 1
         ivs 0
         abilityslot 0
-        level 37
+        level 49
         pokemon SPECIES_WEEZING
         ballseal 0
 
         // mon 2
         ivs 0
         abilityslot 0
-        level 37
+        level 49
         pokemon SPECIES_WEEZING
         ballseal 0
     endparty
@@ -19705,8 +19705,8 @@ trainerdata 576, "Theron"
         // mon 0
         ivs 0
         abilityslot 2
-        level 45
-        pokemon SPECIES_CROAGUNK
+        level 53
+        pokemon SPECIES_TOXICROAK
         ballseal 0
     endparty
 
@@ -19726,8 +19726,8 @@ trainerdata 577, "Markey"
         // mon 0
         ivs 0
         abilityslot 32
-        level 47
-        pokemon SPECIES_SKORUPI
+        level 53
+        pokemon SPECIES_DRAPION
         ballseal 0
     endparty
 
@@ -19747,7 +19747,7 @@ trainerdata 578, "Teddy"
         // mon 0
         ivs 0
         abilityslot 0
-        level 46
+        level 53
         pokemon SPECIES_SEVIPER
         ballseal 0
     endparty
@@ -19768,15 +19768,15 @@ trainerdata 579, "Ernest"
         // mon 0
         ivs 0
         abilityslot 32
-        level 45
-        pokemon SPECIES_TEDDIURSA
+        level 51
+        pokemon SPECIES_URSARING
         ballseal 0
 
         // mon 1
         ivs 0
         abilityslot 32
-        level 44
-        pokemon SPECIES_MARILL
+        level 51
+        pokemon SPECIES_AZUMARILL
         ballseal 0
     endparty
 
