@@ -4793,7 +4793,7 @@ trainerdata 148, "Lloyd"
         // mon 0
         ivs 0
         abilityslot 0
-        level 46
+        level 53
         pokemon SPECIES_NIDOKING
         ballseal 0
     endparty
@@ -11537,8 +11537,8 @@ trainerdata 329, "Dudley"
         // mon 0
         ivs 0
         abilityslot 0
-        level 45
-        pokemon SPECIES_ODDISH
+        level 53
+        pokemon SPECIES_VILEPLUME
         item ITEM_SITRUS_BERRY
         ballseal 0
     endparty
@@ -11559,7 +11559,7 @@ trainerdata 330, "Joe"
         // mon 0
         ivs 0
         abilityslot 0
-        level 44
+        level 51
         pokemon SPECIES_TANGELA
         item ITEM_SITRUS_BERRY
         ballseal 0
@@ -11567,7 +11567,7 @@ trainerdata 330, "Joe"
         // mon 1
         ivs 0
         abilityslot 0
-        level 42
+        level 51
         pokemon SPECIES_VAPOREON
         item ITEM_NONE
         ballseal 0
@@ -12234,7 +12234,7 @@ trainerdata 352, "Georgia"
         ballseal 0
     endparty
 
-trainerdata 353, "Grunt"
+trainerdata 353, "Grunt" //route 24
     trainermontype TRAINER_DATA_TYPE_NOTHING
     trainerclass CLASS_TEAM_ROCKET
     nummons 1
@@ -12250,7 +12250,7 @@ trainerdata 353, "Grunt"
         // mon 0
         ivs 30
         abilityslot 0
-        level 39
+        level 53
         pokemon SPECIES_GOLBAT
         ballseal 0
     endparty
@@ -12271,23 +12271,23 @@ trainerdata 354, "Laura"
         // mon 0
         ivs 0
         abilityslot 0
-        level 38
-        pokemon SPECIES_GLOOM
+        level 49
+        pokemon SPECIES_VILEPLUME
         item ITEM_SITRUS_BERRY
         ballseal 0
 
         // mon 1
         ivs 0
         abilityslot 32
-        level 41
-        pokemon SPECIES_PIDGEOTTO
+        level 49
+        pokemon SPECIES_PIDGEOT
         item ITEM_NONE
         ballseal 0
 
         // mon 2
         ivs 0
         abilityslot 0
-        level 41
+        level 49
         pokemon SPECIES_BELLOSSOM
         item ITEM_NONE
         ballseal 0
@@ -12309,21 +12309,21 @@ trainerdata 355, "Shannon"
         // mon 0
         ivs 0
         abilityslot 0
-        level 38
-        pokemon SPECIES_PARAS
+        level 49
+        pokemon SPECIES_PARASECT
         ballseal 0
 
         // mon 1
         ivs 0
         abilityslot 32
-        level 38
-        pokemon SPECIES_PARAS
+        level 49
+        pokemon SPECIES_PARASECT
         ballseal 0
 
         // mon 2
         ivs 0
         abilityslot 0
-        level 42
+        level 49
         pokemon SPECIES_PARASECT
         ballseal 0
     endparty
@@ -12496,8 +12496,8 @@ trainerdata 361, "Kevin"
         // mon 0
         ivs 50
         abilityslot 32
-        level 48
-        pokemon SPECIES_RHYHORN
+        level 50
+        pokemon SPECIES_RHYDON
         move MOVE_TAKE_DOWN
         move MOVE_STONE_EDGE
         move MOVE_HORN_DRILL
@@ -12507,8 +12507,8 @@ trainerdata 361, "Kevin"
         // mon 1
         ivs 50
         abilityslot 0
-        level 46
-        pokemon SPECIES_CHARMELEON
+        level 50
+        pokemon SPECIES_CHARIZARD
         move MOVE_FLAMETHROWER
         move MOVE_SLASH
         move MOVE_SCARY_FACE
@@ -12518,8 +12518,8 @@ trainerdata 361, "Kevin"
         // mon 2
         ivs 50
         abilityslot 0
-        level 46
-        pokemon SPECIES_WARTORTLE
+        level 50
+        pokemon SPECIES_BLASTOISE
         move MOVE_HYDRO_PUMP
         move MOVE_ICE_BEAM
         move MOVE_BITE
@@ -12665,8 +12665,8 @@ trainerdata 366, "Pat"
         // mon 0
         ivs 50
         abilityslot 32
-        level 47
-        pokemon SPECIES_PORYGON
+        level 55
+        pokemon SPECIES_PORYGON2
         item ITEM_NONE
         move MOVE_CHARGE_BEAM
         move MOVE_SIGNAL_BEAM
@@ -14391,14 +14391,14 @@ trainerdata 419, "Ellen"
         // mon 0
         ivs 0
         abilityslot 0
-        level 40
+        level 51
         pokemon SPECIES_WIGGLYTUFF
         ballseal 0
 
         // mon 1
         ivs 0
         abilityslot 0
-        level 44
+        level 51
         pokemon SPECIES_GRANBULL
         ballseal 0
     endparty
