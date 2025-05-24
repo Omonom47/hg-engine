@@ -20303,14 +20303,14 @@ trainerdata 598, "Day & Dani"
         // mon 0
         ivs 0
         abilityslot 0
-        level 41
+        level 51
         pokemon SPECIES_PLUSLE
         ballseal 0
 
         // mon 1
         ivs 0
         abilityslot 0
-        level 41
+        level 51
         pokemon SPECIES_MINUN
         ballseal 0
     endparty
@@ -20331,8 +20331,8 @@ trainerdata 599, "Virgil"
         // mon 0
         ivs 0
         abilityslot 0
-        level 43
-        pokemon SPECIES_SLAKOTH
+        level 51
+        pokemon SPECIES_VIGOROTH
         ballseal 0
     endparty
 
@@ -20352,8 +20352,8 @@ trainerdata 600, "Selina"
         // mon 0
         ivs 0
         abilityslot 0
-        level 42
-        pokemon SPECIES_CHERUBI
+        level 51
+        pokemon SPECIES_CHERRIM
         ballseal 0
     endparty
 
