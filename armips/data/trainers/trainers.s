@@ -10895,29 +10895,29 @@ trainerdata 309, "Dwayne"
         // mon 0
         ivs 0
         abilityslot 0
-        level 38
-        pokemon SPECIES_KOFFING
+        level 49
+        pokemon SPECIES_WEEZING
         ballseal 0
 
         // mon 1
         ivs 0
         abilityslot 0
-        level 39
-        pokemon SPECIES_KOFFING
+        level 49
+        pokemon SPECIES_WEEZING
         ballseal 0
 
         // mon 2
         ivs 0
         abilityslot 0
-        level 40
-        pokemon SPECIES_KOFFING
+        level 49
+        pokemon SPECIES_WEEZING
         ballseal 0
 
         // mon 3
         ivs 0
         abilityslot 0
-        level 41
-        pokemon SPECIES_KOFFING
+        level 49
+        pokemon SPECIES_WEEZING
         ballseal 0
     endparty
 
@@ -10937,7 +10937,7 @@ trainerdata 310, "Harris"
         // mon 0
         ivs 0
         abilityslot 0
-        level 45
+        level 54
         pokemon SPECIES_FLAREON
         ballseal 0
     endparty
@@ -10958,15 +10958,15 @@ trainerdata 311, "Zeke"
         // mon 0
         ivs 0
         abilityslot 0
-        level 43
-        pokemon SPECIES_KOFFING
+        level 52
+        pokemon SPECIES_WEEZING
         ballseal 0
 
         // mon 1
         ivs 0
         abilityslot 0
-        level 43
-        pokemon SPECIES_KOFFING
+        level 52
+        pokemon SPECIES_WEEZING
         ballseal 0
     endparty
 
@@ -12600,15 +12600,15 @@ trainerdata 364, "Sam"
         // mon 0
         ivs 0
         abilityslot 0
-        level 44
-        pokemon SPECIES_GRIMER
+        level 52
+        pokemon SPECIES_MUK
         item ITEM_NONE
         ballseal 0
 
         // mon 1
         ivs 0
         abilityslot 0
-        level 44
+        level 52
         pokemon SPECIES_MUK
         item ITEM_TOXIC_ORB
         ballseal 0
@@ -12630,22 +12630,22 @@ trainerdata 365, "Tyrone"
         // mon 0
         ivs 0
         abilityslot 32
-        level 40
-        pokemon SPECIES_MAGNEMITE
+        level 50
+        pokemon SPECIES_MAGNETON
         ballseal 0
 
         // mon 1
         ivs 0
         abilityslot 0
-        level 40
-        pokemon SPECIES_MAGNEMITE
+        level 50
+        pokemon SPECIES_MAGNETON
         ballseal 0
 
         // mon 2
         ivs 0
         abilityslot 32
-        level 40
-        pokemon SPECIES_MAGNEMITE
+        level 50
+        pokemon SPECIES_MAGNETON
         ballseal 0
     endparty
 
@@ -19081,15 +19081,15 @@ trainerdata 553, "Moe & Lulu"
         // mon 0
         ivs 0
         abilityslot 32
-        level 43
-        pokemon SPECIES_LOTAD
+        level 53
+        pokemon SPECIES_LUDICOLO
         ballseal 0
 
         // mon 1
         ivs 0
         abilityslot 32
-        level 43
-        pokemon SPECIES_SEEDOT
+        level 53
+        pokemon SPECIES_SHIFTRY
         ballseal 0
     endparty
 
@@ -19109,8 +19109,8 @@ trainerdata 554, "Milton"
         // mon 0
         ivs 0
         abilityslot 0
-        level 45
-        pokemon SPECIES_GROWLITHE
+        level 54
+        pokemon SPECIES_ARCANINE
         ballseal 0
     endparty
 
