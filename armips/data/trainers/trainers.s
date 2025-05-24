@@ -10625,21 +10625,21 @@ trainerdata 301, "Boris"
         // mon 0
         ivs 50
         abilityslot 32
-        level 39
+        level 49
         pokemon SPECIES_DODUO
         ballseal 0
 
         // mon 1
         ivs 50
         abilityslot 32
-        level 37
-        pokemon SPECIES_DODUO
+        level 49
+        pokemon SPECIES_DODRIO
         ballseal 0
 
         // mon 2
         ivs 50
         abilityslot 32
-        level 41
+        level 49
         pokemon SPECIES_DODRIO
         ballseal 0
     endparty
@@ -10660,7 +10660,7 @@ trainerdata 302, "Bob"
         // mon 0
         ivs 50
         abilityslot 0
-        level 48
+        level 54
         pokemon SPECIES_NOCTOWL
         ballseal 0
     endparty
@@ -10986,21 +10986,21 @@ trainerdata 312, "Charles"
         // mon 0
         ivs 0
         abilityslot 0
-        level 41
-        pokemon SPECIES_KOFFING
+        level 49
+        pokemon SPECIES_WEEZING
         ballseal 0
 
         // mon 1
         ivs 0
         abilityslot 0
-        level 41
-        pokemon SPECIES_CHARMELEON
+        level 49
+        pokemon SPECIES_CHARIZARD
         ballseal 0
 
         // mon 2
         ivs 0
         abilityslot 0
-        level 42
+        level 49
         pokemon SPECIES_WEEZING
         ballseal 0
     endparty
