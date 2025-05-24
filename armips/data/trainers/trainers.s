@@ -4814,14 +4814,14 @@ trainerdata 149, "Dean"
         // mon 0
         ivs 0
         abilityslot 32
-        level 44
+        level 53
         pokemon SPECIES_GOLDUCK
         ballseal 0
 
         // mon 1
         ivs 0
         abilityslot 0
-        level 42
+        level 53
         pokemon SPECIES_SANDSLASH
         ballseal 0
     endparty
@@ -4842,21 +4842,21 @@ trainerdata 150, "Sid"
         // mon 0
         ivs 0
         abilityslot 0
-        level 43
+        level 52
         pokemon SPECIES_DUGTRIO
         ballseal 0
 
         // mon 1
         ivs 0
         abilityslot 32
-        level 40
+        level 52
         pokemon SPECIES_PRIMEAPE
         ballseal 0
 
         // mon 2
         ivs 0
         abilityslot 0
-        level 40
+        level 52
         pokemon SPECIES_POLIWRATH
         ballseal 0
     endparty
@@ -7314,22 +7314,22 @@ trainerdata 234, "Eoin"
         // mon 0
         ivs 0
         abilityslot 32
-        level 42
+        level 50
         pokemon SPECIES_GRAVELER
         ballseal 0
 
         // mon 1
         ivs 0
         abilityslot 32
-        level 42
+        level 51
         pokemon SPECIES_GRAVELER
         ballseal 0
 
         // mon 2
         ivs 0
         abilityslot 32
-        level 42
-        pokemon SPECIES_GRAVELER
+        level 51
+        pokemon SPECIES_GOLEM
         ballseal 0
     endparty
 
@@ -11624,15 +11624,15 @@ trainerdata 332, "Heidi"
         // mon 0
         ivs 0
         abilityslot 32
-        level 43
-        pokemon SPECIES_SKIPLOOM
+        level 53
+        pokemon SPECIES_JUMPLUFF
         ballseal 0
 
         // mon 1
         ivs 0
         abilityslot 0
-        level 43
-        pokemon SPECIES_SKIPLOOM
+        level 53
+        pokemon SPECIES_JUMPLUFF
         ballseal 0
     endparty
 
@@ -11652,14 +11652,14 @@ trainerdata 333, "Edna"
         // mon 0
         ivs 0
         abilityslot 32
-        level 41
-        pokemon SPECIES_NIDORINA
+        level 54
+        pokemon SPECIES_NIDOQUEEN
         ballseal 0
 
         // mon 1
         ivs 0
         abilityslot 0
-        level 45
+        level 54
         pokemon SPECIES_RAICHU
         ballseal 0
     endparty
@@ -12391,14 +12391,14 @@ trainerdata 357, "Clarke"
         // mon 0
         ivs 0
         abilityslot 32
-        level 43
+        level 53
         pokemon SPECIES_ONIX
         ballseal 0
 
         // mon 1
         ivs 0
         abilityslot 0
-        level 45
+        level 53
         pokemon SPECIES_DUGTRIO
         ballseal 0
     endparty
