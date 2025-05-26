@@ -1926,21 +1926,21 @@ trainerdata 59, "Kyle"
         // mon 0
         ivs 0
         abilityslot 0
-        level 39
+        level 50
         pokemon SPECIES_GOLDEEN
         ballseal 0
 
         // mon 1
         ivs 0
         abilityslot 0
-        level 35
+        level 50
         pokemon SPECIES_QWILFISH
         ballseal 0
 
         // mon 2
         ivs 0
         abilityslot 0
-        level 39
+        level 50
         pokemon SPECIES_GOLDEEN
         ballseal 0
     endparty
@@ -11241,14 +11241,14 @@ trainerdata 320, "Martin"
         // mon 0
         ivs 0
         abilityslot 0
-        level 36
+        level 51
         pokemon SPECIES_REMORAID
         ballseal 0
 
         // mon 1
         ivs 0
         abilityslot 0
-        level 42
+        level 54
         pokemon SPECIES_OCTILLERY
         ballseal 0
     endparty
@@ -11269,21 +11269,21 @@ trainerdata 321, "Stephen"
         // mon 0
         ivs 0
         abilityslot 0
-        level 43
+        level 53
         pokemon SPECIES_QUAGSIRE
         ballseal 0
 
         // mon 1
         ivs 0
         abilityslot 0
-        level 38
+        level 49
         pokemon SPECIES_QWILFISH
         ballseal 0
 
         // mon 2
         ivs 0
         abilityslot 0
-        level 38
+        level 49
         pokemon SPECIES_TENTACRUEL
         ballseal 0
     endparty
@@ -11304,21 +11304,21 @@ trainerdata 322, "Barney"
         // mon 0
         ivs 0
         abilityslot 0
-        level 40
+        level 52
         pokemon SPECIES_GYARADOS
         ballseal 0
 
         // mon 1
         ivs 0
         abilityslot 0
-        level 37
+        level 49
         pokemon SPECIES_GYARADOS
         ballseal 0
 
         // mon 2
         ivs 0
         abilityslot 0
-        level 37
+        level 49
         pokemon SPECIES_GYARADOS
         ballseal 0
     endparty
@@ -19130,14 +19130,14 @@ trainerdata 555, "Justin"
         // mon 0
         ivs 50
         abilityslot 0
-        level 44
+        level 53
         pokemon SPECIES_XATU
         ballseal 0
 
         // mon 1
         ivs 50
         abilityslot 0
-        level 39
+        level 53
         pokemon SPECIES_NOCTOWL
         ballseal 0
     endparty
@@ -19158,15 +19158,15 @@ trainerdata 556, "Gail"
         // mon 0
         ivs 50
         abilityslot 0
-        level 42
+        level 54
         pokemon SPECIES_FEAROW
         ballseal 0
 
         // mon 1
         ivs 50
         abilityslot 0
-        level 39
-        pokemon SPECIES_SPEAROW
+        level 51
+        pokemon SPECIES_FEAROW
         ballseal 0
     endparty
 
@@ -19186,7 +19186,7 @@ trainerdata 557, "Vic & Tara"
         // mon 0
         ivs 0
         abilityslot 0
-        level 44
+        level 55
         pokemon SPECIES_MAGMAR
         move MOVE_SUNNY_DAY
         move MOVE_FLAMETHROWER
@@ -19197,12 +19197,12 @@ trainerdata 557, "Vic & Tara"
         // mon 1
         ivs 0
         abilityslot 32
-        level 43
+        level 55
         pokemon SPECIES_SUNFLORA
         move MOVE_SOLAR_BEAM
         move MOVE_RAZOR_LEAF
         move MOVE_INGRAIN
-        move MOVE_MEGA_DRAIN
+        move MOVE_GIGA_DRAIN
         ballseal 0
     endparty
 
@@ -19222,21 +19222,21 @@ trainerdata 558, "Kyler"
         // mon 0
         ivs 0
         abilityslot 0
-        level 18
+        level 50
         pokemon SPECIES_MAGIKARP
         ballseal 0
 
         // mon 1
         ivs 0
         abilityslot 0
-        level 18
+        level 50
         pokemon SPECIES_MAGIKARP
         ballseal 0
 
         // mon 2
         ivs 0
         abilityslot 0
-        level 18
+        level 50
         pokemon SPECIES_MAGIKARP
         ballseal 0
     endparty
@@ -22347,21 +22347,21 @@ trainerdata 661, "Kyle"
         // mon 0
         ivs 0
         abilityslot 0
-        level 40
+        level 53
         pokemon SPECIES_SEAKING
         ballseal 0
 
         // mon 1
         ivs 0
         abilityslot 0
-        level 38
+        level 53
         pokemon SPECIES_QWILFISH
         ballseal 0
 
         // mon 2
         ivs 0
         abilityslot 0
-        level 43
+        level 53
         pokemon SPECIES_SEAKING
         ballseal 0
     endparty
@@ -22382,29 +22382,29 @@ trainerdata 662, "Kyle"
         // mon 0
         ivs 0
         abilityslot 0
-        level 43
+        level 56
         pokemon SPECIES_SEAKING
         ballseal 0
 
         // mon 1
         ivs 0
         abilityslot 0
-        level 41
+        level 56
         pokemon SPECIES_QWILFISH
         ballseal 0
 
         // mon 2
         ivs 0
         abilityslot 0
-        level 47
+        level 56
         pokemon SPECIES_SEAKING
         ballseal 0
 
         // mon 3
         ivs 0
         abilityslot 0
-        level 39
-        pokemon SPECIES_KRABBY
+        level 56
+        pokemon SPECIES_KINGLER
         ballseal 0
     endparty
 
@@ -22424,28 +22424,28 @@ trainerdata 663, "Kyle"
         // mon 0
         ivs 0
         abilityslot 0
-        level 48
+        level 60
         pokemon SPECIES_SEAKING
         ballseal 0
 
         // mon 1
         ivs 0
         abilityslot 0
-        level 49
+        level 58
         pokemon SPECIES_QWILFISH
         ballseal 0
 
         // mon 2
         ivs 0
         abilityslot 0
-        level 52
+        level 59
         pokemon SPECIES_SEAKING
         ballseal 0
 
         // mon 3
         ivs 0
         abilityslot 0
-        level 51
+        level 60
         pokemon SPECIES_KINGLER
         ballseal 0
     endparty
@@ -22466,28 +22466,28 @@ trainerdata 664, "Kyler"
         // mon 0
         ivs 0
         abilityslot 0
-        level 18
+        level 52
         pokemon SPECIES_MAGIKARP
         ballseal 0
 
         // mon 1
         ivs 0
         abilityslot 0
-        level 18
+        level 52
         pokemon SPECIES_MAGIKARP
         ballseal 0
 
         // mon 2
         ivs 0
         abilityslot 0
-        level 18
+        level 52
         pokemon SPECIES_MAGIKARP
         ballseal 0
 
         // mon 3
         ivs 0
         abilityslot 0
-        level 18
+        level 52
         pokemon SPECIES_MAGIKARP
         ballseal 0
     endparty
@@ -22508,35 +22508,35 @@ trainerdata 665, "Kyler"
         // mon 0
         ivs 0
         abilityslot 0
-        level 18
+        level 54
         pokemon SPECIES_MAGIKARP
         ballseal 0
 
         // mon 1
         ivs 0
         abilityslot 0
-        level 18
+        level 54
         pokemon SPECIES_MAGIKARP
         ballseal 0
 
         // mon 2
         ivs 0
         abilityslot 0
-        level 18
+        level 54
         pokemon SPECIES_MAGIKARP
         ballseal 0
 
         // mon 3
         ivs 0
         abilityslot 0
-        level 18
+        level 54
         pokemon SPECIES_MAGIKARP
         ballseal 0
 
         // mon 4
         ivs 0
         abilityslot 0
-        level 18
+        level 54
         pokemon SPECIES_MAGIKARP
         ballseal 0
     endparty
@@ -22557,42 +22557,42 @@ trainerdata 666, "Kyler"
         // mon 0
         ivs 0
         abilityslot 0
-        level 18
+        level 56
         pokemon SPECIES_MAGIKARP
         ballseal 0
 
         // mon 1
         ivs 0
         abilityslot 0
-        level 18
+        level 56
         pokemon SPECIES_MAGIKARP
         ballseal 0
 
         // mon 2
         ivs 0
         abilityslot 0
-        level 18
+        level 56
         pokemon SPECIES_MAGIKARP
         ballseal 0
 
         // mon 3
         ivs 0
         abilityslot 0
-        level 18
+        level 56
         pokemon SPECIES_MAGIKARP
         ballseal 0
 
         // mon 4
         ivs 0
         abilityslot 0
-        level 18
+        level 56
         pokemon SPECIES_MAGIKARP
         ballseal 0
 
         // mon 5
         ivs 0
         abilityslot 0
-        level 18
+        level 56
         pokemon SPECIES_MAGIKARP
         ballseal 0
     endparty
