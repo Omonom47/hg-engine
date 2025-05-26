@@ -10377,21 +10377,21 @@ trainerdata 293, "Nicole"
         // mon 0
         ivs 0
         abilityslot 32
-        level 39
+        level 53
         pokemon SPECIES_MARILL
         ballseal 0
 
         // mon 1
         ivs 0
         abilityslot 32
-        level 39
-        pokemon SPECIES_MARILL
+        level 53
+        pokemon SPECIES_AZUMARILL
         ballseal 0
 
         // mon 2
         ivs 0
         abilityslot 32
-        level 42
+        level 54
         pokemon SPECIES_LAPRAS
         ballseal 0
     endparty
@@ -10412,7 +10412,7 @@ trainerdata 294, "Lori"
         // mon 0
         ivs 0
         abilityslot 32
-        level 42
+        level 55
         pokemon SPECIES_STARMIE
         move MOVE_THUNDERBOLT
         move MOVE_SURF
@@ -10423,7 +10423,7 @@ trainerdata 294, "Lori"
         // mon 1
         ivs 0
         abilityslot 32
-        level 42
+        level 55
         pokemon SPECIES_STARMIE
         move MOVE_THUNDERBOLT
         move MOVE_SURF
@@ -10434,7 +10434,7 @@ trainerdata 294, "Lori"
         // mon 2
         ivs 0
         abilityslot 32
-        level 42
+        level 55
         pokemon SPECIES_STARMIE
         move MOVE_RECOVER
         move MOVE_WATER_PULSE
@@ -12906,7 +12906,7 @@ trainerdata 373, "Frankie"
         // mon 0
         ivs 0
         abilityslot 32
-        level 44
+        level 59
         pokemon SPECIES_AZUMARILL
         ballseal 0
     endparty
@@ -19796,7 +19796,7 @@ trainerdata 580, "Pedro"
         // mon 0
         ivs 0
         abilityslot 32
-        level 45
+        level 59
         pokemon SPECIES_LINOONE
         item ITEM_SITRUS_BERRY
         move MOVE_BELLY_DRUM
@@ -19822,8 +19822,8 @@ trainerdata 581, "Adrian"
         // mon 0
         ivs 0
         abilityslot 0
-        level 45
-        pokemon SPECIES_SHROOMISH
+        level 59
+        pokemon SPECIES_BRELOOM
         ballseal 0
     endparty
 
@@ -19843,8 +19843,8 @@ trainerdata 582, "Cheyenne"
         // mon 0
         ivs 0
         abilityslot 32
-        level 45
-        pokemon SPECIES_SHINX
+        level 59
+        pokemon SPECIES_LUXRAY
         ballseal 0
     endparty
 
@@ -19864,14 +19864,14 @@ trainerdata 583, "Bert"
         // mon 0
         ivs 50
         abilityslot 0
-        level 46
-        pokemon SPECIES_WINGULL
+        level 57
+        pokemon SPECIES_PELIPPER
         ballseal 0
 
         // mon 1
         ivs 50
         abilityslot 0
-        level 43
+        level 57
         pokemon SPECIES_FEAROW
         ballseal 0
     endparty
@@ -19892,8 +19892,8 @@ trainerdata 584, "Ernie"
         // mon 0
         ivs 50
         abilityslot 0
-        level 48
-        pokemon SPECIES_STARLY
+        level 59
+        pokemon SPECIES_STARAPTOR
         ballseal 0
     endparty
 
@@ -19913,14 +19913,14 @@ trainerdata 585, "Elmo"
         // mon 0
         ivs 0
         abilityslot 0
-        level 46
+        level 57
         pokemon SPECIES_POLIWHIRL
         ballseal 0
 
         // mon 1
         ivs 0
         abilityslot 0
-        level 42
+        level 57
         pokemon SPECIES_TENTACRUEL
         ballseal 0
     endparty
@@ -19941,14 +19941,14 @@ trainerdata 586, "Luis"
         // mon 0
         ivs 0
         abilityslot 32
-        level 46
-        pokemon SPECIES_SEADRA
+        level 57
+        pokemon SPECIES_KINGDRA
         ballseal 0
 
         // mon 1
         ivs 0
         abilityslot 32
-        level 42
+        level 55
         pokemon SPECIES_QUAGSIRE
         ballseal 0
     endparty
@@ -19969,8 +19969,8 @@ trainerdata 587, "Leona"
         // mon 0
         ivs 0
         abilityslot 0
-        level 44
-        pokemon SPECIES_BIDOOF
+        level 59
+        pokemon SPECIES_BIBAREL
         ballseal 0
     endparty
 
@@ -19990,21 +19990,21 @@ trainerdata 588, "Mina"
         // mon 0
         ivs 0
         abilityslot 0
-        level 38
+        level 54
         pokemon SPECIES_LUVDISC
         ballseal 0
 
         // mon 1
         ivs 0
         abilityslot 0
-        level 39
+        level 55
         pokemon SPECIES_LUVDISC
         ballseal 0
 
         // mon 2
         ivs 0
         abilityslot 0
-        level 41
+        level 56
         pokemon SPECIES_LUVDISC
         ballseal 0
     endparty
