@@ -11466,21 +11466,21 @@ trainerdata 327, "Danny"
         // mon 0
         ivs 0
         abilityslot 32
-        level 43
+        level 54
         pokemon SPECIES_JYNX
         ballseal 0
 
         // mon 1
         ivs 0
         abilityslot 0
-        level 43
+        level 53
         pokemon SPECIES_ELECTABUZZ
         ballseal 0
 
         // mon 2
         ivs 0
         abilityslot 0
-        level 43
+        level 53
         pokemon SPECIES_MAGMAR
         ballseal 0
     endparty
@@ -12543,10 +12543,10 @@ trainerdata 362, "Quinn"
         // mon 0
         ivs 50
         abilityslot 0
-        level 47
-        pokemon SPECIES_IVYSAUR
+        level 57
+        pokemon SPECIES_VENUSAUR
         move MOVE_SOLAR_BEAM
-        move MOVE_DOUBLE_EDGE
+        move MOVE_PETAL_BLIZZARD
         move MOVE_SYNTHESIS
         move MOVE_SLUDGE_BOMB
         ballseal 0
@@ -12554,7 +12554,7 @@ trainerdata 362, "Quinn"
         // mon 1
         ivs 50
         abilityslot 32
-        level 47
+        level 57
         pokemon SPECIES_STARMIE
         move MOVE_BLIZZARD
         move MOVE_CONFUSE_RAY
@@ -18820,7 +18820,7 @@ trainerdata 545, "French"
         // mon 0
         ivs 50
         abilityslot 32
-        level 47
+        level 57
         pokemon SPECIES_ABSOL
         item ITEM_NONE
         move MOVE_PSYCHO_CUT
@@ -18832,7 +18832,7 @@ trainerdata 545, "French"
         // mon 1
         ivs 50
         abilityslot 0
-        level 47
+        level 57
         pokemon SPECIES_ALAKAZAM
         item ITEM_NONE
         move MOVE_PSYCHIC
@@ -18858,9 +18858,9 @@ trainerdata 546, "Sherman"
         // mon 0
         ivs 0
         abilityslot 0
-        level 43
+        level 56
         pokemon SPECIES_FURRET
-        move MOVE_DOUBLE_TEAM
+        move MOVE_COIL
         move MOVE_BATON_PASS
         move MOVE_AMNESIA
         move MOVE_SLAM
@@ -18869,7 +18869,7 @@ trainerdata 546, "Sherman"
         // mon 1
         ivs 0
         abilityslot 0
-        level 43
+        level 56
         pokemon SPECIES_PIDGEOT
         move MOVE_ROOST
         move MOVE_WING_ATTACK
