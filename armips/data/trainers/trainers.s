@@ -4905,8 +4905,8 @@ trainerdata 152, "Hope"
         // mon 0
         ivs 0
         abilityslot 0
-        level 44
-        pokemon SPECIES_FLAAFFY
+        level 61
+        pokemon SPECIES_AMPHAROS
         ballseal 0
     endparty
 
@@ -4926,14 +4926,14 @@ trainerdata 153, "Sharon"
         // mon 0
         ivs 0
         abilityslot 32
-        level 41
+        level 59
         pokemon SPECIES_FURRET
         ballseal 0
 
         // mon 1
         ivs 0
         abilityslot 32
-        level 43
+        level 59
         pokemon SPECIES_RAPIDASH
         ballseal 0
     endparty
@@ -10569,14 +10569,14 @@ trainerdata 299, "Hank"
         // mon 0
         ivs 50
         abilityslot 0
-        level 13
-        pokemon SPECIES_PIDGEY
+        level 32
+        pokemon SPECIES_PIDGEOTTO
         ballseal 0
 
         // mon 1
         ivs 50
         abilityslot 32
-        level 44
+        level 60
         pokemon SPECIES_PIDGEOT
         ballseal 0
     endparty
