@@ -23633,14 +23633,14 @@ trainerdata 695, "Dane"
         // mon 0
         ivs 0
         abilityslot 0
-        level 44
+        level 57
         pokemon SPECIES_BEEDRILL
         ballseal 0
 
         // mon 1
         ivs 0
         abilityslot 0
-        level 48
+        level 57
         pokemon SPECIES_BUTTERFREE
         ballseal 0
     endparty
@@ -23661,7 +23661,7 @@ trainerdata 696, "Dion"
         // mon 0
         ivs 0
         abilityslot 0
-        level 50
+        level 59
         pokemon SPECIES_ARIADOS
         ballseal 0
     endparty
@@ -23717,21 +23717,21 @@ trainerdata 698, "Ellis"
         // mon 0
         ivs 0
         abilityslot 0
-        level 28
+        level 51
         pokemon SPECIES_WEEDLE
         ballseal 0
 
         // mon 1
         ivs 0
         abilityslot 0
-        level 38
+        level 53
         pokemon SPECIES_KAKUNA
         ballseal 0
 
         // mon 2
         ivs 0
         abilityslot 0
-        level 46
+        level 55
         pokemon SPECIES_BEEDRILL
         ballseal 0
     endparty
@@ -23752,21 +23752,21 @@ trainerdata 699, "Abner"
         // mon 0
         ivs 0
         abilityslot 0
-        level 44
+        level 55
         pokemon SPECIES_BUTTERFREE
         ballseal 0
 
         // mon 1
         ivs 0
         abilityslot 0
-        level 44
+        level 55
         pokemon SPECIES_BEEDRILL
         ballseal 0
 
         // mon 2
         ivs 0
         abilityslot 0
-        level 44
+        level 55
         pokemon SPECIES_PIKACHU
         ballseal 0
     endparty
