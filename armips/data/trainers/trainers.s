@@ -12068,7 +12068,7 @@ trainerdata 348, "Robert"
         // mon 0
         ivs 0
         abilityslot 32
-        level 43
+        level 55
         pokemon SPECIES_QUAGSIRE
         ballseal 0
     endparty
@@ -12454,7 +12454,7 @@ trainerdata 359, "Jim"
         // mon 0
         ivs 0
         abilityslot 32
-        level 45
+        level 55
         pokemon SPECIES_MACHAMP
         ballseal 0
     endparty
