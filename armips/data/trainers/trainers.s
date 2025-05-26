@@ -8114,14 +8114,14 @@ trainerdata 252, "Harold"
         // mon 0
         ivs 0
         abilityslot 32
-        level 42
-        pokemon SPECIES_REMORAID
+        level 59
+        pokemon SPECIES_OCTILLERY
         ballseal 0
 
         // mon 1
         ivs 0
         abilityslot 0
-        level 40
+        level 57
         pokemon SPECIES_SEADRA
         ballseal 0
     endparty
@@ -10335,8 +10335,8 @@ trainerdata 291, "Debbie"
         // mon 0
         ivs 0
         abilityslot 0
-        level 46
-        pokemon SPECIES_CLAMPERL
+        level 60
+        pokemon SPECIES_GOREBYSS
         ballseal 0
     endparty
 
@@ -12801,29 +12801,29 @@ trainerdata 370, "Jerome"
         // mon 0
         ivs 0
         abilityslot 32
-        level 36
+        level 54
         pokemon SPECIES_SEADRA
         ballseal 0
 
         // mon 1
         ivs 0
         abilityslot 0
-        level 38
-        pokemon SPECIES_TENTACOOL
+        level 54
+        pokemon SPECIES_TENTACRUEL
         ballseal 0
 
         // mon 2
         ivs 0
         abilityslot 0
-        level 40
+        level 55
         pokemon SPECIES_TENTACRUEL
         ballseal 0
 
         // mon 3
         ivs 0
         abilityslot 32
-        level 38
-        pokemon SPECIES_GOLDEEN
+        level 54
+        pokemon SPECIES_SEAKING
         ballseal 0
     endparty
 
@@ -12843,14 +12843,14 @@ trainerdata 371, "Tucker"
         // mon 0
         ivs 0
         abilityslot 0
-        level 40
+        level 56
         pokemon SPECIES_SHELLDER
         ballseal 0
 
         // mon 1
         ivs 0
         abilityslot 32
-        level 44
+        level 59
         pokemon SPECIES_CLOYSTER
         ballseal 0
     endparty
