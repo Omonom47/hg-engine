@@ -9906,7 +9906,7 @@ trainerdata 284, "Corey"
         ballseal 0
     endparty
 
-trainerdata 285, "Silver"
+trainerdata 285, "Silver" //mt. moon if Totodile chosen
     trainermontype TRAINER_DATA_TYPE_MOVES
     trainerclass CLASS_RIVAL
     nummons 6
@@ -9922,9 +9922,9 @@ trainerdata 285, "Silver"
         // mon 0
         ivs 200
         abilityslot 0
-        level 46
-        pokemon SPECIES_SNEASEL
-        move MOVE_QUICK_ATTACK
+        level 63
+        pokemon SPECIES_WEAVILE
+        move MOVE_ICE_SHARD
         move MOVE_ICY_WIND
         move MOVE_FEINT_ATTACK
         move MOVE_SHADOW_CLAW
@@ -9933,29 +9933,29 @@ trainerdata 285, "Silver"
         // mon 1
         ivs 200
         abilityslot 0
-        level 47
+        level 64
         pokemon SPECIES_GOLBAT
         move MOVE_POISON_FANG
         move MOVE_BITE
         move MOVE_CONFUSE_RAY
-        move MOVE_AIR_CUTTER
+        move MOVE_AIR_SLASH
         ballseal 0
 
         // mon 2
         ivs 200
         abilityslot 0
-        level 46
-        pokemon SPECIES_MAGNETON
+        level 63
+        pokemon SPECIES_MAGNEZONE
         move MOVE_DISCHARGE
         move MOVE_SUPERSONIC
         move MOVE_THUNDER_WAVE
-        move MOVE_MAGNET_BOMB
+        move MOVE_FLASH_CANNON
         ballseal 0
 
         // mon 3
         ivs 200
         abilityslot 0
-        level 48
+        level 65
         pokemon SPECIES_GENGAR
         move MOVE_MEAN_LOOK
         move MOVE_CURSE
@@ -9966,7 +9966,7 @@ trainerdata 285, "Silver"
         // mon 4
         ivs 200
         abilityslot 0
-        level 48
+        level 65
         pokemon SPECIES_ALAKAZAM
         move MOVE_DISABLE
         move MOVE_RECOVER
@@ -9977,16 +9977,16 @@ trainerdata 285, "Silver"
         // mon 5
         ivs 200
         abilityslot 0
-        level 50
+        level 67
         pokemon SPECIES_MEGANIUM
         move MOVE_PETAL_DANCE
         move MOVE_POISON_POWDER
         move MOVE_SYNTHESIS
-        move MOVE_LIGHT_SCREEN
+        move MOVE_MOONBLAST
         ballseal 0
     endparty
 
-trainerdata 286, "Silver"
+trainerdata 286, "Silver" //mt. moon if Chikorita chosen
     trainermontype TRAINER_DATA_TYPE_MOVES
     trainerclass CLASS_RIVAL
     nummons 6
@@ -10002,9 +10002,9 @@ trainerdata 286, "Silver"
         // mon 0
         ivs 200
         abilityslot 0
-        level 46
-        pokemon SPECIES_SNEASEL
-        move MOVE_QUICK_ATTACK
+        level 63
+        pokemon SPECIES_WEAVILE
+        move MOVE_ICE_SHARD
         move MOVE_ICY_WIND
         move MOVE_FEINT_ATTACK
         move MOVE_SHADOW_CLAW
@@ -10013,29 +10013,29 @@ trainerdata 286, "Silver"
         // mon 1
         ivs 200
         abilityslot 0
-        level 47
+        level 64
         pokemon SPECIES_GOLBAT
         move MOVE_POISON_FANG
         move MOVE_BITE
         move MOVE_CONFUSE_RAY
-        move MOVE_AIR_CUTTER
+        move MOVE_AIR_SLASH
         ballseal 0
 
         // mon 2
         ivs 200
         abilityslot 0
-        level 46
-        pokemon SPECIES_MAGNETON
+        level 63
+        pokemon SPECIES_MAGNEZONE
         move MOVE_DISCHARGE
         move MOVE_SUPERSONIC
         move MOVE_THUNDER_WAVE
-        move MOVE_MAGNET_BOMB
+        move MOVE_FLASH_CANNON
         ballseal 0
 
         // mon 3
         ivs 200
         abilityslot 0
-        level 48
+        level 65
         pokemon SPECIES_GENGAR
         move MOVE_MEAN_LOOK
         move MOVE_CURSE
@@ -10046,7 +10046,7 @@ trainerdata 286, "Silver"
         // mon 4
         ivs 200
         abilityslot 0
-        level 48
+        level 65
         pokemon SPECIES_ALAKAZAM
         move MOVE_DISABLE
         move MOVE_RECOVER
@@ -10057,16 +10057,16 @@ trainerdata 286, "Silver"
         // mon 5
         ivs 200
         abilityslot 0
-        level 50
+        level 67
         pokemon SPECIES_TYPHLOSION
         move MOVE_FLAMETHROWER
-        move MOVE_QUICK_ATTACK
+        move MOVE_SCORCHING_SANDS
         move MOVE_FLAME_WHEEL
         move MOVE_SWIFT
         ballseal 0
     endparty
 
-trainerdata 287, "Silver"
+trainerdata 287, "Silver" //mt. moon if Cyndaquil chosen
     trainermontype TRAINER_DATA_TYPE_MOVES
     trainerclass CLASS_RIVAL
     nummons 6
@@ -10082,9 +10082,9 @@ trainerdata 287, "Silver"
         // mon 0
         ivs 200
         abilityslot 0
-        level 46
-        pokemon SPECIES_SNEASEL
-        move MOVE_QUICK_ATTACK
+        level 63
+        pokemon SPECIES_WEAVILE
+        move MOVE_ICE_SHARD
         move MOVE_ICY_WIND
         move MOVE_FEINT_ATTACK
         move MOVE_SHADOW_CLAW
@@ -10093,29 +10093,29 @@ trainerdata 287, "Silver"
         // mon 1
         ivs 200
         abilityslot 0
-        level 47
+        level 64
         pokemon SPECIES_GOLBAT
         move MOVE_POISON_FANG
         move MOVE_BITE
         move MOVE_CONFUSE_RAY
-        move MOVE_AIR_CUTTER
+        move MOVE_AIR_SLASH
         ballseal 0
 
         // mon 2
         ivs 200
         abilityslot 0
-        level 46
-        pokemon SPECIES_MAGNETON
+        level 63
+        pokemon SPECIES_MAGNEZONE
         move MOVE_DISCHARGE
         move MOVE_SUPERSONIC
         move MOVE_THUNDER_WAVE
-        move MOVE_MAGNET_BOMB
+        move MOVE_FLASH_CANNON
         ballseal 0
 
         // mon 3
         ivs 200
         abilityslot 0
-        level 48
+        level 65
         pokemon SPECIES_GENGAR
         move MOVE_MEAN_LOOK
         move MOVE_CURSE
@@ -10126,7 +10126,7 @@ trainerdata 287, "Silver"
         // mon 4
         ivs 200
         abilityslot 0
-        level 48
+        level 65
         pokemon SPECIES_ALAKAZAM
         move MOVE_DISABLE
         move MOVE_RECOVER
@@ -10137,7 +10137,7 @@ trainerdata 287, "Silver"
         // mon 5
         ivs 200
         abilityslot 0
-        level 50
+        level 67
         pokemon SPECIES_FERALIGATR
         move MOVE_WATERFALL
         move MOVE_ICE_FANG
