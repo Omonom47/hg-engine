@@ -1646,14 +1646,14 @@ trainerdata 48, "Rob"
         // mon 0
         ivs 0
         abilityslot 0
-        level 40
+        level 55
         pokemon SPECIES_BEEDRILL
         ballseal 0
 
         // mon 1
         ivs 0
         abilityslot 0
-        level 39
+        level 55
         pokemon SPECIES_BUTTERFREE
         ballseal 0
     endparty
@@ -4561,14 +4561,14 @@ trainerdata 140, "Doug"
         // mon 0
         ivs 0
         abilityslot 0
-        level 39
+        level 55
         pokemon SPECIES_BUTTERFREE
         ballseal 0
 
         // mon 1
         ivs 0
         abilityslot 0
-        level 37
+        level 55
         pokemon SPECIES_ARIADOS
         ballseal 0
     endparty
@@ -7973,21 +7973,21 @@ trainerdata 248, "Ed"
         // mon 0
         ivs 0
         abilityslot 0
-        level 43
-        pokemon SPECIES_BURMY
+        level 53
+        pokemon SPECIES_WORMADAM
         ballseal 0
 
         // mon 1
         ivs 0
         abilityslot 0
-        level 43
+        level 53
         pokemon SPECIES_BUTTERFREE
         ballseal 0
 
         // mon 2
         ivs 0
         abilityslot 0
-        level 43
+        level 53
         pokemon SPECIES_BEEDRILL
         ballseal 0
     endparty
@@ -21063,14 +21063,14 @@ trainerdata 622, "Doug"
         // mon 0
         ivs 0
         abilityslot 0
-        level 40
+        level 58
         pokemon SPECIES_BUTTERFREE
         ballseal 0
 
         // mon 1
         ivs 0
         abilityslot 0
-        level 40
+        level 58
         pokemon SPECIES_ARIADOS
         ballseal 0
     endparty
@@ -21091,14 +21091,14 @@ trainerdata 623, "Doug"
         // mon 0
         ivs 0
         abilityslot 0
-        level 47
+        level 60
         pokemon SPECIES_BUTTERFREE
         ballseal 0
 
         // mon 1
         ivs 0
         abilityslot 0
-        level 46
+        level 60
         pokemon SPECIES_ARIADOS
         ballseal 0
     endparty
@@ -21119,14 +21119,14 @@ trainerdata 624, "Doug"
         // mon 0
         ivs 0
         abilityslot 0
-        level 52
+        level 62
         pokemon SPECIES_BUTTERFREE
         ballseal 0
 
         // mon 1
         ivs 0
         abilityslot 0
-        level 50
+        level 62
         pokemon SPECIES_ARIADOS
         ballseal 0
     endparty
@@ -21147,14 +21147,14 @@ trainerdata 625, "Rob"
         // mon 0
         ivs 0
         abilityslot 0
-        level 45
+        level 58
         pokemon SPECIES_BEEDRILL
         ballseal 0
 
         // mon 1
         ivs 0
         abilityslot 0
-        level 42
+        level 58
         pokemon SPECIES_BUTTERFREE
         ballseal 0
     endparty
@@ -21175,14 +21175,14 @@ trainerdata 626, "Rob"
         // mon 0
         ivs 0
         abilityslot 0
-        level 52
+        level 60
         pokemon SPECIES_BEEDRILL
         ballseal 0
 
         // mon 1
         ivs 0
         abilityslot 0
-        level 48
+        level 60
         pokemon SPECIES_BUTTERFREE
         ballseal 0
     endparty
@@ -21203,14 +21203,14 @@ trainerdata 627, "Rob"
         // mon 0
         ivs 0
         abilityslot 0
-        level 56
+        level 62
         pokemon SPECIES_BEEDRILL
         ballseal 0
 
         // mon 1
         ivs 0
         abilityslot 0
-        level 56
+        level 62
         pokemon SPECIES_BUTTERFREE
         ballseal 0
     endparty
