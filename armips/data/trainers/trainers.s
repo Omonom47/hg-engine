@@ -12089,42 +12089,42 @@ trainerdata 349, "Joshua"
         // mon 0
         ivs 0
         abilityslot 0
-        level 32
+        level 48
         pokemon SPECIES_PIKACHU
         ballseal 0
 
         // mon 1
         ivs 0
         abilityslot 0
-        level 32
+        level 48
         pokemon SPECIES_PIKACHU
         ballseal 0
 
         // mon 2
         ivs 0
         abilityslot 0
-        level 32
+        level 48
         pokemon SPECIES_PIKACHU
         ballseal 0
 
         // mon 3
         ivs 0
         abilityslot 0
-        level 32
+        level 48
         pokemon SPECIES_PIKACHU
         ballseal 0
 
         // mon 4
         ivs 0
         abilityslot 0
-        level 32
+        level 48
         pokemon SPECIES_PIKACHU
         ballseal 0
 
         // mon 5
         ivs 0
         abilityslot 0
-        level 32
+        level 48
         pokemon SPECIES_PIKACHU
         ballseal 0
     endparty
@@ -12419,21 +12419,21 @@ trainerdata 358, "Kenny"
         // mon 0
         ivs 0
         abilityslot 0
-        level 27
+        level 52
         pokemon SPECIES_SANDSLASH
         ballseal 0
 
         // mon 1
         ivs 0
         abilityslot 0
-        level 29
+        level 50
         pokemon SPECIES_GRAVELER
         ballseal 0
 
         // mon 2
         ivs 0
         abilityslot 0
-        level 33
+        level 52
         pokemon SPECIES_GOLEM
         ballseal 0
     endparty
@@ -14419,7 +14419,7 @@ trainerdata 420, "Perry"
         // mon 0
         ivs 50
         abilityslot 32
-        level 42
+        level 56
         pokemon SPECIES_FARFETCHD
         ballseal 0
     endparty
@@ -14440,14 +14440,14 @@ trainerdata 421, "Bret"
         // mon 0
         ivs 50
         abilityslot 0
-        level 41
-        pokemon SPECIES_TAILLOW
+        level 54
+        pokemon SPECIES_SWELLOW
         ballseal 0
 
         // mon 1
         ivs 50
         abilityslot 0
-        level 41
+        level 54
         pokemon SPECIES_FEAROW
         ballseal 0
     endparty
@@ -16909,14 +16909,14 @@ trainerdata 492, "Alex"
         // mon 0
         ivs 0
         abilityslot 32
-        level 29
+        level 35
         pokemon SPECIES_NIDOKING
         ballseal 0
 
         // mon 1
         ivs 0
         abilityslot 32
-        level 29
+        level 35
         pokemon SPECIES_SLOWKING
         ballseal 0
 
@@ -16924,7 +16924,7 @@ trainerdata 492, "Alex"
         ivs 0
         abilityslot 0
         level 65
-        pokemon SPECIES_MAGIKARP
+        pokemon SPECIES_GYARADOS
         ballseal 0
     endparty
 
@@ -19257,14 +19257,14 @@ trainerdata 559, "Tim & Sue"
         // mon 0
         ivs 0
         abilityslot 0
-        level 41
+        level 56
         pokemon SPECIES_KADABRA
         ballseal 0
 
         // mon 1
         ivs 0
         abilityslot 0
-        level 46
+        level 56
         pokemon SPECIES_PSYDUCK
         ballseal 0
     endparty
@@ -19285,8 +19285,8 @@ trainerdata 560, "Clark"
         // mon 0
         ivs 0
         abilityslot 0
-        level 40
-        pokemon SPECIES_BUIZEL
+        level 56
+        pokemon SPECIES_FLOATZEL
         ballseal 0
     endparty
 
@@ -19306,7 +19306,7 @@ trainerdata 561, "Tanner"
         // mon 0
         ivs 0
         abilityslot 0
-        level 38
+        level 56
         pokemon SPECIES_SUDOWOODO
         ballseal 0
     endparty
@@ -19327,8 +19327,8 @@ trainerdata 562, "Piper"
         // mon 0
         ivs 0
         abilityslot 0
-        level 40
-        pokemon SPECIES_SPOINK
+        level 56
+        pokemon SPECIES_GRUMPIG
         ballseal 0
     endparty
 
@@ -19348,8 +19348,8 @@ trainerdata 563, "Ginger"
         // mon 0
         ivs 0
         abilityslot 0
-        level 41
-        pokemon SPECIES_WHISMUR
+        level 56
+        pokemon SPECIES_EXPLOUD
         ballseal 0
     endparty
 
@@ -22023,14 +22023,14 @@ trainerdata 652, "Tim & Sue"
         // mon 0
         ivs 0
         abilityslot 0
-        level 45
+        level 58
         pokemon SPECIES_KADABRA
         ballseal 0
 
         // mon 1
         ivs 0
         abilityslot 0
-        level 50
+        level 58
         pokemon SPECIES_GOLDUCK
         ballseal 0
     endparty
@@ -22051,7 +22051,7 @@ trainerdata 653, "Tim & Sue"
         // mon 0
         ivs 0
         abilityslot 0
-        level 48
+        level 60
         pokemon SPECIES_KADABRA
         move MOVE_RECOVER
         move MOVE_PSYCHIC
@@ -22062,7 +22062,7 @@ trainerdata 653, "Tim & Sue"
         // mon 1
         ivs 0
         abilityslot 0
-        level 52
+        level 60
         pokemon SPECIES_GOLDUCK
         move MOVE_WATER_PULSE
         move MOVE_AMNESIA
@@ -22087,7 +22087,7 @@ trainerdata 654, "Tim & Sue"
         // mon 0
         ivs 0
         abilityslot 0
-        level 54
+        level 63
         pokemon SPECIES_ALAKAZAM
         move MOVE_PSYCHIC
         move MOVE_CALM_MIND
@@ -22098,7 +22098,7 @@ trainerdata 654, "Tim & Sue"
         // mon 1
         ivs 0
         abilityslot 0
-        level 56
+        level 63
         pokemon SPECIES_GOLDUCK
         move MOVE_HYDRO_PUMP
         move MOVE_AMNESIA
@@ -22123,28 +22123,28 @@ trainerdata 655, "Kenny"
         // mon 0
         ivs 0
         abilityslot 0
-        level 16
+        level 39
         pokemon SPECIES_ONIX
         ballseal 0
 
         // mon 1
         ivs 0
         abilityslot 0
-        level 33
+        level 55
         pokemon SPECIES_GRAVELER
         ballseal 0
 
         // mon 2
         ivs 0
         abilityslot 0
-        level 37
+        level 55
         pokemon SPECIES_GOLEM
         ballseal 0
 
         // mon 3
         ivs 0
         abilityslot 0
-        level 32
+        level 55
         pokemon SPECIES_SANDSLASH
         ballseal 0
     endparty
@@ -22165,28 +22165,28 @@ trainerdata 656, "Kenny"
         // mon 0
         ivs 0
         abilityslot 0
-        level 42
+        level 58
         pokemon SPECIES_SANDSLASH
         ballseal 0
 
         // mon 1
         ivs 0
         abilityslot 0
-        level 37
+        level 56
         pokemon SPECIES_GRAVELER
         ballseal 0
 
         // mon 2
         ivs 0
         abilityslot 0
-        level 44
+        level 58
         pokemon SPECIES_GOLEM
         ballseal 0
 
         // mon 3
         ivs 0
         abilityslot 0
-        level 46
+        level 58
         pokemon SPECIES_ONIX
         ballseal 0
     endparty
@@ -22207,28 +22207,28 @@ trainerdata 657, "Kenny"
         // mon 0
         ivs 0
         abilityslot 0
-        level 46
+        level 60
         pokemon SPECIES_SANDSLASH
         ballseal 0
 
         // mon 1
         ivs 0
         abilityslot 0
-        level 44
+        level 59
         pokemon SPECIES_GRAVELER
         ballseal 0
 
         // mon 2
         ivs 0
         abilityslot 0
-        level 49
+        level 60
         pokemon SPECIES_GOLEM
         ballseal 0
 
         // mon 3
         ivs 0
         abilityslot 0
-        level 54
+        level 60
         pokemon SPECIES_STEELIX
         ballseal 0
     endparty
@@ -22249,14 +22249,14 @@ trainerdata 658, "Tanner"
         // mon 0
         ivs 0
         abilityslot 0
-        level 41
+        level 57
         pokemon SPECIES_SUDOWOODO
         ballseal 0
 
         // mon 1
         ivs 0
         abilityslot 0
-        level 41
+        level 57
         pokemon SPECIES_CHINCHOU
         ballseal 0
     endparty
@@ -22277,21 +22277,21 @@ trainerdata 659, "Tanner"
         // mon 0
         ivs 0
         abilityslot 0
-        level 48
+        level 59
         pokemon SPECIES_SUDOWOODO
         ballseal 0
 
         // mon 1
         ivs 0
         abilityslot 0
-        level 47
+        level 59
         pokemon SPECIES_LANTURN
         ballseal 0
 
         // mon 2
         ivs 0
         abilityslot 0
-        level 44
+        level 55
         pokemon SPECIES_SKIPLOOM
         ballseal 0
     endparty
@@ -22312,21 +22312,21 @@ trainerdata 660, "Tanner"
         // mon 0
         ivs 0
         abilityslot 0
-        level 52
+        level 61
         pokemon SPECIES_SUDOWOODO
         ballseal 0
 
         // mon 1
         ivs 0
         abilityslot 0
-        level 52
+        level 61
         pokemon SPECIES_JUMPLUFF
         ballseal 0
 
         // mon 2
         ivs 0
         abilityslot 0
-        level 52
+        level 61
         pokemon SPECIES_LANTURN
         ballseal 0
     endparty
