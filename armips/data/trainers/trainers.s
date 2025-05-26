@@ -10597,14 +10597,14 @@ trainerdata 300, "Roy"
         // mon 0
         ivs 50
         abilityslot 0
-        level 38
+        level 55
         pokemon SPECIES_FEAROW
         ballseal 0
 
         // mon 1
         ivs 50
         abilityslot 0
-        level 44
+        level 55
         pokemon SPECIES_FEAROW
         ballseal 0
     endparty
@@ -12145,22 +12145,22 @@ trainerdata 350, "Carter"
         // mon 0
         ivs 0
         abilityslot 0
-        level 38
-        pokemon SPECIES_BULBASAUR
+        level 53
+        pokemon SPECIES_VENUSAUR
         ballseal 0
 
         // mon 1
         ivs 0
         abilityslot 0
-        level 38
-        pokemon SPECIES_CHARMANDER
+        level 53
+        pokemon SPECIES_CHARIZARD
         ballseal 0
 
         // mon 2
         ivs 0
         abilityslot 0
-        level 38
-        pokemon SPECIES_SQUIRTLE
+        level 53
+        pokemon SPECIES_BLASTOISE
         ballseal 0
     endparty
 
@@ -12180,8 +12180,8 @@ trainerdata 351, "Trevor"
         // mon 0
         ivs 0
         abilityslot 32
-        level 42
-        pokemon SPECIES_PSYDUCK
+        level 57
+        pokemon SPECIES_GOLDUCK
         ballseal 0
     endparty
 
@@ -19369,8 +19369,8 @@ trainerdata 564, "Clarice"
         // mon 0
         ivs 0
         abilityslot 32
-        level 41
-        pokemon SPECIES_ZIGZAGOON
+        level 54
+        pokemon SPECIES_LINOONE
         item ITEM_SITRUS_BERRY
         move MOVE_BELLY_DRUM
         move MOVE_FLAIL
@@ -19381,8 +19381,8 @@ trainerdata 564, "Clarice"
         // mon 1
         ivs 0
         abilityslot 32
-        level 43
-        pokemon SPECIES_ROSELIA
+        level 56
+        pokemon SPECIES_ROSERADE
         item ITEM_NONE
         move MOVE_INGRAIN
         move MOVE_SYNTHESIS
@@ -19407,7 +19407,7 @@ trainerdata 565, "Josh"
         // mon 0
         ivs 50
         abilityslot 0
-        level 37
+        level 57
         pokemon SPECIES_FEAROW
         ballseal 0
     endparty
@@ -19428,8 +19428,8 @@ trainerdata 566, "Connor"
         // mon 0
         ivs 0
         abilityslot 32
-        level 42
-        pokemon SPECIES_ZIGZAGOON
+        level 57
+        pokemon SPECIES_LINOONE
         item ITEM_CHESTO_BERRY
         move MOVE_BELLY_DRUM
         move MOVE_REST
@@ -19454,14 +19454,14 @@ trainerdata 567, "Torin"
         // mon 0
         ivs 0
         abilityslot 0
-        level 41
+        level 55
         pokemon SPECIES_SANDSLASH
         ballseal 0
 
         // mon 1
         ivs 0
         abilityslot 0
-        level 39
+        level 55
         pokemon SPECIES_GOLBAT
         ballseal 0
     endparty
@@ -19482,8 +19482,8 @@ trainerdata 568, "Travis"
         // mon 0
         ivs 0
         abilityslot 32
-        level 42
-        pokemon SPECIES_BUDEW
+        level 57
+        pokemon SPECIES_ROSERADE
         move MOVE_STUN_SPORE
         move MOVE_GIGA_DRAIN
         move MOVE_SLUDGE_BOMB
@@ -21834,14 +21834,14 @@ trainerdata 646, "Josh"
         // mon 0
         ivs 50
         abilityslot 0
-        level 47
+        level 58
         pokemon SPECIES_FEAROW
         ballseal 0
 
         // mon 1
         ivs 50
         abilityslot 0
-        level 44
+        level 54
         pokemon SPECIES_SKARMORY
         ballseal 0
     endparty
@@ -21862,14 +21862,14 @@ trainerdata 647, "Josh"
         // mon 0
         ivs 50
         abilityslot 0
-        level 48
+        level 58
         pokemon SPECIES_SKARMORY
         ballseal 0
 
         // mon 1
         ivs 50
         abilityslot 0
-        level 51
+        level 61
         pokemon SPECIES_FEAROW
         ballseal 0
     endparty
@@ -21890,14 +21890,14 @@ trainerdata 648, "Josh"
         // mon 0
         ivs 50
         abilityslot 0
-        level 55
+        level 65
         pokemon SPECIES_SKARMORY
         ballseal 0
 
         // mon 1
         ivs 50
         abilityslot 0
-        level 55
+        level 65
         pokemon SPECIES_FEAROW
         ballseal 0
     endparty
@@ -21918,21 +21918,21 @@ trainerdata 649, "Torin"
         // mon 0
         ivs 0
         abilityslot 0
-        level 46
+        level 56
         pokemon SPECIES_SANDSLASH
         ballseal 0
 
         // mon 1
         ivs 0
         abilityslot 0
-        level 45
-        pokemon SPECIES_GOLBAT
+        level 56
+        pokemon SPECIES_CROBAT
         ballseal 0
 
         // mon 2
         ivs 0
         abilityslot 0
-        level 41
+        level 51
         pokemon SPECIES_VULPIX
         ballseal 0
     endparty
@@ -21953,22 +21953,22 @@ trainerdata 650, "Torin"
         // mon 0
         ivs 0
         abilityslot 0
-        level 48
+        level 57
         pokemon SPECIES_SANDSLASH
         ballseal 0
 
         // mon 1
         ivs 0
         abilityslot 0
-        level 51
-        pokemon SPECIES_GOLBAT
+        level 58
+        pokemon SPECIES_CROBAT
         ballseal 0
 
         // mon 2
         ivs 0
         abilityslot 0
-        level 48
-        pokemon SPECIES_VULPIX
+        level 47
+        pokemon SPECIES_NINETALES
         ballseal 0
     endparty
 
@@ -21988,22 +21988,22 @@ trainerdata 651, "Torin"
         // mon 0
         ivs 0
         abilityslot 0
-        level 52
+        level 62
         pokemon SPECIES_SANDSLASH
         ballseal 0
 
         // mon 1
         ivs 0
         abilityslot 0
-        level 53
-        pokemon SPECIES_GOLBAT
+        level 63
+        pokemon SPECIES_CROBAT
         ballseal 0
 
         // mon 2
         ivs 0
         abilityslot 0
-        level 52
-        pokemon SPECIES_VULPIX
+        level 62
+        pokemon SPECIES_NINETALES
         ballseal 0
     endparty
 
