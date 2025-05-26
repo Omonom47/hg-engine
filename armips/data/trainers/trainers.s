@@ -8138,7 +8138,7 @@ trainerdata 253, "Brock"
     battletype SINGLE_BATTLE
     endentry
 
-    party 720
+    party 253
         // mon 0
         ivs 200
         abilityslot 32
@@ -8224,7 +8224,7 @@ trainerdata 254, "Misty"
     battletype SINGLE_BATTLE
     endentry
 
-    party 721
+    party 254
         // mon 0
         ivs 200
         abilityslot 32
@@ -8310,7 +8310,7 @@ trainerdata 255, "Lt. Surge"
     battletype SINGLE_BATTLE
     endentry
 
-    party 722
+    party 255
         // mon 0
         ivs 200
         abilityslot 0
@@ -8396,7 +8396,7 @@ trainerdata 256, "Erika"
     battletype SINGLE_BATTLE
     endentry
 
-    party 723
+    party 256
         // mon 0
         ivs 200
         abilityslot 0
@@ -8482,7 +8482,7 @@ trainerdata 257, "Janine"
     battletype SINGLE_BATTLE
     endentry
 
-    party 724
+    party 257
         // mon 0
         ivs 200
         abilityslot 0
@@ -8568,7 +8568,7 @@ trainerdata 258, "Sabrina"
     battletype SINGLE_BATTLE
     endentry
 
-    party 725
+    party 258
         // mon 0
         ivs 200
         abilityslot 0
@@ -8654,7 +8654,7 @@ trainerdata 259, "Blaine"
     battletype SINGLE_BATTLE
     endentry
 
-    party 726
+    party 259
         // mon 0
         ivs 200
         abilityslot 32
@@ -8826,7 +8826,7 @@ trainerdata 261, "Blue"
     battletype SINGLE_BATTLE
     endentry
 
-    party 727
+    party 261
         // mon 0
         ivs 100
         abilityslot 0
