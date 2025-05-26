@@ -11105,7 +11105,7 @@ trainerdata 316, "Herman"
         // mon 0
         ivs 0
         abilityslot 0
-        level 39
+        level 50
         pokemon SPECIES_EXEGGCUTE
         move MOVE_PSYCHIC
         move MOVE_HYPNOSIS
@@ -11116,7 +11116,7 @@ trainerdata 316, "Herman"
         // mon 1
         ivs 0
         abilityslot 0
-        level 39
+        level 50
         pokemon SPECIES_EXEGGCUTE
         move MOVE_PSYCHIC
         move MOVE_HYPNOSIS
@@ -11127,7 +11127,7 @@ trainerdata 316, "Herman"
         // mon 2
         ivs 0
         abilityslot 0
-        level 39
+        level 51
         pokemon SPECIES_EXEGGUTOR
         move MOVE_PSYCHIC
         move MOVE_HYPNOSIS
@@ -11152,7 +11152,7 @@ trainerdata 317, "Fidel"
         // mon 0
         ivs 0
         abilityslot 32
-        level 43
+        level 55
         pokemon SPECIES_XATU
         move MOVE_FUTURE_SIGHT
         move MOVE_PSYCHO_SHIFT
@@ -13132,8 +13132,8 @@ trainerdata 380, "Owen"
         // mon 0
         ivs 0
         abilityslot 0
-        level 44
-        pokemon SPECIES_GROWLITHE
+        level 55
+        pokemon SPECIES_ARCANINE
         ballseal 0
     endparty
 
@@ -13153,14 +13153,14 @@ trainerdata 381, "Jason"
         // mon 0
         ivs 0
         abilityslot 0
-        level 42
+        level 53
         pokemon SPECIES_SANDSLASH
         ballseal 0
 
         // mon 1
         ivs 0
         abilityslot 0
-        level 42
+        level 53
         pokemon SPECIES_CROBAT
         ballseal 0
     endparty
