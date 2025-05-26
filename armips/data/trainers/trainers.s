@@ -1350,8 +1350,8 @@ trainerdata 38, "Colette"
         // mon 0
         ivs 0
         abilityslot 32
-        level 45
-        pokemon SPECIES_CLEFAIRY
+        level 57
+        pokemon SPECIES_CLEFABLE
         ballseal 0
     endparty
 
@@ -4409,21 +4409,21 @@ trainerdata 135, "Johnny"
         // mon 0
         ivs 0
         abilityslot 0
-        level 39
-        pokemon SPECIES_BELLSPROUT
+        level 50
+        pokemon SPECIES_WEEPINBELL
         ballseal 0
 
         // mon 1
         ivs 0
         abilityslot 0
-        level 40
+        level 53
         pokemon SPECIES_WEEPINBELL
         ballseal 0
 
         // mon 2
         ivs 0
         abilityslot 0
-        level 42
+        level 54
         pokemon SPECIES_VICTREEBEL
         ballseal 0
     endparty
@@ -5680,28 +5680,28 @@ trainerdata 179, "Kipp"
         // mon 0
         ivs 0
         abilityslot 32
-        level 36
-        pokemon SPECIES_VOLTORB
+        level 52
+        pokemon SPECIES_ELECTRODE
         ballseal 0
 
         // mon 1
         ivs 0
         abilityslot 0
-        level 36
-        pokemon SPECIES_MAGNEMITE
+        level 52
+        pokemon SPECIES_MAGNETON
         ballseal 0
 
         // mon 2
         ivs 0
         abilityslot 0
-        level 40
-        pokemon SPECIES_VOLTORB
+        level 52
+        pokemon SPECIES_ELECTRODE
         ballseal 0
 
         // mon 3
         ivs 0
         abilityslot 32
-        level 40
+        level 52
         pokemon SPECIES_MAGNETON
         ballseal 0
     endparty
@@ -11501,7 +11501,7 @@ trainerdata 328, "Tommy"
         // mon 0
         ivs 0
         abilityslot 0
-        level 41
+        level 55
         pokemon SPECIES_XATU
         move MOVE_CONFUSE_RAY
         move MOVE_NIGHT_SHADE
@@ -11512,7 +11512,7 @@ trainerdata 328, "Tommy"
         // mon 1
         ivs 0
         abilityslot 32
-        level 43
+        level 55
         pokemon SPECIES_ALAKAZAM
         move MOVE_PSYCHIC
         move MOVE_CALM_MIND
@@ -11589,21 +11589,21 @@ trainerdata 331, "Billy"
         // mon 0
         ivs 0
         abilityslot 32
-        level 39
+        level 53
         pokemon SPECIES_PARASECT
         ballseal 0
 
         // mon 1
         ivs 0
         abilityslot 0
-        level 37
+        level 51
         pokemon SPECIES_POLIWHIRL
         ballseal 0
 
         // mon 2
         ivs 0
-        abilityslot 0
-        level 35
+        abilityslot 2
+        level 50
         pokemon SPECIES_DITTO
         ballseal 0
     endparty
@@ -13181,15 +13181,15 @@ trainerdata 382, "Hillary"
         // mon 0
         ivs 0
         abilityslot 32
-        level 41
-        pokemon SPECIES_SUNKERN
+        level 55
+        pokemon SPECIES_SUNFLORA
         ballseal 0
 
         // mon 1
         ivs 0
         abilityslot 0
-        level 31
-        pokemon SPECIES_AIPOM
+        level 55
+        pokemon SPECIES_AMBIPOM
         ballseal 0
     endparty
 
@@ -19507,7 +19507,7 @@ trainerdata 569, "Kay & Tia"
         // mon 0
         ivs 0
         abilityslot 0
-        level 41
+        level 55
         pokemon SPECIES_QUAGSIRE
         move MOVE_RAIN_DANCE
         move MOVE_SURF
@@ -19518,7 +19518,7 @@ trainerdata 569, "Kay & Tia"
         // mon 1
         ivs 0
         abilityslot 0
-        level 41
+        level 55
         pokemon SPECIES_QUAGSIRE
         move MOVE_AMNESIA
         move MOVE_SURF
@@ -19543,14 +19543,14 @@ trainerdata 570, "Boone"
         // mon 0
         ivs 0
         abilityslot 0
-        level 43
+        level 55
         pokemon SPECIES_SPINDA
         ballseal 0
 
         // mon 1
         ivs 0
         abilityslot 32
-        level 41
+        level 55
         pokemon SPECIES_VOLBEAT
         ballseal 0
     endparty
@@ -19571,14 +19571,14 @@ trainerdata 571, "Eleanor"
         // mon 0
         ivs 0
         abilityslot 0
-        level 43
+        level 55
         pokemon SPECIES_SPINDA
         ballseal 0
 
         // mon 1
         ivs 0
         abilityslot 0
-        level 41
+        level 55
         pokemon SPECIES_ILLUMISE
         ballseal 0
     endparty
@@ -21514,14 +21514,14 @@ trainerdata 637, "Hillary"
         // mon 0
         ivs 0
         abilityslot 0
-        level 43
+        level 57
         pokemon SPECIES_AMBIPOM
         ballseal 0
 
         // mon 1
         ivs 0
         abilityslot 0
-        level 43
+        level 57
         pokemon SPECIES_SUNFLORA
         ballseal 0
     endparty
@@ -21542,14 +21542,14 @@ trainerdata 638, "Hillary"
         // mon 0
         ivs 0
         abilityslot 0
-        level 49
+        level 59
         pokemon SPECIES_AMBIPOM
         ballseal 0
 
         // mon 1
         ivs 0
         abilityslot 0
-        level 49
+        level 59
         pokemon SPECIES_SUNFLORA
         ballseal 0
     endparty
@@ -21570,14 +21570,14 @@ trainerdata 639, "Hillary"
         // mon 0
         ivs 0
         abilityslot 0
-        level 55
+        level 61
         pokemon SPECIES_AMBIPOM
         ballseal 0
 
         // mon 1
         ivs 0
         abilityslot 0
-        level 55
+        level 61
         pokemon SPECIES_SUNFLORA
         ballseal 0
     endparty
@@ -21598,21 +21598,21 @@ trainerdata 640, "Billy"
         // mon 0
         ivs 0
         abilityslot 0
-        level 42
+        level 55
         pokemon SPECIES_PARASECT
         ballseal 0
 
         // mon 1
         ivs 0
         abilityslot 0
-        level 43
+        level 55
         pokemon SPECIES_POLIWHIRL
         ballseal 0
 
         // mon 2
         ivs 0
         abilityslot 0
-        level 40
+        level 53
         pokemon SPECIES_DITTO
         ballseal 0
     endparty
@@ -21633,21 +21633,21 @@ trainerdata 641, "Billy"
         // mon 0
         ivs 0
         abilityslot 0
-        level 46
+        level 58
         pokemon SPECIES_PARASECT
         ballseal 0
 
         // mon 1
         ivs 0
         abilityslot 0
-        level 47
+        level 58
         pokemon SPECIES_POLIWHIRL
         ballseal 0
 
         // mon 2
         ivs 0
         abilityslot 0
-        level 46
+        level 58
         pokemon SPECIES_DITTO
         ballseal 0
     endparty
@@ -21668,7 +21668,7 @@ trainerdata 642, "Billy"
         // mon 0
         ivs 0
         abilityslot 0
-        level 50
+        level 58
         pokemon SPECIES_MR_MIME
         move MOVE_TRICK_ROOM
         move MOVE_PSYCHIC
@@ -21679,7 +21679,7 @@ trainerdata 642, "Billy"
         // mon 1
         ivs 0
         abilityslot 0
-        level 55
+        level 62
         pokemon SPECIES_PARASECT
         move MOVE_SPORE
         move MOVE_GIGA_DRAIN
@@ -21690,7 +21690,7 @@ trainerdata 642, "Billy"
         // mon 2
         ivs 0
         abilityslot 0
-        level 53
+        level 62
         pokemon SPECIES_POLIWRATH
         move MOVE_WAKE_UP_SLAP
         move MOVE_BELLY_DRUM
@@ -21701,7 +21701,7 @@ trainerdata 642, "Billy"
         // mon 3
         ivs 0
         abilityslot 0
-        level 51
+        level 62
         pokemon SPECIES_DITTO
         move MOVE_TRANSFORM
         move MOVE_NONE
@@ -21726,7 +21726,7 @@ trainerdata 643, "Kay & Tia"
         // mon 0
         ivs 0
         abilityslot 0
-        level 48
+        level 58
         pokemon SPECIES_QUAGSIRE
         move MOVE_RAIN_DANCE
         move MOVE_SURF
@@ -21737,7 +21737,7 @@ trainerdata 643, "Kay & Tia"
         // mon 1
         ivs 0
         abilityslot 0
-        level 48
+        level 58
         pokemon SPECIES_QUAGSIRE
         move MOVE_AMNESIA
         move MOVE_SURF
@@ -21762,7 +21762,7 @@ trainerdata 644, "Kay & Tia"
         // mon 0
         ivs 0
         abilityslot 0
-        level 53
+        level 60
         pokemon SPECIES_QUAGSIRE
         move MOVE_RAIN_DANCE
         move MOVE_SURF
@@ -21773,7 +21773,7 @@ trainerdata 644, "Kay & Tia"
         // mon 1
         ivs 0
         abilityslot 0
-        level 53
+        level 60
         pokemon SPECIES_QUAGSIRE
         move MOVE_AMNESIA
         move MOVE_SURF
@@ -21798,7 +21798,7 @@ trainerdata 645, "Kay & Tia"
         // mon 0
         ivs 0
         abilityslot 0
-        level 55
+        level 63
         pokemon SPECIES_QUAGSIRE
         move MOVE_AMNESIA
         move MOVE_SURF
@@ -21809,7 +21809,7 @@ trainerdata 645, "Kay & Tia"
         // mon 1
         ivs 0
         abilityslot 0
-        level 55
+        level 63
         pokemon SPECIES_QUAGSIRE
         move MOVE_RAIN_DANCE
         move MOVE_SURF
