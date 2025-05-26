@@ -1905,8 +1905,8 @@ trainerdata 58, "Arnold"
         // mon 0
         ivs 0
         abilityslot 0
-        level 44
-        pokemon SPECIES_SHELLDER
+        level 58
+        pokemon SPECIES_CLOYSTER
         ballseal 0
     endparty
 
@@ -10480,14 +10480,14 @@ trainerdata 296, "Nikki"
         // mon 0
         ivs 0
         abilityslot 0
-        level 37
-        pokemon SPECIES_SEEL
+        level 56
+        pokemon SPECIES_DEWGONG
         ballseal 0
 
         // mon 1
         ivs 0
         abilityslot 0
-        level 42
+        level 56
         pokemon SPECIES_DEWGONG
         ballseal 0
     endparty
@@ -12927,7 +12927,7 @@ trainerdata 374, "Tyson"
         // mon 0
         ivs 0
         abilityslot 32
-        level 42
+        level 56
         pokemon SPECIES_QUAGSIRE
         move MOVE_EARTHQUAKE
         move MOVE_YAWN
@@ -12938,7 +12938,7 @@ trainerdata 374, "Tyson"
         // mon 1
         ivs 0
         abilityslot 32
-        level 42
+        level 56
         pokemon SPECIES_OCTILLERY
         move MOVE_SIGNAL_BEAM
         move MOVE_WRING_OUT
@@ -20025,28 +20025,28 @@ trainerdata 589, "Murphy"
         // mon 0
         ivs 0
         abilityslot 0
-        level 32
+        level 52
         pokemon SPECIES_CORSOLA
         ballseal 0
 
         // mon 1
         ivs 0
         abilityslot 0
-        level 34
+        level 52
         pokemon SPECIES_CORSOLA
         ballseal 0
 
         // mon 2
         ivs 0
         abilityslot 0
-        level 36
+        level 52
         pokemon SPECIES_CORSOLA
         ballseal 0
 
         // mon 3
         ivs 0
         abilityslot 0
-        level 38
+        level 52
         pokemon SPECIES_CORSOLA
         ballseal 0
     endparty
@@ -20067,8 +20067,8 @@ trainerdata 590, "Liam"
         // mon 0
         ivs 0
         abilityslot 0
-        level 42
-        pokemon SPECIES_SEADRA
+        level 58
+        pokemon SPECIES_KINGDRA
         ballseal 0
     endparty
 
@@ -20088,7 +20088,7 @@ trainerdata 591, "Gideon"
         // mon 0
         ivs 0
         abilityslot 0
-        level 44
+        level 58
         pokemon SPECIES_LANTURN
         move MOVE_DISCHARGE
         move MOVE_SIGNAL_BEAM
@@ -20099,7 +20099,7 @@ trainerdata 591, "Gideon"
         // mon 1
         ivs 0
         abilityslot 0
-        level 40
+        level 52
         pokemon SPECIES_MANTINE
         move MOVE_WATER_PULSE
         move MOVE_WING_ATTACK
@@ -20124,7 +20124,7 @@ trainerdata 592, "Chelan"
         // mon 0
         ivs 0
         abilityslot 32
-        level 40
+        level 58
         pokemon SPECIES_AZUMARILL
         move MOVE_WATERFALL
         move MOVE_ROLLOUT
@@ -20149,7 +20149,7 @@ trainerdata 593, "Kendra"
         // mon 0
         ivs 0
         abilityslot 0
-        level 43
+        level 58
         pokemon SPECIES_SLOWKING
         ballseal 0
     endparty
@@ -20170,14 +20170,14 @@ trainerdata 594, "Esteban"
         // mon 0
         ivs 0
         abilityslot 0
-        level 38
+        level 56
         pokemon SPECIES_GOLDUCK
         ballseal 0
 
         // mon 1
         ivs 0
         abilityslot 0
-        level 38
+        level 56
         pokemon SPECIES_POLIWHIRL
         ballseal 0
     endparty
@@ -20198,14 +20198,14 @@ trainerdata 595, "Duane"
         // mon 0
         ivs 0
         abilityslot 0
-        level 40
+        level 56
         pokemon SPECIES_SEAKING
         ballseal 0
 
         // mon 1
         ivs 0
         abilityslot 0
-        level 40
+        level 56
         pokemon SPECIES_KABUTOPS
         ballseal 0
     endparty
@@ -20226,22 +20226,22 @@ trainerdata 596, "Kinsley"
         // mon 0
         ivs 50
         abilityslot 0
-        level 36
+        level 54
         pokemon SPECIES_FARFETCHD
         ballseal 0
 
         // mon 1
         ivs 50
         abilityslot 0
-        level 36
+        level 55
         pokemon SPECIES_FEAROW
         ballseal 0
 
         // mon 2
         ivs 50
         abilityslot 0
-        level 37
-        pokemon SPECIES_PIDGEOTTO
+        level 55
+        pokemon SPECIES_PIDGEOT
         ballseal 0
     endparty
 
@@ -20261,28 +20261,28 @@ trainerdata 597, "Easton"
         // mon 0
         ivs 50
         abilityslot 0
-        level 35
-        pokemon SPECIES_DODUO
+        level 52
+        pokemon SPECIES_DODRIO
         ballseal 0
 
         // mon 1
         ivs 50
         abilityslot 0
-        level 35
-        pokemon SPECIES_DODUO
+        level 52
+        pokemon SPECIES_DODRIO
         ballseal 0
 
         // mon 2
         ivs 50
         abilityslot 0
-        level 35
+        level 52
         pokemon SPECIES_DODRIO
         ballseal 0
 
         // mon 3
         ivs 50
         abilityslot 0
-        level 36
+        level 52
         pokemon SPECIES_DODRIO
         ballseal 0
     endparty
