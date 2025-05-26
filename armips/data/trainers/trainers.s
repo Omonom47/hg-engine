@@ -480,21 +480,21 @@ trainerdata 15, "Otis"
         // mon 0
         ivs 0
         abilityslot 0
-        level 43
+        level 55
         pokemon SPECIES_MAGMAR
         ballseal 0
 
         // mon 1
         ivs 0
         abilityslot 0
-        level 40
+        level 53
         pokemon SPECIES_WEEZING
         ballseal 0
 
         // mon 2
         ivs 0
         abilityslot 0
-        level 47
+        level 57
         pokemon SPECIES_CAMERUPT
         ballseal 0
     endparty
@@ -11177,7 +11177,7 @@ trainerdata 318, "Burt"
         // mon 0
         ivs 0
         abilityslot 0
-        level 42
+        level 58
         pokemon SPECIES_WEEZING
         move MOVE_FLAMETHROWER
         move MOVE_EXPLOSION
@@ -11188,7 +11188,7 @@ trainerdata 318, "Burt"
         // mon 1
         ivs 0
         abilityslot 0
-        level 45
+        level 58
         pokemon SPECIES_MAGCARGO
         move MOVE_LAVA_PLUME
         move MOVE_AMNESIA
@@ -13069,14 +13069,14 @@ trainerdata 378, "Warren"
         // mon 0
         ivs 0
         abilityslot 0
-        level 38
+        level 57
         pokemon SPECIES_FEAROW
         ballseal 0
 
         // mon 1
         ivs 0
         abilityslot 0
-        level 42
+        level 57
         pokemon SPECIES_RATICATE
         ballseal 0
     endparty
@@ -13097,21 +13097,21 @@ trainerdata 379, "Jimmy"
         // mon 0
         ivs 0
         abilityslot 0
-        level 42
+        level 55
         pokemon SPECIES_RATICATE
         ballseal 0
 
         // mon 1
         ivs 0
         abilityslot 0
-        level 42
+        level 55
         pokemon SPECIES_ARBOK
         ballseal 0
 
         // mon 2
         ivs 0
         abilityslot 0
-        level 42
+        level 55
         pokemon SPECIES_PARASECT
         ballseal 0
     endparty
@@ -18894,22 +18894,22 @@ trainerdata 547, "Bruce"
         // mon 0
         ivs 0
         abilityslot 0
-        level 39
+        level 55
         pokemon SPECIES_GRAVELER
         ballseal 0
 
         // mon 1
         ivs 0
         abilityslot 0
-        level 44
+        level 55
         pokemon SPECIES_RHYDON
         ballseal 0
 
         // mon 2
         ivs 0
         abilityslot 0
-        level 45
-        pokemon SPECIES_CLEFAIRY
+        level 55
+        pokemon SPECIES_CLEFABLE
         ballseal 0
     endparty
 
@@ -18929,7 +18929,7 @@ trainerdata 548, "Manford"
         // mon 0
         ivs 30
         abilityslot 0
-        level 47
+        level 60
         pokemon SPECIES_POLIWRATH
         move MOVE_HYDRO_PUMP
         move MOVE_DYNAMIC_PUNCH
@@ -18954,8 +18954,8 @@ trainerdata 549, "Zac & Jen"
         // mon 0
         ivs 50
         abilityslot 0
-        level 47
-        pokemon SPECIES_ELECTABUZZ
+        level 61
+        pokemon SPECIES_ELECTIVIRE
         move MOVE_DISCHARGE
         move MOVE_QUICK_ATTACK
         move MOVE_THUNDERBOLT
@@ -18965,7 +18965,7 @@ trainerdata 549, "Zac & Jen"
         // mon 1
         ivs 50
         abilityslot 32
-        level 47
+        level 61
         pokemon SPECIES_DUGTRIO
         move MOVE_DIG
         move MOVE_MUD_BOMB
@@ -18990,21 +18990,21 @@ trainerdata 550, "Ander"
         // mon 0
         ivs 30
         abilityslot 0
-        level 43
+        level 55
         pokemon SPECIES_PRIMEAPE
         ballseal 0
 
         // mon 1
         ivs 30
         abilityslot 0
-        level 39
+        level 55
         pokemon SPECIES_GRAVELER
         ballseal 0
 
         // mon 2
         ivs 30
         abilityslot 0
-        level 44
+        level 55
         pokemon SPECIES_MACHOKE
         ballseal 0
     endparty
@@ -19025,14 +19025,14 @@ trainerdata 551, "Dwight"
         // mon 0
         ivs 0
         abilityslot 0
-        level 44
+        level 58
         pokemon SPECIES_MAGNETON
         ballseal 0
 
         // mon 1
         ivs 0
         abilityslot 0
-        level 44
+        level 58
         pokemon SPECIES_STEELIX
         ballseal 0
     endparty
@@ -19053,14 +19053,14 @@ trainerdata 552, "Regis"
         // mon 0
         ivs 0
         abilityslot 0
-        level 40
-        pokemon SPECIES_GOLBAT
+        level 57
+        pokemon SPECIES_CROBAT
         ballseal 0
 
         // mon 1
         ivs 0
         abilityslot 0
-        level 40
+        level 57
         pokemon SPECIES_ELECTRODE
         ballseal 0
     endparty
