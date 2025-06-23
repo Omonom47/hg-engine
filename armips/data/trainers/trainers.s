@@ -16998,7 +16998,7 @@ trainerdata 494, "Georgina"
         ballseal 0
     endparty
 
-trainerdata 495, "Boy"
+trainerdata 495, "Boy" //cherrygrove rival if Totodile chosen
     trainermontype TRAINER_DATA_TYPE_NOTHING
     trainerclass CLASS_PASSERBY
     nummons 1
@@ -17019,7 +17019,7 @@ trainerdata 495, "Boy"
         ballseal 0
     endparty
 
-trainerdata 496, "Boy"
+trainerdata 496, "Boy" //cherrygrove rival if Chikorita chosen
     trainermontype TRAINER_DATA_TYPE_NOTHING
     trainerclass CLASS_PASSERBY
     nummons 1
@@ -17040,7 +17040,7 @@ trainerdata 496, "Boy"
         ballseal 0
     endparty
 
-trainerdata 497, "Boy"
+trainerdata 497, "Boy" //cherrygrove rival if Cyndaquil chosen
     trainermontype TRAINER_DATA_TYPE_NOTHING
     trainerclass CLASS_PASSERBY
     nummons 1
