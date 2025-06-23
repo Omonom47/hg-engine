@@ -25,7 +25,7 @@ commonscript 2008 give an item determined by var 0x8004 and amount determined by
 - ?update safari zone encounters?
 - Replace dialogue of npc on route 32 that originally gave roar tm
 - ?Make game corner pokemon maybe/always have hidden ability?
-- increase lvls of trainers in kanto
+- ?make lvl cap be more granular in Kanto?
 - change item given by Janine after defeating her (script 809, function #7)
 - change item given by Blue after defeating him (script 743, function #3)
 - change item given by Brock after defeating him (script 752, function #3)
