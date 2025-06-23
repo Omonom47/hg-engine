@@ -7828,10 +7828,10 @@ trainerdata 246, "Karen"
         level 46
         pokemon SPECIES_UMBREON
         item ITEM_NONE
-        move MOVE_DOUBLE_TEAM
+        move MOVE_MOONLIGHT
         move MOVE_CONFUSE_RAY
-        move MOVE_FEINT_ATTACK
-        move MOVE_PAYBACK
+        move MOVE_DARK_PULSE
+        move MOVE_PSYCHIC
         ballseal 0
 
         // mon 1
@@ -7938,8 +7938,8 @@ trainerdata 247, "Koga"
         level 45
         pokemon SPECIES_MUK
         item ITEM_BLACK_SLUDGE
-        move MOVE_MINIMIZE
-        move MOVE_SCREECH
+        move MOVE_CURSE
+        move MOVE_DRAIN_PUNCH
         move MOVE_GUNK_SHOT
         move MOVE_TOXIC
         ballseal 0
@@ -7950,10 +7950,10 @@ trainerdata 247, "Koga"
         level 48
         pokemon SPECIES_CROBAT
         item ITEM_SITRUS_BERRY
-        move MOVE_DOUBLE_TEAM
-        move MOVE_QUICK_ATTACK
+        move MOVE_SHADOW_BALL
+        move MOVE_HEAT_WAVE
         move MOVE_WING_ATTACK
-        move MOVE_POISON_FANG
+        move MOVE_SLUDGE_BOMB
         ballseal 0
     endparty
 
