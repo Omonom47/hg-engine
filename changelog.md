@@ -69,6 +69,7 @@ ground item script x is script x+1 in file 141 in DSPRE
 - revive on route 45 with something
 - x-speed on route 46 with something   
 - ?tm77 in viridian forest? 
+- ?tm29 in Saffron city? 
 - ?TRICK ROOM given by leader blue to other tm/item?
 - ?POISON JAB given by leader Janine to other tm/item?
 - ?Flamethrower tm on route 28(before mt.silver) to other item? 
@@ -333,7 +334,7 @@ all tm- and tutorlearnsets may need revisions
         - mon2: Forretress: lvl 28
         - mon3: Steelix (ace)
     - As 6th gym, ace lvl 33, trainerdata 33
-        - mon1: Magnemite -> Magneton: lvl 30 -> 31 Replaces SONIC BOOM with TR ATTACK
+        - mon1: Magnemite -> Magneton: lvl 30 -> 31 Replaces SONIC BOOM with TRI ATTACK
         - mon2: Magnemite -> Forretress: lvl 31
         - mon3: Steelix (ace): Replaces SCREECH with THUNDER FANG and ROCK THROW with EARTHQUAKE
     - As 7th gym, ace lvl 35, trainerdata 63
@@ -361,16 +362,68 @@ all tm- and tutorlearnsets may need revisions
 
 All levels increased by 2 or 3
 
-- Will: (now ace lvl 46)
-- Koga: (now ace lvl 48)
-    - mon2: Venomoth -> Nidoking
-    - mon3: Forretress -> Weezing
-- Bruno: (now ace lvl 50)
-    - mon4: Onix -> Heracross
-- Karen: change mons (now ace lvl 52)
-    - mon2: Vileplume -> Victreebel
-    - mon4: Murkrow -> Honchkrow
-- Lance: ?change mons? (now ace lvl 56)   
+- Will:
+    - mon1: lvl 40 -> 43
+    - mon2: lvl 41 -> 44
+    - mon3: lvl 41 -> 44
+    - mon4: lvl 41 -> 44
+    - mon5: lvl 42 -> 46
+- Koga:
+    - mon1: lvl 40 -> 44
+    - mon2: Venomoth -> Nidoking, lvl 41 -> 45
+        - POISON JAB
+        - EARTHQUAKE
+        - ICE BEAM
+        - THUNDERBOLT
+    - mon3: Forretress -> Weezing, lvl 43 -> 45
+        - PROTECT
+        - SLUDGE BOMB
+        - EXPLOSION
+        - FLAMETHROWER
+    - mon4: lvl 42 -> 45
+        - MINIMIZE -> CURSE
+        - SCREECH -> DRAIN PUNCH
+    - mon5: lvl 44 -> 48
+        - DOUBLE TEAM -> SHADOW BALL
+        - QUICK ATTACK -> HEAT WAVE
+        - POISON FANG -> SLUDGE BOMB
+- Bruno:
+    - mon1: lvl 42 -> 46
+    - mon2: lvl 42 -> 46
+    - mon3: lvl 42 -> 46
+    - mon4: Onix -> Heracross, lvl 43 -> 47
+        - MEGAHORN
+        - EARTHQUAKE
+        - BRICK BREAK
+        - ROCK SLIDE
+    - mon5: lvl 46 -> 50
+- Karen:
+    - mon1: lvl 42 -> 46
+        - DOUBLE TEAM -> MOONLIGHT
+        - FEINT ATTACK -> DARK PULSE
+        - PAYBACK -> PSYCHIC
+    - mon2: Vileplume -> Victreebel, lvl 42 -> 46
+        - CRUNCH
+        - SLEEP POWDER
+        - SWORDS DANCE
+        - LEAF BLADE
+    - mon3: lvl 45 -> 49
+        - SPITE -> SHADOW BALL
+        - LICK -> SLUDGE BOMB
+    - mon4: Murkrow -> Honchkrow, lvl 44 -> 48
+        - PLUCK
+        - TAILWIND
+        - SUCKER PUNCH
+        - NIGHT SLASH
+    - mon5: lvl 47 -> 52
+- Lance: ?change mons? (now ace lvl 56)
+    - mon1: lvl 46 -> 50
+        - FLAIL -> IRON HEAD
+    - mon2: lvl 49 -> 53
+    - mon3: lvl 40 -> 53
+    - mon4: lvl 48 -> 52
+    - mon5: lvl 48 -> 52
+    - mon6: lvl 50 -> 56
 
 #### Kanto Gym leaders
 now have their rematch teams with modifications
