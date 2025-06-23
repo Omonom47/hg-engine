@@ -29,6 +29,8 @@ commonscript 2008 give an item determined by var 0x8004 and amount determined by
 - change item given by Janine after defeating her (script 809, function #7)
 - change item given by Blue after defeating him (script 743, function #3)
 - change item given by Brock after defeating him (script 752, function #3)
+- Make fishing rods available earlier
+- ?replace flash with item?
 
 ## RIVAL FIGHTS:
  - CHERRYGROVE: lvl 5 only starters available
