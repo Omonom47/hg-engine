@@ -303,7 +303,11 @@ all tm- and tutorlearnsets may need revisions
 
 - Falkner: ace lvl 13
     - mon1: Pidgey -> Spearow
-    - mon2: No change
+        - ivs: 15, 15, 0, 10, 0, 0
+        - nature: Impish
+    - mon2:
+        - ivs: 15, 10, 10, 0, 10, 0
+        - nature: Relaxed
 - Bugsy: ace lvl 17
     - mon1: Scyther -> Spinarak
     - mon2: Kakuna -> Ledyba

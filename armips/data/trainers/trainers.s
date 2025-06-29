@@ -640,7 +640,7 @@ trainerdata 19, "Chuck"
     endparty
 
 trainerdata 20, "Falkner"
-    trainermontype TRAINER_DATA_TYPE_ITEMS | TRAINER_DATA_TYPE_MOVES
+    trainermontype TRAINER_DATA_TYPE_ITEMS | TRAINER_DATA_TYPE_MOVES | TRAINER_DATA_TYPE_IV_EV_SET | TRAINER_DATA_TYPE_NATURE_SET
     trainerclass CLASS_LEADER_M
     nummons 2
     item ITEM_NONE
@@ -662,6 +662,9 @@ trainerdata 20, "Falkner"
         move MOVE_PURSUIT
         move MOVE_GROWL
         move MOVE_NONE
+        setivs 15, 15, 0, 10, 0, 0
+        setevs 0, 0, 0, 0, 0, 0
+        nature NATURE_IMPISH
         ballseal 0
 
         // mon 1
@@ -674,6 +677,9 @@ trainerdata 20, "Falkner"
         move MOVE_ROOST
         move MOVE_GUST
         move MOVE_NONE
+        setivs 15, 10, 10, 0, 10, 0
+        setevs 0, 0, 0, 0, 0, 0
+        nature NATURE_RELAXED
         ballseal 0
     endparty
 
