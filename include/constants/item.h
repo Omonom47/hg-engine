@@ -871,9 +871,9 @@
 #define MAX_BASE_ITEM_NUM ITEM_METAL_ALLOY
 
 // define your custom move effects below like this
-// #define ITEM_CUSTOM_1 (MAX_BASE_ITEM_NUM + 1)
+#define ITEM_EXPLORER_LANTERN (MAX_BASE_ITEM_NUM + 1)
 
-
+#define NUM_CUSTOM_KEY_ITEMS 1
 
 #define NUM_MEGA_STONES 48 // includes the pixie plate
 
@@ -924,7 +924,7 @@
 #define NUM_BAG_BERRIES       64
 #define NUM_BAG_MAIL          12
 #define NUM_BAG_BATTLE_ITEMS  30
-#define NUM_BAG_KEY_ITEMS     50+42
+#define NUM_BAG_KEY_ITEMS     50+42+NUM_CUSTOM_KEY_ITEMS
 
 #else
 

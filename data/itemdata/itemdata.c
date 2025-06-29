@@ -50516,9 +50516,9 @@ const ITEMDATA __data[] =
     },
 },
 
-/*[ITEM_TM93 - NUM_UNKNOWN_SLOTS_EXPLORER_KIT] =
+[ITEM_EXPLORER_LANTERN - NUM_UNKNOWN_SLOTS_EXPLORER_KIT] =
 {
-    .price = 1500,
+    .price = 0,
     .holdEffect = 0,
     .holdEffectParam = 0,
     .pluckEffect = 0,
@@ -50526,11 +50526,11 @@ const ITEMDATA __data[] =
     .flingPower = 0,
     .naturalGiftPower = 0,
     .naturalGiftType = 31,
-    .prevent_toss = FALSE,
-    .selectable = FALSE,
-    .fieldPocket = POCKET_TMHMS,
+    .prevent_toss = TRUE,
+    .selectable = TRUE,
+    .fieldPocket = POCKET_KEY_ITEMS,
     .battlePocket = BATTLE_POCKET_NONE,
-    .fieldUseFunc = 6,
+    .fieldUseFunc = 16,
     .battleUseFunc = 0,
     .partyUse = 0,
     .partyUseParam = {
@@ -50579,6 +50579,6 @@ const ITEMDATA __data[] =
         .friendship_mod_med_param = 0,
         .friendship_mod_hi_param =  0,
     },
-},*/
+},
 
 };
