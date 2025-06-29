@@ -684,7 +684,7 @@ trainerdata 20, "Falkner"
     endparty
 
 trainerdata 21, "Bugsy"
-    trainermontype TRAINER_DATA_TYPE_ITEMS | TRAINER_DATA_TYPE_MOVES
+    trainermontype TRAINER_DATA_TYPE_ITEMS | TRAINER_DATA_TYPE_MOVES | TRAINER_DATA_TYPE_IV_EV_SET, TRAINER_DATA_TYPE_NATURE_SET
     trainerclass CLASS_LEADER_F
     nummons 3
     item ITEM_SUPER_POTION
@@ -707,6 +707,9 @@ trainerdata 21, "Bugsy"
         move MOVE_STRING_SHOT
         move MOVE_ABSORB
         move MOVE_NIGHT_SHADE
+        setivs 15, 15, 10, 0, 0, 10
+        setevs 0, 0, 0, 0, 0, 0
+        nature NATURE_IMPISH
         ballseal 0
 
         // mon 1
@@ -719,6 +722,9 @@ trainerdata 21, "Bugsy"
         move MOVE_MACH_PUNCH
         move MOVE_REFLECT
         move MOVE_LIGHT_SCREEN
+        setivs 15, 15, 0, 15, 0 ,5
+        setevs 0, 0, 0, 0, 0, 0
+        nature NATURE_JOLLY
         ballseal 0
 
         // mon 2
@@ -731,6 +737,9 @@ trainerdata 21, "Bugsy"
         move MOVE_LEER
         move MOVE_U_TURN
         move MOVE_FOCUS_ENERGY
+        setivs 15, 15, 15, 15, 0, 0
+        setevs 0, 40, 0, 0, 0, 0
+        nature NATURE_ADAMANT
         ballseal 0
     endparty
 

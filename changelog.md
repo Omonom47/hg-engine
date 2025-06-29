@@ -310,8 +310,15 @@ all tm- and tutorlearnsets may need revisions
         - nature: Relaxed
 - Bugsy: ace lvl 17
     - mon1: Scyther -> Spinarak
+        - ivs: 15, 15, 0, 10, 0, 10
+        - nature: Impish
     - mon2: Kakuna -> Ledyba
+        - ivs: 15, 15, 0, 15, 0, 5
+        - nature: Jolly
     - mon3: Metapod -> Scyther (ace)
+        - ivs: 15, 15, 15, 15, 0, 0
+        - ivs: 0, 40, 0, 0, 0, 0
+        - nature: Adamant
 - Whitney: ace lvl 20
     - mon1: Clefairy -> Jigglypuff
     - mon2: Miltank -> Clefairy
