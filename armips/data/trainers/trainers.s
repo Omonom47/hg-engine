@@ -8582,7 +8582,7 @@ trainerdata 254, "Misty"
         move MOVE_SLEEP_TALK
         ability ABILITY_MARVEL_SCALE
         setivs 31, 31, 31, 31, 31, 31
-        setevs 252, 0, 0, 4, 252, 0, 0
+        setevs 252, 0, 0, 4, 252, 0
         nature NATURE_MODEST
         ballseal 0
     endparty
