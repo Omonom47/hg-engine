@@ -370,8 +370,14 @@ all tm- and tutorlearnsets may need revisions
             - nature: Careful
     - As 6th gym: ace lvl 33, trainerdata 11
         - mon1: Primeape: lvl 31
+            - ivs: 25, 25, 25, 25, 25, 25
+            - nature: Careful
         - mon2: Hitmontop: lvl 31
+            - ivs: 25, 25, 25, 25, 25, 25
+            - nature: Impish
         - mon3: Poliwrath (ace): replaces HYPNOSIS with SUBSTITUTE 
+            - ivs: 31, 31, 25, 25, 25, 15
+            - nature: Careful
     - As 7th gym: ace lvl 35, trainerdata 19
         - mon1: Primeape: lvl 33, replaces ASSURANCE with BRUTAL SWING
         - mon2: Hitmontop: lvl 33
@@ -391,9 +397,21 @@ all tm- and tutorlearnsets may need revisions
             - ivs: 20, 31, 20, 20, 20, 20
             - nature: Adamant
     - As 6th gym, ace lvl 33, trainerdata 33
-        - mon1: Magnemite -> Magneton: lvl 30 -> 31 Replaces SONIC BOOM with TRI ATTACK
+        - mon1: Magnemite -> Magneton: lvl 30 -> 31 
+            - SONIC BOOM -> TRI ATTACK
+            - ability: Sturdy
+            - ivs: 25, 25, 25, 25, 25, 25
+            - nature: Modest
         - mon2: Magnemite -> Forretress: lvl 31
-        - mon3: Steelix (ace): Replaces SCREECH with THUNDER FANG and ROCK THROW with EARTHQUAKE
+            - ability: Sturdy
+            - ivs: 25, 25, 25, 25, 25, 25
+            - nature: Careful
+        - mon3: Steelix (ace): 
+            - SCREECH -> THUNDER FANG 
+            - ROCK THROW -> EARTHQUAKE
+            - ability: Sturdy
+            - ivs: 25, 31, 31, 25, 25, 15
+            - nature: Adamant
     - As 7th gym, ace lvl 35, trainerdata 63
         - mon1: Magneton: lvl 33, replaces SUPERSONIC with FLASH CANNON
         - mon2: Forretress: lvl 33
@@ -415,12 +433,22 @@ all tm- and tutorlearnsets may need revisions
             - nature: careful
     - as 6th gym, ace lvl 33, trainerdata 88
         - mon1: Delibird: lvl 30
+            - ability: Snow warning
+            - ivs: 25, 25, 25, 25, 25, 25
+            - nature: Modest
         - mon2: Dewgong: lvl 32
+            - ability: Ice body
+            - ivs: 25, 25, 25, 25, 25, 25
+            - nature: Bold
         - mon3: Piloswine (ace):
+            - ability: Thick fat
+            - ivs: 31, 25, 25, 25, 25, 25
+            - evs: 0, 0, 0, 0, 0, 48
+            - nature: Careful
     - as 7th gym, ace now lvl 35, trainerdata 32
         - mon1: Seel -> Delibird: lvl 33
         - mon2: Dewgong: lvl 32 -> 33, Replaces ICE SHARD with SURF and AURORA BEAM with BLIZZARD
-        - mon3: Mamoswine (ace): lvl 34 -> 35, better moves
+        - mon3: Piloswine -> Mamoswine (ace): lvl 34 -> 35, better moves
 - Clair: ace lvl 43
     - mon1: Gyarados: moveset changed
     - rest unchanged

@@ -318,7 +318,7 @@ trainerdata 10, "Amy & Mimi"
     endparty
 
 trainerdata 11, "Chuck"
-    trainermontype TRAINER_DATA_TYPE_ITEMS | TRAINER_DATA_TYPE_MOVES
+    trainermontype TRAINER_DATA_TYPE_ITEMS | TRAINER_DATA_TYPE_MOVES | TRAINER_DATA_TYPE_IV_EV_SET | TRAINER_DATA_TYPE_NATURE_SET
     trainerclass CLASS_LEADER_3
     nummons 3
     item ITEM_HYPER_POTION
@@ -340,6 +340,9 @@ trainerdata 11, "Chuck"
         move MOVE_BULK_UP
         move MOVE_FOCUS_PUNCH
         move MOVE_ROCK_SLIDE
+        setivs 25, 25, 25, 25, 25, 25
+        setevs 0, 0, 0, 0, 0, 0
+        nature NATURE_CAREFUL
         ballseal 0
 
         // mon 1
@@ -352,6 +355,9 @@ trainerdata 11, "Chuck"
         move MOVE_GYRO_BALL
         move MOVE_BRICK_BREAK
         move MOVE_ROCK_SLIDE
+        setivs 25, 25, 25, 25, 25, 25
+        setevs 0, 0, 0, 0, 0, 0
+        nature NATURE_IMPISH
         ballseal 0
 
         ivs 150
@@ -363,6 +369,9 @@ trainerdata 11, "Chuck"
         move MOVE_WATERFALL
         move MOVE_FOCUS_PUNCH
         move MOVE_BRUTAL_SWING
+        setivs 31, 31, 25, 25, 25, 15
+        setevs 0, 0, 0, 0, 0, 0
+        nature NATURE_CAREFUL
         ballseal 0
     endparty
 
@@ -1155,7 +1164,7 @@ trainerdata 32, "Pryce"
     endparty
 
 trainerdata 33, "Jasmine"
-    trainermontype TRAINER_DATA_TYPE_ITEMS | TRAINER_DATA_TYPE_MOVES
+    trainermontype TRAINER_DATA_TYPE_ITEMS | TRAINER_DATA_TYPE_MOVES | TRAINER_DATA_TYPE_ABILITY |TRAINER_DATA_TYPE_IV_EV_SET | TRAINER_DATA_TYPE_NATURE_SET
     trainerclass CLASS_LEADER_2
     nummons 3
     item ITEM_HYPER_POTION
@@ -1177,6 +1186,10 @@ trainerdata 33, "Jasmine"
         move MOVE_SUPERSONIC
         move MOVE_TRI_ATTACK
         move MOVE_THUNDER_WAVE
+        ability ABILITY_STURDY
+        setivs 25, 25, 25, 25, 25, 25
+        setevs 0, 0, 0, 0, 0, 0
+        nature NATURE_MODEST
         ballseal 0
 
         // mon 1
@@ -1189,6 +1202,10 @@ trainerdata 33, "Jasmine"
         move MOVE_BUG_BITE
         move MOVE_PROTECT
         move MOVE_ELECTROWEB
+        ability ABILITY_STURDY
+        setivs 25, 25, 25, 25, 25, 25
+        setevs 0, 0, 0, 0, 0, 0
+        nature NATURE_CAREFUL
         ballseal 0
 
         // mon 2
@@ -1201,6 +1218,10 @@ trainerdata 33, "Jasmine"
         move MOVE_SANDSTORM
         move MOVE_EARTHQUAKE
         move MOVE_IRON_TAIL
+        ability ABILITY_STURDY
+        setivs 25, 31, 31, 25, 25, 15
+        setevs 0, 0, 0, 0, 0, 0
+        nature NATURE_ADAMANT
         ballseal 0
     endparty
 
@@ -2920,7 +2941,7 @@ trainerdata 87, "Pryce"
     endparty
 
 trainerdata 88, "Pryce"
-    trainermontype TRAINER_DATA_TYPE_ITEMS | TRAINER_DATA_TYPE_MOVES
+    trainermontype TRAINER_DATA_TYPE_ITEMS | TRAINER_DATA_TYPE_MOVES | TRAINER_DATA_TYPE_ABILITY | TRAINER_DATA_TYPE_IV_EV_SET | TRAINER_DATA_TYPE_NATURE_SET
     trainerclass CLASS_LEADER_1
     nummons 3
     item ITEM_HYPER_POTION
@@ -2942,6 +2963,10 @@ trainerdata 88, "Pryce"
         move MOVE_HAIL
         move MOVE_ICY_WIND
         move MOVE_WATER_PULSE
+        ability ABILITY_SNOW_WARNING
+        setivs 25, 25, 25, 25, 25, 25
+        setevs 0, 0, 0, 0, 0, 0
+        nature NATURE_MODEST
         ballseal 0
 
         // mon 1
@@ -2952,8 +2977,12 @@ trainerdata 88, "Pryce"
         item ITEM_NONE
         move MOVE_SLEEP_TALK
         move MOVE_SURF
-        move MOVE_AURORA_BEAM
+        move MOVE_BLIZZARD
         move MOVE_REST
+        ability ABILITY_ICE_BODY
+        setivs 25, 25, 25, 25, 25, 25
+        setevs 0, 0, 0, 0, 0, 0
+        nature NATURE_MODEST
         ballseal 0
 
         // mon 2
@@ -2966,6 +2995,10 @@ trainerdata 88, "Pryce"
         move MOVE_ICE_FANG
         move MOVE_EARTHQUAKE
         move MOVE_THUNDER_FANG
+        ability ABILITY_THICK_FAT
+        setivs 31, 25, 25, 25, 25, 25
+        setevs 0, 0, 0, 0, 0, 48
+        nature NATURE_CAREFUL
         ballseal 0
     endparty
 
