@@ -8540,7 +8540,7 @@ trainerdata 254, "Misty"
     endparty
 
 trainerdata 255, "Lt. Surge"
-    trainermontype TRAINER_DATA_TYPE_ITEMS | TRAINER_DATA_TYPE_MOVES
+    trainermontype TRAINER_DATA_TYPE_ITEMS | TRAINER_DATA_TYPE_MOVES | TRAINER_DATA_TYPE_ABILITY | TRAINER_DATA_TYPE_IV_EV_SET | TRAINER_DATA_TYPE_NATURE_SET
     trainerclass CLASS_LEADER_7
     nummons 6
     item ITEM_FULL_RESTORE
@@ -8562,6 +8562,10 @@ trainerdata 255, "Lt. Surge"
         move MOVE_QUICK_ATTACK
         move MOVE_THUNDERBOLT
         move MOVE_GRASS_KNOT
+        ability ABILITY_STATIC
+        setivs 31, 31, 31,31, 31, 31
+        setevs 4, 0, 0, 252, 252, 0
+        nature NATURE_MODEST
         ballseal 0
 
         // mon 1
@@ -8574,6 +8578,10 @@ trainerdata 255, "Lt. Surge"
         move MOVE_NATURAL_GIFT
         move MOVE_DISCHARGE
         move MOVE_OVERHEAT
+        ability ABILITY_STATIC
+        setivs 31, 31, 31,31, 31, 31
+        setevs 4, 0, 0, 252, 252, 0
+        nature NATURE_TIMID
         ballseal 0
 
         // mon 2
@@ -8586,6 +8594,10 @@ trainerdata 255, "Lt. Surge"
         move MOVE_TRI_ATTACK
         move MOVE_MAGNET_RISE
         move MOVE_FLASH_CANNON
+        ability ABILITY_STURDY
+        setivs 31, 31, 31,31, 31, 31
+        setevs 4, 0, 0, 252, 252, 0
+        nature NATURE_TIMID
         ballseal 0
 
         // mon 3
@@ -8598,6 +8610,10 @@ trainerdata 255, "Lt. Surge"
         move MOVE_MAGNET_RISE
         move MOVE_THUNDERBOLT
         move MOVE_EXPLOSION
+        ability ABILITY_SOUNDPROOF
+        setivs 31, 31, 31,31, 31, 31
+        setevs 4, 0, 0, 252, 252, 0
+        nature NATURE_MODEST
         ballseal 0
 
         // mon 4
@@ -8610,6 +8626,10 @@ trainerdata 255, "Lt. Surge"
         move MOVE_SUPER_FANG
         move MOVE_DISCHARGE
         move MOVE_NUZZLE
+        ability ABILITY_RUN_AWAY
+        setivs 31, 31, 31,31, 31, 31
+        setevs 252, 0, 4, 252, 0, 0
+        nature NATURE_JOLLY
         ballseal 0
 
         // mon 5
@@ -8622,6 +8642,10 @@ trainerdata 255, "Lt. Surge"
         move MOVE_CROSS_CHOP
         move MOVE_ICE_PUNCH
         move MOVE_EARTHQUAKE
+        ability ABILITY_MOTOR_DRIVE
+        setivs 31, 31, 31,31, 31, 31
+        setevs 4, 252, 0, 252, 0, 0
+        nature NATURE_JOLLY
         ballseal 0
     endparty
 

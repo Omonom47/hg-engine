@@ -712,16 +712,40 @@ now have their rematch teams with modifications
 
 - Lt. Surge: lvl total 330 -> 344
     - mon1: lvl 60
+        - ability: Static
+        - ivs: 31, 31, 31, 31, 31, 31
+        - evs: 4, 0, 0, 252, 252, 0
+        - Nature: Modest
     - mon2: lvl 52 -> 55
+        - ability: Static
+        - ivs: 31, 31, 31, 31, 31, 31
+        - evs: 4, 0, 0, 252, 252, 0
+        - Nature: Timid
     - mon3: lvl 52 -> 58
         - DOUBLE TEAM -> TRI ATTACK
         - MIRROR SHOT -> FLASH CANNON
+        - ability: Static
+        - ivs: 31, 31, 31, 31, 31, 31
+        - evs: 4, 0, 0, 252, 252, 0
+        - Nature: Timid
     - mon4: lvl 52 -> 55
         - DOUBLE TEAM -> MAGNET RISE
+        - ability: Soundproof
+        - ivs: 31, 31, 31, 31, 31, 31
+        - evs: 4, 0, 0, 252, 252, 0
+        - Nature: Modest
     - mon5: lvl 58
         - QUICK ATTACK -> U-TURN
         - SWEET KISS -> NUZZLE
+        - ability: Run away
+        - ivs: 31, 31, 31, 31, 31, 31
+        - evs: 252, 0, 4, 252, 0, 0
+        - Nature: Jolly
     - mon6: lvl 56 -> 58
+        - ability: Motor Drive
+        - ivs: 31, 31, 31, 31, 31, 31
+        - evs: 4, 252, 0, 252, 0, 0
+        - Nature: Jolly
 
 - Erika: lvl total 334 -> 356
     - mon1: lvl 54 -> 57
