@@ -685,20 +685,43 @@ now have their rematch teams with modifications
 
 - Brock: lvl total 338 -> 392
     - mon1: lvl 55 -> 64
+        - ability: Sturdy
+        - ivs: 31, 31, 31, 31, 31, 31
+        - evs: 252, 252, 4, 0, 0, 0
+        - Nature: Adamant
     - mon2: Relicanth -> Cradily, lvl 54 -> 65
         - GIGA DRAIN
         - STOCKPILE
         - SLUDGE BOMB
         - ROCK SLIDE
+        - ability: Storm Drain
+        - ivs: 31, 31, 31, 31, 31, 31
+        - evs: 252, 0, 4, 0, 52, 200
+        - Nature: Bold
     - mon3: lvl 56 -> 64
         - BRINE -> SURF
         - SANDSTORM -> ICE BEAM
+        - ability: Weak armor
+        - ivs: 31, 31, 31, 31, 31, 31
+        - evs: 204, 0, 0, 56, 252, 0
+        - Nature: Timid
     - mon4: MIGHT BE CHANGED LATER, lvl 61 -> 68
-        
+        - ability: Sturdy
+        - ivs: 31, 31, 31, 31, 31, 31
+        - evs: 4, 252, 252, 0, 0, 0
+        - Nature: Adamant
     - mon5: lvl 55 -> 65
         - ENDURE -> NIGHT SLASH
         - GIGA DRAIN -> LEECH LIFE
+        - ability: Battle Armor
+        - ivs: 31, 31, 31, 31, 31, 31
+        - evs: 4, 252, 0, 252, 0, 0
+        - Nature: Jolly
     - mon6: lvl 57 -> 66
+        - ability: Storm Drain
+        - ivs: 31, 31, 31, 31, 31, 31
+        - evs: 252, 252, 0, 4, 0, 0
+        - Nature: Jolly
 
 - Misty: lvl total 340 -> 356
     - mon1: lvl 60 -> 62

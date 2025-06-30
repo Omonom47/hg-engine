@@ -8368,7 +8368,7 @@ trainerdata 252, "Harold"
     endparty
 
 trainerdata 253, "Brock"
-    trainermontype TRAINER_DATA_TYPE_ITEMS | TRAINER_DATA_TYPE_MOVES
+    trainermontype TRAINER_DATA_TYPE_ITEMS | TRAINER_DATA_TYPE_MOVES | TRAINER_DATA_TYPE_ABILITY | TRAINER_DATA_TYPE_IV_EV_SET | TRAINER_DATA_TYPE_NATURE_SET
     trainerclass CLASS_LEADER_5
     nummons 6
     item ITEM_FULL_RESTORE
@@ -8390,6 +8390,10 @@ trainerdata 253, "Brock"
         move MOVE_ROCK_SLIDE
         move MOVE_ROCK_POLISH
         move MOVE_EARTHQUAKE
+        ability ABILITY_STURDY
+        setivs 31, 31, 31, 31, 31, 31
+        setevs 252, 252, 4, 0, 0, 0
+        nature NATURE_ADAMANT
         ballseal 0
 
         // mon 1
@@ -8402,6 +8406,10 @@ trainerdata 253, "Brock"
         move MOVE_STOCKPILE
         move MOVE_SLUDGE_BOMB
         move MOVE_ROCK_SLIDE
+        ability ABILITY_STORM_DRAIN
+        setivs 31, 31, 31, 31, 31, 31
+        setevs 252, 0, 4, 0, 52, 200
+        nature NATURE_BOLD
         ballseal 0
 
         // mon 2
@@ -8414,6 +8422,10 @@ trainerdata 253, "Brock"
         move MOVE_SURF
         move MOVE_PROTECT
         move MOVE_ICE_BEAM
+        ability ABILITY_WEAK_ARMOR
+        setivs 31, 31, 31, 31, 31, 31
+        setevs 200, 0, 0, 56, 252, 0
+        nature NATURE_TIMID
         ballseal 0
 
         // mon 3
@@ -8426,6 +8438,10 @@ trainerdata 253, "Brock"
         move MOVE_ROCK_SLIDE
         move MOVE_ROCK_POLISH
         move MOVE_SANDSTORM
+        ability ABILITY_STURDY
+        setivs 31, 31, 31, 31, 31, 31
+        setevs 4, 252, 252, 0, 0, 0
+        nature NATURE_ADAMANT
         ballseal 0
 
         // mon 4
@@ -8438,6 +8454,10 @@ trainerdata 253, "Brock"
         move MOVE_AQUA_JET
         move MOVE_NIGHT_SLASH
         move MOVE_LEECH_LIFE
+        ability ABILITY_BATTLE_ARMOR
+        setivs 31, 31, 31, 31, 31, 31
+        setevs 4, 252, 0, 252, 0, 0
+        nature NATURE_JOLLY
         ballseal 0
 
         // mon 5
@@ -8450,6 +8470,10 @@ trainerdata 253, "Brock"
         move MOVE_STONE_EDGE
         move MOVE_AVALANCHE
         move MOVE_ROCK_POLISH
+        ability ABILITY_MOLD_BREAKER
+        setivs 31, 31, 31, 31, 31, 31
+        setevs 252, 252, 0, 4, 0, 0
+        nature NATURE_JOLLY
         ballseal 0
     endparty
 
