@@ -348,11 +348,13 @@ all tm- and tutorlearnsets may need revisions
         - ability: Tinted lens
         - ivs: 15, 15, 15, 15, 15, 15
         - nature: Bold
-    - Mon3: Gengar (ace): replaces HYPNOSIS with FOCUS BLAST
+    - Mon3: Gengar (ace): 
+        - HYPNOSIS -> FOCUS BLAST
         - ability: Cursed body
         - ivs: 25, 0, 20, 15, 20, 15
         - nature: Hardy
-    - Mon4: Haunter: replaces NIGHT SHADE with SHADOW BALL
+    - Mon4: Haunter: 
+        - NIGHT SHADE -> SHADOW BALL
         - ability: Levitate
         - ivs: 15, 15, 15, 15, 15, 15
         - nature: Timid
@@ -375,13 +377,26 @@ all tm- and tutorlearnsets may need revisions
         - mon2: Hitmontop: lvl 31
             - ivs: 25, 25, 25, 25, 25, 25
             - nature: Impish
-        - mon3: Poliwrath (ace): replaces HYPNOSIS with SUBSTITUTE 
+        - mon3: Poliwrath (ace): 
+            - HYPNOSIS -> SUBSTITUTE 
             - ivs: 31, 31, 25, 25, 25, 15
             - nature: Careful
     - As 7th gym: ace lvl 35, trainerdata 19
-        - mon1: Primeape: lvl 33, replaces ASSURANCE with BRUTAL SWING
+        - mon1: Primeape: lvl 33, 
+            - ASSURANCE -> BRUTAL SWING
+            - ability: Defiant
+            - ivs: 31, 31, 31, 31, 31, 31
+            - nature: Careful
         - mon2: Hitmontop: lvl 33
-        - mon3: Poliwrath (ace): replaces BODY SLAM with BRUTAL SWING 
+            - ability: Intimidate
+            - ivs: 31, 31, 31, 31, 31, 31
+            - nature: Impish
+        - mon3: Poliwrath (ace): 
+            - BODY SLAM -> BRUTAL SWING 
+            - ability: Water absorb
+            - ivs: 31, 31, 31, 31, 31, 31
+            - evs: 52, 0, 0, 0, 0, 0
+            - nature: Sassy
 - Jasmine:
     - as 5th gym, ace lvl 30, trainerdata 40
         - mon1: Magnemite: lvl 28
@@ -413,9 +428,21 @@ all tm- and tutorlearnsets may need revisions
             - ivs: 25, 31, 31, 25, 25, 15
             - nature: Adamant
     - As 7th gym, ace lvl 35, trainerdata 63
-        - mon1: Magneton: lvl 33, replaces SUPERSONIC with FLASH CANNON
+        - mon1: Magneton: lvl 33, 
+            - SUPERSONIC -> FLASH CANNON
+            - ability: Sturdy
+            - ivs: 31, 31, 31, 31, 31, 31
+            - nature: Modest
         - mon2: Forretress: lvl 33
-        - mon3: Steelix (ace): Replaces SANDSTORM with ICE FANG
+            - ability: Sturdy
+            - ivs: 31, 31, 31, 31, 31, 31
+            - nature: Careful
+        - mon3: Steelix (ace): 
+            - SANDSTORM -> ICE FANG
+            - ability: Sturdy
+            - ivs: 31, 31, 31, 31, 31, 31
+            - evs: 0, 52, 0, 0, 0, 0
+            - nature: Adamant
 - Pryce: 
     - as 5th gym, ace lvl 30, trainerdata 87
         - mon1: Delibird: lvl 28
@@ -447,11 +474,25 @@ all tm- and tutorlearnsets may need revisions
             - nature: Careful
     - as 7th gym, ace now lvl 35, trainerdata 32
         - mon1: Seel -> Delibird: lvl 33
-        - mon2: Dewgong: lvl 32 -> 33, Replaces ICE SHARD with SURF and AURORA BEAM with BLIZZARD
-        - mon3: Piloswine -> Mamoswine (ace): lvl 34 -> 35, better moves
+            - ability: Sturdy
+            - ivs: 31, 31, 31, 31, 31, 31
+            - nature: hasty
+        - mon2: Dewgong: lvl 32 -> 33, 
+            - ICE SHARD -> SURF 
+            - AURORA BEAM -> BLIZZARD
+            - ability: Ice body
+            - ivs: 31, 31, 31, 31, 31, 31
+            - nature: bold
+        - mon3: Piloswine -> Mamoswine (ace): lvl 34 -> 35
+            - ability: Thick fat
+            - ivs: 31, 31, 31, 31, 31, 31
+            - evs: 0, 0, 0, 0, 0, 60
+            - nature: Adamant
 - Clair: ace lvl 43
     - mon1: Gyarados: moveset changed
-    - rest unchanged
+    - mon2:
+    - mon2:
+    - mon2:
 
 #### ELITE FOUR (first battle): 
 
