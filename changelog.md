@@ -619,20 +619,40 @@ all tm- and tutorlearnsets may need revisions
         - DOUBLE TEAM -> MOONLIGHT
         - FEINT ATTACK -> DARK PULSE
         - PAYBACK -> PSYCHIC
+        - ability: Synchronize
+        - ivs: 31, 31, 31, 31, 31, 31
+        - evs: 252, 0, 128, 0, 128, 0
+        - nature: Timid
     - mon2: Vileplume -> Victreebel, lvl 42 -> 46
         - CRUNCH
         - SLEEP POWDER
         - SWORDS DANCE
         - LEAF BLADE
+        - ability: Chlorophyl
+        - ivs: 31, 31, 31, 31, 31, 31
+        - evs: 152, 252, 0, 104, 0, 0
+        - nature: Jolly
     - mon3: lvl 45 -> 49
         - SPITE -> SHADOW BALL
         - LICK -> SLUDGE BOMB
+        - ability: Cursed Body
+        - ivs: 31, 31, 31, 31, 31, 31
+        - evs: 0, 0, 4, 252, 252, 0
+        - nature: Modest
     - mon4: Murkrow -> Honchkrow, lvl 44 -> 48
         - PLUCK
         - TAILWIND
         - SUCKER PUNCH
         - NIGHT SLASH
+        - ability: Super luck
+        - ivs: 31, 31, 31, 31, 31, 31
+        - evs: 252, 4, 0, 252, 0, 0
+        - nature: Jolly
     - mon5: lvl 47 -> 52
+        - ability: Flash Fire
+        - ivs: 31, 31, 31, 31, 31, 31
+        - evs: 4, 0, 0, 252, 252, 0
+        - nature: Hasty
 - Lance: ?change mons? (now ace lvl 56)
     - mon1: lvl 46 -> 50
         - FLAIL -> IRON HEAD

@@ -7993,7 +7993,7 @@ trainerdata 245, "Will"
     endparty
 
 trainerdata 246, "Karen"
-    trainermontype TRAINER_DATA_TYPE_ITEMS | TRAINER_DATA_TYPE_MOVES
+    trainermontype TRAINER_DATA_TYPE_ITEMS | TRAINER_DATA_TYPE_MOVES | TRAINER_DATA_TYPE_ABILITY | TRAINER_DATA_TYPE_IV_EV_SET | TRAINER_DATA_TYPE_NATURE_SET
     trainerclass CLASS_ELITE_FOUR_1
     nummons 5
     item ITEM_FULL_RESTORE
@@ -8015,6 +8015,10 @@ trainerdata 246, "Karen"
         move MOVE_CONFUSE_RAY
         move MOVE_DARK_PULSE
         move MOVE_PSYCHIC
+        ability ABILITY_SYNCHRONIZE
+        setivs 31, 31, 31, 31, 31, 31
+        setevs 252, 0, 128, 0, 0, 128
+        nature NATURE_TIMID
         ballseal 0
 
         // mon 1
@@ -8027,6 +8031,10 @@ trainerdata 246, "Karen"
         move MOVE_SLEEP_POWDER
         move MOVE_SWORDS_DANCE
         move MOVE_LEAF_BLADE
+        ability ABILITY_CHLOROPHYLL
+        setivs 31, 31, 31, 31, 31, 31
+        setevs 152, 252, 0, 104, 0, 0
+        nature NATURE_ADAMANT
         ballseal 0
 
         // mon 2
@@ -8039,6 +8047,10 @@ trainerdata 246, "Karen"
         move MOVE_SLUDGE_BOMB
         move MOVE_FOCUS_BLAST
         move MOVE_DESTINY_BOND
+        ability ABILITY_CURSED_BODY
+        setivs 31, 31, 31, 31, 31, 31
+        setevs 0, 0, 4, 252, 252, 0
+        nature NATURE_MODEST
         ballseal 0
 
         // mon 3
@@ -8051,6 +8063,10 @@ trainerdata 246, "Karen"
         move MOVE_TAILWIND
         move MOVE_SUCKER_PUNCH
         move MOVE_NIGHT_SLASH
+        ability ABILITY_SUPER_LUCK
+        setivs 31, 31, 31, 31, 31, 31
+        setevs 252, 4, 0, 252, 0, 0
+        nature NATURE_JOLLY
         ballseal 0
 
         // mon 4
@@ -8063,6 +8079,10 @@ trainerdata 246, "Karen"
         move MOVE_DARK_PULSE
         move MOVE_FLAMETHROWER
         move MOVE_CRUNCH
+        ability ABILITY_FLASH_FIRE
+        setivs 31, 31, 31, 31, 31, 31
+        setevs 4, 0, 0, 252, 252, 0
+        nature NATURE_HASTY
         ballseal 0
     endparty
 
