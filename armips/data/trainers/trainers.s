@@ -8454,14 +8454,14 @@ trainerdata 253, "Brock"
     endparty
 
 trainerdata 254, "Misty"
-    trainermontype TRAINER_DATA_TYPE_ITEMS | TRAINER_DATA_TYPE_MOVES
+    trainermontype TRAINER_DATA_TYPE_ITEMS | TRAINER_DATA_TYPE_MOVES | TRAINER_DATA_TYPE_ABILITY | TRAINER_DATA_TYPE_IV_EV_SET | TRAINER_DATA_TYPE_NATURE_SET
     trainerclass CLASS_LEADER_6
     nummons 6
     item ITEM_FULL_RESTORE
     item ITEM_FULL_RESTORE
     item ITEM_FULL_RESTORE
     item ITEM_NONE
-    aiflags F_PRIORITIZE_SUPER_EFFECTIVE | F_EVALUATE_ATTACKS | F_EXPERT_ATTACKS | 0
+    aiflags F_PRIORITIZE_SUPER_EFFECTIVE | F_EVALUATE_ATTACKS | F_EXPERT_ATTACKS | F_USE_WEATHER | 0
     battletype SINGLE_BATTLE
     endentry
 
@@ -8476,6 +8476,10 @@ trainerdata 254, "Misty"
         move MOVE_PSYCHIC
         move MOVE_ICE_BEAM
         move MOVE_SURF
+        ability ABILITY_NATURAL_CURE
+        setivs 31, 31, 31, 31, 31, 31
+        setevs 4, 0, 0, 252, 252, 0
+        nature NATURE_TIMID
         ballseal 0
 
         // mon 1
@@ -8488,6 +8492,10 @@ trainerdata 254, "Misty"
         move MOVE_SLUDGE_BOMB
         move MOVE_EARTHQUAKE
         move MOVE_RAIN_DANCE
+        ability ABILITY_UNAWARE
+        setivs 31, 31, 31, 31, 31, 31
+        setevs 252, 0, 128, 0, 0, 128
+        nature NATURE_SASSY
         ballseal 0
 
         // mon 2
@@ -8500,6 +8508,10 @@ trainerdata 254, "Misty"
         move MOVE_PERISH_SONG
         move MOVE_BLIZZARD
         move MOVE_RAIN_DANCE
+        ability ABILITY_SHELL_ARMOR
+        setivs 31, 31, 31, 31, 31, 31
+        setevs 4, 0, 252, 0, 0, 252
+        nature NATURE_MODEST
         ballseal 0
 
         // mon 3
@@ -8512,6 +8524,10 @@ trainerdata 254, "Misty"
         move MOVE_THUNDERBOLT
         move MOVE_SURF
         move MOVE_THUNDER_WAVE
+        ability ABILITY_VOLT_ABSORB
+        setivs 31, 31, 31, 31, 31, 31
+        setevs 252, 0, 4, 0, 252, 0
+        nature NATURE_BOLD
         ballseal 0
 
         // mon 4
@@ -8524,6 +8540,10 @@ trainerdata 254, "Misty"
         move MOVE_ICE_FANG
         move MOVE_WATERFALL
         move MOVE_BATON_PASS
+        ability ABILITY_SWIFT_SWIM
+        setivs 31, 31, 31, 31, 31, 31
+        setevs 4, 252, 0, 252, 0, 0
+        nature NATURE_ADAMANT
         ballseal 0
 
         // mon 5
@@ -8536,6 +8556,10 @@ trainerdata 254, "Misty"
         move MOVE_ICE_BEAM
         move MOVE_REST
         move MOVE_SLEEP_TALK
+        ability ABILITY_MARVEL_SCALE
+        setivs 31, 31, 31, 31, 31, 31
+        setevs 252, 0, 0, 4, 252, 0, 0
+        nature NATURE_MODEST
         ballseal 0
     endparty
 

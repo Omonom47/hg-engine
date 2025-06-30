@@ -702,13 +702,37 @@ now have their rematch teams with modifications
 
 - Misty: lvl total 340 -> 356
     - mon1: lvl 60 -> 62
+        - ability: Natural Cure
+        - ivs: 31, 31, 31, 31, 31, 31
+        - evs: 4, 0, 0, 252, 252, 0
+        - Nature: Timid
     - mon2: lvl 56 -> 57
         - WATER PULSE -> SCALD 
         - AMNESIA -> SLUDGE BOMB
+        - ability: Unaware
+        - ivs: 31, 31, 31, 31, 31, 31
+        - evs: 252, 0, 128, 0, 0, 128
+        - Nature: Sassy
     - mon3: lvl 56 -> 59
+        - ability: Shell armor
+        - ivs: 31, 31, 31, 31, 31, 31
+        - evs: 4, 0, 252, 0, 0, 252
+        - Nature: Modest
     - mon4: lvl 54 -> 58
+        - ability: Shell armor
+        - ivs: 31, 31, 31, 31, 31, 31
+        - evs: 252, 0, 4, 0, 252, 0
+        - Nature: Bold
     - mon5: lvl 54 -> 58
+        - ability: Swift Swim
+        - ivs: 31, 31, 31, 31, 31, 31
+        - evs: 4, 252, 0, 252, 0, 0
+        - Nature: Adamant
     - mon6: lvl 60 -> 62
+        - ability: Marvel Scale
+        - ivs: 31, 31, 31, 31, 31, 31
+        - evs: 252, 0, 0, 4, 252, 0
+        - Nature: Modest
 
 - Lt. Surge: lvl total 330 -> 344
     - mon1: lvl 60
