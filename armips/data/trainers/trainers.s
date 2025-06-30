@@ -697,19 +697,18 @@ trainerdata 21, "Bugsy"
 
     party 21
         // mon 0
-
         ivs 80
-        abilityslot 0
-        level 15
-        pokemon SPECIES_SPINARAK
-        item ITEM_NONE
-        move MOVE_POISON_STING
-        move MOVE_STRING_SHOT
-        move MOVE_ABSORB
-        move MOVE_NIGHT_SHADE
-        setivs 15, 15, 10, 0, 0, 10
-        setevs 0, 0, 0, 0, 0, 0
-        nature NATURE_IMPISH
+        abilityslot 32
+        level 17
+        pokemon SPECIES_SCYTHER
+        item ITEM_SITRUS_BERRY
+        move MOVE_QUICK_ATTACK
+        move MOVE_LEER
+        move MOVE_U_TURN
+        move MOVE_FOCUS_ENERGY
+        setivs 15, 15, 15, 15, 0, 0
+        setevs 0, 40, 0, 0, 0, 0
+        nature NATURE_ADAMANT
         ballseal 0
 
         // mon 1
@@ -729,17 +728,17 @@ trainerdata 21, "Bugsy"
 
         // mon 2
         ivs 80
-        abilityslot 32
-        level 17
-        pokemon SPECIES_SCYTHER
-        item ITEM_SITRUS_BERRY
-        move MOVE_QUICK_ATTACK
-        move MOVE_LEER
-        move MOVE_U_TURN
-        move MOVE_FOCUS_ENERGY
-        setivs 15, 15, 15, 15, 0, 0
-        setevs 0, 40, 0, 0, 0, 0
-        nature NATURE_ADAMANT
+        abilityslot 0
+        level 15
+        pokemon SPECIES_SPINARAK
+        item ITEM_NONE
+        move MOVE_POISON_STING
+        move MOVE_STRING_SHOT
+        move MOVE_ABSORB
+        move MOVE_NIGHT_SHADE
+        setivs 15, 15, 10, 0, 0, 10
+        setevs 0, 0, 0, 0, 0, 0
+        nature NATURE_IMPISH
         ballseal 0
     endparty
 
