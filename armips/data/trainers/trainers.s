@@ -7813,7 +7813,7 @@ trainerdata 243, "Katie"
     endparty
 
 trainerdata 244, "Lance"
-    trainermontype TRAINER_DATA_TYPE_ITEMS | TRAINER_DATA_TYPE_MOVES
+    trainermontype TRAINER_DATA_TYPE_ITEMS | TRAINER_DATA_TYPE_MOVES | TRAINER_DATA_TYPE_IV_EV_SET | TRAINER_DATA_TYPE_NATURE_SET
     trainerclass CLASS_CHAMPION
     nummons 6
     item ITEM_FULL_RESTORE
@@ -7835,6 +7835,9 @@ trainerdata 244, "Lance"
         move MOVE_DRAGON_PULSE
         move MOVE_WATERFALL
         move MOVE_ICE_FANG
+        setivs 31, 31, 31, 31, 31, 31
+        setevs 4, 252, 0, 252, 0, 0
+        nature NATURE_JOLLY
         ballseal 0
 
         // mon 1
@@ -7847,6 +7850,9 @@ trainerdata 244, "Lance"
         move MOVE_DRAGON_RUSH
         move MOVE_THUNDER
         move MOVE_HYPER_BEAM
+        setivs 31, 31, 31, 31, 31, 31
+        setevs 12, 124, 0, 252, 124, 0
+        nature NATURE_SERIOUS
         ballseal 0
 
         // mon 2
@@ -7859,6 +7865,9 @@ trainerdata 244, "Lance"
         move MOVE_DRAGON_RUSH
         move MOVE_BLIZZARD
         move MOVE_HYPER_BEAM
+        setivs 31, 31, 31, 31, 31, 31
+        setevs 252, 0, 0, 4, 252, 0
+        nature NATURE_BASHFUL
         ballseal 0
 
         // mon 3
@@ -7871,6 +7880,9 @@ trainerdata 244, "Lance"
         move MOVE_CRUNCH
         move MOVE_ROCK_SLIDE
         move MOVE_THUNDER_FANG
+        setivs 31, 31, 31, 31, 31, 31
+        setevs 4, 252, 0, 200, 0, 52
+        nature NATURE_ADAMANT
         ballseal 0
 
         // mon 4
@@ -7883,6 +7895,9 @@ trainerdata 244, "Lance"
         move MOVE_AIR_SLASH
         move MOVE_DRAGON_CLAW
         move MOVE_FIRE_FANG
+        setivs 31, 31, 31, 31, 31, 31
+        setevs 4, 252, 0, 252, 0, 0
+        nature NATURE_ADAMANT
         ballseal 0
 
         // mon 5
@@ -7895,6 +7910,9 @@ trainerdata 244, "Lance"
         move MOVE_SAFEGUARD
         move MOVE_OUTRAGE
         move MOVE_HYPER_BEAM
+        setivs 31, 31, 31, 31, 31, 31
+        setevs 4, 252, 0, 252, 0, 0
+        nature NATURE_HARDY
         ballseal 0
     endparty
 

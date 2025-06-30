@@ -656,11 +656,29 @@ all tm- and tutorlearnsets may need revisions
 - Lance: ?change mons? (now ace lvl 56)
     - mon1: lvl 46 -> 50
         - FLAIL -> IRON HEAD
+        - ivs: 31, 31, 31, 31, 31, 31
+        - evs: 4, 252, 0, 252, 0, 0
+        - nature: Jolly
     - mon2: lvl 49 -> 53
+        - ivs: 31, 31, 31, 31, 31, 31
+        - evs: 12, 124, 0, 252, 124, 0
+        - nature: Serious
     - mon3: lvl 40 -> 53
+        - ivs: 31, 31, 31, 31, 31, 31
+        - evs: 252, 0, 0, 4, 252, 0
+        - nature: Bashful
     - mon4: lvl 48 -> 52
+        - ivs: 31, 31, 31, 31, 31, 31
+        - evs: 4, 252, 0, 200, 0, 52
+        - nature: Adamant
     - mon5: lvl 48 -> 52
+        - ivs: 31, 31, 31, 31, 31, 31
+        - evs: 4, 252, 0, 252, 0, 0
+        - nature: Adamant
     - mon6: lvl 50 -> 56
+        - ivs: 31, 31, 31, 31, 31, 31
+        - evs: 4, 252, 0, 252, 0, 0
+        - nature: Hardy
 
 #### Kanto Gym leaders
 now have their rematch teams with modifications
