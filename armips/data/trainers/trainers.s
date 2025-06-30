@@ -8067,7 +8067,7 @@ trainerdata 246, "Karen"
     endparty
 
 trainerdata 247, "Koga"
-    trainermontype TRAINER_DATA_TYPE_ITEMS | TRAINER_DATA_TYPE_MOVES
+    trainermontype TRAINER_DATA_TYPE_ITEMS | TRAINER_DATA_TYPE_MOVES | TRAINER_DATA_TYPE_ABILITY | TRAINER_DATA_TYPE_IV_EV_SET | TRAINER_DATA_TYPE_NATURE_SET
     trainerclass CLASS_ELITE_FOUR_2
     nummons 5
     item ITEM_FULL_RESTORE
@@ -8085,10 +8085,14 @@ trainerdata 247, "Koga"
         level 44
         pokemon SPECIES_ARIADOS
         item ITEM_NONE
-        move MOVE_POISON_JAB
-        move MOVE_SPIDER_WEB
-        move MOVE_BATON_PASS
-        move MOVE_GIGA_DRAIN
+        move MOVE_NIGHT_SLASH
+        move MOVE_SUCKER_PUNCH
+        move MOVE_TOXIC
+        move MOVE_X_SCISSOR
+        ability ABILITY_ADAPTABILITY
+        setivs 31, 31, 31, 31, 31, 31
+        setevs 252, 0, 56, 0, 0, 200
+        nature NATURE_IMPISH
         ballseal 0
 
         // mon 1
@@ -8101,6 +8105,10 @@ trainerdata 247, "Koga"
         move MOVE_EARTHQUAKE
         move MOVE_ICE_BEAM
         move MOVE_THUNDERBOLT
+        ability ABILITY_POISON_POINT
+        setivs 31, 31, 31, 31, 31, 31
+        setevs 0, 120, 0, 252, 136, 0
+        nature NATURE_HASTY
         ballseal 0
 
         // mon 2
@@ -8113,6 +8121,10 @@ trainerdata 247, "Koga"
         move MOVE_SLUDGE_BOMB
         move MOVE_EXPLOSION
         move MOVE_FLAMETHROWER
+        ability ABILITY_LEVITATE
+        setivs 31, 31, 31, 31, 31, 31
+        setevs 252, 0, 76, 0, 120, 60
+        nature NATURE_RELAXED
         ballseal 0
 
         // mon 3
@@ -8125,6 +8137,10 @@ trainerdata 247, "Koga"
         move MOVE_DRAIN_PUNCH
         move MOVE_GUNK_SHOT
         move MOVE_TOXIC
+        ability ABILITY_POISON_TOUCH
+        setivs 31, 31, 31, 31, 31, 31
+        setevs 252, 120, 100, 0, 0, 36
+        nature NATURE_ADAMANT
         ballseal 0
 
         // mon 4
@@ -8137,6 +8153,10 @@ trainerdata 247, "Koga"
         move MOVE_HEAT_WAVE
         move MOVE_WING_ATTACK
         move MOVE_SLUDGE_BOMB
+        ability ABILITY_INNER_FOCUS
+        setivs 31, 31, 31, 31, 31, 31
+        setevs 0, 120, 0, 136, 252, 0
+        nature NATURE_HASTY
         ballseal 0
     endparty
 

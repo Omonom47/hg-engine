@@ -541,23 +541,47 @@ all tm- and tutorlearnsets may need revisions
         - nature: Timid
 - Koga:
     - mon1: lvl 40 -> 44
+        - POISON JAB -> NIGHT SLASH
+        - SPIDER WEB -> SUCKER PUNCH
+        - BATON PASS -> TOXIC
+        - GIGA DRAIN -> X-SCISSOR
+        - ability: Adaptability
+        - ivs: 31, 31, 31, 31, 31, 31
+        - evs: 252, 0, 56, 0, 0, 200
+        - nature: Impish
     - mon2: Venomoth -> Nidoking, lvl 41 -> 45
         - POISON JAB
         - EARTHQUAKE
         - ICE BEAM
         - THUNDERBOLT
+        - ability: Poison point
+        - ivs: 31, 31, 31, 31, 31, 31
+        - evs: 0, 120, 0, 252, 136, 0
+        - nature: Hasty
     - mon3: Forretress -> Weezing, lvl 43 -> 45
         - PROTECT
         - SLUDGE BOMB
         - EXPLOSION
         - FLAMETHROWER
+        - ability: Poison point
+        - ivs: 31, 31, 31, 31, 31, 31
+        - evs: 252, 0, 76, 0, 120, 60
+        - nature: Relaxed
     - mon4: lvl 42 -> 45
         - MINIMIZE -> CURSE
         - SCREECH -> DRAIN PUNCH
+        - ability: Poison point
+        - ivs: 31, 31, 31, 31, 31, 31
+        - evs: 252, 120, 100, 0, 0, 36
+        - nature: Adamant
     - mon5: lvl 44 -> 48
         - DOUBLE TEAM -> SHADOW BALL
         - QUICK ATTACK -> HEAT WAVE
         - POISON FANG -> SLUDGE BOMB
+        - ability: Poison point
+        - ivs: 31, 31, 31, 31, 31, 31
+        - evs: 0, 120, 0, 136, 252, 0
+        - nature: Hasty
 - Bruno:
     - mon1: lvl 42 -> 46
     - mon2: lvl 42 -> 46
