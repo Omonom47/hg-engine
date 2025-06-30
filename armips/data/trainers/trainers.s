@@ -684,7 +684,7 @@ trainerdata 20, "Falkner"
     endparty
 
 trainerdata 21, "Bugsy"
-    trainermontype TRAINER_DATA_TYPE_ITEMS | TRAINER_DATA_TYPE_MOVES | TRAINER_DATA_TYPE_IV_EV_SET, TRAINER_DATA_TYPE_NATURE_SET
+    trainermontype TRAINER_DATA_TYPE_ITEMS | TRAINER_DATA_TYPE_MOVES |TRAINER_DATA_TYPE_ABILITY | TRAINER_DATA_TYPE_IV_EV_SET | TRAINER_DATA_TYPE_NATURE_SET
     trainerclass CLASS_LEADER_F
     nummons 3
     item ITEM_SUPER_POTION
@@ -965,7 +965,7 @@ trainerdata 29, "Rod"
     endparty
 
 trainerdata 30, "Whitney"
-    trainermontype TRAINER_DATA_TYPE_ITEMS | TRAINER_DATA_TYPE_MOVES | TRAINER_DATA_TYPE_IV_EV_SET | TRAINER_DATA_TYPE_NATURE_SET
+    trainermontype TRAINER_DATA_TYPE_ITEMS | TRAINER_DATA_TYPE_MOVES |TRAINER_DATA_TYPE_ABILITY | TRAINER_DATA_TYPE_IV_EV_SET | TRAINER_DATA_TYPE_NATURE_SET
     trainerclass CLASS_LEADER
     nummons 3
     item ITEM_SUPER_POTION
@@ -987,6 +987,10 @@ trainerdata 30, "Whitney"
         move MOVE_SING
         move MOVE_DISABLE
         move MOVE_DISARMING_VOICE
+        ability ABILITY_COMPETITIVE
+        setivs 15, 0, 15, 15, 15, 15
+        setevs 0, 0, 0, 0, 0, 0
+        nature NATURE_TIMID
         ballseal 0
 
         // mon 1
@@ -999,6 +1003,10 @@ trainerdata 30, "Whitney"
         move MOVE_MIMIC
         move MOVE_ENCORE
         move MOVE_METRONOME
+        ability ABILITY_CUTE_CHARM
+        setivs 10, 15, 10, 15, 15, 10
+        setevs 0, 0, 0, 0, 0, 0
+        nature NATURE_HARDY
         ballseal 0
 
         // mon 2
@@ -1011,6 +1019,10 @@ trainerdata 30, "Whitney"
         move MOVE_ATTRACT
         move MOVE_STOMP
         move MOVE_MILK_DRINK
+        ability ABILITY_SCRAPPY
+        setivs 20, 15, 25, 15, 0, 15
+        setevs 20, 0, 0, 0, 0, 0
+        nature NATURE_HASTY
         ballseal 0
     endparty
 

@@ -325,8 +325,20 @@ all tm- and tutorlearnsets may need revisions
         
 - Whitney: ace lvl 20
     - mon1: Clefairy -> Jigglypuff
+        - ability: Competitive
+        - ivs: 15, 0, 15, 15, 15, 15
+        - nature: Timid
     - mon2: Miltank -> Clefairy
+        - ability: Cute charm
+        - ivs: 10, 15, 10, 15, 15, 10
+        - nature: Hardy
     - mon3: NONE -> Miltank (ace)
+        - ability: Scrappy
+        - ivs: 20, 15, 25, 15, 0, 15
+        - evs: 20, 0, 0, 0, 0, 0 
+        - nature: Hasty
+
+
 - Morty: ace lvl 25
     - mon1: Gastly -> Misdreavus
     - mon2: Haunter -> Noctowl
