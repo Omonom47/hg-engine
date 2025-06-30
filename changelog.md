@@ -514,10 +514,31 @@ all tm- and tutorlearnsets may need revisions
 
 - Will:
     - mon1: lvl 40 -> 43
+        - ability: Synchronize
+        - ivs: 31, 31, 31, 31, 31, 31
+        - evs: 200, 0, 52, 104, 100, 52
+        - nature: Timid
     - mon2: lvl 41 -> 44
+        - ability: Oblivious
+        - ivs: 31, 31, 31, 31, 31, 31
+        - evs: 4, 0, 0, 252, 252, 0
+        - nature: Timid
     - mon3: lvl 41 -> 44
+        - ability: Chlorophyl
+        - ivs: 31, 31, 31, 31, 31, 31
+        - evs: 252, 0, 100, 0, 100, 56
+        - nature: Sassy
     - mon4: lvl 41 -> 44
+        - ability: Oblivious
+        - ivs: 31, 31, 31, 31, 31, 31
+        - evs: 252, 0, 0, 0, 252, 4
+        - nature: Modest
     - mon5: lvl 42 -> 46
+        - AERIAL ACE -> AIR SLASH
+        - ability: Magic bounce
+        - ivs: 31, 31, 31, 31, 31, 31
+        - evs: 4, 0, 0, 252, 252, 0
+        - nature: Timid
 - Koga:
     - mon1: lvl 40 -> 44
     - mon2: Venomoth -> Nidoking, lvl 41 -> 45
@@ -695,16 +716,40 @@ now have their rematch teams with modifications
 - Will: lvl total 360 -> 426
     - mon1: lvl 58 -> 69
         - GRAVITY -> GYRO BALL
+        - ability: Heatproof
+        - ivs: 31, 31, 31, 31, 31, 31
+        - evs: 252, 0, 128, 0, 0, 128
+        - nature: Sassy
     - mon2: lvl 60 -> 71
+        - ability: Oblivious
+        - ivs: 31, 31, 31, 31, 31, 31
+        - evs: 4, 0, 0, 252, 252, 0
+        - nature: Timid
     - mon3: lvl 59 -> 70
+        - ability: Thick fat
+        - ivs: 31, 31, 31, 31, 31, 31
+        - evs: 252, 0, 0, 4, 252, 0
+        - nature: Modest
     - mon4: lvl 60 -> 71
         - CURSE -> CALM MIND
         - AMNESIA -> FLAMETHROWER
         - BODY SLAM -> SURF
+        - ability: Oblivious
+        - ivs: 31, 31, 31, 31, 31, 31
+        - evs: 252, 0, 0, 0, 252, 4
+        - nature: Modest
     - mon5: lvl 61 -> 72
         - CHARGE BEAM -> MOONBLAST
+        - ability: Synchronize
+        - ivs: 31, 31, 31, 31, 31, 31
+        - evs: 4, 0, 0, 252, 252, 0
+        - nature: Timid
     - mon6: lvl 62 -> 73
         - QUICK ATTACK -> AIR SLASH
+        - ability: Magic bounce
+        - ivs: 31, 31, 31, 31, 31, 31
+        - evs: 4, 0, 0, 252, 252, 0
+        - nature: Timid
 
 - Koga: lvl total 372 -> 438
     - mon1: lvl 61 -> 72

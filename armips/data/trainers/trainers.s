@@ -1330,7 +1330,7 @@ trainerdata 35, "Clair"
         move MOVE_DRAGON_RAGE
         move MOVE_CRUNCH
         move MOVE_DRAGON_PULSE
-        ability ABILITY_
+        ability ABILITY_INTIMIDATE
         setivs 31, 31, 31, 31, 31, 31
         setevs 52, 52, 52, 52, 0, 52
         nature NATURE_ADAMANT
@@ -7899,7 +7899,7 @@ trainerdata 244, "Lance"
     endparty
 
 trainerdata 245, "Will"
-    trainermontype TRAINER_DATA_TYPE_ITEMS | TRAINER_DATA_TYPE_MOVES
+    trainermontype TRAINER_DATA_TYPE_ITEMS | TRAINER_DATA_TYPE_MOVES | TRAINER_DATA_TYPE_ABILITY | TRAINER_DATA_TYPE_IV_EV_SET | TRAINER_DATA_TYPE_NATURE_SET
     trainerclass CLASS_ELITE_FOUR_0
     nummons 5
     item ITEM_FULL_RESTORE
@@ -7921,6 +7921,10 @@ trainerdata 245, "Will"
         move MOVE_ME_FIRST
         move MOVE_CONFUSE_RAY
         move MOVE_PSYCHIC
+        ability ABILITY_SYNCHRONIZE
+        setivs 31, 31, 31, 31, 31, 31
+        setevs 200, 0, 52, 104, 100, 52
+        nature NATURE_TIMID
         ballseal 0
 
         // mon 1
@@ -7933,6 +7937,10 @@ trainerdata 245, "Will"
         move MOVE_LOVELY_KISS
         move MOVE_ICE_PUNCH
         move MOVE_PSYCHIC
+        ability ABILITY_OBLIVIOUS
+        setivs 31, 31, 31, 31, 31, 31
+        setevs 4, 0, 0, 252, 252, 0
+        nature NATURE_TIMID
         ballseal 0
 
         // mon 2
@@ -7945,6 +7953,10 @@ trainerdata 245, "Will"
         move MOVE_HYPNOSIS
         move MOVE_EGG_BOMB
         move MOVE_PSYCHIC
+        ability ABILITY_CHLOROPHYLL
+        setivs 31, 31, 31, 31, 31, 31
+        setevs 252, 0, 100, 0, 100, 56
+        nature NATURE_SASSY
         ballseal 0
 
         // mon 3
@@ -7953,10 +7965,14 @@ trainerdata 245, "Will"
         level 44
         pokemon SPECIES_SLOWBRO
         item ITEM_NONE
-        move MOVE_CURSE
+        move MOVE_ICE_BEAM
         move MOVE_AMNESIA
-        move MOVE_WATER_PULSE
+        move MOVE_SURF
         move MOVE_PSYCHIC
+        ability ABILITY_OBLIVIOUS
+        setivs 31, 31, 31, 31, 31, 31
+        setevs 252, 0, 0, 0, 252, 4
+        nature NATURE_MODEST
         ballseal 0
 
         // mon 4
@@ -7965,10 +7981,14 @@ trainerdata 245, "Will"
         level 46
         pokemon SPECIES_XATU
         item ITEM_SITRUS_BERRY
-        move MOVE_AERIAL_ACE
+        move MOVE_AIR_SLASH
         move MOVE_OMINOUS_WIND
         move MOVE_CONFUSE_RAY
         move MOVE_PSYCHIC
+        ability ABILITY_MAGIC_BOUNCE
+        setivs 31, 31, 31, 31, 31, 31
+        setevs 4, 0, 0, 252, 252, 0
+        nature NATURE_TIMID
         ballseal 0
     endparty
 
@@ -24083,7 +24103,7 @@ trainerdata 701, "Lance"
     endparty
 
 trainerdata 702, "Will"
-    trainermontype TRAINER_DATA_TYPE_ITEMS | TRAINER_DATA_TYPE_MOVES
+    trainermontype TRAINER_DATA_TYPE_ITEMS | TRAINER_DATA_TYPE_MOVES | TRAINER_DATA_TYPE_ABILITY | TRAINER_DATA_TYPE_IV_EV_SET | TRAINER_DATA_TYPE_NATURE_SET
     trainerclass CLASS_ELITE_FOUR_0
     nummons 6
     item ITEM_FULL_RESTORE
@@ -24105,6 +24125,10 @@ trainerdata 702, "Will"
         move MOVE_PAYBACK
         move MOVE_GYRO_BALL
         move MOVE_PSYCHIC
+        ability ABILITY_HEATPROOF
+        setivs 31, 31, 31, 31, 31, 31
+        setevs 252, 0, 128, 0, 0, 128
+        nature NATURE_SASSY
         ballseal 0
 
         // mon 1
@@ -24117,6 +24141,10 @@ trainerdata 702, "Will"
         move MOVE_LOVELY_KISS
         move MOVE_BLIZZARD
         move MOVE_DREAM_EATER
+        ability ABILITY_OBLIVIOUS
+        setivs 31, 31, 31, 31, 31, 31
+        setevs 4, 0, 0, 252, 252, 0
+        nature NATURE_TIMID
         ballseal 0
 
         // mon 2
@@ -24129,6 +24157,10 @@ trainerdata 702, "Will"
         move MOVE_SIGNAL_BEAM
         move MOVE_POWER_GEM
         move MOVE_PSYCHIC
+        ability ABILITY_THICK_FAT
+        setivs 31, 31, 31, 31, 31, 31
+        setevs 252, 0, 0, 4, 252, 0
+        nature NATURE_MODEST
         ballseal 0
 
         // mon 3
@@ -24141,6 +24173,10 @@ trainerdata 702, "Will"
         move MOVE_FLAMETHROWER
         move MOVE_SURF
         move MOVE_PSYCHIC
+        ability ABILITY_OBLIVIOUS
+        setivs 31, 31, 31, 31, 31, 31
+        setevs 252, 0, 0, 0, 252, 4
+        nature NATURE_MODEST
         ballseal 0
 
         // mon 4
@@ -24153,6 +24189,10 @@ trainerdata 702, "Will"
         move MOVE_MOONBLAST
         move MOVE_CALM_MIND
         move MOVE_PSYCHIC
+        ability ABILITY_SYNCHRONIZE
+        setivs 31, 31, 31, 31, 31, 31
+        setevs 4, 0, 0, 252, 252, 0
+        nature NATURE_TIMID
         ballseal 0
 
         // mon 5
@@ -24165,6 +24205,10 @@ trainerdata 702, "Will"
         move MOVE_SHADOW_BALL
         move MOVE_CONFUSE_RAY
         move MOVE_PSYCHIC
+        ability ABILITY_MAGIC_BOUNCE
+        setivs 31, 31, 31, 31, 31, 31
+        setevs 4, 0, 0, 252, 252, 0
+        nature NATURE_TIMID
         ballseal 0
     endparty
 
