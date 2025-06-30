@@ -584,14 +584,36 @@ all tm- and tutorlearnsets may need revisions
         - nature: Hasty
 - Bruno:
     - mon1: lvl 42 -> 46
+        - ability: Technician
+        - ivs: 31, 31, 31, 31, 31, 31
+        - evs: 252, 252, 0, 4, 0, 0
+        - nature: Adamant
     - mon2: lvl 42 -> 46
+        - ability: Reckless
+        - ivs: 31, 31, 31, 31, 31, 31
+        - evs: 4, 252, 0, 252, 0, 0
+        - nature: Jolly
     - mon3: lvl 42 -> 46
+        - ability: Iron Fist
+        - ivs: 31, 31, 31, 31, 31, 31
+        - evs: 136, 252, 0, 120, 0, 0
+        - nature: Adamant
     - mon4: Onix -> Heracross, lvl 43 -> 47
         - MEGAHORN
         - EARTHQUAKE
         - BRICK BREAK
         - ROCK SLIDE
+        - ability: Guts
+        - ivs: 31, 31, 31, 31, 31, 31
+        - evs: 4, 252, 0, 252, 0, 0
+        - nature: Jolly
     - mon5: lvl 46 -> 50
+        - FORESIGHT -> POISON JAB
+        - ability: No guard
+        - ivs: 31, 31, 31, 31, 31, 31
+        - evs: 252, 252, 4, 0, 0, 0
+        - nature: Adamant
+
 - Karen:
     - mon1: lvl 42 -> 46
         - DOUBLE TEAM -> MOONLIGHT

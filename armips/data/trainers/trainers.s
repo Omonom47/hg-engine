@@ -14505,7 +14505,7 @@ trainerdata 417, "Jenn"
     endparty
 
 trainerdata 418, "Bruno"
-    trainermontype TRAINER_DATA_TYPE_ITEMS | TRAINER_DATA_TYPE_MOVES
+    trainermontype TRAINER_DATA_TYPE_ITEMS | TRAINER_DATA_TYPE_MOVES | TRAINER_DATA_TYPE_ABILITY | TRAINER_DATA_TYPE_IV_EV_SET | TRAINER_DATA_TYPE_NATURE_SET
     trainerclass CLASS_ELITE_FOUR_3
     nummons 5
     item ITEM_FULL_RESTORE
@@ -14527,6 +14527,10 @@ trainerdata 418, "Bruno"
         move MOVE_QUICK_ATTACK
         move MOVE_DIG
         move MOVE_TRIPLE_KICK
+        ability ABILITY_TECHNICIAN
+        setivs 31, 31, 31, 31, 31, 31
+        setevs 252, 252, 0, 4, 0, 0
+        nature NATURE_ADAMANT
         ballseal 0
 
         // mon 1
@@ -14539,6 +14543,10 @@ trainerdata 418, "Bruno"
         move MOVE_FOCUS_ENERGY
         move MOVE_HIGH_JUMP_KICK
         move MOVE_BLAZE_KICK
+        ability ABILITY_RECKLESS
+        setivs 31, 31, 31, 31, 31, 31
+        setevs 4, 252, 0, 252, 0, 0
+        nature NATURE_JOLLY
         ballseal 0
 
         // mon 2
@@ -14551,6 +14559,10 @@ trainerdata 418, "Bruno"
         move MOVE_ICE_PUNCH
         move MOVE_FIRE_PUNCH
         move MOVE_BULLET_PUNCH
+        ability ABILITY_IRON_FIST
+        setivs 31, 31, 31, 31, 31, 31
+        setevs 136, 252, 0, 120, 0 ,0
+        nature NATURE_ADAMANT
         ballseal 0
 
         // mon 3
@@ -14563,6 +14575,10 @@ trainerdata 418, "Bruno"
         move MOVE_EARTHQUAKE
         move MOVE_BRICK_BREAK
         move MOVE_ROCK_SLIDE
+        ability ABILITY_GUTS
+        setivs 31, 31, 31, 31, 31, 31
+        setevs 4, 252, 0, 252, 0, 0
+        nature NATURE_JOLLY
         ballseal 0
 
         // mon 4
@@ -14572,9 +14588,13 @@ trainerdata 418, "Bruno"
         pokemon SPECIES_MACHAMP
         item ITEM_SITRUS_BERRY
         move MOVE_ROCK_SLIDE
-        move MOVE_FORESIGHT
+        move MOVE_POISON_JAB
         move MOVE_REVENGE
         move MOVE_CROSS_CHOP
+        ability ABILITY_NO_GUARD
+        setivs 31, 31, 31, 31, 31, 31
+        setevs 252, 252, 4, 0, 0, 0
+        nature NATURE_ADAMANT
         ballseal 0
     endparty
 
