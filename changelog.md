@@ -310,13 +310,16 @@ all tm- and tutorlearnsets may need revisions
         - nature: Relaxed
 - Bugsy: ace lvl 17
     - mon1: (ace)
+        - ability: technician
         - ivs: 15, 15, 15, 15, 0, 0
         - evs: 0, 40, 0, 0, 0, 0 
         - nature: Adamant
     - mon2: Kakuna -> Ledyba
+        - ability: Swarm
         - ivs: 15, 15, 0, 15, 0, 5
         - nature: Jolly
     - mon3: Metapod -> Spinarak
+        - ability: adaptibility
         - ivs: 15, 15, 0, 10, 0, 10
         - nature: Impish
         
