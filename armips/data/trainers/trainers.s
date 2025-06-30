@@ -1205,7 +1205,7 @@ trainerdata 33, "Jasmine"
     endparty
 
 trainerdata 34, "Chuck"
-    trainermontype TRAINER_DATA_TYPE_ITEMS | TRAINER_DATA_TYPE_MOVES
+    trainermontype TRAINER_DATA_TYPE_ITEMS | TRAINER_DATA_TYPE_MOVES | TRAINER_DATA_TYPE_IV_EV_SET | TRAINER_DATA_TYPE_NATURE_SET
     trainerclass CLASS_LEADER_3
     nummons 3
     item ITEM_HYPER_POTION
@@ -1227,6 +1227,9 @@ trainerdata 34, "Chuck"
         move MOVE_BULK_UP
         move MOVE_FOCUS_PUNCH
         move MOVE_ROCK_SLIDE
+        setivs 20, 20, 20, 20, 20, 20
+        setevs 0, 0, 0, 0, 0, 0
+        nature NATURE_CAREFUL
         ballseal 0
 
         // mon 1
@@ -1239,6 +1242,9 @@ trainerdata 34, "Chuck"
         move MOVE_GYRO_BALL
         move MOVE_BRICK_BREAK
         move MOVE_ROCK_SLIDE
+        setivs 20, 20, 20, 20, 20, 20
+        setevs 0, 0, 0, 0, 0, 0
+        nature NATURE_IMPISH
         ballseal 0
 
         ivs 150
@@ -1250,6 +1256,9 @@ trainerdata 34, "Chuck"
         move MOVE_WATERFALL
         move MOVE_FOCUS_PUNCH
         move MOVE_BODY_SLAM
+        setivs 31, 20, 20, 20, 20, 20
+        setevs 0, 0, 0, 0, 0, 0
+        nature NATURE_CAREFUL
         ballseal 0
     endparty
 
@@ -1436,7 +1445,7 @@ trainerdata 39, "Eugene"
     endparty
 
 trainerdata 40, "Jasmine"
-    trainermontype TRAINER_DATA_TYPE_ITEMS | TRAINER_DATA_TYPE_MOVES
+    trainermontype TRAINER_DATA_TYPE_ITEMS | TRAINER_DATA_TYPE_MOVES | TRAINER_DATA_TYPE_ABILITY | TRAINER_DATA_TYPE_IV_EV_SET | TRAINER_DATA_TYPE_NATURE_SET
     trainerclass CLASS_LEADER_2
     nummons 3
     item ITEM_HYPER_POTION
@@ -1458,6 +1467,10 @@ trainerdata 40, "Jasmine"
         move MOVE_SUPERSONIC
         move MOVE_SONIC_BOOM
         move MOVE_THUNDER_WAVE
+        ability ABILITY_STURDY
+        setivs 20, 20, 20, 20, 20, 20
+        setevs 0, 0, 0, 0, 0, 0
+        nature NATURE_MODEST
         ballseal 0
 
         // mon 1
@@ -1470,6 +1483,10 @@ trainerdata 40, "Jasmine"
         move MOVE_BUG_BITE
         move MOVE_PROTECT
         move MOVE_ELECTROWEB
+        ability ABILITY_STURDY
+        setivs 20, 20, 20, 20, 20, 20
+        setevs 0, 0, 0, 0, 0, 0
+        nature NATURE_CAREFUL
         ballseal 0
 
         // mon 2
@@ -1482,6 +1499,10 @@ trainerdata 40, "Jasmine"
         move MOVE_SANDSTORM
         move MOVE_ROCK_SLIDE
         move MOVE_IRON_TAIL
+        ability ABILITY_STURDY
+        setivs 20, 31, 20, 20, 20, 20
+        setevs 0, 0, 0, 0, 0, 0
+        nature NATURE_ADAMANT
         ballseal 0
     endparty
 
@@ -2837,7 +2858,7 @@ trainerdata 86, "Randall"
     endparty
 
 trainerdata 87, "Pryce"
-    trainermontype TRAINER_DATA_TYPE_ITEMS | TRAINER_DATA_TYPE_MOVES
+    trainermontype TRAINER_DATA_TYPE_ITEMS | TRAINER_DATA_TYPE_MOVES | TRAINER_DATA_TYPE_ABILITY | TRAINER_DATA_TYPE_IV_EV_SET | TRAINER_DATA_TYPE_NATURE_SET
     trainerclass CLASS_LEADER_1
     nummons 3
     item ITEM_HYPER_POTION
@@ -2851,7 +2872,7 @@ trainerdata 87, "Pryce"
     party 87
         // mon 0
         ivs 150
-        abilityslot 32
+        abilityslot 0
         level 28
         pokemon SPECIES_DELIBIRD
         item ITEM_NONE
@@ -2859,6 +2880,10 @@ trainerdata 87, "Pryce"
         move MOVE_HAIL
         move MOVE_ICY_WIND
         move MOVE_WATER_PULSE
+        ability ABILITY_SNOW_WARNING
+        setivs 20, 20, 20, 20, 20, 20
+        setevs 0, 0, 0, 0, 0, 0
+        nature NATURE_MODEST
         ballseal 0
 
         // mon 1
@@ -2871,11 +2896,15 @@ trainerdata 87, "Pryce"
         move MOVE_WATER_PULSE
         move MOVE_AURORA_BEAM
         move MOVE_REST
+        ability ABILITY_ICE_BODY
+        setivs 20, 20, 20, 20, 20, 20
+        setevs 0, 0, 0, 0, 0, 0
+        nature NATURE_BOLD
         ballseal 0
 
         // mon 2
         ivs 150
-        abilityslot 32
+        abilityslot 0
         level 30
         pokemon SPECIES_PILOSWINE
         item ITEM_SITRUS_BERRY
@@ -2883,6 +2912,10 @@ trainerdata 87, "Pryce"
         move MOVE_ICE_FANG
         move MOVE_EARTHQUAKE
         move MOVE_THUNDER_FANG
+        ability ABILITY_THICK_FAT
+        setivs 31, 20, 20, 20, 20, 20
+        setevs 0, 0, 0, 0, 0, 48
+        nature NATURE_CAREFUL
         ballseal 0
     endparty
 

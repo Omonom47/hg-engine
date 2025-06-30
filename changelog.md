@@ -360,8 +360,14 @@ all tm- and tutorlearnsets may need revisions
 - Chuck: 
     - As 5th gym: ace lvl 30, trainerdata 34
         - mon1: Primeape: moveset changed
+            - ivs: 20, 20, 20, 20, 20, 20
+            - nature: Careful
         - mon2: Poliwrath -> Hitmontop
+            - ivs: 20, 20, 20, 20, 20, 20
+            - nature: Impish
         - mon3: NONE -> Poliwrath (ace): moveset changed
+            - ivs: 31, 20, 20, 20, 20, 20
+            - nature: Careful
     - As 6th gym: ace lvl 33, trainerdata 11
         - mon1: Primeape: lvl 31
         - mon2: Hitmontop: lvl 31
@@ -373,8 +379,17 @@ all tm- and tutorlearnsets may need revisions
 - Jasmine:
     - as 5th gym, ace lvl 30, trainerdata 40
         - mon1: Magnemite: lvl 28
+            - ability: Sturdy
+            - ivs: 20, 20, 20, 20, 20, 20
+            - nature: Modest
         - mon2: Forretress: lvl 28
+            - ability: Sturdy
+            - ivs: 20, 20, 20, 20, 20, 20
+            - nature: Careful
         - mon3: Steelix (ace)
+            - ability: Sturdy
+            - ivs: 20, 31, 20, 20, 20, 20
+            - nature: Adamant
     - As 6th gym, ace lvl 33, trainerdata 33
         - mon1: Magnemite -> Magneton: lvl 30 -> 31 Replaces SONIC BOOM with TRI ATTACK
         - mon2: Magnemite -> Forretress: lvl 31
@@ -385,9 +400,19 @@ all tm- and tutorlearnsets may need revisions
         - mon3: Steelix (ace): Replaces SANDSTORM with ICE FANG
 - Pryce: 
     - as 5th gym, ace lvl 30, trainerdata 87
-        - mon1: Delibird: lvl 28, 
+        - mon1: Delibird: lvl 28
+            - ability: Snow warning
+            - ivs: 20, 20, 20, 20, 20, 20
+            - nature: Modest
         - mon2: Seel: lvl 28
+            - ability: Ice body
+            - ivs: 20, 20, 20, 20, 20, 20
+            - nature: Bold
         - mon3: Piloswine (ace): 
+            - ability: Thick fat
+            - ivs: 31, 20, 20, 20, 20, 20
+            - evs: 0, 0, 0, 0, 0, 48
+            - nature: careful
     - as 6th gym, ace lvl 33, trainerdata 88
         - mon1: Delibird: lvl 30
         - mon2: Dewgong: lvl 32
