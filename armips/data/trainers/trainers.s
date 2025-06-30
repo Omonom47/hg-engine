@@ -8698,7 +8698,7 @@ trainerdata 255, "Lt. Surge"
     endparty
 
 trainerdata 256, "Erika"
-    trainermontype TRAINER_DATA_TYPE_ITEMS | TRAINER_DATA_TYPE_MOVES
+    trainermontype TRAINER_DATA_TYPE_ITEMS | TRAINER_DATA_TYPE_MOVES | TRAINER_DATA_TYPE_ABILITY | TRAINER_DATA_TYPE_IV_EV_SET | TRAINER_DATA_TYPE_NATURE_SET
     trainerclass CLASS_LEADER_8
     nummons 6
     item ITEM_FULL_RESTORE
@@ -8720,6 +8720,10 @@ trainerdata 256, "Erika"
         move MOVE_SUCKER_PUNCH
         move MOVE_ROCK_SLIDE
         move MOVE_SUNNY_DAY
+        ability ABILITY_CHLOROPHYLL
+        setivs 31, 31, 31, 31, 31, 31
+        setevs 4, 252, 0, 252, 0, 0
+        nature NATURE_JOLLY
         ballseal 0
 
         // mon 1
@@ -8732,6 +8736,10 @@ trainerdata 256, "Erika"
         move MOVE_TAILWIND
         move MOVE_SLEEP_POWDER
         move MOVE_GIGA_DRAIN
+        ability ABILITY_FUR_COAT
+        setivs 31, 31, 31, 31, 31, 31
+        setevs 104, 0, 100, 252, 0, 52
+        nature NATURE_TIMID
         ballseal 0
 
         // mon 2
@@ -8744,6 +8752,10 @@ trainerdata 256, "Erika"
         move MOVE_POISON_JAB
         move MOVE_CRUNCH
         move MOVE_LEAF_BLADE
+        ability ABILITY_CHLOROPHYLL
+        setivs 31, 31, 31, 31, 31, 31
+        setevs 252, 252,0, 4, 0, 0
+        nature NATURE_ADAMANT
         ballseal 0
 
         // mon 3
@@ -8756,6 +8768,10 @@ trainerdata 256, "Erika"
         move MOVE_SOLAR_BEAM
         move MOVE_GIGA_DRAIN
         move MOVE_QUIVER_DANCE
+        ability ABILITY_CHLOROPHYLL
+        setivs 31, 31, 31, 31, 31, 31
+        setevs 200, 0, 0, 56, 252, 0
+        nature NATURE_TIMID
         ballseal 0
 
         // mon 4
@@ -8768,6 +8784,10 @@ trainerdata 256, "Erika"
         move MOVE_POWER_WHIP
         move MOVE_ROCK_SLIDE
         move MOVE_EARTHQUAKE
+        ability ABILITY_CHLOROPHYLL
+        setivs 31, 31, 31, 31, 31, 31
+        setevs 252, 252, 0, 4, 0, 0
+        nature NATURE_ADAMANT
         ballseal 0
 
         // mon 5
@@ -8780,6 +8800,10 @@ trainerdata 256, "Erika"
         move MOVE_ENERGY_BALL
         move MOVE_SLUDGE_BOMB
         move MOVE_STUN_SPORE
+        ability ABILITY_POISON_POINT
+        setivs 31, 31, 31, 31, 31, 31
+        setevs 4, 0, 0, 252, 252, 0
+        nature NATURE_TIMID
         ballseal 0
     endparty
 

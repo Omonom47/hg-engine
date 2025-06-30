@@ -798,16 +798,40 @@ now have their rematch teams with modifications
     - mon1: lvl 54 -> 57
         - LEAF STORM -> LEAF BLADE
         - EXPLOSION -> ROCK SLIDE
+        - ability: Chlorophyll
+        - ivs: 31, 31, 31, 31, 31, 31
+        - evs: 4, 252, 0, 252, 0, 0
+        - Nature: Jolly
     - mon2: lvl 53 -> 59
         - MEMENTO -> TAILWIND
+        - ability: Fur coat
+        - ivs: 31, 31, 31, 31, 31, 31
+        - evs: 104, 0, 100, 252, 0, 52
+        - Nature: Timid
     - mon3: lvl 56 -> 60
         - NATURAL GIFT -> THUNDER FANG
         - SLUDGE BOMB -> POISON JAB
         - LEAF STORM -> CRUNCH
+        - ability: Chlorophyll
+        - ivs: 31, 31, 31, 31, 31, 31
+        - evs: 252, 252, 0, 4, 0, 0
+        - Nature: Adamant
     - mon4: lvl 56 -> 60
         - ATTRACT -> QUIVER DANCE
+        - ability: Chlorophyll
+        - ivs: 31, 31, 31, 31, 31, 31
+        - evs: 4, 252, 0, 252, 0, 0
+        - Nature: Timid
     - mon5: lvl 60 -> 62
+        - ability: Chlorophyll
+        - ivs: 31, 31, 31, 31, 31, 31
+        - evs: 252, 252, 0, 4, 0, 0
+        - Nature: Adamant
     - mon6: lvl 55 -> 58
+        - ability: Poison Point
+        - ivs: 31, 31, 31, 31, 31, 31
+        - evs: 4, 0, 0, 252, 252, 0
+        - Nature: Timid
 
 - Janine: lvl total 332 -> 368
     - mon1: lvl 52 -> 60
