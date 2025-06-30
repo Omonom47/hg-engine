@@ -1308,7 +1308,7 @@ trainerdata 34, "Chuck"
     endparty
 
 trainerdata 35, "Clair"
-    trainermontype TRAINER_DATA_TYPE_ITEMS | TRAINER_DATA_TYPE_MOVES
+    trainermontype TRAINER_DATA_TYPE_ITEMS | TRAINER_DATA_TYPE_MOVES | TRAINER_DATA_TYPE_ABILITY | TRAINER_DATA_TYPE_IV_EV_SET | TRAINER_DATA_TYPE_NATURE_SET
     trainerclass CLASS_LEADER_4
     nummons 4
     item ITEM_HYPER_POTION
@@ -1330,6 +1330,10 @@ trainerdata 35, "Clair"
         move MOVE_DRAGON_RAGE
         move MOVE_CRUNCH
         move MOVE_DRAGON_PULSE
+        ability ABILITY_
+        setivs 31, 31, 31, 31, 31, 31
+        setevs 52, 52, 52, 52, 0, 52
+        nature NATURE_ADAMANT
         ballseal 0
 
         // mon 1
@@ -1342,6 +1346,10 @@ trainerdata 35, "Clair"
         move MOVE_FIRE_BLAST
         move MOVE_SLAM
         move MOVE_DRAGON_PULSE
+        ability ABILITY_SHED_SKIN
+        setivs 31, 31, 31, 31, 31, 31
+        setevs 52, 0, 52, 52, 52, 52
+        nature NATURE_HARDY
         ballseal 0
 
         // mon 2
@@ -1354,6 +1362,10 @@ trainerdata 35, "Clair"
         move MOVE_AQUA_TAIL
         move MOVE_SLAM
         move MOVE_DRAGON_PULSE
+        ability ABILITY_SHED_SKIN
+        setivs 31, 31, 31, 31, 31, 31
+        setevs 52, 52, 52, 52, 0, 52
+        nature NATURE_HARDY
         ballseal 0
 
         // mon 3
@@ -1366,6 +1378,10 @@ trainerdata 35, "Clair"
         move MOVE_HYDRO_PUMP
         move MOVE_HYPER_BEAM
         move MOVE_DRAGON_PULSE
+        ability ABILITY_SNIPER
+        setivs 31, 31, 31, 31, 31, 31
+        setevs 52, 0, 52, 104, 52, 52
+        nature NATURE_HASTY
         ballseal 0
     endparty
 

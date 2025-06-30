@@ -490,13 +490,27 @@ all tm- and tutorlearnsets may need revisions
             - nature: Adamant
 - Clair: ace lvl 43
     - mon1: Gyarados: moveset changed
+        - ability: intimidate
+        - ivs: 31, 31, 31, 31, 31, 31
+        - evs: 52, 52, 52, 52, 0, 52
+        - nature: Adamant
     - mon2:
+        - ability: Shed skin
+        - ivs: 31, 31, 31, 31, 31, 31
+        - evs: 52, 0, 52, 52, 52, 52
+        - nature: Hardy
     - mon2:
+        - ability: Shed skin
+        - ivs: 31, 31, 31, 31, 31, 31
+        - evs: 52, 52, 52, 52, 0, 52
+        - nature: Hardy
     - mon2:
+        - ability: Sniper
+        - ivs: 31, 31, 31, 31, 31, 31
+        - evs: 52, 0, 52, 104, 52, 52
+        - nature: Hasty
 
 #### ELITE FOUR (first battle): 
-
-All levels increased by 2 or 3
 
 - Will:
     - mon1: lvl 40 -> 43
