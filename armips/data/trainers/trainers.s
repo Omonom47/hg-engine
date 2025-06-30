@@ -1027,7 +1027,7 @@ trainerdata 30, "Whitney"
     endparty
 
 trainerdata 31, "Morty"
-    trainermontype TRAINER_DATA_TYPE_ITEMS | TRAINER_DATA_TYPE_MOVES
+    trainermontype TRAINER_DATA_TYPE_ITEMS | TRAINER_DATA_TYPE_MOVES | TRAINER_DATA_TYPE_ABILITY |TRAINER_DATA_TYPE_IV_EV_SET | TRAINER_DATA_TYPE_NATURE_SET
     trainerclass CLASS_LEADER_0
     nummons 4
     item ITEM_HYPER_POTION
@@ -1049,6 +1049,10 @@ trainerdata 31, "Morty"
         move MOVE_OMINOUS_WIND
         move MOVE_MEAN_LOOK
         move MOVE_CURSE
+        ability ABILITY_LEVITATE
+        setivs 15, 15, 15, 15, 15, 15
+        setevs 0, 0, 0, 0, 0, 0
+        nature NATURE_TIMID
         ballseal 0
 
         // mon 1
@@ -1061,6 +1065,10 @@ trainerdata 31, "Morty"
         move MOVE_REFLECT
         move MOVE_SHADOW_BALL
         move MOVE_ROOST
+        ability ABILITY_TINTED_LENS
+        setivs 15, 15, 15, 15, 15, 15
+        setevs 0, 0, 0, 0, 0, 0
+        nature NATURE_BOLD
         ballseal 0
 
         // mon 2
@@ -1073,6 +1081,10 @@ trainerdata 31, "Morty"
         move MOVE_SHADOW_BALL
         move MOVE_MEAN_LOOK
         move MOVE_SUCKER_PUNCH
+        ability ABILITY_CURSED_BODY
+        setivs 25, 0, 20, 15, 20, 15
+        setevs 0, 0, 0, 0, 0, 0
+        nature NATURE_HARDY
         ballseal 0
 
         // mon 3
@@ -1085,6 +1097,10 @@ trainerdata 31, "Morty"
         move MOVE_MEAN_LOOK
         move MOVE_SUCKER_PUNCH
         move MOVE_SHADOW_BALL
+        ability ABILITY_LEVITATE
+        setivs 15, 15, 15, 15, 15, 15
+        setevs 0, 0, 0, 0, 0, 0
+        nature NATURE_TIMID
         ballseal 0
     endparty
 

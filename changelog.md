@@ -341,9 +341,22 @@ all tm- and tutorlearnsets may need revisions
 
 - Morty: ace lvl 25
     - mon1: Gastly -> Misdreavus
+        - ability: Levitate
+        - ivs: 15, 15, 15, 15, 15, 15
+        - nature: Timid
     - mon2: Haunter -> Noctowl
+        - ability: Tinted lens
+        - ivs: 15, 15, 15, 15, 15, 15
+        - nature: Bold
     - Mon3: Gengar (ace): replaces HYPNOSIS with FOCUS BLAST
+        - ability: Cursed body
+        - ivs: 25, 0, 20, 15, 20, 15
+        - nature: Hardy
     - Mon4: Haunter: replaces NIGHT SHADE with SHADOW BALL
+        - ability: Levitate
+        - ivs: 15, 15, 15, 15, 15, 15
+        - nature: Timid
+
 - Chuck: 
     - As 5th gym: ace lvl 30, trainerdata 34
         - mon1: Primeape: moveset changed
