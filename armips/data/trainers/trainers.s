@@ -24507,7 +24507,7 @@ trainerdata 702, "Will"
     endparty
 
 trainerdata 703, "Koga"
-    trainermontype TRAINER_DATA_TYPE_ITEMS | TRAINER_DATA_TYPE_MOVES
+    trainermontype TRAINER_DATA_TYPE_ITEMS | TRAINER_DATA_TYPE_MOVES | TRAINER_DATA_TYPE_ABILITY | TRAINER_DATA_TYPE_IV_EV_SET | TRAINER_DATA_TYPE_NATURE_SET
     trainerclass CLASS_ELITE_FOUR_2
     nummons 6
     item ITEM_FULL_RESTORE
@@ -24529,6 +24529,10 @@ trainerdata 703, "Koga"
         move MOVE_DIG
         move MOVE_TOXIC
         move MOVE_POISON_JAB
+        ability ABILITY_AFTERMATH
+        setivs 31, 31, 31, 31, 31, 31
+        setevs 252, 252, 0, 4, 0, 0
+        nature NATURE_JOLLY
         ballseal 0
 
         // mon 1
@@ -24541,6 +24545,10 @@ trainerdata 703, "Koga"
         move MOVE_BATON_PASS
         move MOVE_PSYCHIC
         move MOVE_QUIVER_DANCE
+        ability ABILITY_TINTED_LENS
+        setivs 31, 31, 31, 31, 31, 31
+        setevs 128, 0, 0, 252, 128, 0
+        nature NATURE_TIMID
         ballseal 0
 
         // mon 2
@@ -24553,6 +24561,10 @@ trainerdata 703, "Koga"
         move MOVE_X_SCISSOR
         move MOVE_SWAGGER
         move MOVE_GUNK_SHOT
+        ability ABILITY_DRY_SKIN
+        setivs 31, 31, 31, 31, 31, 31
+        setevs 4, 252, 0, 252, 0, 0
+        nature NATURE_JOLLY
         ballseal 0
 
         // mon 3
@@ -24565,6 +24577,10 @@ trainerdata 703, "Koga"
         move MOVE_CURSE
         move MOVE_DRAIN_PUNCH
         move MOVE_BRUTAL_SWING
+        ability ABILITY_POISON_TOUCH
+        setivs 31, 31, 31, 31, 31, 31
+        setevs 252, 4, 252, 0, 0, 0
+        nature NATURE_IMPISH
         ballseal 0
 
         // mon 4
@@ -24577,6 +24593,10 @@ trainerdata 703, "Koga"
         move MOVE_ROOST
         move MOVE_AIR_SLASH
         move MOVE_SLUDGE_BOMB
+        ability ABILITY_INNER_FOCUS
+        setivs 31, 31, 31, 31, 31, 31
+        setevs 4, 0, 0, 252, 252, 0
+        nature NATURE_MODEST
         ballseal 0
 
         // mon 5
@@ -24589,6 +24609,10 @@ trainerdata 703, "Koga"
         move MOVE_AMNESIA
         move MOVE_PAIN_SPLIT
         move MOVE_SLUDGE_BOMB
+        ability ABILITY_STICKY_HOLD
+        setivs 31, 31, 31, 31, 31, 31
+        setevs 252, 0, 4, 0, 0, 252
+        nature NATURE_CALM
         ballseal 0
     endparty
 

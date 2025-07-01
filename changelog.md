@@ -1032,69 +1032,164 @@ now have their rematch teams with modifications
 - Koga: lvl total 372 -> 438
     - mon1: lvl 61 -> 72
         - EXPLOSION -> POSION JAB
+        - ability: Aftermath
+        - ivs: 31, 31, 31, 31, 31, 31
+        - evs: 252, 252, 0, 4, 0, 0
+        - nature: Jolly
     - mon2: lvl 63 -> 74
         - DOUBLE TEAM -> ENERGY BALL
         - SILVER WIND -> QUIVER DANCE
+        - ability: Tinted lens
+        - ivs: 31, 31, 31, 31, 31, 31
+        - evs: 128, 0, 0, 252, 128, 0
+        - nature: Timid
     - mon3: lvl 60 -> 71
+        - ability: Dry skin
+        - ivs: 31, 31, 31, 31, 31, 31
+        - evs: 4, 252, 0, 252, 0, 0
+        - nature: Jolly
     - mon4: lvl 62 -> 73
-        - ability: STICKY HOLD -> POISON TOUCH
         - MINIMIZE -> POISON JAB
         - SCREECH -> CURSE
         - SWAGGER -> DRAIN PUNCH
         - TOXIC -> BRUTAL SWING
+        - ability: STICKY HOLD -> POISON TOUCH
+        - ivs: 31, 31, 31, 31, 31, 31
+        - evs: 252, 4, 252, 0, 0, 0
+        - nature: Impish
     - mon5: lvl 64 -> 75
         - MEAN LOOK -> ROOST
         - FLY -> AIR SLASH
         - CROSS POISON -> SLUDGE BOMB
+        - ability: Inner focus
+        - ivs: 31, 31, 31, 31, 31, 31
+        - evs: 4, 0, 0, 252, 252, 0
+        - nature: Modest
     - mon6: lvl 62 -> 73
+        - ability: Sticky Hold
+        - ivs: 31, 31, 31, 31, 31, 31
+        - evs: 252, 0, 4, 0, 0, 252
+        - nature: Calm
 
 - Bruno: lvl total 374 -> 446
     - mon1: lvl 62 -> 74
         - QUICK ATTACK -> BRUTAL SWING
+        - ability: 
+        - ivs: 31, 31, 31, 31, 31, 31
+        - evs:
+        - nature: 
     - mon2: lvl 61 -> 73
         - SWAGGER -> ROCK SLIDE
         - REVERSAL -> POISON JAB
+        - ability: 
+        - ivs: 31, 31, 31, 31, 31, 31
+        - evs:
+        - nature: 
     - mon3: lvl 61 -> 73
+        - ability: 
+        - ivs: 31, 31, 31, 31, 31, 31
+        - evs:
+        - nature: 
     - mon4: lvl 62 -> 74
         - LOW KICK -> VACUUM WAVE
         - PAYBACK -> FAKE OUT
         - BULK UP -> BELLY DRUM
+        - ability: 
+        - ivs: 31, 31, 31, 31, 31, 31
+        - evs:
+        - nature: 
     - mon5: lvl 64 -> 76
         - FORESIGHT -> BRUTAL SWING
+        - ability: 
+        - ivs: 31, 31, 31, 31, 31, 31
+        - evs:
+        - nature: 
     - mon6: lvl 64 -> 76
         - CLOSE COMBAT -> AURA SPHERE
         - COUNTER -> EARTHQUAKE
         - IRON TAIL -> FLASH CANNON
+        - ability: 
+        - ivs: 31, 31, 31, 31, 31, 31
+        - evs:
+        - nature: 
 
 - Karen: lvl total 377 -> 454
     - mon1: lvl 62 -> 76
         - ability: pressure -> technician
         - NIGHT SLASH -> PAYBACK
         - ICE PUNCH -> AVALANCHE
+        - ability: 
+        - ivs: 31, 31, 31, 31, 31, 31
+        - evs:
+        - nature: 
     - mon2: lvl 62 -> 74
+        - ability: 
+        - ivs: 31, 31, 31, 31, 31, 31
+        - evs:
+        - nature: 
     - mon3: lvl 62 -> 75
+        - ability: 
+        - ivs: 31, 31, 31, 31, 31, 31
+        - evs:
+        - nature: 
     - mon4: lvl 64 -> 77
         - WHIRLWIND -> STEEL WING
         - SUCKER PUNCH -> NIGHT SLASH
+        - ability: 
+        - ivs: 31, 31, 31, 31, 31, 31
+        - evs:
+        - nature: 
     - mon5: lvl 63 -> 75
+        - ability: 
+        - ivs: 31, 31, 31, 31, 31, 31
+        - evs:
+        - nature: 
     - mon6: lvl 64 -> 77
+        - ability: 
+        - ivs: 31, 31, 31, 31, 31, 31
+        - evs:
+        - nature: 
 
 - Lance: lvl total 428 -> 468
     - mon1: lvl 72 -> 78
+        - ability: 
+        - ivs: 31, 31, 31, 31, 31, 31
+        - evs:
+        - nature: 
     - mon2: lvl 68 -> 76
         - THUNDER WAVE -> CRUNCH
+        - ability: 
+        - ivs: 31, 31, 31, 31, 31, 31
+        - evs:
+        - nature: 
     - mon3: lvl 72 -> 78
         - ROAR -> IRON HEAD
+        - ability: 
+        - ivs: 31, 31, 31, 31, 31, 31
+        - evs:
+        - nature: 
     - mon4: lvl 73 -> 79
         - DRAGON BREATH -> DRAGON PULSE
         - DOUBLE TEAM -> FLAMETHROWER
         - HYPER BEAM -> HYPER VOICE
+        - ability: 
+        - ivs: 31, 31, 31, 31, 31, 31
+        - evs:
+        - nature: 
     - mon5: lvl 68 -> 76
+        - ability: 
+        - ivs: 31, 31, 31, 31, 31, 31
+        - evs:
+        - nature: 
     - mon6: lvl 75 -> 81
         - FIRE BLAST -> IRON HEAD
         - SAFEGUARD -> DRAGON DANCE
         - DRACO METEOR -> DRAGON CLAW
         - HYPER BEAM -> EARTHQUAKE
+        - ability: 
+        - ivs: 31, 31, 31, 31, 31, 31
+        - evs:
+        - nature: 
 
 #### Red
 - mon1:
