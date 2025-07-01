@@ -1096,6 +1096,39 @@ now have their rematch teams with modifications
         - DRACO METEOR -> DRAGON CLAW
         - HYPER BEAM -> EARTHQUAKE
 
+#### Red
+- mon1:
+    - ability: Static
+    - ivs: 31, 31, 31, 31, 31, 31
+    - evs: 4, 252, 0, 252, 0, 0
+    - nature: Adamant
+- mon2:
+    - ability: Shell armor
+    - ivs: 31, 31, 31, 31, 31, 31
+    - evs: 252, 0, 128, 0, 128, 0
+    - nature: Modest
+- mon3:
+    - ability: Thick fat
+    - ivs: 31, 31, 31, 31, 31, 31
+    - evs: 252, 252, 4, 0 , 0, 0
+    - nature: Brave
+- mon4:
+    - ability: Overgrow
+    - ivs: 31, 31, 31, 31, 31, 31
+    - evs: 252, 0, 0, 0, 128, 128
+    - nature: Timid
+- mon5:
+    - ability: Blaze
+    - ivs: 31, 31, 31, 31, 31, 31
+    - evs: 4, 0, 0, 252, 252, 0
+    - nature: Timid
+- mon6:
+    - ability: Torrent
+    - ivs: 31, 31, 31, 31, 31, 31
+    - evs: 252, 0, 100, 0, 100, 56
+    - nature: Modest
+    
+
 ### Updated wild Encounters and regular trainers battles
 Walking enounter rates per slot are: 20, 20, 10, 10, 10, 10, 5, 5, 4, 4, 1, 1
 

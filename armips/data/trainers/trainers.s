@@ -9138,7 +9138,7 @@ trainerdata 259, "Blaine"
     endparty
 
 trainerdata 260, "Red"
-    trainermontype TRAINER_DATA_TYPE_ITEMS | TRAINER_DATA_TYPE_MOVES
+    trainermontype TRAINER_DATA_TYPE_ITEMS | TRAINER_DATA_TYPE_MOVES | TRAINER_DATA_TYPE_ABILITY | TRAINER_DATA_TYPE_IV_EV_SET | TRAINER_DATA_TYPE_NATURE_SET
     trainerclass CLASS_PKMN_TRAINER_9
     nummons 6
     item ITEM_FULL_RESTORE
@@ -9160,6 +9160,10 @@ trainerdata 260, "Red"
         move MOVE_IRON_TAIL
         move MOVE_QUICK_ATTACK
         move MOVE_THUNDERBOLT
+        ability ABILITY_STATIC
+        setivs 31, 31, 31, 31, 31, 31
+        setevs 4, 252, 0, 252, 0, 0
+        nature NATURE_ADAMANT
         ballseal 0
 
         // mon 1
@@ -9172,6 +9176,10 @@ trainerdata 260, "Red"
         move MOVE_BRINE
         move MOVE_PSYCHIC
         move MOVE_BODY_SLAM
+        ability ABILITY_SHELL_ARMOR
+        setivs 31, 31, 31, 31, 31, 31
+        setevs 252, 0, 128, 0, 128, 0
+        nature NATURE_MODEST
         ballseal 0
 
         // mon 2
@@ -9184,6 +9192,10 @@ trainerdata 260, "Red"
         move MOVE_CRUNCH
         move MOVE_BLIZZARD
         move MOVE_GIGA_IMPACT
+        ability ABILITY_THICK_FAT
+        setivs 31, 31, 31, 31, 31, 31
+        setevs 252, 252, 4, 0, 0, 0
+        nature NATURE_BRAVE
         ballseal 0
 
         // mon 3
@@ -9196,6 +9208,10 @@ trainerdata 260, "Red"
         move MOVE_GIGA_DRAIN
         move MOVE_SLEEP_POWDER
         move MOVE_FRENZY_PLANT
+        ability ABILITY_OVERGROW
+        setivs 31, 31, 31, 31, 31, 31
+        setevs 252, 0, 0, 0, 128, 128
+        nature NATURE_TIMID
         ballseal 0
 
         // mon 4
@@ -9208,6 +9224,10 @@ trainerdata 260, "Red"
         move MOVE_AIR_SLASH
         move MOVE_BLAST_BURN
         move MOVE_DRAGON_PULSE
+        ability ABILITY_BLAZE
+        setivs 31, 31, 31, 31, 31, 31
+        setevs 4, 0, 0, 252, 252, 0
+        nature NATURE_TIMID
         ballseal 0
 
         // mon 5
@@ -9220,6 +9240,10 @@ trainerdata 260, "Red"
         move MOVE_HYDRO_CANNON
         move MOVE_BLIZZARD
         move MOVE_FLASH_CANNON
+        ability ABILITY_TORRENT
+        setivs 31, 31, 31, 31, 31, 31
+        setevs 252, 0, 100, 0, 100, 56
+        nature NATURE_MODEST
         ballseal 0
     endparty
 
