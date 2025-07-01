@@ -9224,7 +9224,7 @@ trainerdata 260, "Red"
     endparty
 
 trainerdata 261, "Blue"
-    trainermontype TRAINER_DATA_TYPE_ITEMS | TRAINER_DATA_TYPE_MOVES
+    trainermontype TRAINER_DATA_TYPE_ITEMS | TRAINER_DATA_TYPE_MOVES | TRAINER_DATA_TYPE_ABILITY | TRAINER_DATA_TYPE_IV_EV_SET | TRAINER_DATA_TYPE_NATURE_SET
     trainerclass CLASS_LEADER_12
     nummons 6
     item ITEM_FULL_RESTORE
@@ -9246,6 +9246,10 @@ trainerdata 261, "Blue"
         move MOVE_PSYSHOCK
         move MOVE_ANCIENT_POWER
         move MOVE_TRICK_ROOM
+        ability ABILITY_CHLOROPHYLL
+        setivs 31, 31, 31, 31, 31, 31
+        setevs 252, 0, 4, 0, 252, 0
+        nature NATURE_RELAXED
         ballseal 0
 
         // mon 1
@@ -9258,6 +9262,10 @@ trainerdata 261, "Blue"
         move MOVE_STONE_EDGE
         move MOVE_FLING
         move MOVE_POISON_JAB
+        ability ABILITY_NO_GUARD
+        setivs 31, 31, 31, 31, 31, 31
+        setevs 252, 128, 0, 0, 0, 128
+        nature NATURE_SASSY
         ballseal 0
 
         // mon 2
@@ -9270,6 +9278,10 @@ trainerdata 261, "Blue"
         move MOVE_STONE_EDGE
         move MOVE_WILD_CHARGE
         move MOVE_EARTHQUAKE
+        ability ABILITY_SOLID_ROCK
+        setivs 31, 31, 31, 31, 31, 31
+        setevs 252, 252, 0, 0, 0, 4
+        nature NATURE_ADAMANT
         ballseal 0
 
         // mon 3
@@ -9282,6 +9294,10 @@ trainerdata 261, "Blue"
         move MOVE_EXTREME_SPEED
         move MOVE_THUNDER_FANG
         move MOVE_CRUNCH
+        ability ABILITY_INTIMIDATE
+        setivs 31, 31, 31, 31, 31, 31
+        setevs 128, 252, 0, 128, 0, 0
+        nature NATURE_ADAMANT
         ballseal 0
 
         // mon 4
@@ -9294,6 +9310,10 @@ trainerdata 261, "Blue"
         move MOVE_FIRE_FANG
         move MOVE_ROCK_SLIDE
         move MOVE_EARTHQUAKE
+        ability ABILITY_UNNERVE
+        setivs 31, 31, 31, 31, 31, 31
+        setevs 252, 252, 0, 0, 0, 4
+        nature NATURE_ADAMANT
         ballseal 0
 
         // mon 5
@@ -9306,6 +9326,10 @@ trainerdata 261, "Blue"
         move MOVE_ROOST
         move MOVE_AIR_SLASH
         move MOVE_STEEL_WING
+        ability ABILITY_BIG_PECKS
+        setivs 31, 31, 31, 31, 31, 31
+        setevs 4, 128, 0, 252, 128, 0
+        nature NATURE_SERIOUS
         ballseal 0
     endparty
 

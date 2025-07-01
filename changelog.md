@@ -955,15 +955,39 @@ now have their rematch teams with modifications
     - mon1: lvl 67
         - PSYCHIC -> PSYSCHOCK
         - EXPLOSION -> ANCIENT POWER
+        - ability: Chlorophyll
+        - ivs: 31, 31, 31, 31, 31, 31
+        - evs: 252, 0, 4, 0, 252, 0
+        - nature: Relaxed
     - mon2: lvl 69
         - ATTRACT -> POISON JAB
+        - ability: No Guard
+        - ivs: 31, 31, 31, 31, 31, 31
+        - evs: 252, 128, 0, 0, 0, 128
+        - nature: Sassy
     - mon3: lvl 70
         - THUNDER FANG -> WILD CHARGE
+        - ability: Solid rock
+        - ivs: 31, 31, 31, 31, 31, 31
+        - evs: 252, 252, 0, 0, 0, 4
+        - nature: Adamant
     - mon4: lvl 68
+        - ability: Intimidate
+        - ivs: 31, 31, 31, 31, 31, 31
+        - evs: 128, 252, 0, 128, 0, 0
+        - nature: Adamant
     - mon5: lvl 70
         - LOW KICK -> CRUNCH
+        - ability: Unnerve
+        - ivs: 31, 31, 31, 31, 31, 31
+        - evs: 252, 252, 0, 0, 0, 4
+        - nature: Adamant
     - mon6: lvl 72
         - DOUBLE TEAM -> ROOST
+        - ability: Big Pecks
+        - ivs: 31, 31, 31, 31, 31, 31
+        - evs: 0, 128, 0, 252, 128, 0
+        - nature: Serious
 
 
 #### ELITE FOUR (after 16 badges)
