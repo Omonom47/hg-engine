@@ -9028,14 +9028,14 @@ trainerdata 258, "Sabrina"
     endparty
 
 trainerdata 259, "Blaine"
-    trainermontype TRAINER_DATA_TYPE_ITEMS | TRAINER_DATA_TYPE_MOVES
+    trainermontype TRAINER_DATA_TYPE_ITEMS | TRAINER_DATA_TYPE_MOVES | TRAINER_DATA_TYPE_ABILITY | TRAINER_DATA_TYPE_IV_EV_SET | TRAINER_DATA_TYPE_NATURE_SET
     trainerclass CLASS_LEADER_11
     nummons 6
     item ITEM_FULL_RESTORE
     item ITEM_FULL_RESTORE
     item ITEM_FULL_RESTORE
     item ITEM_NONE
-    aiflags F_PRIORITIZE_SUPER_EFFECTIVE | F_EVALUATE_ATTACKS | F_EXPERT_ATTACKS | 0
+    aiflags F_PRIORITIZE_SUPER_EFFECTIVE | F_EVALUATE_ATTACKS | F_EXPERT_ATTACKS | F_USE_WEATHER | 0
     battletype SINGLE_BATTLE
     endentry
 
@@ -9050,6 +9050,10 @@ trainerdata 259, "Blaine"
         move MOVE_YAWN
         move MOVE_SOLAR_BEAM
         move MOVE_OVERHEAT
+        ability ABILITY_DROUGHT
+        setivs 31, 31, 31, 31, 31, 31
+        setevs 252, 0, 0, 0, 128, 128
+        nature NATURE_QUIET
         ballseal 0
 
         // mon 1
@@ -9062,6 +9066,10 @@ trainerdata 259, "Blaine"
         move MOVE_ERUPTION
         move MOVE_SOLAR_BEAM
         move MOVE_SUNNY_DAY
+        ability ABILITY_SOLID_ROCK
+        setivs 31, 31, 31, 31, 31, 31
+        setevs 252, 4, 0, 0, 252, 0
+        nature NATURE_QUIET
         ballseal 0
 
         // mon 2
@@ -9074,6 +9082,10 @@ trainerdata 259, "Blaine"
         move MOVE_PLAY_ROUGH
         move MOVE_OVERHEAT
         move MOVE_FLARE_BLITZ
+        ability ABILITY_FLASH_FIRE
+        setivs 31, 31, 31, 31, 31, 31
+        setevs 4, 252, 0, 252, 0, 0
+        nature NATURE_ADAMANT
         ballseal 0
 
         // mon 3
@@ -9086,6 +9098,10 @@ trainerdata 259, "Blaine"
         move MOVE_EARTH_POWER
         move MOVE_OVERHEAT
         move MOVE_POWER_GEM
+        ability ABILITY_SOLID_ROCK
+        setivs 31, 31, 31, 31, 31, 31
+        setevs 0, 0, 56, 0, 200, 252
+        nature NATURE_QUIET
         ballseal 0
 
         // mon 4
@@ -9098,6 +9114,10 @@ trainerdata 259, "Blaine"
         move MOVE_DARK_PULSE
         move MOVE_FLAMETHROWER
         move MOVE_SUCKER_PUNCH
+        ability ABILITY_EARLY_BIRD
+        setivs 31, 31, 31, 31, 31, 31
+        setevs 4, 0, 0, 252, 252, 0
+        nature NATURE_TIMID
         ballseal 0
 
         // mon 5
@@ -9110,6 +9130,10 @@ trainerdata 259, "Blaine"
         move MOVE_FOCUS_BLAST
         move MOVE_FLAMETHROWER
         move MOVE_CONFUSE_RAY
+        ability ABILITY_FLAME_BODY
+        setivs 31, 31, 31, 31, 31, 31
+        setevs 56, 0, 0, 252, 200, 0
+        nature NATURE_TIMID
         ballseal 0
     endparty
 

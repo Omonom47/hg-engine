@@ -913,19 +913,43 @@ now have their rematch teams with modifications
 
 - Blaine: lvl total 346 -> 404
     - mon1: lvl 54 -> 67
-        - Ability: White smoke -> drought
         - SUNNY DAY -> EARTHQUAKE
         - BODY SLAM -> SOLAR BEAM
+        - ability: White smoke -> drought
+        - ivs: 31, 31, 31, 31, 31, 31
+        - evs: 252, 0, 0, 0, 128, 128
+        - nature: Quiet
     - mon2: lvl 57 -> 67
+        - ability: Solid Rock
+        - ivs: 31, 31, 31, 31, 31, 31
+        - evs: 252, 4, 0, 0, 252, 0
+        - nature: Quiet
     - mon3: lvl 60 -> 68
         - QUICK ATTACK -> PLAY ROUGH
+        - ability: Flash fire
+        - ivs: 31, 31, 31, 31, 31, 31
+        - evs: 4, 252, 0, 252, 0, 0
+        - nature: Adamant
     - mon4: lvl 58 -> 65
         - STONE EDGE -> POWER GEM
         - GYRO BALL -> EARTH POWER
         - CURSE -> RECOVER
+        - ability: Solid Rock
+        - ivs: 31, 31, 31, 31, 31, 31
+        - evs: 0, 0, 56, 0, 200, 252
+        - nature: Quiet
     - mon5: lvl 54 -> 67
+        - ability: Early Bird
+        - ivs: 31, 31, 31, 31, 31, 31
+        - evs: 4, 0, 0, 252, 252, 0
+        - nature: Timid
     - mon6: lvl 62 -> 70
         - LOW KICK -> FOCUS BLAST
+        - ability: Flame body
+        - ivs: 31, 31, 31, 31, 31, 31
+        - evs: 56, 0, 0, 252, 200, 0
+        - nature: Timid
+
     
 - Blue: currentl lvl total 416
     - mon1: lvl 67
