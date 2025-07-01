@@ -24727,7 +24727,7 @@ trainerdata 704, "Bruno"
     endparty
 
 trainerdata 705, "Karen"
-    trainermontype TRAINER_DATA_TYPE_ITEMS | TRAINER_DATA_TYPE_MOVES
+    trainermontype TRAINER_DATA_TYPE_ITEMS | TRAINER_DATA_TYPE_MOVES | TRAINER_DATA_TYPE_ABILITY | TRAINER_DATA_TYPE_IV_EV_SET | TRAINER_DATA_TYPE_NATURE_SET
     trainerclass CLASS_ELITE_FOUR_1
     nummons 6
     item ITEM_FULL_RESTORE
@@ -24742,13 +24742,17 @@ trainerdata 705, "Karen"
         // mon 0
         ivs 250
         abilityslot 32
-        level 76
-        pokemon SPECIES_WEAVILE
+        level 77
+        pokemon SPECIES_HONCHKROW
         item ITEM_NONE
-        move MOVE_ICE_SHARD
-        move MOVE_PAYBACK
-        move MOVE_AVALANCHE
-        move MOVE_LOW_KICK
+        move MOVE_DRILL_PECK
+        move MOVE_TAILWIND
+        move MOVE_NIGHT_SLASH
+        move MOVE_THUNDER_WAVE
+        ability ABILITY_INSOMNIA
+        setivs 31, 31, 31, 31, 31, 31
+        setevs 252, 4, 0, 252, 0, 0
+        nature NATURE_JOLLY
         ballseal 0
 
         // mon 1
@@ -24761,6 +24765,10 @@ trainerdata 705, "Karen"
         move MOVE_CONFUSE_RAY
         move MOVE_PAIN_SPLIT
         move MOVE_SUCKER_PUNCH
+        ability ABILITY_PRESSURE
+        setivs 31, 31, 31, 31, 31, 31
+        setevs 252, 0, 128, 0, 0, 128
+        nature NATURE_SASSY
         ballseal 0
 
         // mon 2
@@ -24773,18 +24781,26 @@ trainerdata 705, "Karen"
         move MOVE_PSYCHO_CUT
         move MOVE_DETECT
         move MOVE_PERISH_SONG
+        ability ABILITY_SUPER_LUCK
+        setivs 31, 31, 31, 31, 31, 31
+        setevs 4 252, 0, 252, 0, 0
+        nature NATURE_JOLLY
         ballseal 0
 
         // mon 3
         ivs 250
         abilityslot 32
-        level 77
-        pokemon SPECIES_HONCHKROW
+        level 76
+        pokemon SPECIES_WEAVILE
         item ITEM_NONE
-        move MOVE_DRILL_PECK
-        move MOVE_STEEL_WING
-        move MOVE_NIGHT_SLASH
-        move MOVE_THUNDER_WAVE
+        move MOVE_ICE_SHARD
+        move MOVE_PAYBACK
+        move MOVE_AVALANCHE
+        move MOVE_LOW_KICK
+        ability ABILITY_TECHNICIAN
+        setivs 31, 31, 31, 31, 31, 31
+        setevs 4, 252, 0, 252, 0, 0
+        nature NATURE_ADAMANT
         ballseal 0
 
         // mon 4
@@ -24797,6 +24813,10 @@ trainerdata 705, "Karen"
         move MOVE_DARK_PULSE
         move MOVE_FLAMETHROWER
         move MOVE_SLUDGE_BOMB
+        ability ABILITY_FLASH_FIRE
+        setivs 31, 31, 31, 31, 31, 31
+        setevs 4, 0, 0, 252, 252, 0
+        nature NATURE_TIMID
         ballseal 0
 
         // mon 5
@@ -24809,6 +24829,10 @@ trainerdata 705, "Karen"
         move MOVE_PAYBACK
         move MOVE_CONFUSE_RAY
         move MOVE_SUCKER_PUNCH
+        ability ABILITY_SYNCHRONIZE
+        setivs 31, 31, 31, 31, 31, 31
+        setevs 252, 252, 4, 0, 0, 0
+        nature NATURE_ADAMANT
         ballseal 0
     endparty
 

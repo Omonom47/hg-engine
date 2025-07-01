@@ -1118,41 +1118,40 @@ now have their rematch teams with modifications
         - nature: TIMID
 
 - Karen: lvl total 377 -> 454
-    - mon1: lvl 62 -> 76
-        - ability: pressure -> technician
+    - mon1: Weavile -> Honchcrow, lvl 62 -> 77
+        - WHIRLWIND -> TAILWIND
+        - SUCKER PUNCH -> NIGHT SLASH
+        - ability: Insomnia
+        - ivs: 31, 31, 31, 31, 31, 31
+        - evs: 252, 4, 0, 252, 0, 0
+        - nature: Jolly
+    - mon2: lvl 62 -> 74
+        - ability: Pressure
+        - ivs: 31, 31, 31, 31, 31, 31
+        - evs: 252, 0, 128, 0, 0, 128
+        - nature: Sassy
+    - mon3: lvl 62 -> 75
+        - ability: Super luck
+        - ivs: 31, 31, 31, 31, 31, 31
+        - evs: 4, 252, 0, 252, 0, 0
+        - nature: Jolly
+    - mon4: Honchcrow -> Weavile, lvl 64 -> 76
         - NIGHT SLASH -> PAYBACK
         - ICE PUNCH -> AVALANCHE
-        - ability: 
+        - ability: pressure -> technician
         - ivs: 31, 31, 31, 31, 31, 31
-        - evs:
-        - nature: 
-    - mon2: lvl 62 -> 74
-        - ability: 
-        - ivs: 31, 31, 31, 31, 31, 31
-        - evs:
-        - nature: 
-    - mon3: lvl 62 -> 75
-        - ability: 
-        - ivs: 31, 31, 31, 31, 31, 31
-        - evs:
-        - nature: 
-    - mon4: lvl 64 -> 77
-        - WHIRLWIND -> STEEL WING
-        - SUCKER PUNCH -> NIGHT SLASH
-        - ability: 
-        - ivs: 31, 31, 31, 31, 31, 31
-        - evs:
-        - nature: 
+        - evs: 4, 252, 0, 252, 0, 0
+        - nature: Adamant
     - mon5: lvl 63 -> 75
-        - ability: 
+        - ability: Flash fire
         - ivs: 31, 31, 31, 31, 31, 31
-        - evs:
-        - nature: 
+        - evs: 4, 0, 0, 252, 252, 0
+        - nature: Timid
     - mon6: lvl 64 -> 77
-        - ability: 
+        - ability: Synchronize
         - ivs: 31, 31, 31, 31, 31, 31
-        - evs:
-        - nature: 
+        - evs: 252, 252, 4, 0, 0, 0
+        - nature: Adamant
 
 - Lance: lvl total 428 -> 468
     - mon1: lvl 72 -> 78
