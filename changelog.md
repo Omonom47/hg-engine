@@ -879,12 +879,37 @@ now have their rematch teams with modifications
 - Sabrina: lvl total 334 -> 380
     - mon1: lvl 60 -> 66
         - GRAVITY -> SHADOW BALL
+        - ability: Magic guard
+        - ivs: 31, 31, 31, 31, 31, 31
+        - evs: 4, 0, 0, 252, 252, 0
+        - nature: Modest
     - mon2: lvl 58 -> 64
+        - ability: Sniper
+        - ivs: 31, 31, 31, 31, 31, 31
+        - evs: 4, 0, 0, 252, 252, 0
+        - nature: Timid
     - mon3: lvl 56 -> 64
         - THUNDER -> DAZZLING GLEAM
+        - ability: Filter
+        - ivs: 31, 31, 31, 31, 31, 31
+        - evs: 252, 0, 0, 4, 252, 0
+        - nature: Timid
     - mon4: lvl 54 -> 61
+        - ability: Dry skin
+        - ivs: 31, 31, 31, 31, 31, 31
+        - evs: 4, 0, 0, 252, 252, 0
+        - nature: Timid
     - mon5: lvl 53 -> 61
+        - ability: Shadow tag
+        - ivs: 31, 31, 31, 31, 31, 31
+        - evs: 252, 0, 128, 0, 0, 128
+        - nature: Bold
     - mon6: lvl 53 -> 64
+        - CLOSE COMBAT -> SACRED SWORD
+        - ability: Sharpness
+        - ivs: 31, 31, 31, 31, 31, 31
+        - evs: 4, 252, 0, 252, 0, 0
+        - nature: Adamant
 
 - Blaine: lvl total 346 -> 404
     - mon1: lvl 54 -> 67

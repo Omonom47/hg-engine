@@ -8918,7 +8918,7 @@ trainerdata 257, "Janine"
     endparty
 
 trainerdata 258, "Sabrina"
-    trainermontype TRAINER_DATA_TYPE_ITEMS | TRAINER_DATA_TYPE_MOVES
+    trainermontype TRAINER_DATA_TYPE_ITEMS | TRAINER_DATA_TYPE_MOVES | TRAINER_DATA_TYPE_ABILITY | TRAINER_DATA_TYPE_IV_EV_SET | TRAINER_DATA_TYPE_NATURE_SET
     trainerclass CLASS_LEADER_10
     nummons 6
     item ITEM_FULL_RESTORE
@@ -8940,6 +8940,10 @@ trainerdata 258, "Sabrina"
         move MOVE_FOCUS_BLAST
         move MOVE_ENERGY_BALL
         move MOVE_PSYCHIC
+        ability ABILITY_MAGIC_GUARD
+        setivs 31, 31, 31, 31, 31, 31
+        setevs 4, 0, 0, 252, 252, 0
+        nature NATURE_MODEST
         ballseal 0
 
         // mon 1
@@ -8952,6 +8956,10 @@ trainerdata 258, "Sabrina"
         move MOVE_BATON_PASS
         move MOVE_SHADOW_BALL
         move MOVE_PSYCHIC
+        ability ABILITY_SYNCHRONIZE
+        setivs 31, 31, 31, 31, 31, 31
+        setevs 4, 0, 0, 252, 252, 0
+        nature NATURE_TIMID
         ballseal 0
 
         // mon 2
@@ -8964,6 +8972,10 @@ trainerdata 258, "Sabrina"
         move MOVE_SKILL_SWAP
         move MOVE_DAZZLING_GLEAM
         move MOVE_PSYCHIC
+        ability ABILITY_FILTER
+        setivs 31, 31, 31, 31, 31, 31
+        setevs 252, 0, 0, 4, 252, 0
+        nature NATURE_TIMID
         ballseal 0
 
         // mon 3
@@ -8976,6 +8988,10 @@ trainerdata 258, "Sabrina"
         move MOVE_PERISH_SONG
         move MOVE_PSYCHIC
         move MOVE_FOCUS_BLAST
+        ability ABILITY_DRY_SKIN
+        setivs 31, 31, 31, 31, 31, 31
+        setevs 4, 0, 0, 252, 252, 0
+        nature NATURE_TIMID
         ballseal 0
 
         // mon 4
@@ -8988,6 +9004,10 @@ trainerdata 258, "Sabrina"
         move MOVE_MIRROR_COAT
         move MOVE_DESTINY_BOND
         move MOVE_ENCORE
+        ability ABILITY_SHADOW_TAG
+        setivs 31, 31, 31, 31, 31, 31
+        setevs 252, 0, 128, 0, 0, 128
+        nature NATURE_BOLD
         ballseal 0
 
         // mon 5
@@ -8996,10 +9016,14 @@ trainerdata 258, "Sabrina"
         level 64
         pokemon SPECIES_GALLADE
         item ITEM_SITRUS_BERRY
-        move MOVE_CLOSE_COMBAT
+        move MOVE_SACRED_SWORD
         move MOVE_PSYCHO_CUT
         move MOVE_NIGHT_SLASH
         move MOVE_STONE_EDGE
+        ability ABILITY_SHARPNESS
+        setivs 31, 31, 31, 31, 31, 31
+        setevs 4, 252, 0, 252, 0, 0
+        nature NATURE_ADAMANT
         ballseal 0
     endparty
 
