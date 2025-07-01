@@ -1155,44 +1155,44 @@ now have their rematch teams with modifications
 
 - Lance: lvl total 428 -> 468
     - mon1: lvl 72 -> 78
-        - ability: 
+        - ability: Intimidate
         - ivs: 31, 31, 31, 31, 31, 31
-        - evs:
-        - nature: 
+        - evs: 0, 200, 0, 252, 56
+        - nature: Hasty
     - mon2: lvl 68 -> 76
         - THUNDER WAVE -> CRUNCH
-        - ability: 
+        - ability: Intimidate
         - ivs: 31, 31, 31, 31, 31, 31
-        - evs:
-        - nature: 
+        - evs: 4, 252, 0, 252, 0, 0
+        - nature: Jolly
     - mon3: lvl 72 -> 78
         - ROAR -> IRON HEAD
-        - ability: 
+        - ability: Rough Skin
         - ivs: 31, 31, 31, 31, 31, 31
-        - evs:
-        - nature: 
+        - evs: 4, 252, 0, 252, 0, 0
+        - nature: Jolly
     - mon4: lvl 73 -> 79
         - DRAGON BREATH -> DRAGON PULSE
         - DOUBLE TEAM -> FLAMETHROWER
         - HYPER BEAM -> HYPER VOICE
-        - ability: 
+        - ability: Natural cure
         - ivs: 31, 31, 31, 31, 31, 31
-        - evs:
-        - nature: 
+        - evs: 4, 0, 0, 252, 252, 0
+        - nature: Timid
     - mon5: lvl 68 -> 76
-        - ability: 
+        - ability: Blaze
         - ivs: 31, 31, 31, 31, 31, 31
-        - evs:
-        - nature: 
+        - evs: 4, 0, 0, 252, 252, 0
+        - nature: Timid 
     - mon6: lvl 75 -> 81
         - FIRE BLAST -> IRON HEAD
         - SAFEGUARD -> DRAGON DANCE
         - DRACO METEOR -> DRAGON CLAW
         - HYPER BEAM -> EARTHQUAKE
-        - ability: 
+        - ability: Multiscale
         - ivs: 31, 31, 31, 31, 31, 31
-        - evs:
-        - nature: 
+        - evs: 4, 252, 0, 252, 0, 0
+        - nature: Adamant
 
 #### Red
 - mon1:

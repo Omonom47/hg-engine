@@ -24311,7 +24311,7 @@ trainerdata 700, "Giovanni"
     endparty
 
 trainerdata 701, "Lance"
-    trainermontype TRAINER_DATA_TYPE_ITEMS | TRAINER_DATA_TYPE_MOVES
+    trainermontype TRAINER_DATA_TYPE_ITEMS | TRAINER_DATA_TYPE_MOVES | TRAINER_DATA_TYPE_ABILITY | TRAINER_DATA_TYPE_IV_EV_SET | TRAINER_DATA_TYPE_NATURE_SET
     trainerclass CLASS_CHAMPION
     nummons 6
     item ITEM_FULL_RESTORE
@@ -24333,6 +24333,10 @@ trainerdata 701, "Lance"
         move MOVE_SHADOW_CLAW
         move MOVE_DRAGON_CLAW
         move MOVE_REST
+        ability ABILITY_INTIMIDATE
+        setivs 31, 31, 31, 31, 31, 31
+        setevs 0, 200, 0, 252, 56, 0
+        nature NATURE_HASTY
         ballseal 0
 
         // mon 1
@@ -24345,6 +24349,10 @@ trainerdata 701, "Lance"
         move MOVE_ICE_FANG
         move MOVE_WATERFALL
         move MOVE_DRAGON_DANCE
+        ability ABILITY_INTIMIDATE
+        setivs 31, 31, 31, 31, 31, 31
+        setevs 4, 252, 0, 252, 0, 0
+        nature NATURE_JOLLY
         ballseal 0
 
         // mon 2
@@ -24357,6 +24365,10 @@ trainerdata 701, "Lance"
         move MOVE_OUTRAGE
         move MOVE_EARTHQUAKE
         move MOVE_IRON_HEAD
+        ability ABILITY_ROUGH_SKIN
+        setivs 31, 31, 31, 31, 31, 31
+        setevs 4, 252, 0, 252, 0, 0
+        nature NATURE_JOLLY
         ballseal 0
 
         // mon 3
@@ -24369,6 +24381,10 @@ trainerdata 701, "Lance"
         move MOVE_DRAGON_PULSE
         move MOVE_FLAMETHROWER
         move MOVE_HYPER_VOICE
+        ability ABILITY_NATURAL_CURE
+        setivs 31, 31, 31, 31, 31, 31
+        setevs 4, 0, 0, 252, 252, 0
+        nature NATURE_TIMID
         ballseal 0
 
         // mon 4
@@ -24381,6 +24397,10 @@ trainerdata 701, "Lance"
         move MOVE_AIR_SLASH
         move MOVE_DRAGON_CLAW
         move MOVE_HYPER_BEAM
+        ability ABILITY_BLAZE
+        setivs 31, 31, 31, 31, 31, 31
+        setevs 4, 0, 0, 252, 252, 0
+        nature NATURE_TIMID
         ballseal 0
 
         // mon 5
@@ -24393,6 +24413,10 @@ trainerdata 701, "Lance"
         move MOVE_DRAGON_DANCE
         move MOVE_DRAGON_CLAW
         move MOVE_EARTHQUAKE
+        ability ABILITY_MULTISCALE
+        setivs 31, 31, 31, 31, 31, 31
+        setevs 4, 252, 0, 252, 0, 0
+        nature NATURE_ADAMANT
         ballseal 0
     endparty
 
