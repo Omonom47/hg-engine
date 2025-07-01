@@ -835,20 +835,46 @@ now have their rematch teams with modifications
 
 - Janine: lvl total 332 -> 368
     - mon1: lvl 52 -> 60
+        - CROSS POISON -> SLUDGE BOMB
         - CONFUSE RAY -> TAILWIND
+        - ability: Inner Focus
+        - ivs: 31, 31, 31, 31, 31, 31
+        - evs: 4, 0, 0, 252, 252, 0
+        - nature: Timid
     - mon2: lvl 56 -> 59
+        - ability: Levitate
+        - ivs: 31, 31, 31, 31, 31, 31
+        - evs: 252, 0, 4, 0, 100, 152
+        - nature: Calm
     - mon3: lvl 52 -> 60
         - CROSS CHOP -> BRICK BREAK
         - ATTRACT -> SUCKER PUNCH
+        - ability: Drys skin
+        - ivs: 31, 31, 31, 31, 31, 31
+        - evs: 4, 252, 0, 252, 0, 0
+        - nature: Jolly
     - mon4: lvl 58 -> 63
         - TOXIC -> STICKY WEB
         - BOUNCE -> X-SCIZOR
         - SWAGGER -> PROTECT
         - NIGHT SHADE -> NIGHT SLASH
+        - ability: Adaptability
+        - ivs: 31, 31, 31, 31, 31, 31
+        - evs: 252, 0, 128, 0, 0, 128
+        - nature: Adamant
     - mon5: lvl 59 -> 64
         - DOUBLE TEAM -> ENERGY BALL
+        - ability: Tinted lens
+        - ivs: 31, 31, 31, 31, 31, 31
+        - evs: 4, 0, 0, 252, 252, 0
+        - nature: Timid
     - mon6: lvl 55 -> 62
         - CONFUSE RAY -> EARTHQUAKE
+        - CRUNCH -> NIGHT SLASH
+        - ability: Sniper
+        - ivs: 31, 31, 31, 31, 31, 31
+        - evs: 100, 252, 0, 156, 0, 0
+        - nature: Adamant
 
 - Sabrina: lvl total 334 -> 380
     - mon1: lvl 60 -> 66

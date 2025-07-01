@@ -8808,7 +8808,7 @@ trainerdata 256, "Erika"
     endparty
 
 trainerdata 257, "Janine"
-    trainermontype TRAINER_DATA_TYPE_ITEMS | TRAINER_DATA_TYPE_MOVES
+    trainermontype TRAINER_DATA_TYPE_ITEMS | TRAINER_DATA_TYPE_MOVES | TRAINER_DATA_TYPE_ABILITY | TRAINER_DATA_TYPE_IV_EV_SET | TRAINER_DATA_TYPE_NATURE_SET
     trainerclass CLASS_LEADER_9
     nummons 6
     item ITEM_FULL_RESTORE
@@ -8827,9 +8827,13 @@ trainerdata 257, "Janine"
         pokemon SPECIES_CROBAT
         item ITEM_NONE
         move MOVE_HEAT_WAVE
-        move MOVE_CROSS_POISON
+        move MOVE_SLUDGE_BOMB
         move MOVE_TAILWIND
         move MOVE_U_TURN
+        ability ABILITY_INNER_FOCUS
+        setivs 31, 31, 31, 31, 31, 31
+        setevs 4, 0, 0, 252, 252, 0
+        nature NATURE_TIMID
         ballseal 0
 
         // mon 1
@@ -8842,6 +8846,10 @@ trainerdata 257, "Janine"
         move MOVE_SLUDGE_BOMB
         move MOVE_TOXIC
         move MOVE_EXPLOSION
+        ability ABILITY_LEVITATE
+        setivs 31, 31, 31, 31, 31, 31
+        setevs 252, 0, 4, 0, 100, 152
+        nature NATURE_CALM
         ballseal 0
 
         // mon 2
@@ -8854,6 +8862,10 @@ trainerdata 257, "Janine"
         move MOVE_POISON_JAB
         move MOVE_SUCKER_PUNCH
         move MOVE_SUBSTITUTE
+        ability ABILITY_DRY_SKIN
+        setivs 31, 31, 31, 31, 31, 31
+        setevs 4, 252, 0, 252, 0, 0
+        nature NATURE_JOLLY
         ballseal 0
 
         // mon 3
@@ -8866,6 +8878,10 @@ trainerdata 257, "Janine"
         move MOVE_X_SCISSOR
         move MOVE_PROTECT
         move MOVE_NIGHT_SLASH
+        ability ABILITY_ADAPTABILITY
+        setivs 31, 31, 31, 31, 31, 31
+        setevs 252, 0, 128, 0, 0, 128
+        nature NATURE_ADAMANT
         ballseal 0
 
         // mon 4
@@ -8878,6 +8894,10 @@ trainerdata 257, "Janine"
         move MOVE_SLUDGE_BOMB
         move MOVE_BUG_BUZZ
         move MOVE_PSYCHIC
+        ability ABILITY_TINTED_LENS
+        setivs 31, 31, 31, 31, 31, 31
+        setevs 4, 0, 0, 252, 252, 0
+        nature NATURE_TIMID
         ballseal 0
 
         // mon 5
@@ -8888,8 +8908,12 @@ trainerdata 257, "Janine"
         item ITEM_NONE
         move MOVE_CROSS_POISON
         move MOVE_EARTHQUAKE
-        move MOVE_CRUNCH
+        move MOVE_NIGHT_SLASH
         move MOVE_SWORDS_DANCE
+        ability ABILITY_SNIPER
+        setivs 31, 31, 31, 31, 31, 31
+        setevs 100, 252, 0, 156, 0, 0
+        nature NATURE_ADAMANT
         ballseal 0
     endparty
 
