@@ -1074,44 +1074,48 @@ now have their rematch teams with modifications
 - Bruno: lvl total 374 -> 446
     - mon1: lvl 62 -> 74
         - QUICK ATTACK -> BRUTAL SWING
-        - ability: 
+        - ability: Intimidate
         - ivs: 31, 31, 31, 31, 31, 31
-        - evs:
-        - nature: 
+        - evs: 252, 252, 4, 0, 0, 0
+        - nature: Adamant
     - mon2: lvl 61 -> 73
         - SWAGGER -> ROCK SLIDE
         - REVERSAL -> POISON JAB
-        - ability: 
+        - ability: Limber
         - ivs: 31, 31, 31, 31, 31, 31
-        - evs:
-        - nature: 
+        - evs: 4, 252, 0, 252, 0, 0
+        - nature: Jolly
     - mon3: lvl 61 -> 73
-        - ability: 
+        - ability: Iron fist
         - ivs: 31, 31, 31, 31, 31, 31
-        - evs:
-        - nature: 
+        - evs: 252, 252, 0, 0, 0,4
+        - nature: Adamant
     - mon4: lvl 62 -> 74
         - LOW KICK -> VACUUM WAVE
         - PAYBACK -> FAKE OUT
         - BULK UP -> BELLY DRUM
-        - ability: 
+        - item: Sitrus berry
+        - ability: Thick fat
         - ivs: 31, 31, 31, 31, 31, 31
-        - evs:
-        - nature: 
+        - evs: 252, 252, 0, 0, 0, 4
+        - nature: Careful
     - mon5: lvl 64 -> 76
         - FORESIGHT -> BRUTAL SWING
-        - ability: 
+        - STONE EDGE -> ROCK SLIDE
+        - DYNAMIC PUNCH -> BRICK BREAK
+        - item: Flame orb
+        - ability: Guts
         - ivs: 31, 31, 31, 31, 31, 31
-        - evs:
-        - nature: 
+        - evs: 252, 252, 0, 0, 0, 4
+        - nature: Adamant
     - mon6: lvl 64 -> 76
         - CLOSE COMBAT -> AURA SPHERE
-        - COUNTER -> EARTHQUAKE
+        - COUNTER -> SHADOW BALL
         - IRON TAIL -> FLASH CANNON
-        - ability: 
+        - ability: STEADFAST
         - ivs: 31, 31, 31, 31, 31, 31
-        - evs:
-        - nature: 
+        - evs: 4, 0, 0, 252, 252, 0
+        - nature: TIMID
 
 - Karen: lvl total 377 -> 454
     - mon1: lvl 62 -> 76

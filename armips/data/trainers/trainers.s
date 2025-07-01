@@ -24617,7 +24617,7 @@ trainerdata 703, "Koga"
     endparty
 
 trainerdata 704, "Bruno"
-    trainermontype TRAINER_DATA_TYPE_ITEMS | TRAINER_DATA_TYPE_MOVES
+    trainermontype TRAINER_DATA_TYPE_ITEMS | TRAINER_DATA_TYPE_MOVES | TRAINER_DATA_TYPE_ABILITY | TRAINER_DATA_TYPE_IV_EV_SET | TRAINER_DATA_TYPE_NATURE_SET
     trainerclass CLASS_ELITE_FOUR_3
     nummons 6
     item ITEM_FULL_RESTORE
@@ -24639,6 +24639,10 @@ trainerdata 704, "Bruno"
         move MOVE_BRUTAL_SWING
         move MOVE_CLOSE_COMBAT
         move MOVE_EARTHQUAKE
+        ability ABILITY_INTIMIDATE
+        setivs 31, 31, 31, 31, 31, 31
+        setevs 252, 252, 4, 0, 0, 0
+        nature NATURE_ADAMANT
         ballseal 0
 
         // mon 1
@@ -24651,6 +24655,10 @@ trainerdata 704, "Bruno"
         move MOVE_CLOSE_COMBAT
         move MOVE_POISON_JAB
         move MOVE_BLAZE_KICK
+        ability ABILITY_LIMBER
+        setivs 31, 31, 31, 31, 31, 31
+        setevs 4, 252, 0, 252, 0, 0
+        nature NATURE_JOLLY
         ballseal 0
 
         // mon 2
@@ -24663,6 +24671,10 @@ trainerdata 704, "Bruno"
         move MOVE_DRAIN_PUNCH
         move MOVE_CLOSE_COMBAT
         move MOVE_BULLET_PUNCH
+        ability ABILITY_IRON_FIST
+        setivs 31, 31, 31, 31, 31, 31
+        setevs 252, 252, 0, 0, 0, 4
+        nature NATURE_ADAMANT
         ballseal 0
 
         // mon 3
@@ -24675,6 +24687,10 @@ trainerdata 704, "Bruno"
         move MOVE_FAKE_OUT
         move MOVE_BULLET_PUNCH
         move MOVE_BELLY_DRUM
+        ability ABILITY_THICK_FAT
+        setivs 31, 31, 31, 31, 31, 31
+        setevs 252, 252, 0, 0, 0, 4
+        nature NATURE_CAREFUL
         ballseal 0
 
         // mon 4
@@ -24682,11 +24698,15 @@ trainerdata 704, "Bruno"
         abilityslot 32
         level 76
         pokemon SPECIES_MACHAMP
-        item ITEM_NONE
+        item ITEM_FLAME_ORB
         move MOVE_BULLET_PUNCH
         move MOVE_BRUTAL_SWING
-        move MOVE_STONE_EDGE
-        move MOVE_DYNAMIC_PUNCH
+        move MOVE_ROCK_SLIDE
+        move MOVE_BRICK_BREAK
+        ability MOVE_GUST
+        setivs 31, 31, 31, 31, 31, 31
+        setevs 252, 252, 0, 0, 0, 4
+        nature NATURE_ADAMANT
         ballseal 0
 
         // mon 5
@@ -24697,8 +24717,12 @@ trainerdata 704, "Bruno"
         item ITEM_NONE
         move MOVE_EXTREME_SPEED
         move MOVE_AURA_SPHERE
-        move MOVE_EARTHQUAKE
+        move MOVE_SHADOW_BALL
         move MOVE_FLASH_CANNON
+        ability ABILITY_STEADFAST
+        setivs 31, 31, 31, 31, 31, 31
+        setevs 4, 0, 0, 252, 252, 0
+        nature NATURE_TIMID
         ballseal 0
     endparty
 
