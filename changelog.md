@@ -22,6 +22,7 @@ commonscript 2008 give an item determined by var 0x8004 and amount determined by
 - playing for a while with speedup seems to cause graphical issues
 
 ## TO DO
+- Test if defiant works correctly
 - ?update safari zone encounters?
 - Replace dialogue of npc on route 32 that originally gave roar tm
 - ?Make game corner pokemon maybe/always have hidden ability?
