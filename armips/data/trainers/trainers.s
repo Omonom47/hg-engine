@@ -24783,7 +24783,7 @@ trainerdata 705, "Karen"
         move MOVE_PERISH_SONG
         ability ABILITY_SUPER_LUCK
         setivs 31, 31, 31, 31, 31, 31
-        setevs 4 252, 0, 252, 0, 0
+        setevs 4, 252, 0, 252, 0, 0
         nature NATURE_JOLLY
         ballseal 0
 
