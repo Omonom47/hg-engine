@@ -31,20 +31,20 @@ commonscript 2008 give an item determined by var 0x8004 and amount determined by
 - change item given by Brock after defeating him (script 752, function #3)
 - Make fishing rods available earlier
 
-## RIVAL FIGHTS:
+### RIVAL FIGHTS:
  - CHERRYGROVE: lvl 5 only starters available
  - Azalea: lvl 14, 16 & 18
  - Burned Tower: lvl 18, 20, 20, 22
  - Goldenrod tunnel: lvl 30, 32, 32, 34, 34 (for some reason the lvls are 2 lower if you choose cyndaquil)
  - Victory road: lvl 38, 39, 39, 39, 40, 42
 
-## TRAINERS: 
+### TRAINERS: 
 lvl boosts are relative to previous major battle
 
 - KANTO GYM LEADERS: adjust lvls, movesets and maybe team comps a bit
 		
 
-## ITEMS: 
+### ITEMS: 
 https://www.serebii.net/heartgoldsoulsilver/items.shtml
 
 https://bulbapedia.bulbagarden.net/wiki/List_of_items_by_index_number_in_Generation_IV
@@ -54,7 +54,7 @@ https://www.serebii.net/heartgoldsoulsilver/tmhm.shtml
 https://github.com/msikma/pokesprite/blob/master/items/tm/flying.png 
 
 ground item script x is script x+1 in file 141 in DSPRE
-### replaceable items
+#### replaceable items
 
 - potion on route 30 with some oran berries
 - potion on route 31 with something
@@ -95,16 +95,16 @@ ground item script x is script x+1 in file 141 in DSPRE
 	- ?LIGH BALL?
 
     
-## Moves
+### Moves
 
 infestation is not yet implemented, either remove it from learnsets or implement it
 
-## Encounters
+### Encounters
 most surf and fishing encounters will be rebalanced/changed
 
 most headbutt encounters will be rebalanced/changed
 
-## Shops and marts
+### Shops and marts
 
 - Goldenrod gamecorner prices will be lowered
 - Pokeathlon dome prize redeem prices for evolution items will be lowered
@@ -112,7 +112,7 @@ most headbutt encounters will be rebalanced/changed
 - Safari Zone Gate: maybe change vitamin shop into something else
 - Tentative: Mahogany town shop now sells: toxic orb, flame orb, leftovers, black sludge, tm13, tm24, tm35, tm29
 
-## Pokemons to change: 
+### Pokemons to change: 
 
 Give more mons trick room by level up/make the tm availbe earlier
 
@@ -214,6 +214,7 @@ all tm- and tutorlearnsets may need revisions
 - DUBIOUS DISC: evolves Porygon2 into Porygon Z on use
 - DAMP ROCK, HEAT ROCK, 2nd store clerk Ecruteak 
 - ICY ROCK, SMOOTH ROCK, 2nd store clerk Violet
+- OOLD ROD: now given by npc in Cherrygrove
 
 #### TMs
 - TM05: ROAR -> DEFOG
@@ -287,6 +288,7 @@ all tm- and tutorlearnsets may need revisions
     - Carnivine
     - Snover line
     - Darkrai
+
 #### Pokemarts
 - All marts
     - Full heals replace all rtatus restore items
