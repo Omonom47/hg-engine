@@ -2379,20 +2379,20 @@ movedata MOVE_SPORE, "Spore"
     movedescription MOVE_SPORE, "The user scatters\nbursts of spores\nthat induce sleep.\n\n"
 
 movedata MOVE_FLASH, "Flash"
-    battleeffect MOVE_EFFECT_ACC_DOWN
-    pss SPLIT_STATUS
-    basepower 0
-    type TYPE_NORMAL
+    battleeffect MOVE_EFFECT_ALWAYS_FLINCH_FIRST_TURN_ONLY
+    pss SPLIT_SPECIAL
+    basepower 40
+    type TYPE_ELECTRIC
     accuracy 100
-    pp 20
-    effectchance 0
+    pp 10
+    effectchance 100
     target RANGE_SINGLE_TARGET
-    priority 0
-    flags FLAG_HIDE_SHADOW | FLAG_MIRROR_MOVE | FLAG_MAGIC_COAT | FLAG_PROTECT
+    priority 3
+    flags FLAG_HIDE_SHADOW | FLAG_MIRROR_MOVE | FLAG_PROTECT
     appeal 0x0A
     contesttype CONTEST_BEAUTY
     terminatedata
-    movedescription MOVE_FLASH, "The user flashes a\nlight that cuts the\nfoe’s accuracy.\nIt can also be used\nto illuminate caves."
+    movedescription MOVE_FLASH, "The user flashes a\nlight making the\ntarget flinch. It only\nworks the first turn\nthe user is in battle."
 
 movedata MOVE_PSYWAVE, "Psywave"
     battleeffect MOVE_EFFECT_RANDOM_DAMAGE_1_TO_150_LEVEL

@@ -22,7 +22,6 @@ commonscript 2008 give an item determined by var 0x8004 and amount determined by
 - playing for a while with speedup seems to cause graphical issues
 
 ## TO DO
-- Test if defiant works correctly
 - ?update safari zone encounters?
 - Replace dialogue of npc on route 32 that originally gave roar tm
 - ?Make game corner pokemon maybe/always have hidden ability?
@@ -31,7 +30,6 @@ commonscript 2008 give an item determined by var 0x8004 and amount determined by
 - change item given by Blue after defeating him (script 743, function #3)
 - change item given by Brock after defeating him (script 752, function #3)
 - Make fishing rods available earlier
-- ?replace flash with item?
 
 ## RIVAL FIGHTS:
  - CHERRYGROVE: lvl 5 only starters available
@@ -97,7 +95,6 @@ ground item script x is script x+1 in file 141 in DSPRE
 	- ?LIGH BALL?
 
     
-
 ## Moves
 
 infestation is not yet implemented, either remove it from learnsets or implement it
@@ -191,6 +188,12 @@ all tm- and tutorlearnsets may need revisions
     - pp: 20 -> 15
 - Fire, ice, & thunder fang
     - acc: 95 -> 100
+- Flash:
+    - status -> special
+    - power: 0 -> 40
+    - pp: 20 -> 10
+    - type: NORMAL -> ELECTRIC
+    - basically special FAKE OUT
 
 ### Items
 
@@ -251,6 +254,39 @@ all tm- and tutorlearnsets may need revisions
 - TM80: replaces tm60 on route 39
 - TM84: replaces TM65 on route 42
 
+- TM70: mons that no longer learn this
+    - Bulbasaur line
+    - Beedrill
+    - Oddish line
+    - Meowth line
+    - Exeggcute line
+    - Koffing line
+    - Chansey line
+    - Tangela line
+    - Hoppip line
+    - Sunkern
+    - Yanma line
+    - Wooper line
+    - Shuckle
+    - Skarmory
+    - Treecko line
+    - Beautifly
+    - Lotad line
+    - Seedot line
+    - Shroomish line
+    - Nincada line
+    - Skitty line
+    - Budew line
+    - Cacnea line
+    - Lileep line
+    - tropius
+    - Turtwig line
+    - Wormadam & Mothim
+    - Gastrodon
+    - Skorupi line
+    - Carnivine
+    - Snover line
+    - Darkrai
 #### Pokemarts
 - All marts
     - Full heals replace all rtatus restore items
