@@ -70,8 +70,7 @@ ground item script x is script x+1 in file 141 in DSPRE
 - revive on route 45 with something
 - x-speed on route 46 with something   
 
-- ?tm77 in viridian forest? 
-- ?tm29 in Saffron city? 
+- ?tm77 in viridian forest? flag 1238 script 218
 - ?Flamethrower tm on route 28(before mt.silver) to other item?
 - ?TRICK ROOM given by leader blue to other tm/item?
 - ?POISON JAB given by leader Janine to other tm/item?
@@ -215,7 +214,8 @@ all tm- and tutorlearnsets may need revisions
 - DUBIOUS DISC: evolves Porygon2 into Porygon Z on use
 - DAMP ROCK, HEAT ROCK, 2nd store clerk Ecruteak 
 - ICY ROCK, SMOOTH ROCK, 2nd store clerk Violet
-- OOLD ROD: now given by npc in Cherrygrove
+- OLD ROD: now given by npc in Cherrygrove
+- ODD INCENSE: now also given by Mr Psychic in Saffron instead of Psychic tm
 
 #### TMs
 - TM05: ROAR -> DEFOG
