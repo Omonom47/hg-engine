@@ -75,7 +75,6 @@ ground item script x is script x+1 in file 141 in DSPRE
 
 - ?tm77 in viridian forest? flag 1238 script 218
 - ?Flamethrower tm on route 28(before mt.silver) to other item? flag 1280 script 231
-- ?POISON JAB given by leader Janine to other tm/item? 
 
 - Potion in ruins of alph
 - ?Oran berry in ruins of alph Upper right (requires 1 escape rope)?
@@ -219,6 +218,7 @@ all tm- and tutorlearnsets may need revisions
 - ABILITY PATCH: given by leader Blue, 
 - ROCKY HELMET: Given by brock
 - ROSELI BERRY, KEE BERRY, and MARANGA BERRY: given by Erika
+- ABILITY CAPSULE: 3 given by Janine. Sold in Goldenrod Dept. store. 
 
 #### TMs
 - TM05: ROAR -> DEFOG
