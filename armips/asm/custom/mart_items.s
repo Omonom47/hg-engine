@@ -198,14 +198,14 @@ const u16 *_0210FA3C[] = {
 
 .org 0x020FBBD8
 /* Mahogany Shop -> Goldenrod/Celadon Dept Store */
-.halfword ITEM_LEFTOVERS
-.halfword ITEM_BLACK_SLUDGE
 .halfword ITEM_TOXIC_ORB
 .halfword ITEM_FLAME_ORB
 .halfword ITEM_TM13
 .halfword ITEM_TM24
 .halfword ITEM_TM29
 .halfword ITEM_TM35
+.halfword ITEM_TM74
+.halfword ITEM_TM81
 .halfword 0xFFFF
 
 /* const u16 _020FBBEA[] = {ITEM_POTION, ITEM_SUPER_POTION, ITEM_HYPER_POTION, ITEM_MAX_POTION, ITEM_REVIVE, ITEM_ANTIDOTE, ITEM_PARLYZ_HEAL, ITEM_BURN_HEAL, ITEM_ICE_HEAL, ITEM_AWAKENING, ITEM_FULL_HEAL, 0xFFFF}; */

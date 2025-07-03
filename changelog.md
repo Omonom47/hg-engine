@@ -69,12 +69,15 @@ ground item script x is script x+1 in file 141 in DSPRE
 - ultra ball on route 44 with something
 - revive on route 45 with something
 - x-speed on route 46 with something   
+
 - ?tm77 in viridian forest? 
 - ?tm29 in Saffron city? 
+- ?Flamethrower tm on route 28(before mt.silver) to other item?
 - ?TRICK ROOM given by leader blue to other tm/item?
 - ?POISON JAB given by leader Janine to other tm/item?
-- ?Flamethrower tm on route 28(before mt.silver) to other item? 
 - ?rock slide tm given by Brock to other item? 
+- Giga drain tm given By Erika
+
 - Potion in ruins of alph
 - ?Oran berry in ruins of alph Upper right (requires 1 escape rope)?
 - ?heal powder in ruins of alph lower right 2 (requires surf and flash)?
@@ -86,11 +89,12 @@ ground item script x is script x+1 in file 141 in DSPRE
 
 
 ### make available earlier
-    - Stone edge tm71
-    - x-scissor tm81
-    - Giga drain tm19
-    - Gyro ball tm74
-    - Super Rod
+    - leftovers
+    - black sludge
+    - maybe:
+        - TM05 Calm mind
+        - TM06 Toxic
+        - TM08 Bulk Up
 - make available without pokewalker:
 	- ?LIGH BALL?
 
@@ -102,15 +106,12 @@ infestation is not yet implemented, either remove it from learnsets or implement
 ### Encounters
 most surf and fishing encounters will be rebalanced/changed
 
-most headbutt encounters will be rebalanced/changed
-
 ### Shops and marts
 
-- Goldenrod gamecorner prices will be lowered
 - Pokeathlon dome prize redeem prices for evolution items will be lowered
 - Pokeathlon dome evolution items will be made available all days of the week
 - Safari Zone Gate: maybe change vitamin shop into something else
-- Tentative: Mahogany town shop now sells: toxic orb, flame orb, leftovers, black sludge, tm13, tm24, tm35, tm29
+- Tentative: Mahogany town shop now sells: toxic orb, flame orb, tm13, tm74 , tm24, tm35, tm29, tm81
 
 ### Pokemons to change: 
 
@@ -241,6 +242,7 @@ all tm- and tutorlearnsets may need revisions
 - Goldenrod game corner: TM13 -> TM58 
 - Goldenrod game corner: TM24 -> TM78
 - Goldenrod game corner: TM35 -> TM20
+
 - TM13: now sold in mahogany town after radio tower takeover
 - TM19: replaces bright powder in goldenrod radio tower 4f (given by npc after rocket)
 - TM24: now sold in mahogany town after radio tower takeover
@@ -251,8 +253,10 @@ all tm- and tutorlearnsets may need revisions
 - TM61: replaces TM12 in burned tower
 - TM71: replaces heal powder in ruins of alph Upper right (requires 1 escape rope)
 - TM73: replaces energy powder in ruins of alph Upper right (requires 1 escape rope)
+- TM74: now sold in mahogany town after radio tower takeover
 - TM78: replaces energy powder in ruins of alph Upper right (requires 1 escape rope)
 - TM80: replaces tm60 on route 39
+- TM81: now sold in mahogany town after radio tower takeover
 - TM84: replaces TM65 on route 42
 
 - TM70: mons that no longer learn this
@@ -1266,7 +1270,7 @@ now have their rematch teams with modifications
     - nature: Modest
     
 
-### Updated wild Encounters and regular trainers battles
+### Updated wild Encounters and regular trainer battles
 Walking enounter rates per slot are: 20, 20, 10, 10, 10, 10, 5, 5, 4, 4, 1, 1
 
 Surf enounter rates per slot are: 60, 30, 5, 4, 1
