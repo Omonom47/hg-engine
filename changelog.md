@@ -15,6 +15,9 @@ If level cap variable is not set then no exp is earned
 
 commonscript 2008 give an item determined by var 0x8004 and amount determined by var 0x8005
 
+- Base items indexed from 0 - 536
+- Mega stones + Pixie plate indexed from 537 - 584, Pixie plate is 584
+
 ## Known issues:
 - Using speedup during the intro causes character sprites in the overworld get corrupted after the first battle and leaving route 29 through the gate and coming back
 		saving and restarting seems to fix it at least temporarily.
@@ -71,8 +74,7 @@ ground item script x is script x+1 in file 141 in DSPRE
 - x-speed on route 46 with something   
 
 - ?tm77 in viridian forest? flag 1238 script 218
-- ?Flamethrower tm on route 28(before mt.silver) to other item?
-- ?TRICK ROOM given by leader blue to other tm/item?
+- ?Flamethrower tm on route 28(before mt.silver) to other item? flag 1280 script 231
 - ?POISON JAB given by leader Janine to other tm/item?
 - ?rock slide tm given by Brock to other item? 
 - Giga drain tm given By Erika
@@ -216,6 +218,8 @@ all tm- and tutorlearnsets may need revisions
 - ICY ROCK, SMOOTH ROCK, 2nd store clerk Violet
 - OLD ROD: now given by npc in Cherrygrove
 - ODD INCENSE: now also given by Mr Psychic in Saffron instead of Psychic tm
+- ABILITY PATCH: given by leader Blue, 
+- ROCKY HELMET: Given by brock
 
 #### TMs
 - TM05: ROAR -> DEFOG
@@ -237,27 +241,26 @@ all tm- and tutorlearnsets may need revisions
 - TM83: Natural Gift -> TAILWIND
 - TM87: SWAGGER -> WILD CHARGE
 
-- reward from Whitney: TM45 -> TM54
+- reward from Whitney: TM45 -> TM54 FALSE SWIPE
 - Goldenrod game corner: TM44 -> TM32 
 - Goldenrod game corner: TM13 -> TM58 
 - Goldenrod game corner: TM24 -> TM78
 - Goldenrod game corner: TM35 -> TM20
 
-- TM13: now sold in mahogany town after radio tower takeover
-- TM19: replaces bright powder in goldenrod radio tower 4f (given by npc after rocket)
-- TM24: now sold in mahogany town after radio tower takeover
-- TM29: now sold in mahogany town after radio tower takeover
-- TM31: replaces tm57 in olivine city (reuires surf)
-- TM35: now sold in mahogany town after radio tower takeover
-- TM53: replaces tm54 in dark cave
-- TM61: replaces TM12 in burned tower
-- TM71: replaces heal powder in ruins of alph Upper right (requires 1 escape rope)
-- TM73: replaces energy powder in ruins of alph Upper right (requires 1 escape rope)
-- TM74: now sold in mahogany town after radio tower takeover
-- TM78: replaces energy powder in ruins of alph Upper right (requires 1 escape rope)
-- TM80: replaces tm60 on route 39
-- TM81: now sold in mahogany town after radio tower takeover
-- TM84: replaces TM65 on route 42
+- TM13 ICE BEAM: now sold in mahogany town after radio tower takeover
+- TM19 GIGA DRAIN: replaces bright powder in goldenrod radio tower 4f (given by npc after rocket)
+- TM24 THUNDERBOLT: now sold in mahogany town after radio tower takeover
+- TM29 PSYCHIC: now sold in mahogany town after radio tower takeover
+- TM31 BRICK BREAK: replaces tm57 in olivine city (reuires surf)
+- TM35 FLAMETHROWER: now sold in mahogany town after radio tower takeover
+- TM53 ENERGY BALL: replaces tm54 in dark cave
+- TM61 WIL-O-WISP: replaces TM12 in burned tower
+- TM71 STONE EDGE: replaces heal powder in ruins of alph Upper right (requires 1 escape rope)
+- TM73 THUNDER WAVE: replaces energy powder in ruins of alph Upper right (requires 1 escape rope)
+- TM74 GYRO BALL: now sold in mahogany town after radio tower takeover
+- TM80 ROCK SLIDE: replaces tm60 on route 39
+- TM81 X-SCISSOR: now sold in mahogany town after radio tower takeover
+- TM84 POISON JAB: replaces TM65 on route 42
 
 - TM70: mons that no longer learn this
     - Bulbasaur line
