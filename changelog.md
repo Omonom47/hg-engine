@@ -218,6 +218,8 @@ all tm- and tutorlearnsets may need revisions
 - ADAMANT MINT: replacing POTION on Route 30
 - MODEST MINT: Replacing ANTIDOTE on Route 30
 - CHERRI BERRY: 5x replacing POTION on Route 31
+- IMPISH MINT: Given by man on Route 32 after beating Falkner
+- CALM MINT: Given by man on Route 32 after beating Falkner
 
 #### TMs
 - TM05: ROAR -> DEFOG
