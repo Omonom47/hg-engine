@@ -220,6 +220,9 @@ all tm- and tutorlearnsets may need revisions
 - CHERRI BERRY: 5x replacing POTION on Route 31
 - IMPISH MINT: Given by man on Route 32 after beating Falkner
 - CALM MINT: Given by man on Route 32 after beating Falkner
+- ESCAPE ROPE: 2x replaces PARLYZ HEAL on 1F of Sprout Tower
+- REPEL: replaces, X-ACCURACY on 2F of Sprout Tower
+- GREAT BALL: replaces POTION on 3F of Sprout Tower
 
 #### TMs
 - TM05: ROAR -> DEFOG
