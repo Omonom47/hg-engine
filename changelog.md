@@ -73,9 +73,6 @@ ground item script x is script x+1 in file 141 in DSPRE
 - revive on route 45 with something
 - x-speed on route 46 with something   
 
-- ?tm77 in viridian forest? flag 1238 script 218
-- ?Flamethrower tm on route 28(before mt.silver) to other item? flag 1280 script 231
-
 - Potion in ruins of alph
 - ?Oran berry in ruins of alph Upper right (requires 1 escape rope)?
 - ?heal powder in ruins of alph lower right 2 (requires surf and flash)?
@@ -215,7 +212,7 @@ all tm- and tutorlearnsets may need revisions
 - ICY ROCK, SMOOTH ROCK, 2nd store clerk Violet
 - OLD ROD: now given by npc in Cherrygrove
 - ODD INCENSE: now also given by Mr Psychic in Saffron instead of Psychic tm
-- ABILITY PATCH: given by leader Blue, 
+- ABILITY PATCH: given by leader Blue, replacing TM77 in Viridian forest, replacing TM35 on Route 28
 - ROCKY HELMET: Given by brock
 - ROSELI BERRY, KEE BERRY, and MARANGA BERRY: given by Erika
 - ABILITY CAPSULE: 3 given by Janine. Sold in Goldenrod Dept. store. 
