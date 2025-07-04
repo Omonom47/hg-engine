@@ -82,8 +82,6 @@ ground item script x is script x+1 in file 141 in DSPRE
 
 
 ### make available earlier
-    - leftovers
-    - black sludge
     - maybe:
         - TM05 Calm mind
         - TM06 Toxic
@@ -223,6 +221,8 @@ all tm- and tutorlearnsets may need revisions
 - ESCAPE ROPE: 2x replaces PARLYZ HEAL on 1F of Sprout Tower
 - REPEL: replaces, X-ACCURACY on 2F of Sprout Tower
 - GREAT BALL: replaces POTION on 3F of Sprout Tower
+- LEFTOVERS: on small island of the coast of Cherrygrove city
+- BLACK SLUDGE: Replaces BURN HEAL in basement of Goldenrod Dept. Store
 
 #### TMs
 - TM05: ROAR -> DEFOG
