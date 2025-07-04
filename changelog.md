@@ -59,7 +59,7 @@ https://github.com/msikma/pokesprite/blob/master/items/tm/flying.png
 ground item script x is script x+1 in file 141 in DSPRE
 #### replaceable items
 
-- potion on route 30 with some oran berries
+
 - potion on route 31 with something
 - x-attack in union cave with something 
 - awakening in union cave with something
@@ -215,7 +215,9 @@ all tm- and tutorlearnsets may need revisions
 - ABILITY PATCH: given by leader Blue, replacing TM77 in Viridian forest, replacing TM35 on Route 28
 - ROCKY HELMET: Given by brock
 - ROSELI BERRY, KEE BERRY, and MARANGA BERRY: given by Erika
-- ABILITY CAPSULE: 3 given by Janine. Sold in Goldenrod Dept. store. 
+- ABILITY CAPSULE: 3 given by Janine. Sold in Goldenrod Dept. store.
+- ADAMANT MINT: replacing POTION on Route 30
+- MODEST MINT: Replacing ANTIDOTE on Route 30
 
 #### TMs
 - TM05: ROAR -> DEFOG
