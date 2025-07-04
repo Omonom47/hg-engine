@@ -59,8 +59,6 @@ https://github.com/msikma/pokesprite/blob/master/items/tm/flying.png
 ground item script x is script x+1 in file 141 in DSPRE
 #### replaceable items
 
-
-- potion on route 31 with something
 - x-attack in union cave with something 
 - awakening in union cave with something
 - potion in union cave with something
@@ -211,6 +209,7 @@ all tm- and tutorlearnsets may need revisions
 - DAMP ROCK, HEAT ROCK, 2nd store clerk Ecruteak 
 - ICY ROCK, SMOOTH ROCK, 2nd store clerk Violet
 - OLD ROD: now given by npc in Cherrygrove
+- SUPER ROD: now also given by Fisherman in Blackthorn city
 - ODD INCENSE: now also given by Mr Psychic in Saffron instead of Psychic tm
 - ABILITY PATCH: given by leader Blue, replacing TM77 in Viridian forest, replacing TM35 on Route 28
 - ROCKY HELMET: Given by brock
@@ -218,6 +217,7 @@ all tm- and tutorlearnsets may need revisions
 - ABILITY CAPSULE: 3 given by Janine. Sold in Goldenrod Dept. store.
 - ADAMANT MINT: replacing POTION on Route 30
 - MODEST MINT: Replacing ANTIDOTE on Route 30
+- CHERRI BERRY: 5x replacing POTION on Route 31
 
 #### TMs
 - TM05: ROAR -> DEFOG
