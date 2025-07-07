@@ -25,14 +25,11 @@ commonscript 2008 give an item determined by var 0x8004 and amount determined by
 - playing for a while with speedup seems to cause graphical issues
 
 ## TO DO
-- ?update safari zone encounters?
-- Replace dialogue of npc on route 32 that originally gave roar tm
 - ?Make game corner pokemon maybe/always have hidden ability?
+- Replace dialogue of npc on route 32 that originally gave roar tm
+- ?update safari zone encounters?
 - ?make lvl cap be more granular in Kanto?
-- change item given by Janine after defeating her (script 809, function #7)
-- change item given by Blue after defeating him (script 743, function #3)
-- change item given by Brock after defeating him (script 752, function #3)
-- Make fishing rods available earlier
+
 
 ### RIVAL FIGHTS:
  - CHERRYGROVE: lvl 5 only starters available
@@ -221,7 +218,7 @@ all tm- and tutorlearnsets may need revisions
 - ESCAPE ROPE: 2x replaces PARLYZ HEAL on 1F of Sprout Tower
 - REPEL: replaces, X-ACCURACY on 2F of Sprout Tower
 - GREAT BALL: replaces POTION on 3F of Sprout Tower
-- LEFTOVERS: on small island of the coast of Cherrygrove city
+- LEFTOVERS: on small island of the coast of Cherrygrove city (flag 25)
 - BLACK SLUDGE: Replaces BURN HEAL in basement of Goldenrod Dept. Store
 
 #### TMs
