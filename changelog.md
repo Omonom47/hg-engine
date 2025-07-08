@@ -25,7 +25,6 @@ commonscript 2008 give an item determined by var 0x8004 and amount determined by
 - playing for a while with speedup seems to cause graphical issues
 
 ## TO DO
-- ?Make game corner pokemon maybe/always have hidden ability?
 - Replace dialogue of npc on route 32 that originally gave roar tm
 - ?update safari zone encounters?
 - ?make lvl cap be more granular in Kanto?
@@ -145,6 +144,7 @@ all tm- and tutorlearnsets may need revisions
 - EVO METHODS: trade with held item is now stone evo with said item instead
 - Goldenrod game corner prices now lowered
 - Makes all pokemon sold in Goldenrod game corner available regardles of game version 
+- Makes pokemon sold in Goldenrod game corner always have their hidden ability
 
 
 ### Level caps
