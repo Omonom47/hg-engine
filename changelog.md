@@ -54,11 +54,7 @@ https://github.com/msikma/pokesprite/blob/master/items/tm/flying.png
 
 ground item script x is script x+1 in file 141 in DSPRE
 #### replaceable items
-
-- x-attack in union cave with something 
-- awakening in union cave with something
-- potion in union cave with something
-- x-attack in ilex forest with something 
+ 
 - antidote in ilex forest with something
 - ether in ilex forest with something
 - parlyz heal on route 35 with something
@@ -220,6 +216,10 @@ all tm- and tutorlearnsets may need revisions
 - GREAT BALL: replaces POTION on 3F of Sprout Tower
 - LEFTOVERS: on small island of the coast of Cherrygrove city (flag 25)
 - BLACK SLUDGE: Replaces BURN HEAL in basement of Goldenrod Dept. Store
+- NUGGET: replaces X-ATTACK in Union cave
+- CHESTO BERRY: replaces AWAKENING in Union Cave
+- SUPER POTION: replaces POTION in Union cave
+- PIXIE PLATE: Replaces X-ATTACK in Ilex Forest
 
 #### TMs
 - TM05: ROAR -> DEFOG
