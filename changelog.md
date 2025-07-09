@@ -54,9 +54,7 @@ https://github.com/msikma/pokesprite/blob/master/items/tm/flying.png
 
 ground item script x is script x+1 in file 141 in DSPRE
 #### replaceable items
- 
-- antidote in ilex forest with something
-- ether in ilex forest with something
+
 - parlyz heal on route 35 with something
 - max repel on route 44 with something
 - ultra ball on route 44 with something
@@ -247,6 +245,7 @@ all tm- and tutorlearnsets may need revisions
 - Goldenrod game corner: TM24 -> TM78
 - Goldenrod game corner: TM35 -> TM20
 
+- TM06 TOXIC: replaces PARLYZE HEAL on Route 35
 - TM13 ICE BEAM: now sold in mahogany town after radio tower takeover
 - TM19 GIGA DRAIN: replaces bright powder in goldenrod radio tower 4f (given by npc after rocket)
 - TM24 THUNDERBOLT: now sold in mahogany town after radio tower takeover
