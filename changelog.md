@@ -74,7 +74,6 @@ ground item script x is script x+1 in file 141 in DSPRE
 ### make available earlier
     - maybe:
         - TM05 Calm mind
-        - TM06 Toxic
         - TM08 Bulk Up
 - make available without pokewalker:
 	- ?LIGH BALL?
@@ -246,6 +245,7 @@ all tm- and tutorlearnsets may need revisions
 - Goldenrod game corner: TM35 -> TM20
 
 - TM06 TOXIC: replaces PARLYZE HEAL on Route 35
+- TM08 BULK UP: Tentatively on route 42
 - TM13 ICE BEAM: now sold in mahogany town after radio tower takeover
 - TM19 GIGA DRAIN: replaces bright powder in goldenrod radio tower 4f (given by npc after rocket)
 - TM24 THUNDERBOLT: now sold in mahogany town after radio tower takeover
