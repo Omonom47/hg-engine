@@ -55,9 +55,7 @@ https://github.com/msikma/pokesprite/blob/master/items/tm/flying.png
 ground item script x is script x+1 in file 141 in DSPRE
 #### replaceable items
 
-- parlyz heal on route 35 with something
 - max repel on route 44 with something
-- ultra ball on route 44 with something
 - revive on route 45 with something
 - x-speed on route 46 with something   
 
@@ -74,7 +72,6 @@ ground item script x is script x+1 in file 141 in DSPRE
 ### make available earlier
     - maybe:
         - TM05 Calm mind
-        - TM06 Toxic
         - TM08 Bulk Up
 - make available without pokewalker:
 	- ?LIGH BALL?
@@ -200,7 +197,7 @@ all tm- and tutorlearnsets may need revisions
 - OLD ROD: now given by npc in Cherrygrove
 - SUPER ROD: now also given by Fisherman in Blackthorn city
 - ODD INCENSE: now also given by Mr Psychic in Saffron instead of Psychic tm
-- ABILITY PATCH: given by leader Blue, replacing TM77 in Viridian forest, replacing TM35 on Route 28
+- ABILITY PATCH: given by leader Blue, replacing TM77 in Viridian forest, replacing TM35 on Route 28, replacing MAX REVIVE on Route 44
 - ROCKY HELMET: Given by brock
 - ROSELI BERRY, KEE BERRY, and MARANGA BERRY: given by Erika
 - ABILITY CAPSULE: 3 given by Janine. Sold in Goldenrod Dept. store.
@@ -218,6 +215,7 @@ all tm- and tutorlearnsets may need revisions
 - CHESTO BERRY: replaces AWAKENING in Union Cave
 - SUPER POTION: replaces POTION in Union cave
 - PIXIE PLATE: Replaces X-ATTACK in Ilex Forest
+- MAX REVIVE: replaces ULTRA BALL on Route 44
 
 #### TMs
 - TM05: ROAR -> DEFOG

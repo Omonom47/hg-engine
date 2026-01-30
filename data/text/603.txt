@@ -22,8 +22,8 @@ SILK SCARF\n375 Coins
 WIDE LENS\n375 Coins
 ZOOM LENS\n375 Coins
 METRONOME\n375 Coins
-ABRA{CURSOR_X 103}\n75 Coins
-EKANS{CURSOR_X 103}\n260 Coins
+ABRA{CURSOR_X 103}\n260 Coins
+EKANS{CURSOR_X 103}\n75 Coins
 DRATINI{CURSOR_X 90}\n750 Coins
 SANDSHREW{CURSOR_X 103}\n260 Coins
 My name is Mr. Game!\rMy heart pounds with excitement when\npeople enjoy my Coin game!\rIn fact, that’s what I live for!\nYou look like quite a challenger!\rWhy don’t you play my Coin game?\rYou can get fabulous prizes if\nyou manage to collect a lot\fof Coins. {YESNO 0}
@@ -41,5 +41,5 @@ Mr. Game: Aha!\rYou must be here to play my Coin game!\nCome here and I’ll giv
 Mr. Game: Show me how you play and\nmake my heart pound with excitement!\r
 Mr. Game: Huh?\rWhy don’t you sit across from me\nand show me how you play?
 GRIP CLAW\n375 Coins
-GLIGAR{CURSOR_X 103}\n300 Coins
+GLIGAR{CURSOR_X 103}\n500 Coins
 Munchlax{CURSOR_X 103}\n300 Coins
