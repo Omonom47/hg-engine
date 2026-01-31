@@ -6142,7 +6142,7 @@ trainerdata 188, "Grunt" //2f radio tower
         // mon 1
         ivs 30
         abilityslot 0
-        level 268
+        level 28
         pokemon SPECIES_GOLBAT
         ballseal 0
     endparty
