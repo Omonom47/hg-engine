@@ -174,6 +174,11 @@ all tm- and tutorlearnsets may need revisions
     - pp: 20 -> 10
     - type: NORMAL -> ELECTRIC
     - basically special FAKE OUT
+- Rock Smash:
+    power: 40 -> 60
+- Cut:
+    type: NORMAL -> GRASS
+    accuracy: 95 -> 100
 
 ### Items
 
