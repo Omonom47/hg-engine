@@ -3502,7 +3502,7 @@ mondata SPECIES_LEDYBA, "Ledyba"
 
 mondata SPECIES_LEDIAN, "Ledian"
     basestats 61, 90, 50, 94, 35, 80
-    types TYPE_BUG, TYPE_FLYING
+    types TYPE_BUG, TYPE_FIGHTING
     catchrate 90
     baseexp 0 // defined in baseexp.s
     evyields 0, 0, 0, 0, 0, 2
