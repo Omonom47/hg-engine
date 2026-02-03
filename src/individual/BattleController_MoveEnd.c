@@ -24,7 +24,7 @@ void LONG_CALL BattleController_MoveEndInternal(struct BattleSystem *bsys, struc
     int script;
     u32 battleType = BattleTypeGet(bsys);
 
-    if (!(battleType & (BATTLE_TYPE_SAFARI | BATTLE_TYPE_POKE_PARK))) {
+    if (!(battleType & (BATTLE_TYPE_SAFARI | BATTLE_TYPE_PAL_PARK))) {
         if (AbilityStatusRecoverCheck(bsys, ctx, ctx->attack_client, 0) == TRUE) {
             return;
         }
@@ -68,6 +68,69 @@ void LONG_CALL BattleController_MoveEndInternal(struct BattleSystem *bsys, struc
                         return;
                     }
                 }
+            }
+        }
+
+        if (ctx->terrainOverlay.type != TERRAIN_NONE
+            && (ctx->current_move_index == MOVE_STEEL_ROLLER
+            || (ctx->current_move_index == MOVE_ICE_SPINNER
+                && ctx->battlemon[ctx->attack_client].hp))
+            && ctx->moveConditionsFlags[ctx->attack_client].endTurnMoveEffectActivated == 0)
+        {
+            ctx->moveConditionsFlags[ctx->attack_client].endTurnMoveEffectActivated = 1;
+            LoadBattleSubSeqScript(ctx, 1, SUB_SEQ_HANDLE_TERRAIN_END);
+            ctx->next_server_seq_no = ctx->server_seq_no;
+            ctx->server_seq_no = CONTROLLER_COMMAND_RUN_SCRIPT;
+            return;
+        }
+
+        if (ctx->current_move_index == MOVE_FELL_STINGER) {
+            if ((ctx->battlemon[ctx->defence_client].hp == 0)
+                && (ctx->moveConditionsFlags[ctx->attack_client].endTurnMoveEffectActivated == 0)) {
+                ctx->moveConditionsFlags[ctx->attack_client].endTurnMoveEffectActivated = 1;
+                ctx->addeffect_param = ADD_STATUS_EFF_BOOST_STATS_ATTACK_UP_3;
+                ctx->addeffect_type = ADD_EFFECT_MOVE_EFFECT;
+                ctx->state_client = ctx->attack_client;
+                LoadBattleSubSeqScript(ctx, 1, SUB_SEQ_BOOST_STATS);
+                ctx->next_server_seq_no = ctx->server_seq_no;
+                ctx->server_seq_no = CONTROLLER_COMMAND_RUN_SCRIPT;
+                return;
+            }
+        }
+
+        if (ctx->current_move_index == MOVE_FLAME_BURST) {
+            int ally = BATTLER_ALLY(ctx->defence_client);
+            if (ctx->battlemon[ally].hp
+                && (GetBattlerAbility(ctx, ally) != ABILITY_MAGIC_GUARD)
+                && (ctx->moveConditionsFlags[ctx->attack_client].endTurnMoveEffectActivated == 0)) {
+                ctx->moveConditionsFlags[ctx->attack_client].endTurnMoveEffectActivated = 1;
+                ctx->addeffect_param = ADD_STATUS_EFF_FLAME_BURST_HIT;
+                ctx->addeffect_type = ADD_EFFECT_MOVE_EFFECT;
+                ctx->state_client = ally;
+                ctx->battlerIdTemp = ally;
+                ctx->hp_calc_work = BattleDamageDivide(ctx->battlemon[ally].maxhp * -1, 16);
+                LoadBattleSubSeqScript(ctx, 1, SUB_SEQ_HANDLE_FLAME_BURST_HIT);
+                ctx->next_server_seq_no = ctx->server_seq_no;
+                ctx->server_seq_no = CONTROLLER_COMMAND_RUN_SCRIPT;
+                return;
+            }
+        }
+
+        if (ctx->moveTbl[ctx->current_move_index].effect == MOVE_EFFECT_FORCE_SWITCH_HIT) { // Dragon Tail, Circle Throw
+            if (ctx->battlemon[ctx->attack_client].hp > 0 
+                && ctx->battlemon[ctx->defence_client].hp > 0
+                && !ctx->battlemon[ctx->defence_client].is_currently_dynamaxed
+                //&& ((ctx->battlemon[ctx->defence_client].effect_of_moves & MOVE_EFFECT_FLAG_INGRAIN) == 0)
+                && ((ctx->battlemon[ctx->defence_client].condition2 & STATUS2_SUBSTITUTE) == 0)
+                && ctx->moveConditionsFlags[ctx->attack_client].endTurnMoveEffectActivated == 0)
+            {
+                ctx->moveConditionsFlags[ctx->attack_client].endTurnMoveEffectActivated = 1;
+                ctx->addeffect_type = ADD_EFFECT_MOVE_EFFECT;
+                ctx->state_client = ctx->attack_client;
+                LoadBattleSubSeqScript(ctx, 1, SUB_SEQ_FORCE_OUT); //checks suction cup/ingrain
+                ctx->next_server_seq_no = ctx->server_seq_no;
+                ctx->server_seq_no = CONTROLLER_COMMAND_RUN_SCRIPT;
+                return;
             }
         }
 
@@ -241,7 +304,9 @@ void LONG_CALL BattleController_MoveEndInternal(struct BattleSystem *bsys, struc
         ctx->damageForSpreadMoves[i] = 0;
     }
     ctx->clientLoopForSpreadMoves = 0;
+    ctx->clientLoopForAbility = 0;
     ctx->boostedAccuracy = FALSE;
+    ctx->gemBoostingMove = FALSE;
 
     ctx->playerActions[ctx->executionOrder[ctx->executionIndex]][0] = CONTROLLER_COMMAND_40;
 

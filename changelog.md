@@ -182,11 +182,15 @@ all tm- and tutorlearnsets may need revisions
 
 ### Items
 
-- Full heal: price: 600 -> 475
+- Full heal: price: 600 -> 400
 - LUCKY EGG: price: 200 -> 3000
 - KINGs ROCK: 
-    - price: 100 -> 2100
+    - price: 100 -> 4000
     - evolves Slowpoke into Slowking on use
+- Razor Fang
+    - price: 4000
+- Razor
+    - price: 4000
 - METAL COAT:
     - Price: 100 -> 2100
     - evolves Scyther into Scizor on use
@@ -290,7 +294,7 @@ all tm- and tutorlearnsets may need revisions
     - Budew line
     - Cacnea line
     - Lileep line
-    - tropius
+    - Absol
     - Turtwig line
     - Wormadam & Mothim
     - Gastrodon
@@ -304,11 +308,12 @@ all tm- and tutorlearnsets may need revisions
     - Full heals replace all rtatus restore items
     - Ether & Elixirs are now available replacing status restoration items
     - Max revives are now available
-- Goldenrod Dept Store
-    - All evolution stones/items
-    - Lucky egg
     - Heart scale
+    - All evolution stones
     - Everstone
+- Goldenrod Dept Store
+    - Lucky egg
+    - held item evo items
     - Nature mints
     - Ability capsules
     - Pixie plate
