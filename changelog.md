@@ -26,6 +26,7 @@ commonscript 2008 give an item determined by var 0x8004 and amount determined by
 
 ## TO DO
 - Replace dialogue of npc on route 32 that originally gave roar tm
+- Make nature minst purchasable again
 - ?update safari zone encounters?
 - ?make lvl cap be more granular in Kanto?
 
@@ -136,6 +137,46 @@ all tm- and tutorlearnsets may need revisions
 - Goldenrod game corner prices now lowered
 - Makes all pokemon sold in Goldenrod game corner available regardles of game version 
 - Makes pokemon sold in Goldenrod game corner always have their hidden ability
+
+### Changed DSPRE files
+#### Scripts, 
+- 32 (Goldenrod radio tower 4f)
+- Script 141 (items)
+- 225 (Route 29)
+- 233 (Route 36 pc)
+- 743 (Viridian gym)
+- 752 (Pewter gym)
+- 786 (Celadon gym)
+- 809 (Fuchsia gym)
+- 824 (Lance's room)
+- 843 (elms lab)
+- 850 (Cherrygrove)
+- 869 (azalea gym)
+- 877 (Cianwood gym)
+- 886 (Goldenrod Gym)
+- 910 (Game corner)
+- 913 (Olivine gym)
+- 922 (Ecruteak gym)
+- 932 (Mahogany gym)
+- 941 (blackthorn)
+- 943 (blackthorn gym)
+- 
+
+#### Text archives
+- 543 (elms lab)
+- 582 (Goldenrod Gym)
+- 603 (Game corner)
+- 606 (Olivine Gym)
+- 622 (Mahogany gym)
+- 629 (Blackthorn)
+- 454 (Viridian Gym)
+- 492 (Celadon gym)
+- 514 (Fuchsia gym)
+
+#### event files
+- 64 (Cherrygrove)
+- 86 (Blackthorn)
+- 163 (Route 36)
 
 
 ### Level caps
