@@ -162,7 +162,6 @@ all tm- and tutorlearnsets may need revisions
 - 932 (Mahogany gym)
 - 941 (blackthorn)
 - 943 (blackthorn gym)
-- 
 
 #### Text archives
 - 543 (elms lab)
@@ -359,7 +358,6 @@ all tm- and tutorlearnsets may need revisions
     - held item evo items
     - Nature mints
     - Ability capsules
-    - Pixie plate
     - Silver Powder
     - TM70 -> TM92
     - TM54 ->TM77
