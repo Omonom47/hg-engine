@@ -406,11 +406,28 @@ all tm- and tutorlearnsets may need revisions
 
 - Falkner: ace lvl 13
     - mon1: Pidgey -> Spearow
-        - ivs: 15, 15, 0, 10, 0, 0
+        - ivs: all 31
         - nature: Impish
-    - mon2:
-        - ivs: 15, 10, 10, 0, 10, 0
+        - moves:
+            - Peck
+            - Pursuit
+            - Growl
+    - mon2: Pidgey (new)
+        - ivs: all 31
+        - nature: Timid
+        - moves:
+            - Tackle
+            - Roost
+            - Gust
+            - Sand Attack
+    - mon3:Pidgeotto (ace)
+        - ivs: all 31
         - nature: Relaxed
+        - Moves:
+            - Tackle
+            - Roost
+            - Gust
+            - Ominous Wind
 - Bugsy: ace lvl 17
     - mon1: (ace)
         - ability: technician

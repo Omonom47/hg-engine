@@ -663,7 +663,7 @@ trainerdata 19, "Chuck"
 trainerdata 20, "Falkner"
     trainermontype TRAINER_DATA_TYPE_ITEMS | TRAINER_DATA_TYPE_MOVES | TRAINER_DATA_TYPE_IV_EV_SET | TRAINER_DATA_TYPE_NATURE_SET
     trainerclass CLASS_LEADER_M
-    nummons 2
+    nummons 3
     item ITEM_NONE
     item ITEM_NONE
     item ITEM_NONE
@@ -676,19 +676,34 @@ trainerdata 20, "Falkner"
         // mon 0
         ivs 50
         abilityslot 0
-        level 10
+        level 11
         pokemon SPECIES_SPEAROW
         item ITEM_NONE
         move MOVE_PECK
         move MOVE_PURSUIT
         move MOVE_GROWL
         move MOVE_NONE
-        setivs 15, 15, 0, 10, 0, 0
+        setivs 31, 31, 31, 31, 31, 31
         setevs 0, 0, 0, 0, 0, 0
         nature NATURE_IMPISH
         ballseal 0
 
         // mon 1
+        ivs 50
+        abilityslot 0
+        level 11
+        pokemon SPECIES_PIDGEY
+        item ITEM_NONE
+        move MOVE_TACKLE
+        move MOVE_ROOST
+        move MOVE_GUST
+        move MOVE_SAND_ATTACK
+        setivs 31, 31, 31, 31, 31, 31
+        setevs 0, 0, 0, 0, 0, 0
+        nature NATURE_TIMID
+        ballseal 0
+
+        // mon 2
         ivs 50
         abilityslot 0
         level 13
@@ -697,8 +712,8 @@ trainerdata 20, "Falkner"
         move MOVE_TACKLE
         move MOVE_ROOST
         move MOVE_GUST
-        move MOVE_NONE
-        setivs 15, 10, 10, 0, 10, 0
+        move MOVE_OMINOUS_WIND
+        setivs 31, 31, 31, 31, 31, 31
         setevs 0, 0, 0, 0, 0, 0
         nature NATURE_RELAXED
         ballseal 0
