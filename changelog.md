@@ -16,7 +16,7 @@ If level cap variable is not set then no exp is earned
 commonscript 2008 give an item determined by var 0x8004 and amount determined by var 0x8005
 
 - Base items indexed from 0 - 536
-- look at [the itemdata file](./data/itemdata/itemdata.c) for the exact item index
+- look at [the itemdata constants](./include/constants/item.h) for the exact item index
 
 
 ## Known issues:
@@ -255,19 +255,21 @@ all tm- and tutorlearnsets may need revisions
 - ROCKY HELMET: Given by brock
 - ROSELI BERRY, KEE BERRY, and MARANGA BERRY: given by Erika
 - ABILITY CAPSULE: 3 given by Janine. Sold in Goldenrod Dept. store.
-- ADAMANT MINT: replacing POTION on Route 30
+- ADAMANT MINT: replacing POTION on Route 29
 - MODEST MINT: Replacing ANTIDOTE on Route 30
-- CHERRI BERRY: 5x replacing POTION on Route 31
+- CHERI BERRY: 5x replacing POTION on Route 30
+- RAWST BERRY: 5x replacing POTION on Route 31
 - IMPISH MINT: Given by man on Route 32 after beating Falkner
 - CALM MINT: Given by man on Route 32 after beating Falkner
 - ESCAPE ROPE: 2x replaces PARLYZ HEAL on 1F of Sprout Tower
-- REPEL: replaces, X-ACCURACY on 2F of Sprout Tower
+- REPEL: 3x replaces X-ACCURACY on 2F of Sprout Tower
 - GREAT BALL: replaces POTION on 3F of Sprout Tower
 - LEFTOVERS: on small island of the coast of Cherrygrove city (flag 25)
 - BLACK SLUDGE: Replaces BURN HEAL in basement of Goldenrod Dept. Store
 - NUGGET: replaces X-ATTACK in Union cave
-- CHESTO BERRY: replaces AWAKENING in Union Cave
+- CHESTO BERRY: 5x replaces AWAKENING in Union Cave
 - SUPER POTION: replaces POTION in Union cave
+- PERSIM BERRY: 5x replaces X-Defense in Union Cave B1f
 - PIXIE PLATE: Replaces X-ATTACK in Ilex Forest
 - MAX REVIVE: replaces ULTRA BALL on Route 44
 
