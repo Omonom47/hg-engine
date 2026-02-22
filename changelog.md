@@ -152,6 +152,7 @@ all tm- and tutorlearnsets may need revisions
 - 824 (Lance's room)
 - 833 (Mr.Psychic house in Saffron)
 - 843 (elms lab)
+- 845 (Player home)
 - 850 (Cherrygrove)
 - 869 (azalea gym)
 - 877 (Cianwood gym)
@@ -167,6 +168,7 @@ all tm- and tutorlearnsets may need revisions
 
 #### Text archives
 - 543 (elms lab)
+- 545 (Player home)
 - 582 (Goldenrod Gym)
 - 603 (Game corner)
 - 606 (Olivine Gym)
