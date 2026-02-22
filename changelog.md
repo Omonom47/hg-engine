@@ -151,6 +151,7 @@ all tm- and tutorlearnsets may need revisions
 - 809 (Fuchsia gym)
 - 824 (Lance's room)
 - 833 (Mr.Psychic house in Saffron)
+- 842 (New Bark)
 - 843 (elms lab)
 - 845 (Player home)
 - 850 (Cherrygrove)
