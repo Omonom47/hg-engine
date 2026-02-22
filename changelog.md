@@ -143,7 +143,7 @@ all tm- and tutorlearnsets may need revisions
 - 32 (Goldenrod radio tower 4f)
 - Script 141 (items)
 - 225 (Route 29)
-- 233 (Route 36 pc)
+- 233 (Route 32 pc)
 - 743 (Viridian gym)
 - 752 (Pewter gym)
 - 786 (Celadon gym)
@@ -154,6 +154,8 @@ all tm- and tutorlearnsets may need revisions
 - 869 (azalea gym)
 - 877 (Cianwood gym)
 - 886 (Goldenrod Gym)
+- 903 (Goldenrod dept 5f)
+- 904 (Goldenrod dept 6f)
 - 910 (Game corner)
 - 913 (Olivine gym)
 - 922 (Ecruteak gym)
@@ -176,7 +178,7 @@ all tm- and tutorlearnsets may need revisions
 #### event files
 - 64 (Cherrygrove)
 - 86 (Blackthorn)
-- 163 (Route 36)
+- 163 (Route 32 pc)
 
 
 ### Level caps
