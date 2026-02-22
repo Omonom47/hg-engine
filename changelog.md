@@ -16,7 +16,8 @@ If level cap variable is not set then no exp is earned
 commonscript 2008 give an item determined by var 0x8004 and amount determined by var 0x8005
 
 - Base items indexed from 0 - 536
-- Mega stones + Pixie plate indexed from 537 - 584, Pixie plate is 584
+- look at [the itemdata file](./data/itemdata/itemdata.c) for the exact item index
+
 
 ## Known issues:
 - Using speedup during the intro causes character sprites in the overworld get corrupted after the first battle and leaving route 29 through the gate and coming back
@@ -149,6 +150,7 @@ all tm- and tutorlearnsets may need revisions
 - 786 (Celadon gym)
 - 809 (Fuchsia gym)
 - 824 (Lance's room)
+- 833 (Mr.Psychic house in Saffron)
 - 843 (elms lab)
 - 850 (Cherrygrove)
 - 869 (azalea gym)
@@ -173,6 +175,7 @@ all tm- and tutorlearnsets may need revisions
 - 454 (Viridian Gym)
 - 492 (Celadon gym)
 - 514 (Fuchsia gym)
+- 534 (Mr.Psychic house in Saffron)
 
 #### event files
 - 64 (Cherrygrove)
