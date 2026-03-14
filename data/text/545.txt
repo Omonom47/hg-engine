@@ -5,7 +5,7 @@ Here you can save a record of\nyour progress...\r
 These are also rather helpful...\r
 Just try touching the buttons, and\nyou’ll know what to do in no time.\r
 Professor Elm has been waiting for\nyou, dear. Please, go and help him.
-Oh, that’s right!\nI almost forgot!\rYour Pokégear came back from the\nrepair shop!\rHere you go!\r
+Oh, that’s right!\rYour Pokégear came back from the\nrepair shop!\rHere you go!\r
 {STRVAR_1 3, 0, 0} received\nthe Pokégear!\r
 The Pokémon Gear...\nor Pokégear, as it’s often called,\fis what every Trainer should have.\r
 Guess what?\nYou can use the Pokégear to make a\fphone call, too.\fDo you remember how? {YESNO 0}
