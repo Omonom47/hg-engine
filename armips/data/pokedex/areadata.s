@@ -1100,7 +1100,6 @@ routesandcities SPECIES_RATTATA, DEX_NIGHT
     .word DEX_ROUTE_31
     .word DEX_ROUTE_32
     .word DEX_ROUTE_33
-    .word DEX_ROUTE_39
     .word DEX_ROUTE_46
     .word DEX_ROUTE_1
     .word DEX_ROUTE_3
@@ -8510,6 +8509,7 @@ routesandcities SPECIES_MISDREAVUS, DEX_DAY
 
 
 routesandcities SPECIES_MISDREAVUS, DEX_NIGHT
+    .word DEX_ROUTE_39
     dexendareadata
 
 

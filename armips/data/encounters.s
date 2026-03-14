@@ -4106,7 +4106,7 @@ pokemon SPECIES_MILTANK
 pokemon SPECIES_TAUROS
 
 // night encounter slots
-pokemon SPECIES_RATTATA
+pokemon SPECIES_MISDREAVUS
 pokemon SPECIES_RATICATE
 pokemon SPECIES_PONYTA
 pokemon SPECIES_RATICATE

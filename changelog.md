@@ -1351,6 +1351,7 @@ Rock smash encounter rates per slot are : 90, 10
 - bell tower: lvls increased, adds raticate, haunter & misdreavus
 - route 38: grass, trainer lvls
 - route 39: grass
+    - Replaces Rattata with Misdreavus at night
 - Olivine: Make Corsola & Kingler more likely to appear by fishing
 - route 40: fishing & surf, trainer lvls
 - route 41: fishing & surf, trainer lvls
