@@ -1046,7 +1046,6 @@ specialareas SPECIES_RATTATA, DEX_MORNING
     .word DEX_UNION_CAVE
     .word DEX_BURNED_TOWER
     .word DEX_BELL_TOWER
-    .word DEX_MT_MORTAR
     dexendareadata
 
 
@@ -1055,7 +1054,6 @@ specialareas SPECIES_RATTATA, DEX_DAY
     .word DEX_UNION_CAVE
     .word DEX_BURNED_TOWER
     .word DEX_BELL_TOWER
-    .word DEX_MT_MORTAR
     dexendareadata
 
 
@@ -1063,7 +1061,6 @@ specialareas SPECIES_RATTATA, DEX_NIGHT
     .word DEX_SPROUT_TOWER
     .word DEX_UNION_CAVE
     .word DEX_BURNED_TOWER
-    .word DEX_MT_MORTAR
     dexendareadata
 
 
@@ -1752,16 +1749,19 @@ routesandcities SPECIES_NIDOKING, DEX_SPECIAL
 
 
 specialareas SPECIES_CLEFAIRY, DEX_MORNING
+    .word DEX_MT_MORTAR
     .word DEX_MT_MOON
     dexendareadata
 
 
 specialareas SPECIES_CLEFAIRY, DEX_DAY
+    .word DEX_MT_MORTAR
     .word DEX_MT_MOON
     dexendareadata
 
 
 specialareas SPECIES_CLEFAIRY, DEX_NIGHT
+    .word DEX_MT_MORTAR
     .word DEX_MT_MOON
     dexendareadata
 
