@@ -1352,7 +1352,9 @@ Rock smash encounter rates per slot are : 90, 10
 - route 38: grass, trainer lvls
 - route 39: grass
     - Replaces Rattata with Misdreavus at night
-- Olivine: Make Corsola & Kingler more likely to appear by fishing
+- Olivine: 
+    - Make Corsola & Kingler more likely to appear by fishing
+    - Makes Adds Grimer to Surf encounters
 - route 40: fishing & surf, trainer lvls
 - route 41: fishing & surf, trainer lvls
 - whirl islands: All lvls increased. Golbat more likely on 1f & b1f, and completely replaces zubat on b2f & b3f. Kingler now appears as walking encounter on b2f and b3f 

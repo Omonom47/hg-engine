@@ -4087,6 +4087,7 @@ specialareas SPECIES_GRIMER, DEX_NIGHT
 
 
 routesandcities SPECIES_GRIMER, DEX_MORNING
+    .word DEX_OLIVINE_CITY
     .word DEX_CELADON_CITY
     .word DEX_ROUTE_16
     .word DEX_ROUTE_17
@@ -4095,6 +4096,7 @@ routesandcities SPECIES_GRIMER, DEX_MORNING
 
 
 routesandcities SPECIES_GRIMER, DEX_DAY
+    .word DEX_OLIVINE_CITY
     .word DEX_CELADON_CITY
     .word DEX_ROUTE_16
     .word DEX_ROUTE_17
@@ -4103,6 +4105,7 @@ routesandcities SPECIES_GRIMER, DEX_DAY
 
 
 routesandcities SPECIES_GRIMER, DEX_NIGHT
+    .word DEX_OLIVINE_CITY
     .word DEX_CELADON_CITY
     .word DEX_ROUTE_16
     .word DEX_ROUTE_17
