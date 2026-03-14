@@ -230,6 +230,7 @@ all tm- and tutorlearnsets may need revisions
 
 ### Items
 
+- Adds new INFINITE CANDY item
 - Full heal: price: 600 -> 400
 - LUCKY EGG: price: 200 -> 3000
 - KINGs ROCK: 
