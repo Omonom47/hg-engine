@@ -182,6 +182,7 @@ all tm- and tutorlearnsets may need revisions
 - 534 (Mr.Psychic house in Saffron)
 
 #### event files
+- 31 (Route 30)
 - 64 (Cherrygrove)
 - 86 (Blackthorn)
 - 163 (Route 32 pc)
