@@ -403,6 +403,7 @@ all tm- and tutorlearnsets may need revisions
         - FERALIGATR
 
 #### Johto gymleaders
+all mons are at lvl cap and all have 31 ivs in all stats
 
 - Falkner: ace lvl 13
     - mon1: Pidgey -> Spearow
@@ -431,30 +432,24 @@ all tm- and tutorlearnsets may need revisions
 - Bugsy: ace lvl 17
     - mon1: (ace)
         - ability: technician
-        - ivs: 15, 15, 15, 15, 0, 0
         - evs: 0, 40, 0, 0, 0, 0 
         - nature: Adamant
     - mon2: Kakuna -> Ledyba
         - ability: Swarm
-        - ivs: 15, 15, 0, 15, 0, 5
         - nature: Jolly
     - mon3: Metapod -> Spinarak
         - ability: adaptibility
-        - ivs: 15, 15, 0, 10, 0, 10
         - nature: Impish
         
 - Whitney: ace lvl 20
     - mon1: Clefairy -> Jigglypuff
         - ability: Competitive
-        - ivs: 15, 0, 15, 15, 15, 15
         - nature: Timid
     - mon2: Miltank -> Clefairy
         - ability: Cute charm
-        - ivs: 10, 15, 10, 15, 15, 10
         - nature: Hardy
     - mon3: NONE -> Miltank (ace)
         - ability: Scrappy
-        - ivs: 20, 15, 25, 15, 0, 15
         - evs: 20, 0, 0, 0, 0, 0 
         - nature: Hasty
 
@@ -462,98 +457,78 @@ all tm- and tutorlearnsets may need revisions
 - Morty: ace lvl 25
     - mon1: Gastly -> Misdreavus
         - ability: Levitate
-        - ivs: 15, 15, 15, 15, 15, 15
         - nature: Timid
     - mon2: Haunter -> Noctowl
         - ability: Tinted lens
-        - ivs: 15, 15, 15, 15, 15, 15
         - nature: Bold
     - Mon3: Gengar (ace): 
         - HYPNOSIS -> FOCUS BLAST
         - ability: Cursed body
-        - ivs: 25, 0, 20, 15, 20, 15
         - nature: Hardy
     - Mon4: Haunter: 
         - NIGHT SHADE -> SHADOW BALL
         - ability: Levitate
-        - ivs: 15, 15, 15, 15, 15, 15
         - nature: Timid
 
 - Chuck: 
     - As 5th gym: ace lvl 30, trainerdata 34
         - mon1: Primeape: moveset changed
-            - ivs: 20, 20, 20, 20, 20, 20
             - nature: Careful
         - mon2: Poliwrath -> Hitmontop
-            - ivs: 20, 20, 20, 20, 20, 20
             - nature: Impish
         - mon3: NONE -> Poliwrath (ace): moveset changed
-            - ivs: 31, 20, 20, 20, 20, 20
             - nature: Careful
     - As 6th gym: ace lvl 33, trainerdata 11
-        - mon1: Primeape: lvl 31
-            - ivs: 25, 25, 25, 25, 25, 25
+        - mon1: Primeape: 
             - nature: Careful
-        - mon2: Hitmontop: lvl 31
-            - ivs: 25, 25, 25, 25, 25, 25
+        - mon2: Hitmontop: 
             - nature: Impish
         - mon3: Poliwrath (ace): 
             - HYPNOSIS -> SUBSTITUTE 
-            - ivs: 31, 31, 25, 25, 25, 15
             - nature: Careful
     - As 7th gym: ace lvl 35, trainerdata 19
-        - mon1: Primeape: lvl 33, 
+        - mon1: Primeape:  
             - ASSURANCE -> BRUTAL SWING
             - ability: Defiant
-            - ivs: 31, 31, 31, 31, 31, 31
             - nature: Careful
-        - mon2: Hitmontop: lvl 33
+        - mon2: Hitmontop: 
             - ability: Intimidate
-            - ivs: 31, 31, 31, 31, 31, 31
             - nature: Impish
         - mon3: Poliwrath (ace): 
             - BODY SLAM -> BRUTAL SWING 
             - ability: Water absorb
-            - ivs: 31, 31, 31, 31, 31, 31
             - evs: 52, 0, 0, 0, 0, 0
             - nature: Sassy
 - Jasmine:
     - as 5th gym, ace lvl 30, trainerdata 40
-        - mon1: Magnemite: lvl 28
+        - mon1: Magneton: lvl 30
             - ability: Sturdy
-            - ivs: 20, 20, 20, 20, 20, 20
             - nature: Modest
-        - mon2: Forretress: lvl 28
-            - ability: Sturdy
-            - ivs: 20, 20, 20, 20, 20, 20
+        - mon2: Forretress: lvl 30
             - nature: Careful
         - mon3: Steelix (ace)
             - ability: Sturdy
-            - ivs: 20, 31, 20, 20, 20, 20
             - nature: Adamant
     - As 6th gym, ace lvl 33, trainerdata 33
-        - mon1: Magnemite -> Magneton: lvl 30 -> 31 
+        - mon1: Magnemite -> Magneton:
             - SONIC BOOM -> TRI ATTACK
             - ability: Sturdy
-            - ivs: 25, 25, 25, 25, 25, 25
             - nature: Modest
-        - mon2: Magnemite -> Forretress: lvl 31
+        - mon2: Magnemite -> Forretress: 
             - ability: Sturdy
-            - ivs: 25, 25, 25, 25, 25, 25
             - nature: Careful
         - mon3: Steelix (ace): 
             - SCREECH -> THUNDER FANG 
             - ROCK THROW -> EARTHQUAKE
             - ability: Sturdy
-            - ivs: 25, 31, 31, 25, 25, 15
             - nature: Adamant
     - As 7th gym, ace lvl 35, trainerdata 63
-        - mon1: Magneton: lvl 33, 
+        - mon1: Magneton: 
             - SUPERSONIC -> FLASH CANNON
             - ability: Sturdy
             - ivs: 31, 31, 31, 31, 31, 31
             - nature: Modest
-        - mon2: Forretress: lvl 33
+        - mon2: Forretress:
             - ability: Sturdy
             - ivs: 31, 31, 31, 31, 31, 31
             - nature: Careful
@@ -565,39 +540,33 @@ all tm- and tutorlearnsets may need revisions
             - nature: Adamant
 - Pryce: 
     - as 5th gym, ace lvl 30, trainerdata 87
-        - mon1: Delibird: lvl 28
+        - mon1: Delibird:
             - ability: Snow warning
-            - ivs: 20, 20, 20, 20, 20, 20
             - nature: Modest
-        - mon2: Seel: lvl 28
+        - mon2: Seel
             - ability: Ice body
-            - ivs: 20, 20, 20, 20, 20, 20
             - nature: Bold
         - mon3: Piloswine (ace): 
             - ability: Thick fat
-            - ivs: 31, 20, 20, 20, 20, 20
             - evs: 0, 0, 0, 0, 0, 48
             - nature: careful
     - as 6th gym, ace lvl 33, trainerdata 88
-        - mon1: Delibird: lvl 30
+        - mon1: Delibird
             - ability: Snow warning
-            - ivs: 25, 25, 25, 25, 25, 25
             - nature: Modest
-        - mon2: Dewgong: lvl 32
+        - mon2: Dewgong
             - ability: Ice body
-            - ivs: 25, 25, 25, 25, 25, 25
             - nature: Bold
         - mon3: Piloswine (ace):
             - ability: Thick fat
-            - ivs: 31, 25, 25, 25, 25, 25
             - evs: 0, 0, 0, 0, 0, 48
             - nature: Careful
     - as 7th gym, ace now lvl 35, trainerdata 32
-        - mon1: Seel -> Delibird: lvl 33
+        - mon1: Seel -> Delibird:
             - ability: Sturdy
             - ivs: 31, 31, 31, 31, 31, 31
             - nature: hasty
-        - mon2: Dewgong: lvl 32 -> 33, 
+        - mon2: Dewgong: 
             - ICE SHARD -> SURF 
             - AURORA BEAM -> BLIZZARD
             - ability: Ice body
