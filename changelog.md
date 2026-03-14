@@ -168,6 +168,7 @@ all tm- and tutorlearnsets may need revisions
 - 943 (blackthorn gym)
 
 #### Text archives
+- 373 (route 29)
 - 543 (elms lab)
 - 545 (Player home)
 - 582 (Goldenrod Gym)
