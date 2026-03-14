@@ -1068,7 +1068,6 @@ routesandcities SPECIES_RATTATA, DEX_MORNING
     .word DEX_ROUTE_29
     .word DEX_ROUTE_32
     .word DEX_ROUTE_33
-    .word DEX_ROUTE_34
     .word DEX_ROUTE_46
     .word DEX_ROUTE_1
     .word DEX_ROUTE_3
@@ -1084,7 +1083,6 @@ routesandcities SPECIES_RATTATA, DEX_DAY
     .word DEX_ROUTE_29
     .word DEX_ROUTE_32
     .word DEX_ROUTE_33
-    .word DEX_ROUTE_34
     .word DEX_ROUTE_46
     .word DEX_ROUTE_1
     .word DEX_ROUTE_3
@@ -1102,7 +1100,6 @@ routesandcities SPECIES_RATTATA, DEX_NIGHT
     .word DEX_ROUTE_31
     .word DEX_ROUTE_32
     .word DEX_ROUTE_33
-    .word DEX_ROUTE_34
     .word DEX_ROUTE_39
     .word DEX_ROUTE_46
     .word DEX_ROUTE_1
@@ -1901,18 +1898,21 @@ specialareas SPECIES_JIGGLYPUFF, DEX_NIGHT
 
 
 routesandcities SPECIES_JIGGLYPUFF, DEX_MORNING
+    .word DEX_ROUTE_34
     .word DEX_ROUTE_3
     .word DEX_ROUTE_4
     dexendareadata
 
 
 routesandcities SPECIES_JIGGLYPUFF, DEX_DAY
+    .word DEX_ROUTE_34
     .word DEX_ROUTE_3
     .word DEX_ROUTE_4
     dexendareadata
 
 
 routesandcities SPECIES_JIGGLYPUFF, DEX_NIGHT
+    .word DEX_ROUTE_34
     .word DEX_ROUTE_3
     .word DEX_ROUTE_4
     dexendareadata
@@ -8436,6 +8436,7 @@ routesandcities SPECIES_MURKROW, DEX_DAY
 
 
 routesandcities SPECIES_MURKROW, DEX_NIGHT
+    .word DEX_ROUTE_34
     .word DEX_ROUTE_7
     .word DEX_ROUTE_16
     .word DEX_ROUTE_42

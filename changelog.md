@@ -1343,6 +1343,7 @@ Rock smash encounter rates per slot are : 90, 10
 - route 33: grass
 - ilex forest: walking and headbutt
 - route 34: grass and headbutt
+    - Replaces Rattata with Jigglypuff & Murkrow
 - route 35: grass
 - route 36: grass
 - route 37: grass
@@ -1356,6 +1357,9 @@ Rock smash encounter rates per slot are : 90, 10
 - whirl islands: All lvls increased. Golbat more likely on 1f & b1f, and completely replaces zubat on b2f & b3f. Kingler now appears as walking encounter on b2f and b3f 
 - route 42: grass, trainer lvls, adds Murkrow to morning & night
 - Mt. Mortar: walking encountertable and surf
+    - Adds Sneasel
+    - Replaces Rattata in entrance room with Marill
+    - Replaces Rattata on B1f & 1F with Clefairy
 - Mahogany rocket hideout: TODO trainer lvls
 - Mahogany gym: trainer lvls
 - route 43: grass and surf lvls, replaces Mareep with Teddiursa at night, trainers

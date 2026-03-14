@@ -2207,9 +2207,9 @@ walklevels 11, 11, 12, 12, 12, 13, 11, 12, 11, 11, 13, 13
 
 // morning encounter slots
 pokemon SPECIES_DROWZEE
-pokemon SPECIES_RATTATA
+pokemon SPECIES_JIGGLYPUFF
 pokemon SPECIES_DROWZEE
-pokemon SPECIES_RATTATA
+pokemon SPECIES_MURKROW
 pokemon SPECIES_HOUNDOUR
 pokemon SPECIES_HOUNDOUR
 pokemon SPECIES_ABRA
@@ -2221,9 +2221,9 @@ pokemon SPECIES_DITTO
 
 // day encounter slots
 pokemon SPECIES_DROWZEE
-pokemon SPECIES_RATTATA
+pokemon SPECIES_JIGGLYPUFF
 pokemon SPECIES_DROWZEE
-pokemon SPECIES_RATTATA
+pokemon SPECIES_JIGGLYPUFF
 pokemon SPECIES_HOUNDOUR
 pokemon SPECIES_HOUNDOUR
 pokemon SPECIES_ABRA
@@ -2235,9 +2235,9 @@ pokemon SPECIES_DITTO
 
 // night encounter slots
 pokemon SPECIES_DROWZEE
-pokemon SPECIES_RATTATA
+pokemon SPECIES_MURKROW
 pokemon SPECIES_DROWZEE
-pokemon SPECIES_RATTATA
+pokemon SPECIES_JIGGLYPUFF
 pokemon SPECIES_HOUNDOUR
 pokemon SPECIES_HOUNDOUR
 pokemon SPECIES_ABRA
