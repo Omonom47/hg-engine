@@ -1206,7 +1206,6 @@ routesandcities SPECIES_SPEAROW, DEX_MORNING
     .word DEX_ROUTE_33
     .word DEX_ROUTE_42
     .word DEX_ROUTE_46
-    .word DEX_ROUTE_47
     .word DEX_ROUTE_3
     .word DEX_ROUTE_4
     .word DEX_ROUTE_7
@@ -1220,7 +1219,6 @@ routesandcities SPECIES_SPEAROW, DEX_DAY
     .word DEX_ROUTE_33
     .word DEX_ROUTE_42
     .word DEX_ROUTE_46
-    .word DEX_ROUTE_47
     .word DEX_ROUTE_3
     .word DEX_ROUTE_4
     .word DEX_ROUTE_7
@@ -1231,7 +1229,6 @@ routesandcities SPECIES_SPEAROW, DEX_DAY
 
 
 routesandcities SPECIES_SPEAROW, DEX_NIGHT
-    .word DEX_ROUTE_47
     .word DEX_ROUTE_4
     dexendareadata
 
@@ -5617,16 +5614,19 @@ specialareas SPECIES_ELECTABUZZ, DEX_NIGHT
 
 
 routesandcities SPECIES_ELECTABUZZ, DEX_MORNING
+    .word DEX_ROUTE_47
     .word DEX_ROUTE_10
     dexendareadata
 
 
 routesandcities SPECIES_ELECTABUZZ, DEX_DAY
+    .word DEX_ROUTE_47
     .word DEX_ROUTE_10
     dexendareadata
 
 
 routesandcities SPECIES_ELECTABUZZ, DEX_NIGHT
+    .word DEX_ROUTE_47
     .word DEX_ROUTE_10
     dexendareadata
 

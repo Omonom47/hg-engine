@@ -1375,6 +1375,8 @@ Rock smash encounter rates per slot are : 90, 10
 - Dark cave: both sides lvls & encounter rates
 - Cliff cave: increased encounter rate of Misdreavus, Graveller, and Machoke, removes Zubat, Krabby, Wooper, and Quagsire from walking encounters
 - route 47: surf
+    - Makes Ditto less likely by adding Electabuzz
+    - Removes Spearow as encounter, replced by Fearow
 - route 48: grass encountertable
 
 #### Kanto
