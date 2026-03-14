@@ -7843,7 +7843,7 @@ trainerdata 244, "Lance"
         // mon 0
         ivs 250
         abilityslot 0
-        level 50
+        level 56
         pokemon SPECIES_GYARADOS
         item ITEM_NONE
         move MOVE_IRON_HEAD
@@ -7858,7 +7858,7 @@ trainerdata 244, "Lance"
         // mon 1
         ivs 250
         abilityslot 0
-        level 53
+        level 56
         pokemon SPECIES_DRAGONITE
         item ITEM_NONE
         move MOVE_THUNDER_WAVE
@@ -7873,7 +7873,7 @@ trainerdata 244, "Lance"
         // mon 2
         ivs 250
         abilityslot 0
-        level 53
+        level 56
         pokemon SPECIES_DRAGONITE
         item ITEM_NONE
         move MOVE_THUNDER_WAVE
@@ -7888,7 +7888,7 @@ trainerdata 244, "Lance"
         // mon 3
         ivs 250
         abilityslot 32
-        level 52
+        level 56
         pokemon SPECIES_AERODACTYL
         item ITEM_NONE
         move MOVE_AERIAL_ACE
@@ -7903,7 +7903,7 @@ trainerdata 244, "Lance"
         // mon 4
         ivs 250
         abilityslot 0
-        level 52
+        level 56
         pokemon SPECIES_CHARIZARD
         item ITEM_NONE
         move MOVE_SHADOW_CLAW
@@ -7918,7 +7918,7 @@ trainerdata 244, "Lance"
         // mon 5
         ivs 250
         abilityslot 0
-        level 56
+        level 57
         pokemon SPECIES_DRAGONITE
         item ITEM_SITRUS_BERRY
         move MOVE_FIRE_BLAST
