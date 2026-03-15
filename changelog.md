@@ -464,7 +464,6 @@ all mons are at lvl cap and all have 31 ivs in all stats
         - NIGHT SHADE -> SHADOW BALL
         - ability: Levitate
         - nature: Timid
-
 - Chuck: 
     - As 5th gym: ace lvl 30, trainerdata 34
         - mon1: Primeape: moveset changed
@@ -489,7 +488,7 @@ all mons are at lvl cap and all have 31 ivs in all stats
         - mon2: Hitmontop: 
             - ability: Intimidate
             - nature: Impish
-        - mon3: Ledian:
+        - mon3: Ledian (new):
             - ability: Iron Fist
             - nature: Careful
             - moves:
@@ -525,20 +524,25 @@ all mons are at lvl cap and all have 31 ivs in all stats
             - ROCK THROW -> EARTHQUAKE
             - ability: Sturdy
             - nature: Adamant
-    - As 7th gym, ace lvl 35, trainerdata 63
-        - mon1: Magneton: 
+    - As 7th gym, all lvl 37, trainerdata 63
+        - mon1: Skarmory (new)
+            - Nature: Careful
+            - ability: Sturdy
+            - Moves:
+                - Toxic
+                - Tailwind
+                - Stealth Rock
+                - Drill Peck
+        - mon2: Magneton: 
             - SUPERSONIC -> FLASH CANNON
             - ability: Sturdy
-            - ivs: 31, 31, 31, 31, 31, 31
             - nature: Modest
-        - mon2: Forretress:
+        - mon3: Forretress:
             - ability: Sturdy
-            - ivs: 31, 31, 31, 31, 31, 31
             - nature: Careful
-        - mon3: Steelix (ace): 
+        - mon4: Steelix (ace): 
             - SANDSTORM -> ICE FANG
             - ability: Sturdy
-            - ivs: 31, 31, 31, 31, 31, 31
             - evs: 0, 52, 0, 0, 0, 0
             - nature: Adamant
 - Pryce: 

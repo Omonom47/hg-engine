@@ -2217,7 +2217,23 @@ trainerdata 63, "Jasmine"
         // mon 0
         ivs 150
         abilityslot 0
-        level 35
+        level 37
+        pokemon SPECIES_SKARMORY
+        item ITEM_NONE
+        move MOVE_TOXIC
+        move MOVE_TAILWIND
+        move MOVE_STEALTH_ROCK
+        move MOVE_DRILL_PECK
+        ability ABILITY_STURDY
+        setivs 31, 31, 31, 31, 31, 31
+        setevs 0, 0, 0, 0, 0, 0
+        nature NATURE_CAREFUL
+        ballseal 0
+
+        // mon 1
+        ivs 150
+        abilityslot 0
+        level 37
         pokemon SPECIES_MAGNETON
         item ITEM_NONE
         move MOVE_THUNDERBOLT
@@ -2230,10 +2246,10 @@ trainerdata 63, "Jasmine"
         nature NATURE_MODEST
         ballseal 0
 
-        // mon 1
+        // mon 2
         ivs 150
         abilityslot 0
-        level 35
+        level 37
         pokemon SPECIES_FORRETRESS
         item ITEM_NONE
         move MOVE_ROCK_SLIDE
@@ -2246,10 +2262,10 @@ trainerdata 63, "Jasmine"
         nature NATURE_CAREFUL
         ballseal 0
 
-        // mon 2
+        // mon 3
         ivs 150
         abilityslot 32
-        level 35
+        level 37
         pokemon SPECIES_STEELIX
         item ITEM_SITRUS_BERRY
         move MOVE_THUNDER_FANG
