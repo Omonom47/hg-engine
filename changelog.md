@@ -570,18 +570,23 @@ all mons are at lvl cap and all have 31 ivs in all stats
             - nature: Careful
     - as 7th gym, ace now lvl 35, trainerdata 32
         - mon1: Seel -> Delibird:
-            - ability: Sturdy
-            - ivs: 31, 31, 31, 31, 31, 31
+            - ability: Snow Warning
             - nature: hasty
         - mon2: Dewgong: 
             - ICE SHARD -> SURF 
             - AURORA BEAM -> BLIZZARD
             - ability: Ice body
-            - ivs: 31, 31, 31, 31, 31, 31
             - nature: bold
-        - mon3: Piloswine -> Mamoswine (ace): lvl 34 -> 35
+        - mon3: Cloyster(new):
+            - ability: Skill Link
+            - nature: Jolly
+            - Moves:
+                - Shell Smash
+                - Icicle Spear
+                - Shadow Sneak
+                - Waterfall
+        - mon4: Piloswine -> Mamoswine (ace): lvl 34 -> 35
             - ability: Thick fat
-            - ivs: 31, 31, 31, 31, 31, 31
             - evs: 0, 0, 0, 0, 0, 60
             - nature: Adamant
 - Clair: ace lvl 43

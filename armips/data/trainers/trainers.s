@@ -1172,7 +1172,7 @@ trainerdata 32, "Pryce"
         // mon 0
         ivs 150
         abilityslot 32
-        level 35
+        level 37
         pokemon SPECIES_DELIBIRD
         item ITEM_NONE
         move MOVE_AIR_SLASH
@@ -1188,7 +1188,7 @@ trainerdata 32, "Pryce"
         // mon 1
         ivs 150
         abilityslot 0
-        level 35
+        level 37
         pokemon SPECIES_DEWGONG
         item ITEM_NONE
         move MOVE_SLEEP_TALK
@@ -1203,8 +1203,24 @@ trainerdata 32, "Pryce"
 
         // mon 2
         ivs 150
+        abilityslot 0
+        level 37
+        pokemon SPECIES_CLOYSTER
+        item ITEM_NONE
+        move MOVE_SHELL_SMASH
+        move MOVE_ICICLE_SPEAR
+        move MOVE_SHADOW_SNEAK
+        move MOVE_WATERFALL
+        ability ABILITY_SKILL_LINK
+        setivs 31, 31, 31, 31, 31, 31
+        setevs 0, 0, 0, 0, 0, 0
+        nature NATURE_JOLLY
+        ballseal 0
+
+        // mon 3
+        ivs 150
         abilityslot 2
-        level 35
+        level 37
         pokemon SPECIES_MAMOSWINE
         item ITEM_SITRUS_BERRY
         move MOVE_HAIL

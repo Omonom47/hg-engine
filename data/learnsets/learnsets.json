@@ -16016,6 +16016,10 @@
         "Move": "MOVE_TACKLE"
       },
       {
+        "Level": 1,
+        "Move": "MOVE_SHADOW_SNEAK"
+      },
+      {
         "Level": 5,
         "Move": "MOVE_RAZOR_SHELL"
       }
