@@ -3593,7 +3593,7 @@ trainerdata 103, "Blake"
         // mon 0
         ivs 50
         abilityslot 32
-        level 38
+        level 41
         pokemon SPECIES_MAGNETON
         move MOVE_THUNDERBOLT
         move MOVE_SUPERSONIC
@@ -3604,7 +3604,7 @@ trainerdata 103, "Blake"
         // mon 1
         ivs 50
         abilityslot 32
-        level 35
+        level 40
         pokemon SPECIES_QUAGSIRE
         move MOVE_SURF
         move MOVE_SLAM
@@ -3615,7 +3615,7 @@ trainerdata 103, "Blake"
         // mon 2
         ivs 50
         abilityslot 0
-        level 35
+        level 39
         pokemon SPECIES_EXEGGCUTE
         move MOVE_LEECH_SEED
         move MOVE_CONFUSION
@@ -3640,7 +3640,7 @@ trainerdata 104, "Brian"
         // mon 0
         ivs 50
         abilityslot 0
-        level 37
+        level 41
         pokemon SPECIES_MANTINE
         move MOVE_SURF
         move MOVE_AIR_SLASH
@@ -3651,7 +3651,7 @@ trainerdata 104, "Brian"
         //mon 1
         ivs 50
         abilityslot 0
-        level 37
+        level 41
         pokemon SPECIES_AMPHAROS
         move MOVE_DISCHARGE
         move MOVE_SIGNAL_BEAM
@@ -3972,21 +3972,21 @@ trainerdata 114, "Reena"
         // mon 0
         ivs 50
         abilityslot 0
-        level 36
+        level 41
         pokemon SPECIES_ARCANINE
         ballseal 0
 
         // mon 1
         ivs 50
         abilityslot 0
-        level 35
+        level 39
         pokemon SPECIES_NIDOQUEEN
         ballseal 0
 
         // mon 2
         ivs 50
         abilityslot 0
-        level 36
+        level 40
         pokemon SPECIES_STARMIE
         ballseal 0
     endparty
@@ -4007,18 +4007,18 @@ trainerdata 115, "Megan"
         // mon 0
         ivs 50
         abilityslot 0
-        level 34
-        pokemon SPECIES_BULBASAUR
-        move MOVE_GROWL
-        move MOVE_LEECH_SEED
-        move MOVE_TAKE_DOWN
-        move MOVE_RAZOR_LEAF
+        level 39
+        pokemon SPECIES_VILEPLUME
+        move MOVE_GIGA_DRAIN
+        move MOVE_SLEEP_POWDER
+        move MOVE_MOONLIGHT
+        move MOVE_ACID
         ballseal 0
 
         // mon 1
         ivs 50
         abilityslot 0
-        level 36
+        level 40
         pokemon SPECIES_IVYSAUR
         move MOVE_GIGA_DRAIN
         move MOVE_LEECH_SEED
@@ -4029,7 +4029,7 @@ trainerdata 115, "Megan"
         // mon 2
         ivs 50
         abilityslot 0
-        level 39
+        level 41
         pokemon SPECIES_VENUSAUR
         move MOVE_PETAL_DANCE
         move MOVE_SLEEP_POWDER
@@ -11201,7 +11201,7 @@ trainerdata 303, "Jose"
         // mon 0
         ivs 50
         abilityslot 0
-        level 44
+        level 48
         pokemon SPECIES_FARFETCHD
         ballseal 0
     endparty
@@ -14623,21 +14623,21 @@ trainerdata 412, "Eli"
         // mon 0
         ivs 0
         abilityslot 0
-        level 34
+        level 38
         pokemon SPECIES_STARMIE
         ballseal 0
 
         // mon 1
         ivs 0
         abilityslot 0
-        level 34
+        level 37
         pokemon SPECIES_EXEGGCUTE
         ballseal 0
 
         // mon 2
         ivs 0
         abilityslot 0
-        level 37
+        level 39
         pokemon SPECIES_GIRAFARIG
         ballseal 0
     endparty
@@ -14705,7 +14705,7 @@ trainerdata 414, "Jose"
         // mon 0
         ivs 50
         abilityslot 0
-        level 40
+        level 42
         pokemon SPECIES_FARFETCHD
         ballseal 0
     endparty
@@ -15630,22 +15630,22 @@ trainerdata 444, "Reena"
         // mon 0
         ivs 50
         abilityslot 0
-        level 41
-        pokemon SPECIES_GROWLITHE
+        level 45
+        pokemon SPECIES_ARCANINE
         ballseal 0
 
         // mon 1
         ivs 50
         abilityslot 0
-        level 39
-        pokemon SPECIES_NIDORINA
+        level 43
+        pokemon SPECIES_NIDOQUEEN
         ballseal 0
 
         // mon 2
         ivs 50
         abilityslot 32
-        level 41
-        pokemon SPECIES_STARYU
+        level 45
+        pokemon SPECIES_STARMIE
         ballseal 0
     endparty
 
@@ -15665,21 +15665,21 @@ trainerdata 445, "Reena"
         // mon 0
         ivs 50
         abilityslot 0
-        level 47
+        level 49
         pokemon SPECIES_ARCANINE
         ballseal 0
 
         // mon 1
         ivs 50
         abilityslot 0
-        level 43
+        level 45
         pokemon SPECIES_NIDOQUEEN
         ballseal 0
 
         // mon 2
         ivs 50
         abilityslot 32
-        level 47
+        level 49
         pokemon SPECIES_STARMIE
         ballseal 0
     endparty
@@ -15700,14 +15700,14 @@ trainerdata 446, "Jose"
         // mon 0
         ivs 50
         abilityslot 0
-        level 38
+        level 43
         pokemon SPECIES_FARFETCHD
         ballseal 0
 
         // mon 1
         ivs 50
         abilityslot 0
-        level 45
+        level 50
         pokemon SPECIES_FARFETCHD
         ballseal 0
     endparty
@@ -20934,21 +20934,21 @@ trainerdata 602, "Jose"
         // mon 0
         ivs 50
         abilityslot 0
-        level 50
+        level 52
         pokemon SPECIES_FARFETCHD
         ballseal 0
 
         // mon 1
         ivs 50
         abilityslot 0
-        level 52
+        level 54
         pokemon SPECIES_FARFETCHD
         ballseal 0
 
         // mon 2
         ivs 50
         abilityslot 0
-        level 53
+        level 55
         pokemon SPECIES_FARFETCHD
         ballseal 0
     endparty
