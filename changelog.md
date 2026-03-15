@@ -194,18 +194,9 @@ all tm- and tutorlearnsets may need revisions
 - 20, set after beating Bugsy
 - 25, set after beating Whitney
 - 30, set after beating Morty
-- 33, after beating 5th gym leader
-    - set after beating Chuck 
-    - Set after beating Price as the 5th gym
-    - Set after beating Jasmine as the 5th gym
-- 35, after beating 6th gym leader
-    - set after beating Chuck 
-    - Set after beating Price as the 6th gym
-    - set after beating Jasmine
+- 33, after beating 5th gym leader 
+- 37, after beating 6th gym leader
 - 43, after beating 7th gym leader
-    - set after beating Chuck 
-    - Set after beating Price
-    - set after beating Jasmine
 - 56, set after beating Clair
 - 100, after beating lance first time
 
@@ -380,6 +371,7 @@ all tm- and tutorlearnsets may need revisions
 - rocket hq highest lvl is 30
 - trainers in Goldenrod radio tower + tunnel
 - All kimono girls now have lvl 43
+- You can fight Chuck, Jasmin or Pryce in the order you want, and they will have different teams depending on when you fight them
 
 #### RIVAL FIGHTS:
  - Burned Tower: 
@@ -489,7 +481,7 @@ all mons are at lvl cap and all have 31 ivs in all stats
         - mon3: Poliwrath (ace): 
             - HYPNOSIS -> SUBSTITUTE 
             - nature: Careful
-    - As 7th gym: ace lvl 35, trainerdata 19
+    - As 7th gym: lvl 37, trainerdata 19
         - mon1: Primeape:  
             - ASSURANCE -> BRUTAL SWING
             - ability: Defiant
@@ -497,7 +489,15 @@ all mons are at lvl cap and all have 31 ivs in all stats
         - mon2: Hitmontop: 
             - ability: Intimidate
             - nature: Impish
-        - mon3: Poliwrath (ace): 
+        - mon3: Ledian:
+            - ability: Iron Fist
+            - nature: Careful
+            - moves:
+                - Light Screen
+                - X-Scissor
+                - Mach Punch
+                - Thunder Punch
+        - mon4: Poliwrath (ace): 
             - BODY SLAM -> BRUTAL SWING 
             - ability: Water absorb
             - evs: 52, 0, 0, 0, 0, 0

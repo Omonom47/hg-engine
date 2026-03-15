@@ -602,7 +602,7 @@ trainerdata 18, "Justin"
 trainerdata 19, "Chuck"
     trainermontype TRAINER_DATA_TYPE_ITEMS | TRAINER_DATA_TYPE_MOVES | TRAINER_DATA_TYPE_ABILITY | TRAINER_DATA_TYPE_IV_EV_SET | TRAINER_DATA_TYPE_NATURE_SET
     trainerclass CLASS_LEADER_3
-    nummons 3
+    nummons 4
     item ITEM_HYPER_POTION
     item ITEM_HYPER_POTION
     item ITEM_NONE
@@ -615,7 +615,7 @@ trainerdata 19, "Chuck"
         // mon 0
         ivs 150
         abilityslot 0
-        level 35
+        level 37
         pokemon SPECIES_PRIMEAPE
         item ITEM_NONE
         move MOVE_BRUTAL_SWING
@@ -631,7 +631,7 @@ trainerdata 19, "Chuck"
         // mon 1
         ivs 150
         abilityslot 0
-        level 35
+        level 37
         pokemon SPECIES_HITMONTOP
         item ITEM_NONE
         move MOVE_SUCKER_PUNCH
@@ -644,9 +644,25 @@ trainerdata 19, "Chuck"
         nature NATURE_IMPISH
         ballseal 0
 
+        // mon 2
         ivs 150
         abilityslot 0
-        level 35
+        level 37
+        pokemon SPECIES_LEDIAN
+        item ITEM_NONE
+        move MOVE_X_SCISSOR
+        move MOVE_LIGHT_SCREEN
+        move MOVE_MACH_PUNCH
+        move MOVE_THUNDER_PUNCH
+        ability ABILITY_IRON_FIST
+        setivs 31, 31, 31, 31, 31, 31
+        setevs 0, 0, 0, 0, 0, 0
+        nature NATURE_CAREFUL
+        ballseal 0
+
+        ivs 150
+        abilityslot 0
+        level 37
         pokemon SPECIES_POLIWRATH
         item ITEM_SITRUS_BERRY
         move MOVE_SUBSTITUTE
