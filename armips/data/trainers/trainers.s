@@ -1159,7 +1159,7 @@ trainerdata 31, "Morty"
 trainerdata 32, "Pryce"
     trainermontype TRAINER_DATA_TYPE_ITEMS | TRAINER_DATA_TYPE_MOVES | TRAINER_DATA_TYPE_ABILITY | TRAINER_DATA_TYPE_IV_EV_SET | TRAINER_DATA_TYPE_NATURE_SET
     trainerclass CLASS_LEADER_1
-    nummons 3
+    nummons 4
     item ITEM_HYPER_POTION
     item ITEM_FULL_RESTORE
     item ITEM_NONE
@@ -2220,7 +2220,7 @@ trainerdata 62, "Samuel"
 trainerdata 63, "Jasmine"
     trainermontype TRAINER_DATA_TYPE_ITEMS | TRAINER_DATA_TYPE_MOVES | TRAINER_DATA_TYPE_ABILITY | TRAINER_DATA_TYPE_IV_EV_SET | TRAINER_DATA_TYPE_NATURE_SET
     trainerclass CLASS_LEADER_2
-    nummons 3
+    nummons 4
     item ITEM_HYPER_POTION
     item ITEM_HYPER_POTION
     item ITEM_NONE
