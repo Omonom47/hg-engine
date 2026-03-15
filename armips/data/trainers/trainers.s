@@ -957,7 +957,7 @@ trainerdata 28, "Jake"
         // mon 0
         ivs 50
         abilityslot 32
-        level 36
+        level 39
         pokemon SPECIES_PARASECT
         move MOVE_LEECH_LIFE
         move MOVE_SPORE
@@ -968,7 +968,7 @@ trainerdata 28, "Jake"
         // mon 1
         ivs 50
         abilityslot 32
-        level 39
+        level 41
         pokemon SPECIES_GOLDUCK
         move MOVE_PSYCHIC
         move MOVE_SCREECH
@@ -979,7 +979,7 @@ trainerdata 28, "Jake"
         // mon 2
         ivs 50
         abilityslot 0
-        level 36
+        level 40
         pokemon SPECIES_VAPOREON
         move MOVE_BITE
         move MOVE_QUICK_ATTACK
@@ -1448,8 +1448,8 @@ trainerdata 36, "Joyce"
         // mon 0
         ivs 50
         abilityslot 0
-        level 39
-        pokemon SPECIES_PIKACHU
+        level 42
+        pokemon SPECIES_RAICHU
         move MOVE_QUICK_ATTACK
         move MOVE_DOUBLE_TEAM
         move MOVE_THUNDERBOLT
@@ -1459,7 +1459,7 @@ trainerdata 36, "Joyce"
         // mon 1
         ivs 50
         abilityslot 0
-        level 39
+        level 42
         pokemon SPECIES_BLASTOISE
         move MOVE_BITE
         move MOVE_AQUA_TAIL
@@ -3546,7 +3546,7 @@ trainerdata 102, "Gaven"
         // mon 0
         ivs 50
         abilityslot 0
-        level 37
+        level 40
         pokemon SPECIES_VICTREEBEL
         move MOVE_WRAP
         move MOVE_TOXIC
@@ -3557,7 +3557,7 @@ trainerdata 102, "Gaven"
         // mon 1
         ivs 50
         abilityslot 0
-        level 37
+        level 40
         pokemon SPECIES_KINGLER
         move MOVE_BUBBLE_BEAM
         move MOVE_STOMP
@@ -3568,7 +3568,7 @@ trainerdata 102, "Gaven"
         // mon 2
         ivs 50
         abilityslot 0
-        level 37
+        level 40
         pokemon SPECIES_FLAREON
         move MOVE_SAND_ATTACK
         move MOVE_QUICK_ATTACK
@@ -3947,7 +3947,7 @@ trainerdata 113, "Jamie"
         // mon 1
         ivs 50
         abilityslot 0
-        level 37
+        level 42
         pokemon SPECIES_AMPHAROS
         move MOVE_DISCHARGE
         move MOVE_COTTON_SPORE
@@ -14602,7 +14602,7 @@ trainerdata 411, "Vernon"
         // mon 0
         ivs 0
         abilityslot 0
-        level 40
+        level 42
         pokemon SPECIES_ESPEON
         ballseal 0
     endparty
@@ -14658,7 +14658,7 @@ trainerdata 413, "Scott"
         // mon 0
         ivs 0
         abilityslot 32
-        level 34
+        level 36
         pokemon SPECIES_QWILFISH
         move MOVE_WATER_GUN
         move MOVE_REVENGE
@@ -14669,7 +14669,7 @@ trainerdata 413, "Scott"
         // mon 1
         ivs 0
         abilityslot 0
-        level 34
+        level 36
         pokemon SPECIES_QWILFISH
         move MOVE_WATER_GUN
         move MOVE_REVENGE
@@ -14680,7 +14680,7 @@ trainerdata 413, "Scott"
         // mon 2
         ivs 0
         abilityslot 0
-        level 37
+        level 40
         pokemon SPECIES_SEAKING
         move MOVE_FURY_ATTACK
         move MOVE_AQUA_RING
@@ -16026,7 +16026,7 @@ trainerdata 456, "Gaven"
         // mon 0
         ivs 50
         abilityslot 0
-        level 40
+        level 44
         pokemon SPECIES_VICTREEBEL
         move MOVE_WRAP
         move MOVE_TOXIC
@@ -16037,7 +16037,7 @@ trainerdata 456, "Gaven"
         // mon 1
         ivs 50
         abilityslot 0
-        level 40
+        level 44
         pokemon SPECIES_KINGLER
         move MOVE_BUBBLE_BEAM
         move MOVE_STOMP
@@ -16048,7 +16048,7 @@ trainerdata 456, "Gaven"
         // mon 2
         ivs 50
         abilityslot 0
-        level 40
+        level 44
         pokemon SPECIES_FLAREON
         move MOVE_SAND_ATTACK
         move MOVE_QUICK_ATTACK
@@ -16073,7 +16073,7 @@ trainerdata 457, "Gaven"
         // mon 0
         ivs 50
         abilityslot 0
-        level 44
+        level 48
         pokemon SPECIES_VICTREEBEL
         move MOVE_WRAP
         move MOVE_TOXIC
@@ -16084,7 +16084,7 @@ trainerdata 457, "Gaven"
         // mon 1
         ivs 50
         abilityslot 0
-        level 45
+        level 48
         pokemon SPECIES_KINGLER
         move MOVE_BRINE
         move MOVE_STOMP
@@ -16095,7 +16095,7 @@ trainerdata 457, "Gaven"
         // mon 2
         ivs 50
         abilityslot 0
-        level 44
+        level 48
         pokemon SPECIES_FLAREON
         move MOVE_FIRE_BLAST
         move MOVE_QUICK_ATTACK
@@ -16120,7 +16120,7 @@ trainerdata 458, "Jamie"
         // mon 0
         ivs 50
         abilityslot 32
-        level 44
+        level 48
         pokemon SPECIES_RAPIDASH
         move MOVE_STOMP
         move MOVE_FIRE_SPIN
@@ -16131,7 +16131,7 @@ trainerdata 458, "Jamie"
         // mon 1
         ivs 50
         abilityslot 0
-        level 39
+        level 46
         pokemon SPECIES_AMPHAROS
         move MOVE_DISCHARGE
         move MOVE_SIGNAL_BEAM
@@ -16156,7 +16156,7 @@ trainerdata 459, "Jamie"
         // mon 0
         ivs 50
         abilityslot 32
-        level 48
+        level 51
         pokemon SPECIES_RAPIDASH
         move MOVE_STOMP
         move MOVE_FIRE_SPIN
@@ -16167,7 +16167,7 @@ trainerdata 459, "Jamie"
         // mon 1
         ivs 50
         abilityslot 0
-        level 45
+        level 50
         pokemon SPECIES_AMPHAROS
         move MOVE_DISCHARGE
         move MOVE_SIGNAL_BEAM
@@ -21015,7 +21015,7 @@ trainerdata 604, "Gaven"
         pokemon SPECIES_VICTREEBEL
         move MOVE_LEAF_STORM
         move MOVE_TOXIC
-        move MOVE_ACID
+        move MOVE_CRUNCH
         move MOVE_LEAF_BLADE
         ballseal 0
 
