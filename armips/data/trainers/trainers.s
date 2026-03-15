@@ -4998,8 +4998,8 @@ trainerdata 147, "Ted"
         // mon 0
         ivs 0
         abilityslot 32
-        level 17
-        pokemon SPECIES_MANKEY
+        level 40
+        pokemon SPECIES_PRIMEAPE
         ballseal 0
     endparty
 
@@ -5103,15 +5103,15 @@ trainerdata 151, "Erin"
         // mon 0
         ivs 0
         abilityslot 32
-        level 17
-        pokemon SPECIES_PONYTA
+        level 38
+        pokemon SPECIES_RAPIDASH
         ballseal 0
 
         // mon 1
         ivs 0
         abilityslot 0
-        level 14
-        pokemon SPECIES_ODDISH
+        level 38
+        pokemon SPECIES_GLOOM
         ballseal 0
     endparty
 
@@ -5180,36 +5180,36 @@ trainerdata 154, "Bailey"
         // mon 0
         ivs 0
         abilityslot 32
-        level 13
-        pokemon SPECIES_GEODUDE
+        level 36
+        pokemon SPECIES_GRAVELER
         ballseal 0
 
         // mon 1
         ivs 0
         abilityslot 32
-        level 13
-        pokemon SPECIES_GEODUDE
+        level 36
+        pokemon SPECIES_GRAVELER
         ballseal 0
 
         // mon 2
         ivs 0
         abilityslot 32
-        level 13
-        pokemon SPECIES_GEODUDE
+        level 36
+        pokemon SPECIES_GRAVELER
         ballseal 0
 
         // mon 3
         ivs 0
         abilityslot 32
-        level 13
-        pokemon SPECIES_GEODUDE
+        level 36
+        pokemon SPECIES_GRAVELER
         ballseal 0
 
         // mon 4
         ivs 0
         abilityslot 32
-        level 13
-        pokemon SPECIES_GEODUDE
+        level 36
+        pokemon SPECIES_GRAVELER
         ballseal 0
     endparty
 
@@ -12235,14 +12235,14 @@ trainerdata 335, "Erin"
         // mon 0
         ivs 0
         abilityslot 0
-        level 32
+        level 42
         pokemon SPECIES_GLOOM
         ballseal 0
 
         // mon 1
         ivs 0
         abilityslot 32
-        level 41
+        level 46
         pokemon SPECIES_RAPIDASH
         ballseal 0
     endparty
@@ -15907,21 +15907,21 @@ trainerdata 453, "Erin"
         // mon 0
         ivs 0
         abilityslot 0
-        level 46
+        level 47
         pokemon SPECIES_BELLOSSOM
         ballseal 0
 
         // mon 1
         ivs 0
         abilityslot 0
-        level 39
+        level 45
         pokemon SPECIES_SUNFLORA
         ballseal 0
 
         // mon 2
         ivs 0
         abilityslot 32
-        level 48
+        level 50
         pokemon SPECIES_RAPIDASH
         ballseal 0
     endparty
@@ -20969,28 +20969,28 @@ trainerdata 603, "Erin"
         // mon 0
         ivs 0
         abilityslot 0
-        level 42
+        level 46
         pokemon SPECIES_CHERRIM
         ballseal 0
 
         // mon 1
         ivs 0
         abilityslot 32
-        level 46
+        level 48
         pokemon SPECIES_SUNFLORA
         ballseal 0
 
         // mon 2
         ivs 0
         abilityslot 0
-        level 49
+        level 52
         pokemon SPECIES_BELLOSSOM
         ballseal 0
 
         // mon 3
         ivs 0
         abilityslot 32
-        level 53
+        level 55
         pokemon SPECIES_RAPIDASH
         ballseal 0
     endparty
