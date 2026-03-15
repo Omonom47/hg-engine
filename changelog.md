@@ -592,192 +592,161 @@ all mons are at lvl cap and all have 31 ivs in all stats
 - Clair: ace lvl 43
     - mon1: Gyarados: moveset changed
         - ability: intimidate
-        - ivs: 31, 31, 31, 31, 31, 31
         - evs: 52, 52, 52, 52, 0, 52
         - nature: Adamant
     - mon2:
         - ability: Shed skin
-        - ivs: 31, 31, 31, 31, 31, 31
         - evs: 52, 0, 52, 52, 52, 52
         - nature: Hardy
     - mon2:
         - ability: Shed skin
-        - ivs: 31, 31, 31, 31, 31, 31
         - evs: 52, 52, 52, 52, 0, 52
         - nature: Hardy
     - mon2:
         - ability: Sniper
-        - ivs: 31, 31, 31, 31, 31, 31
         - evs: 52, 0, 52, 104, 52, 52
         - nature: Hasty
 
 #### ELITE FOUR (first battle): 
 
-- Will:
+- Will: ace lvl 46
     - mon1: lvl 40 -> 43
         - ability: Synchronize
-        - ivs: 31, 31, 31, 31, 31, 31
         - evs: 200, 0, 52, 104, 100, 52
         - nature: Timid
     - mon2: lvl 41 -> 44
         - ability: Oblivious
-        - ivs: 31, 31, 31, 31, 31, 31
         - evs: 4, 0, 0, 252, 252, 0
         - nature: Timid
     - mon3: lvl 41 -> 44
         - ability: Chlorophyl
-        - ivs: 31, 31, 31, 31, 31, 31
         - evs: 252, 0, 100, 0, 100, 56
         - nature: Sassy
     - mon4: lvl 41 -> 44
         - ability: Oblivious
-        - ivs: 31, 31, 31, 31, 31, 31
         - evs: 252, 0, 0, 0, 252, 4
         - nature: Modest
     - mon5: lvl 42 -> 46
         - AERIAL ACE -> AIR SLASH
         - ability: Magic bounce
-        - ivs: 31, 31, 31, 31, 31, 31
         - evs: 4, 0, 0, 252, 252, 0
         - nature: Timid
-- Koga:
-    - mon1: lvl 40 -> 44
+- Koga: ace lvl 50
+    - mon1: lvl 40 -> 46
         - POISON JAB -> NIGHT SLASH
         - SPIDER WEB -> SUCKER PUNCH
         - BATON PASS -> TOXIC
         - GIGA DRAIN -> X-SCISSOR
         - ability: Adaptability
-        - ivs: 31, 31, 31, 31, 31, 31
         - evs: 252, 0, 56, 0, 0, 200
         - nature: Impish
-    - mon2: Venomoth -> Nidoking, lvl 41 -> 45
+    - mon2: Venomoth -> Nidoking, lvl 41 -> 47
         - POISON JAB
         - EARTHQUAKE
         - ICE BEAM
         - THUNDERBOLT
         - ability: Poison point
-        - ivs: 31, 31, 31, 31, 31, 31
         - evs: 0, 120, 0, 252, 136, 0
         - nature: Hasty
-    - mon3: Forretress -> Weezing, lvl 43 -> 45
+    - mon3: Forretress -> Weezing, lvl 43 -> 47
         - PROTECT
         - SLUDGE BOMB
         - EXPLOSION
         - FLAMETHROWER
         - ability: Poison point
-        - ivs: 31, 31, 31, 31, 31, 31
         - evs: 252, 0, 76, 0, 120, 60
         - nature: Relaxed
-    - mon4: lvl 42 -> 45
+    - mon4: lvl 42 -> 47
         - MINIMIZE -> CURSE
         - SCREECH -> DRAIN PUNCH
         - ability: Poison point
-        - ivs: 31, 31, 31, 31, 31, 31
         - evs: 252, 120, 100, 0, 0, 36
         - nature: Adamant
-    - mon5: lvl 44 -> 48
+    - mon5: lvl 44 -> 50
         - DOUBLE TEAM -> SHADOW BALL
         - QUICK ATTACK -> HEAT WAVE
         - POISON FANG -> SLUDGE BOMB
         - ability: Poison point
-        - ivs: 31, 31, 31, 31, 31, 31
         - evs: 0, 120, 0, 136, 252, 0
         - nature: Hasty
-- Bruno:
-    - mon1: lvl 42 -> 46
+- Bruno: ace lvl 52
+    - mon1: lvl 42 -> 48
         - ability: Technician
-        - ivs: 31, 31, 31, 31, 31, 31
         - evs: 252, 252, 0, 4, 0, 0
         - nature: Adamant
-    - mon2: lvl 42 -> 46
+    - mon2: lvl 42 -> 48
         - ability: Reckless
-        - ivs: 31, 31, 31, 31, 31, 31
         - evs: 4, 252, 0, 252, 0, 0
         - nature: Jolly
-    - mon3: lvl 42 -> 46
+    - mon3: lvl 42 -> 48
         - ability: Iron Fist
-        - ivs: 31, 31, 31, 31, 31, 31
         - evs: 136, 252, 0, 120, 0, 0
         - nature: Adamant
-    - mon4: Onix -> Heracross, lvl 43 -> 47
+    - mon4: Onix -> Heracross, lvl 43 -> 49
         - MEGAHORN
         - EARTHQUAKE
         - BRICK BREAK
         - ROCK SLIDE
         - ability: Guts
-        - ivs: 31, 31, 31, 31, 31, 31
         - evs: 4, 252, 0, 252, 0, 0
         - nature: Jolly
-    - mon5: lvl 46 -> 50
+    - mon5: lvl 46 -> 52
         - FORESIGHT -> POISON JAB
         - ability: No guard
-        - ivs: 31, 31, 31, 31, 31, 31
         - evs: 252, 252, 4, 0, 0, 0
         - nature: Adamant
-
-- Karen:
-    - mon1: lvl 42 -> 46
+- Karen: ace lvl 52
+    - mon1: lvl 42 -> 48
         - DOUBLE TEAM -> MOONLIGHT
         - FEINT ATTACK -> DARK PULSE
         - PAYBACK -> PSYCHIC
         - ability: Synchronize
-        - ivs: 31, 31, 31, 31, 31, 31
         - evs: 252, 0, 128, 0, 128, 0
         - nature: Timid
-    - mon2: Vileplume -> Victreebel, lvl 42 -> 46
+    - mon2: Vileplume -> Victreebel, lvl 42 -> 48
         - CRUNCH
         - SLEEP POWDER
         - SWORDS DANCE
         - LEAF BLADE
         - ability: Chlorophyl
-        - ivs: 31, 31, 31, 31, 31, 31
         - evs: 152, 252, 0, 104, 0, 0
         - nature: Jolly
-    - mon3: lvl 45 -> 49
+    - mon3: lvl 45 -> 51
         - SPITE -> SHADOW BALL
         - LICK -> SLUDGE BOMB
         - ability: Cursed Body
-        - ivs: 31, 31, 31, 31, 31, 31
         - evs: 0, 0, 4, 252, 252, 0
         - nature: Modest
-    - mon4: Murkrow -> Honchkrow, lvl 44 -> 48
+    - mon4: Murkrow -> Honchkrow, lvl 44 -> 50
         - PLUCK
         - TAILWIND
         - SUCKER PUNCH
         - NIGHT SLASH
         - ability: Super luck
-        - ivs: 31, 31, 31, 31, 31, 31
         - evs: 252, 4, 0, 252, 0, 0
         - nature: Jolly
-    - mon5: lvl 47 -> 52
+    - mon5: lvl 47 -> 54
         - ability: Flash Fire
-        - ivs: 31, 31, 31, 31, 31, 31
         - evs: 4, 0, 0, 252, 252, 0
         - nature: Hasty
 - Lance: ?change mons? (now ace lvl 57)
     - mon1: lvl 46 -> 56
         - FLAIL -> IRON HEAD
-        - ivs: 31, 31, 31, 31, 31, 31
         - evs: 4, 252, 0, 252, 0, 0
         - nature: Jolly
     - mon2: lvl 49 -> 56
-        - ivs: 31, 31, 31, 31, 31, 31
         - evs: 12, 124, 0, 252, 124, 0
         - nature: Serious
     - mon3: lvl 40 -> 56
-        - ivs: 31, 31, 31, 31, 31, 31
         - evs: 252, 0, 0, 4, 252, 0
         - nature: Bashful
     - mon4: lvl 48 -> 56
-        - ivs: 31, 31, 31, 31, 31, 31
         - evs: 4, 252, 0, 200, 0, 52
         - nature: Adamant
     - mon5: lvl 48 -> 56
-        - ivs: 31, 31, 31, 31, 31, 31
         - evs: 4, 252, 0, 252, 0, 0
         - nature: Adamant
     - mon6: lvl 50 -> 57
-        - ivs: 31, 31, 31, 31, 31, 31
         - evs: 4, 252, 0, 252, 0, 0
         - nature: Hardy
 
@@ -787,7 +756,6 @@ now have their rematch teams with modifications
 - Brock: lvl total 338 -> 392
     - mon1: lvl 55 -> 64
         - ability: Sturdy
-        - ivs: 31, 31, 31, 31, 31, 31
         - evs: 252, 252, 4, 0, 0, 0
         - Nature: Adamant
     - mon2: Relicanth -> Cradily, lvl 54 -> 65
@@ -796,102 +764,102 @@ now have their rematch teams with modifications
         - SLUDGE BOMB
         - ROCK SLIDE
         - ability: Storm Drain
-        - ivs: 31, 31, 31, 31, 31, 31
+        
         - evs: 252, 0, 4, 0, 52, 200
         - Nature: Bold
     - mon3: lvl 56 -> 64
         - BRINE -> SURF
         - SANDSTORM -> ICE BEAM
         - ability: Weak armor
-        - ivs: 31, 31, 31, 31, 31, 31
+        
         - evs: 204, 0, 0, 56, 252, 0
         - Nature: Timid
     - mon4: MIGHT BE CHANGED LATER, lvl 61 -> 68
         - ability: Sturdy
-        - ivs: 31, 31, 31, 31, 31, 31
+        
         - evs: 4, 252, 252, 0, 0, 0
         - Nature: Adamant
     - mon5: lvl 55 -> 65
         - ENDURE -> NIGHT SLASH
         - GIGA DRAIN -> LEECH LIFE
         - ability: Battle Armor
-        - ivs: 31, 31, 31, 31, 31, 31
+        
         - evs: 4, 252, 0, 252, 0, 0
         - Nature: Jolly
     - mon6: lvl 57 -> 66
         - ability: Storm Drain
-        - ivs: 31, 31, 31, 31, 31, 31
+        
         - evs: 252, 252, 0, 4, 0, 0
         - Nature: Jolly
 
 - Misty: lvl total 340 -> 356
     - mon1: lvl 60 -> 62
         - ability: Natural Cure
-        - ivs: 31, 31, 31, 31, 31, 31
+        
         - evs: 4, 0, 0, 252, 252, 0
         - Nature: Timid
     - mon2: lvl 56 -> 57
         - WATER PULSE -> SCALD 
         - AMNESIA -> SLUDGE BOMB
         - ability: Unaware
-        - ivs: 31, 31, 31, 31, 31, 31
+        
         - evs: 252, 0, 128, 0, 0, 128
         - Nature: Sassy
     - mon3: lvl 56 -> 59
         - ability: Shell armor
-        - ivs: 31, 31, 31, 31, 31, 31
+        
         - evs: 4, 0, 252, 0, 0, 252
         - Nature: Modest
     - mon4: lvl 54 -> 58
         - ability: Shell armor
-        - ivs: 31, 31, 31, 31, 31, 31
+        
         - evs: 252, 0, 4, 0, 252, 0
         - Nature: Bold
     - mon5: lvl 54 -> 58
         - ability: Swift Swim
-        - ivs: 31, 31, 31, 31, 31, 31
+        
         - evs: 4, 252, 0, 252, 0, 0
         - Nature: Adamant
     - mon6: lvl 60 -> 62
         - ability: Marvel Scale
-        - ivs: 31, 31, 31, 31, 31, 31
+        
         - evs: 252, 0, 0, 4, 252, 0
         - Nature: Modest
 
 - Lt. Surge: lvl total 330 -> 344
     - mon1: lvl 60
         - ability: Static
-        - ivs: 31, 31, 31, 31, 31, 31
+        
         - evs: 4, 0, 0, 252, 252, 0
         - Nature: Modest
     - mon2: lvl 52 -> 55
         - ability: Static
-        - ivs: 31, 31, 31, 31, 31, 31
+        
         - evs: 4, 0, 0, 252, 252, 0
         - Nature: Timid
     - mon3: lvl 52 -> 58
         - DOUBLE TEAM -> TRI ATTACK
         - MIRROR SHOT -> FLASH CANNON
         - ability: Static
-        - ivs: 31, 31, 31, 31, 31, 31
+        
         - evs: 4, 0, 0, 252, 252, 0
         - Nature: Timid
     - mon4: lvl 52 -> 55
         - DOUBLE TEAM -> MAGNET RISE
         - ability: Soundproof
-        - ivs: 31, 31, 31, 31, 31, 31
+        
         - evs: 4, 0, 0, 252, 252, 0
         - Nature: Modest
     - mon5: lvl 58
         - QUICK ATTACK -> U-TURN
         - SWEET KISS -> NUZZLE
         - ability: Run away
-        - ivs: 31, 31, 31, 31, 31, 31
+        
         - evs: 252, 0, 4, 252, 0, 0
         - Nature: Jolly
     - mon6: lvl 56 -> 58
         - ability: Motor Drive
-        - ivs: 31, 31, 31, 31, 31, 31
+        
         - evs: 4, 252, 0, 252, 0, 0
         - Nature: Jolly
 
@@ -900,13 +868,13 @@ now have their rematch teams with modifications
         - LEAF STORM -> LEAF BLADE
         - EXPLOSION -> ROCK SLIDE
         - ability: Chlorophyll
-        - ivs: 31, 31, 31, 31, 31, 31
+        
         - evs: 4, 252, 0, 252, 0, 0
         - Nature: Jolly
     - mon2: lvl 53 -> 59
         - MEMENTO -> TAILWIND
         - ability: Fur coat
-        - ivs: 31, 31, 31, 31, 31, 31
+        
         - evs: 104, 0, 100, 252, 0, 52
         - Nature: Timid
     - mon3: lvl 56 -> 60
@@ -914,23 +882,23 @@ now have their rematch teams with modifications
         - SLUDGE BOMB -> POISON JAB
         - LEAF STORM -> CRUNCH
         - ability: Chlorophyll
-        - ivs: 31, 31, 31, 31, 31, 31
+        
         - evs: 252, 252, 0, 4, 0, 0
         - Nature: Adamant
     - mon4: lvl 56 -> 60
         - ATTRACT -> QUIVER DANCE
         - ability: Chlorophyll
-        - ivs: 31, 31, 31, 31, 31, 31
+        
         - evs: 4, 252, 0, 252, 0, 0
         - Nature: Timid
     - mon5: lvl 60 -> 62
         - ability: Chlorophyll
-        - ivs: 31, 31, 31, 31, 31, 31
+        
         - evs: 252, 252, 0, 4, 0, 0
         - Nature: Adamant
     - mon6: lvl 55 -> 58
         - ability: Poison Point
-        - ivs: 31, 31, 31, 31, 31, 31
+        
         - evs: 4, 0, 0, 252, 252, 0
         - Nature: Timid
 
@@ -939,19 +907,19 @@ now have their rematch teams with modifications
         - CROSS POISON -> SLUDGE BOMB
         - CONFUSE RAY -> TAILWIND
         - ability: Inner Focus
-        - ivs: 31, 31, 31, 31, 31, 31
+        
         - evs: 4, 0, 0, 252, 252, 0
         - nature: Timid
     - mon2: lvl 56 -> 59
         - ability: Levitate
-        - ivs: 31, 31, 31, 31, 31, 31
+        
         - evs: 252, 0, 4, 0, 100, 152
         - nature: Calm
     - mon3: lvl 52 -> 60
         - CROSS CHOP -> BRICK BREAK
         - ATTRACT -> SUCKER PUNCH
         - ability: Drys skin
-        - ivs: 31, 31, 31, 31, 31, 31
+        
         - evs: 4, 252, 0, 252, 0, 0
         - nature: Jolly
     - mon4: lvl 58 -> 63
@@ -960,20 +928,20 @@ now have their rematch teams with modifications
         - SWAGGER -> PROTECT
         - NIGHT SHADE -> NIGHT SLASH
         - ability: Adaptability
-        - ivs: 31, 31, 31, 31, 31, 31
+        
         - evs: 252, 0, 128, 0, 0, 128
         - nature: Adamant
     - mon5: lvl 59 -> 64
         - DOUBLE TEAM -> ENERGY BALL
         - ability: Tinted lens
-        - ivs: 31, 31, 31, 31, 31, 31
+        
         - evs: 4, 0, 0, 252, 252, 0
         - nature: Timid
     - mon6: lvl 55 -> 62
         - CONFUSE RAY -> EARTHQUAKE
         - CRUNCH -> NIGHT SLASH
         - ability: Sniper
-        - ivs: 31, 31, 31, 31, 31, 31
+        
         - evs: 100, 252, 0, 156, 0, 0
         - nature: Adamant
 
@@ -981,34 +949,34 @@ now have their rematch teams with modifications
     - mon1: lvl 60 -> 66
         - GRAVITY -> SHADOW BALL
         - ability: Magic guard
-        - ivs: 31, 31, 31, 31, 31, 31
+        
         - evs: 4, 0, 0, 252, 252, 0
         - nature: Modest
     - mon2: lvl 58 -> 64
         - ability: Sniper
-        - ivs: 31, 31, 31, 31, 31, 31
+        
         - evs: 4, 0, 0, 252, 252, 0
         - nature: Timid
     - mon3: lvl 56 -> 64
         - THUNDER -> DAZZLING GLEAM
         - ability: Filter
-        - ivs: 31, 31, 31, 31, 31, 31
+        
         - evs: 252, 0, 0, 4, 252, 0
         - nature: Timid
     - mon4: lvl 54 -> 61
         - ability: Dry skin
-        - ivs: 31, 31, 31, 31, 31, 31
+        
         - evs: 4, 0, 0, 252, 252, 0
         - nature: Timid
     - mon5: lvl 53 -> 61
         - ability: Shadow tag
-        - ivs: 31, 31, 31, 31, 31, 31
+        
         - evs: 252, 0, 128, 0, 0, 128
         - nature: Bold
     - mon6: lvl 53 -> 64
         - CLOSE COMBAT -> SACRED SWORD
         - ability: Sharpness
-        - ivs: 31, 31, 31, 31, 31, 31
+        
         - evs: 4, 252, 0, 252, 0, 0
         - nature: Adamant
 
@@ -1017,18 +985,18 @@ now have their rematch teams with modifications
         - SUNNY DAY -> EARTHQUAKE
         - BODY SLAM -> SOLAR BEAM
         - ability: White smoke -> drought
-        - ivs: 31, 31, 31, 31, 31, 31
+        
         - evs: 252, 0, 0, 0, 128, 128
         - nature: Quiet
     - mon2: lvl 57 -> 67
         - ability: Solid Rock
-        - ivs: 31, 31, 31, 31, 31, 31
+        
         - evs: 252, 4, 0, 0, 252, 0
         - nature: Quiet
     - mon3: lvl 60 -> 68
         - QUICK ATTACK -> PLAY ROUGH
         - ability: Flash fire
-        - ivs: 31, 31, 31, 31, 31, 31
+        
         - evs: 4, 252, 0, 252, 0, 0
         - nature: Adamant
     - mon4: lvl 58 -> 65
@@ -1036,18 +1004,18 @@ now have their rematch teams with modifications
         - GYRO BALL -> EARTH POWER
         - CURSE -> RECOVER
         - ability: Solid Rock
-        - ivs: 31, 31, 31, 31, 31, 31
+        
         - evs: 0, 0, 56, 0, 200, 252
         - nature: Quiet
     - mon5: lvl 54 -> 67
         - ability: Early Bird
-        - ivs: 31, 31, 31, 31, 31, 31
+        
         - evs: 4, 0, 0, 252, 252, 0
         - nature: Timid
     - mon6: lvl 62 -> 70
         - LOW KICK -> FOCUS BLAST
         - ability: Flame body
-        - ivs: 31, 31, 31, 31, 31, 31
+        
         - evs: 56, 0, 0, 252, 200, 0
         - nature: Timid
 
@@ -1057,36 +1025,36 @@ now have their rematch teams with modifications
         - PSYCHIC -> PSYSCHOCK
         - EXPLOSION -> ANCIENT POWER
         - ability: Chlorophyll
-        - ivs: 31, 31, 31, 31, 31, 31
+        
         - evs: 252, 0, 4, 0, 252, 0
         - nature: Relaxed
     - mon2: lvl 69
         - ATTRACT -> POISON JAB
         - ability: No Guard
-        - ivs: 31, 31, 31, 31, 31, 31
+        
         - evs: 252, 128, 0, 0, 0, 128
         - nature: Sassy
     - mon3: lvl 70
         - THUNDER FANG -> WILD CHARGE
         - ability: Solid rock
-        - ivs: 31, 31, 31, 31, 31, 31
+        
         - evs: 252, 252, 0, 0, 0, 4
         - nature: Adamant
     - mon4: lvl 68
         - ability: Intimidate
-        - ivs: 31, 31, 31, 31, 31, 31
+        
         - evs: 128, 252, 0, 128, 0, 0
         - nature: Adamant
     - mon5: lvl 70
         - LOW KICK -> CRUNCH
         - ability: Unnerve
-        - ivs: 31, 31, 31, 31, 31, 31
+        
         - evs: 252, 252, 0, 0, 0, 4
         - nature: Adamant
     - mon6: lvl 72
         - DOUBLE TEAM -> ROOST
         - ability: Big Pecks
-        - ivs: 31, 31, 31, 31, 31, 31
+        
         - evs: 0, 128, 0, 252, 128, 0
         - nature: Serious
 
@@ -1096,17 +1064,17 @@ now have their rematch teams with modifications
     - mon1: lvl 58 -> 69
         - GRAVITY -> GYRO BALL
         - ability: Heatproof
-        - ivs: 31, 31, 31, 31, 31, 31
+        
         - evs: 252, 0, 128, 0, 0, 128
         - nature: Sassy
     - mon2: lvl 60 -> 71
         - ability: Oblivious
-        - ivs: 31, 31, 31, 31, 31, 31
+        
         - evs: 4, 0, 0, 252, 252, 0
         - nature: Timid
     - mon3: lvl 59 -> 70
         - ability: Thick fat
-        - ivs: 31, 31, 31, 31, 31, 31
+        
         - evs: 252, 0, 0, 4, 252, 0
         - nature: Modest
     - mon4: lvl 60 -> 71
@@ -1114,19 +1082,19 @@ now have their rematch teams with modifications
         - AMNESIA -> FLAMETHROWER
         - BODY SLAM -> SURF
         - ability: Oblivious
-        - ivs: 31, 31, 31, 31, 31, 31
+        
         - evs: 252, 0, 0, 0, 252, 4
         - nature: Modest
     - mon5: lvl 61 -> 72
         - CHARGE BEAM -> MOONBLAST
         - ability: Synchronize
-        - ivs: 31, 31, 31, 31, 31, 31
+        
         - evs: 4, 0, 0, 252, 252, 0
         - nature: Timid
     - mon6: lvl 62 -> 73
         - QUICK ATTACK -> AIR SLASH
         - ability: Magic bounce
-        - ivs: 31, 31, 31, 31, 31, 31
+        
         - evs: 4, 0, 0, 252, 252, 0
         - nature: Timid
 
@@ -1134,19 +1102,19 @@ now have their rematch teams with modifications
     - mon1: lvl 61 -> 72
         - EXPLOSION -> POSION JAB
         - ability: Aftermath
-        - ivs: 31, 31, 31, 31, 31, 31
+        
         - evs: 252, 252, 0, 4, 0, 0
         - nature: Jolly
     - mon2: lvl 63 -> 74
         - DOUBLE TEAM -> ENERGY BALL
         - SILVER WIND -> QUIVER DANCE
         - ability: Tinted lens
-        - ivs: 31, 31, 31, 31, 31, 31
+        
         - evs: 128, 0, 0, 252, 128, 0
         - nature: Timid
     - mon3: lvl 60 -> 71
         - ability: Dry skin
-        - ivs: 31, 31, 31, 31, 31, 31
+        
         - evs: 4, 252, 0, 252, 0, 0
         - nature: Jolly
     - mon4: lvl 62 -> 73
@@ -1155,7 +1123,7 @@ now have their rematch teams with modifications
         - SWAGGER -> DRAIN PUNCH
         - TOXIC -> BRUTAL SWING
         - ability: STICKY HOLD -> POISON TOUCH
-        - ivs: 31, 31, 31, 31, 31, 31
+        
         - evs: 252, 4, 252, 0, 0, 0
         - nature: Impish
     - mon5: lvl 64 -> 75
@@ -1163,12 +1131,12 @@ now have their rematch teams with modifications
         - FLY -> AIR SLASH
         - CROSS POISON -> SLUDGE BOMB
         - ability: Inner focus
-        - ivs: 31, 31, 31, 31, 31, 31
+        
         - evs: 4, 0, 0, 252, 252, 0
         - nature: Modest
     - mon6: lvl 62 -> 73
         - ability: Sticky Hold
-        - ivs: 31, 31, 31, 31, 31, 31
+        
         - evs: 252, 0, 4, 0, 0, 252
         - nature: Calm
 
@@ -1176,19 +1144,19 @@ now have their rematch teams with modifications
     - mon1: lvl 62 -> 74
         - QUICK ATTACK -> BRUTAL SWING
         - ability: Intimidate
-        - ivs: 31, 31, 31, 31, 31, 31
+        
         - evs: 252, 252, 4, 0, 0, 0
         - nature: Adamant
     - mon2: lvl 61 -> 73
         - SWAGGER -> ROCK SLIDE
         - REVERSAL -> POISON JAB
         - ability: Limber
-        - ivs: 31, 31, 31, 31, 31, 31
+        
         - evs: 4, 252, 0, 252, 0, 0
         - nature: Jolly
     - mon3: lvl 61 -> 73
         - ability: Iron fist
-        - ivs: 31, 31, 31, 31, 31, 31
+        
         - evs: 252, 252, 0, 0, 0,4
         - nature: Adamant
     - mon4: lvl 62 -> 74
@@ -1197,7 +1165,7 @@ now have their rematch teams with modifications
         - BULK UP -> BELLY DRUM
         - item: Sitrus berry
         - ability: Thick fat
-        - ivs: 31, 31, 31, 31, 31, 31
+        
         - evs: 252, 252, 0, 0, 0, 4
         - nature: Careful
     - mon5: lvl 64 -> 76
@@ -1206,7 +1174,7 @@ now have their rematch teams with modifications
         - DYNAMIC PUNCH -> BRICK BREAK
         - item: Flame orb
         - ability: Guts
-        - ivs: 31, 31, 31, 31, 31, 31
+        
         - evs: 252, 252, 0, 0, 0, 4
         - nature: Adamant
     - mon6: lvl 64 -> 76
@@ -1214,7 +1182,7 @@ now have their rematch teams with modifications
         - COUNTER -> SHADOW BALL
         - IRON TAIL -> FLASH CANNON
         - ability: STEADFAST
-        - ivs: 31, 31, 31, 31, 31, 31
+        
         - evs: 4, 0, 0, 252, 252, 0
         - nature: TIMID
 
@@ -1223,53 +1191,53 @@ now have their rematch teams with modifications
         - WHIRLWIND -> TAILWIND
         - SUCKER PUNCH -> NIGHT SLASH
         - ability: Insomnia
-        - ivs: 31, 31, 31, 31, 31, 31
+        
         - evs: 252, 4, 0, 252, 0, 0
         - nature: Jolly
     - mon2: lvl 62 -> 74
         - ability: Pressure
-        - ivs: 31, 31, 31, 31, 31, 31
+        
         - evs: 252, 0, 128, 0, 0, 128
         - nature: Sassy
     - mon3: lvl 62 -> 75
         - ability: Super luck
-        - ivs: 31, 31, 31, 31, 31, 31
+        
         - evs: 4, 252, 0, 252, 0, 0
         - nature: Jolly
     - mon4: Honchcrow -> Weavile, lvl 64 -> 76
         - NIGHT SLASH -> PAYBACK
         - ICE PUNCH -> AVALANCHE
         - ability: pressure -> technician
-        - ivs: 31, 31, 31, 31, 31, 31
+        
         - evs: 4, 252, 0, 252, 0, 0
         - nature: Adamant
     - mon5: lvl 63 -> 75
         - ability: Flash fire
-        - ivs: 31, 31, 31, 31, 31, 31
+        
         - evs: 4, 0, 0, 252, 252, 0
         - nature: Timid
     - mon6: lvl 64 -> 77
         - ability: Synchronize
-        - ivs: 31, 31, 31, 31, 31, 31
+        
         - evs: 252, 252, 4, 0, 0, 0
         - nature: Adamant
 
 - Lance: lvl total 428 -> 468
     - mon1: lvl 72 -> 78
         - ability: Intimidate
-        - ivs: 31, 31, 31, 31, 31, 31
+        
         - evs: 0, 200, 0, 252, 56
         - nature: Hasty
     - mon2: lvl 68 -> 76
         - THUNDER WAVE -> CRUNCH
         - ability: Intimidate
-        - ivs: 31, 31, 31, 31, 31, 31
+        
         - evs: 4, 252, 0, 252, 0, 0
         - nature: Jolly
     - mon3: lvl 72 -> 78
         - ROAR -> IRON HEAD
         - ability: Rough Skin
-        - ivs: 31, 31, 31, 31, 31, 31
+        
         - evs: 4, 252, 0, 252, 0, 0
         - nature: Jolly
     - mon4: lvl 73 -> 79
@@ -1277,12 +1245,12 @@ now have their rematch teams with modifications
         - DOUBLE TEAM -> FLAMETHROWER
         - HYPER BEAM -> HYPER VOICE
         - ability: Natural cure
-        - ivs: 31, 31, 31, 31, 31, 31
+        
         - evs: 4, 0, 0, 252, 252, 0
         - nature: Timid
     - mon5: lvl 68 -> 76
         - ability: Blaze
-        - ivs: 31, 31, 31, 31, 31, 31
+        
         - evs: 4, 0, 0, 252, 252, 0
         - nature: Timid 
     - mon6: lvl 75 -> 81
@@ -1291,39 +1259,39 @@ now have their rematch teams with modifications
         - DRACO METEOR -> DRAGON CLAW
         - HYPER BEAM -> EARTHQUAKE
         - ability: Multiscale
-        - ivs: 31, 31, 31, 31, 31, 31
+        
         - evs: 4, 252, 0, 252, 0, 0
         - nature: Adamant
 
 #### Red
 - mon1:
     - ability: Static
-    - ivs: 31, 31, 31, 31, 31, 31
+    
     - evs: 4, 252, 0, 252, 0, 0
     - nature: Adamant
 - mon2:
     - ability: Shell armor
-    - ivs: 31, 31, 31, 31, 31, 31
+    
     - evs: 252, 0, 128, 0, 128, 0
     - nature: Modest
 - mon3:
     - ability: Thick fat
-    - ivs: 31, 31, 31, 31, 31, 31
+    
     - evs: 252, 252, 4, 0 , 0, 0
     - nature: Brave
 - mon4:
     - ability: Overgrow
-    - ivs: 31, 31, 31, 31, 31, 31
+    
     - evs: 252, 0, 0, 0, 128, 128
     - nature: Timid
 - mon5:
     - ability: Blaze
-    - ivs: 31, 31, 31, 31, 31, 31
+    
     - evs: 4, 0, 0, 252, 252, 0
     - nature: Timid
 - mon6:
     - ability: Torrent
-    - ivs: 31, 31, 31, 31, 31, 31
+    
     - evs: 252, 0, 100, 0, 100, 56
     - nature: Modest
     
