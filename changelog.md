@@ -59,14 +59,8 @@ ground item script x is script x+1 in file 141 in DSPRE
 
 - max repel on route 44 with something
 - revive on route 45 with something
-- x-speed on route 46 with something   
-
-- Potion in ruins of alph
-- ?Oran berry in ruins of alph Upper right (requires 1 escape rope)?
-- ?heal powder in ruins of alph lower right 2 (requires surf and flash)?
+- x-speed on route 46 with something
 - ?energy root in ruins of alph lower right 2 (requires surf and flash)?
-- ?charcoal in ruins of alph upper left 2 (requires surf and Ho-oh)?
-- ?mystic water in ruins of alph lower left 2 (requires surf, strength and water stone)?
 - ?Stardust in ruins of alph lower left 2 (requires surf, strength and water stone)?
 - ?Star piece in ruins of alph lower left 2 (requires surf, strength and water stone)?
 
@@ -248,16 +242,26 @@ all tm- and tutorlearnsets may need revisions
 - OLD ROD: now given by npc in Cherrygrove
 - SUPER ROD: now also given by Fisherman in Blackthorn city
 - ODD INCENSE: now also given by Mr Psychic in Saffron instead of Psychic tm
-- ABILITY PATCH: given by leader Blue, replacing TM77 in Viridian forest, replacing TM35 on Route 28, replacing MAX REVIVE on Route 44
+- ABILITY PATCH: 
+    - given by leader Blue, 
+    - replacing TM77 in Viridian forest, replacing TM35 on Route 28, replacing MAX REVIVE on Route 44, 
+    - Replacing Rare Candy: in Whirl Islands(ledge overlooking waterfall), on Mt Mortar 2f, 3f of Victory Road
 - ROCKY HELMET: Given by brock
 - ROSELI BERRY, KEE BERRY, and MARANGA BERRY: given by Erika
-- ABILITY CAPSULE: 3 given by Janine. Sold in Goldenrod Dept. store.
+- ABILITY CAPSULE: 
+    - 3 given by Janine. 
+    - Sold in Goldenrod Dept. store.
+    - Replacing Candy at: route 27, Bell Tower, Olivine Lighthouse,
 - ADAMANT MINT: replacing POTION on Route 29
 - MODEST MINT: Replacing ANTIDOTE on Route 30
 - CHERI BERRY: 5x replacing POTION on Route 30
 - RAWST BERRY: 5x replacing POTION on Route 31
 - IMPISH MINT: Given by man on Route 32 after beating Falkner
 - CALM MINT: Given by man on Route 32 after beating Falkner
+- BOLD MINT: Replaces Oran Berry in Ruins of Alph (requires escape rope)
+- CAREFUL MINT: Replaces Pecha Berry in Ruins of Alph (requires escape rope)
+- Jolly Mint: Replaces Rare Candy in Violet City
+- Timid Mint: Replaces Heal Powder in Ruins of Alph(Requires Surf + Flash)
 - ESCAPE ROPE: 2x replaces PARLYZ HEAL on 1F of Sprout Tower
 - REPEL: 3x replaces X-ACCURACY on 2F of Sprout Tower
 - GREAT BALL: replaces POTION on 3F of Sprout Tower
@@ -269,6 +273,9 @@ all tm- and tutorlearnsets may need revisions
 - PERSIM BERRY: 5x replaces X-Defense in Union Cave B1f
 - PIXIE PLATE: Replaces X-ATTACK in Ilex Forest
 - MAX REVIVE: replaces ULTRA BALL on Route 44
+- HP up: Replaces Potion in Ruins of Alph
+- Carbos: Replacs Mystic Water in Ruins of Alph
+- Fire Stone: Replaces Charcoal in Ruins of Alph (Requires Ho-oh)
 
 #### TMs
 - TM05: ROAR -> DEFOG
