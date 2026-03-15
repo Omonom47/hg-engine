@@ -552,7 +552,7 @@ trainerdata 17, "Kenji"
         // mon 0
         ivs 30
         abilityslot 0
-        level 37
+        level 40
         pokemon SPECIES_MACHOKE
         ballseal 0
     endparty
@@ -3781,7 +3781,7 @@ trainerdata 108, "Ryan"
         // mon 0
         ivs 50
         abilityslot 0
-        level 36
+        level 41
         pokemon SPECIES_PIDGEOT
         move MOVE_TWISTER
         move MOVE_QUICK_ATTACK
@@ -3792,7 +3792,7 @@ trainerdata 108, "Ryan"
         // mon 1
         ivs 50
         abilityslot 0
-        level 36
+        level 41
         pokemon SPECIES_ELECTABUZZ
         move MOVE_THUNDER_PUNCH
         move MOVE_LIGHT_SCREEN
@@ -4195,21 +4195,21 @@ trainerdata 121, "Kelly"
         // mon 0
         ivs 50
         abilityslot 0
-        level 35
+        level 40
         pokemon SPECIES_AZUMARILL
         ballseal 0
 
         // mon 1
         ivs 50
         abilityslot 0
-        level 36
+        level 40
         pokemon SPECIES_BLASTOISE
         ballseal 0
 
         // mon 2
         ivs 50
         abilityslot 0
-        level 35
+        level 39
         pokemon SPECIES_WARTORTLE
         ballseal 0
     endparty
@@ -4871,21 +4871,21 @@ trainerdata 143, "Erik"
         // mon 0
         ivs 0
         abilityslot 0
-        level 35
+        level 38
         pokemon SPECIES_MACHOKE
         ballseal 0
 
         // mon 1
         ivs 0
         abilityslot 32
-        level 35
+        level 38
         pokemon SPECIES_GRAVELER
         ballseal 0
 
         // mon 2
         ivs 0
         abilityslot 0
-        level 35
+        level 38
         pokemon SPECIES_MACHOKE
         ballseal 0
     endparty
@@ -4906,21 +4906,21 @@ trainerdata 144, "Michael"
         // mon 0
         ivs 0
         abilityslot 32
-        level 35
+        level 37
         pokemon SPECIES_GRAVELER
         ballseal 0
 
         // mon 1
         ivs 0
         abilityslot 32
-        level 35
+        level 37
         pokemon SPECIES_GRAVELER
         ballseal 0
 
         // mon 2
         ivs 0
         abilityslot 32
-        level 35
+        level 37
         pokemon SPECIES_GOLEM
         ballseal 0
     endparty
@@ -4941,7 +4941,7 @@ trainerdata 145, "Parry"
         // mon 0
         ivs 0
         abilityslot 0
-        level 37
+        level 40
         pokemon SPECIES_ONIX
         ballseal 0
     endparty
@@ -4962,7 +4962,7 @@ trainerdata 146, "Timothy"
         // mon 0
         ivs 0
         abilityslot 0
-        level 35
+        level 38
         pokemon SPECIES_DUGTRIO
         move MOVE_EARTH_POWER
         move MOVE_DIG
@@ -4973,7 +4973,7 @@ trainerdata 146, "Timothy"
         // mon 1
         ivs 0
         abilityslot 0
-        level 35
+        level 38
         pokemon SPECIES_DUGTRIO
         move MOVE_EARTH_POWER
         move MOVE_DIG
@@ -8340,29 +8340,29 @@ trainerdata 250, "Kenji"
         // mon 0
         ivs 30
         abilityslot 0
-        level 27
+        level 40
         pokemon SPECIES_ONIX
         ballseal 0
 
         // mon 1
         ivs 30
         abilityslot 0
-        level 32
+        level 40
         pokemon SPECIES_HITMONLEE
         ballseal 0
 
         // mon 2
         ivs 30
         abilityslot 0
-        level 27
+        level 40
         pokemon SPECIES_ONIX
         ballseal 0
 
         // mon 3
         ivs 30
         abilityslot 0
-        level 32
-        pokemon SPECIES_MACHOKE
+        level 45
+        pokemon SPECIES_MACHAMP
         ballseal 0
     endparty
 
@@ -10220,28 +10220,28 @@ trainerdata 278, "Kenji"
         // mon 0
         ivs 30
         abilityslot 0
-        level 30
+        level 45
         pokemon SPECIES_ONIX
         ballseal 0
 
         // mon 1
         ivs 30
         abilityslot 0
-        level 37
+        level 49
         pokemon SPECIES_MACHAMP
         ballseal 0
 
         // mon 2
         ivs 30
         abilityslot 0
-        level 33
+        level 45
         pokemon SPECIES_ONIX
         ballseal 0
 
         // mon 3
         ivs 30
         abilityslot 0
-        level 41
+        level 45
         pokemon SPECIES_HITMONLEE
         ballseal 0
     endparty
@@ -15851,14 +15851,14 @@ trainerdata 451, "Parry"
         // mon 0
         ivs 0
         abilityslot 0
-        level 38
-        pokemon SPECIES_ONIX
+        level 45
+        pokemon SPECIES_STEELIX
         ballseal 0
 
         // mon 1
         ivs 0
         abilityslot 0
-        level 35
+        level 40
         pokemon SPECIES_GRAVELER
         ballseal 0
     endparty
@@ -15879,15 +15879,15 @@ trainerdata 452, "Parry"
         // mon 0
         ivs 0
         abilityslot 0
-        level 41
+        level 48
         pokemon SPECIES_STEELIX
         ballseal 0
 
         // mon 1
         ivs 0
         abilityslot 0
-        level 37
-        pokemon SPECIES_GRAVELER
+        level 48
+        pokemon SPECIES_GOLEM
         ballseal 0
     endparty
 
@@ -21058,28 +21058,28 @@ trainerdata 605, "Kenji"
         // mon 0
         ivs 30
         abilityslot 0
-        level 41
+        level 50
         pokemon SPECIES_ONIX
         ballseal 0
 
         // mon 1
         ivs 30
         abilityslot 0
-        level 53
+        level 55
         pokemon SPECIES_MACHAMP
         ballseal 0
 
         // mon 2
         ivs 30
         abilityslot 0
-        level 49
-        pokemon SPECIES_ONIX
+        level 50
+        pokemon SPECIES_STEELIX
         ballseal 0
 
         // mon 3
         ivs 30
         abilityslot 0
-        level 53
+        level 55
         pokemon SPECIES_HITMONLEE
         ballseal 0
     endparty
@@ -21107,7 +21107,7 @@ trainerdata 606, "Parry"
         // mon 1
         ivs 0
         abilityslot 0
-        level 52
+        level 56
         pokemon SPECIES_GOLEM
         ballseal 0
     endparty
