@@ -2692,6 +2692,6 @@
 
 // define your custom move effects below like this
 // .equ ITEM_CUSTOM_1, (MAX_BASE_ITEM_NUM + 1)
-.equ ITEM_INFINITE_CANDY, (MAX_BASE_ITEM_NUM + 1)
+.equ ITEM_INFINITE_RARE_CANDY, 2685
 
 .endif

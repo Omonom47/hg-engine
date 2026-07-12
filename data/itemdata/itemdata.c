@@ -174538,7 +174538,7 @@ const ITEMDATA __data[] =
 
 //Custom items
 
-[ITEM_INFINITE_CANDY] =
+[ITEM_INFINITE_RARE_CANDY] =
 {
     .price = 0,
     .holdEffect = 0,

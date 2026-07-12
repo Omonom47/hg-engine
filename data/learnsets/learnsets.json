@@ -40482,36 +40482,24 @@
         "Move": "MOVE_WING_ATTACK"
       },
       {
-        "Level": 12,
+        "Level": 15,
         "Move": "MOVE_WATER_PULSE"
       },
       {
-        "Level": 16,
-        "Move": "MOVE_WIDE_GUARD"
-      },
-      {
-        "Level": 20,
-        "Move": "MOVE_AGILITY"
-      },
-      {
-        "Level": 24,
-        "Move": "MOVE_BUBBLE_BEAM"
-      },
-      {
-        "Level": 28,
-        "Move": "MOVE_HEADBUTT"
-      },
-      {
-        "Level": 32,
+        "Level": 21,
         "Move": "MOVE_AIR_SLASH"
+      },
+      {
+        "Level": 25,
+        "Move": "MOVE_AGILITY"
       },
       {
         "Level": 36,
         "Move": "MOVE_AQUA_RING"
       },
       {
-        "Level": 40,
-        "Move": "MOVE_BOUNCE"
+        "Level": 37,
+        "Move": "MOVE_HYDRO_PUMP"
       },
       {
         "Level": 44,
@@ -71870,7 +71858,6 @@
       "MOVE_ENERGY_BALL",
       "MOVE_FACADE",
       "MOVE_FLASH",
-      "MOVE_FLASH_CANNON",
       "MOVE_FRUSTRATION",
       "MOVE_GIGA_DRAIN",
       "MOVE_GIGA_IMPACT",

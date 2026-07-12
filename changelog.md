@@ -1,3 +1,6 @@
+## Current latest version
+0_9
+
 ## Tutorials, tools, general good to knows and docs
 https://www.youtube.com/watch?v=JBis6l0GQOs&list=PLxQnhmMQpMGmKz1fOalSuAyCnXz_-sS5f
 DSPRE scripting commands: https://docs.google.com/spreadsheets/d/1rcrCz9Y5HXdD9vVSmkACX19I9Jid4dzFTD0PXaIDg2w/edit?gid=1273858621#gid=1273858621 
@@ -72,10 +75,7 @@ ground item script x is script x+1 in file 141 in DSPRE
 - make available without pokewalker:
 	- ?LIGH BALL?
 
-    
-### Moves
-
-infestation is not yet implemented, either remove it from learnsets or implement it
+  
 
 ### Encounters
 most surf and fishing encounters will be rebalanced/changed
