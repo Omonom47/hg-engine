@@ -197,7 +197,6 @@ all tm- and tutorlearnsets may need revisions
 ### Moves
 - Wild charge:
     - power 90 -> 100
-    - RECOIL_THIRD -> RECOIL_QUARTER
 - Brutal swing
     - power: 60 -> 90
     - pp: 20 -> 15
