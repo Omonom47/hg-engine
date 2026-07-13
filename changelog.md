@@ -1321,9 +1321,17 @@ Rock smash encounter rates per slot are : 90, 10
 - New Bark Town: increased rate of Shellder, now encounterable with old rod
 - Cherrygrove city: Replace Corsola with Qwilfish, make Qwilfish & Kinlger more likely to, Qwilfish available with old rod
 - route 30: grass and surf
+    - Replaces Poliwag with Corsola and Azurill by fishing
 - route 31: grass and surf
+    - Remove Magikarp as fishing encounter
+    - Adds Azurill and Goldeen for old and super rod 
+    - Adds Marill and Seaking as Good rod encounters
 - violet city: surf lvls
+    - Makes Remoraid and Mantyke Encounterable by fishing
+    - Greatly decrease chance of landing a Magikarp by fishing
 - route 32: grass
+- Ruins of Alph:
+    - Replaces Poliwag and Magikarp with Goldeen, Psyduck, and Omanyte as fishing encounters
 - Union cave: walking, Phanpy replaces zubat on b1f in the two 10% slots
 - route 33: grass
 - ilex forest: walking and headbutt

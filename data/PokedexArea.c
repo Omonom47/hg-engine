@@ -3353,6 +3353,7 @@ static const u32 sPokedexAreaRoutesAndCitiesSpecial_Persian[] =
 
 static const u32 sPokedexAreaSpecialAreasMorning_Psyduck[] =
 {
+    DEX_RUINS_OF_ALPH,
     DEX_ILEX_FOREST,
     DEX_SEAFOAM_ISLANDS,
     DEX_CERULEAN_CAVE,
@@ -3361,6 +3362,7 @@ static const u32 sPokedexAreaSpecialAreasMorning_Psyduck[] =
 
 static const u32 sPokedexAreaSpecialAreasDay_Psyduck[] =
 {
+    DEX_RUINS_OF_ALPH,
     DEX_ILEX_FOREST,
     DEX_SEAFOAM_ISLANDS,
     DEX_CERULEAN_CAVE,
@@ -3369,6 +3371,7 @@ static const u32 sPokedexAreaSpecialAreasDay_Psyduck[] =
 
 static const u32 sPokedexAreaSpecialAreasNight_Psyduck[] =
 {
+    DEX_RUINS_OF_ALPH,
     DEX_ILEX_FOREST,
     DEX_SEAFOAM_ISLANDS,
     DEX_CERULEAN_CAVE,
@@ -3653,7 +3656,6 @@ static const u32 sPokedexAreaRoutesAndCitiesSpecial_Arcanine[] =
 
 static const u32 sPokedexAreaSpecialAreasMorning_Poliwag[] =
 {
-    DEX_RUINS_OF_ALPH,
     DEX_ILEX_FOREST,
     DEX_MT_MOON,
     DEX_CLIFF_EDGE_GATE,
@@ -3663,7 +3665,6 @@ static const u32 sPokedexAreaSpecialAreasMorning_Poliwag[] =
 
 static const u32 sPokedexAreaSpecialAreasDay_Poliwag[] =
 {
-    DEX_RUINS_OF_ALPH,
     DEX_ILEX_FOREST,
     DEX_MT_MOON,
     DEX_CLIFF_EDGE_GATE,
@@ -3673,7 +3674,6 @@ static const u32 sPokedexAreaSpecialAreasDay_Poliwag[] =
 
 static const u32 sPokedexAreaSpecialAreasNight_Poliwag[] =
 {
-    DEX_RUINS_OF_ALPH,
     DEX_ILEX_FOREST,
     DEX_MT_MOON,
     DEX_CLIFF_EDGE_GATE,
@@ -6682,6 +6682,7 @@ static const u32 sPokedexAreaSpecialAreasNight_Goldeen[] =
 
 static const u32 sPokedexAreaRoutesAndCitiesMorning_Goldeen[] =
 {
+    DEX_ROUTE_31,
     DEX_ROUTE_42,
     DEX_CERULEAN_CITY,
     DEX_ROUTE_4,
@@ -6694,6 +6695,7 @@ static const u32 sPokedexAreaRoutesAndCitiesMorning_Goldeen[] =
 
 static const u32 sPokedexAreaRoutesAndCitiesDay_Goldeen[] =
 {
+    DEX_ROUTE_31,
     DEX_ROUTE_42,
     DEX_CERULEAN_CITY,
     DEX_ROUTE_4,
@@ -6706,6 +6708,7 @@ static const u32 sPokedexAreaRoutesAndCitiesDay_Goldeen[] =
 
 static const u32 sPokedexAreaRoutesAndCitiesNight_Goldeen[] =
 {
+    DEX_ROUTE_31,
     DEX_ROUTE_42,
     DEX_CERULEAN_CITY,
     DEX_ROUTE_4,
@@ -6761,6 +6764,7 @@ static const u32 sPokedexAreaSpecialAreasNight_Seaking[] =
 
 static const u32 sPokedexAreaRoutesAndCitiesMorning_Seaking[] =
 {
+    DEX_ROUTE_31,
     DEX_ROUTE_42,
     DEX_CERULEAN_CITY,
     DEX_ROUTE_4,
@@ -6773,6 +6777,7 @@ static const u32 sPokedexAreaRoutesAndCitiesMorning_Seaking[] =
 
 static const u32 sPokedexAreaRoutesAndCitiesDay_Seaking[] =
 {
+    DEX_ROUTE_31,
     DEX_ROUTE_42,
     DEX_CERULEAN_CITY,
     DEX_ROUTE_4,
@@ -6785,6 +6790,7 @@ static const u32 sPokedexAreaRoutesAndCitiesDay_Seaking[] =
 
 static const u32 sPokedexAreaRoutesAndCitiesNight_Seaking[] =
 {
+    DEX_ROUTE_31,
     DEX_ROUTE_42,
     DEX_CERULEAN_CITY,
     DEX_ROUTE_4,
@@ -7204,7 +7210,6 @@ static const u32 sPokedexAreaRoutesAndCitiesSpecial_Tauros[] =
 
 static const u32 sPokedexAreaSpecialAreasMorning_Magikarp[] =
 {
-    DEX_RUINS_OF_ALPH,
     DEX_UNION_CAVE,
     DEX_SLOWPOKE_WELL,
     DEX_ILEX_FOREST,
@@ -7223,7 +7228,6 @@ static const u32 sPokedexAreaSpecialAreasMorning_Magikarp[] =
 
 static const u32 sPokedexAreaSpecialAreasDay_Magikarp[] =
 {
-    DEX_RUINS_OF_ALPH,
     DEX_UNION_CAVE,
     DEX_SLOWPOKE_WELL,
     DEX_ILEX_FOREST,
@@ -7242,7 +7246,6 @@ static const u32 sPokedexAreaSpecialAreasDay_Magikarp[] =
 
 static const u32 sPokedexAreaSpecialAreasNight_Magikarp[] =
 {
-    DEX_RUINS_OF_ALPH,
     DEX_UNION_CAVE,
     DEX_SLOWPOKE_WELL,
     DEX_ILEX_FOREST,
@@ -7264,7 +7267,6 @@ static const u32 sPokedexAreaRoutesAndCitiesMorning_Magikarp[] =
     DEX_NEW_BARK_TOWN,
     DEX_CHERRYGROVE_CITY,
     DEX_ROUTE_30,
-    DEX_ROUTE_31,
     DEX_VIOLET_CITY,
     DEX_ROUTE_32,
     DEX_ROUTE_34,
@@ -7309,7 +7311,6 @@ static const u32 sPokedexAreaRoutesAndCitiesDay_Magikarp[] =
     DEX_NEW_BARK_TOWN,
     DEX_CHERRYGROVE_CITY,
     DEX_ROUTE_30,
-    DEX_ROUTE_31,
     DEX_VIOLET_CITY,
     DEX_ROUTE_32,
     DEX_ROUTE_34,
@@ -7354,7 +7355,6 @@ static const u32 sPokedexAreaRoutesAndCitiesNight_Magikarp[] =
     DEX_NEW_BARK_TOWN,
     DEX_CHERRYGROVE_CITY,
     DEX_ROUTE_30,
-    DEX_ROUTE_31,
     DEX_VIOLET_CITY,
     DEX_ROUTE_32,
     DEX_ROUTE_34,
@@ -7758,16 +7758,19 @@ static const u32 sPokedexAreaRoutesAndCitiesSpecial_Porygon[] =
 
 static const u32 sPokedexAreaSpecialAreasMorning_Omanyte[] =
 {
+    DEX_RUINS_OF_ALPH,
     DEX_END_AREA_DATA,
 };
 
 static const u32 sPokedexAreaSpecialAreasDay_Omanyte[] =
 {
+    DEX_RUINS_OF_ALPH,
     DEX_END_AREA_DATA,
 };
 
 static const u32 sPokedexAreaSpecialAreasNight_Omanyte[] =
 {
+    DEX_RUINS_OF_ALPH,
     DEX_END_AREA_DATA,
 };
 
@@ -9778,16 +9781,19 @@ static const u32 sPokedexAreaSpecialAreasNight_Marill[] =
 
 static const u32 sPokedexAreaRoutesAndCitiesMorning_Marill[] =
 {
+    DEX_ROUTE_31,
     DEX_END_AREA_DATA,
 };
 
 static const u32 sPokedexAreaRoutesAndCitiesDay_Marill[] =
 {
+    DEX_ROUTE_31,
     DEX_END_AREA_DATA,
 };
 
 static const u32 sPokedexAreaRoutesAndCitiesNight_Marill[] =
 {
+    DEX_ROUTE_31,
     DEX_END_AREA_DATA,
 };
 
@@ -11540,6 +11546,7 @@ static const u32 sPokedexAreaSpecialAreasNight_Corsola[] =
 static const u32 sPokedexAreaRoutesAndCitiesMorning_Corsola[] =
 {
     DEX_CHERRYGROVE_CITY,
+    DEX_ROUTE_30,
     DEX_ROUTE_34,
     DEX_OLIVINE_CITY,
     DEX_ROUTE_40,
@@ -11551,6 +11558,7 @@ static const u32 sPokedexAreaRoutesAndCitiesMorning_Corsola[] =
 static const u32 sPokedexAreaRoutesAndCitiesDay_Corsola[] =
 {
     DEX_CHERRYGROVE_CITY,
+    DEX_ROUTE_30,
     DEX_ROUTE_34,
     DEX_OLIVINE_CITY,
     DEX_ROUTE_40,
@@ -11591,6 +11599,7 @@ static const u32 sPokedexAreaSpecialAreasNight_Remoraid[] =
 
 static const u32 sPokedexAreaRoutesAndCitiesMorning_Remoraid[] =
 {
+    DEX_VIOLET_CITY,
     DEX_ROUTE_42,
     DEX_ROUTE_43,
     DEX_ROUTE_44,
@@ -11600,6 +11609,7 @@ static const u32 sPokedexAreaRoutesAndCitiesMorning_Remoraid[] =
 
 static const u32 sPokedexAreaRoutesAndCitiesDay_Remoraid[] =
 {
+    DEX_VIOLET_CITY,
     DEX_ROUTE_42,
     DEX_ROUTE_43,
     DEX_ROUTE_44,
@@ -11609,6 +11619,7 @@ static const u32 sPokedexAreaRoutesAndCitiesDay_Remoraid[] =
 
 static const u32 sPokedexAreaRoutesAndCitiesNight_Remoraid[] =
 {
+    DEX_VIOLET_CITY,
     DEX_ROUTE_42,
     DEX_ROUTE_43,
     DEX_ROUTE_44,
@@ -14752,16 +14763,22 @@ static const u32 sPokedexAreaSpecialAreasNight_Azurill[] =
 
 static const u32 sPokedexAreaRoutesAndCitiesMorning_Azurill[] =
 {
+    DEX_ROUTE_30,
+    DEX_ROUTE_31,
     DEX_END_AREA_DATA,
 };
 
 static const u32 sPokedexAreaRoutesAndCitiesDay_Azurill[] =
 {
+    DEX_ROUTE_30,
+    DEX_ROUTE_31,
     DEX_END_AREA_DATA,
 };
 
 static const u32 sPokedexAreaRoutesAndCitiesNight_Azurill[] =
 {
+    DEX_ROUTE_30,
+    DEX_ROUTE_31,
     DEX_END_AREA_DATA,
 };
 
@@ -21342,16 +21359,19 @@ static const u32 sPokedexAreaSpecialAreasNight_Mantyke[] =
 
 static const u32 sPokedexAreaRoutesAndCitiesMorning_Mantyke[] =
 {
+    DEX_VIOLET_CITY,
     DEX_END_AREA_DATA,
 };
 
 static const u32 sPokedexAreaRoutesAndCitiesDay_Mantyke[] =
 {
+    DEX_VIOLET_CITY,
     DEX_END_AREA_DATA,
 };
 
 static const u32 sPokedexAreaRoutesAndCitiesNight_Mantyke[] =
 {
+    DEX_VIOLET_CITY,
     DEX_END_AREA_DATA,
 };
 
