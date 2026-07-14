@@ -1,5 +1,5 @@
 ## Current latest version
-0_10.1 (made by hge)
+0_10.2 (dspre)
 
 ## Tutorials, tools, general good to knows and docs
 https://www.youtube.com/watch?v=JBis6l0GQOs&list=PLxQnhmMQpMGmKz1fOalSuAyCnXz_-sS5f
@@ -149,6 +149,7 @@ all tm- and tutorlearnsets may need revisions
 - 843 (elms lab)
 - 845 (Player home)
 - 850 (Cherrygrove)
+- 859 (Violet gym)
 - 869 (azalea gym)
 - 877 (Cianwood gym)
 - 886 (Goldenrod Gym)
